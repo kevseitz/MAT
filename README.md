@@ -6,4 +6,4 @@ Scope: Master's thesis
 
 Chair: Data and Web Science Group
 
-Date: July 2022
+Date: Feb - July 2022
