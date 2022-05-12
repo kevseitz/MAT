@@ -13,3 +13,4 @@ data/DBpedia_databus/.instance-types_lang=en_transitive.ttl.bz2.icloud
 data/DBpedia_databus/.instance-types_lang=en_specific.ttl.icloud
 data/DBpedia_databus/.instance-types_lang=en_specific.ttl.bz2.icloud
 data/DBpedia_databus/mappingbased-objects_instance-types.ttl
+data/df_pr.csv
