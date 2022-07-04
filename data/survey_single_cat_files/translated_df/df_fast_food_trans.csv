@@ -1,0 +1,319 @@
+fast_food;p_age;p_gender;p_education;p_country;p_id
+french fries;26;Male;Bachelor's degree;germany;0
+hamburger;26;Male;Bachelor's degree;germany;0
+pizza;26;Male;Bachelor's degree;germany;0
+hamburger;44;Male;Doctorate (e.g. PhD);germany;1
+pizza;44;Male;Doctorate (e.g. PhD);germany;1
+french fries;44;Male;Doctorate (e.g. PhD);germany;1
+hamburger;46;Male;Bachelor's degree;france;2
+poutine;46;Male;Bachelor's degree;france;2
+hot dog;46;Male;Bachelor's degree;france;2
+hamburger;28;Male;Master's degree;germany;3
+french fries;28;Male;Master's degree;germany;3
+pizza;28;Male;Master's degree;germany;3
+french fries;34;Female;Master's degree;switzerland;4
+hamburger;34;Female;Master's degree;switzerland;4
+nuggets;34;Female;Master's degree;switzerland;4
+hamburger;27;Male;Bachelor's degree;germany;5
+sandwich;27;Male;Bachelor's degree;germany;5
+pizza;27;Male;Bachelor's degree;germany;5
+hamburger;27;Male;Master's degree;germany;6
+french fries;27;Male;Master's degree;germany;6
+kebab;27;Male;Master's degree;germany;6
+hamburger;27;Male;Master's degree;germany;7
+pizza;27;Male;Master's degree;germany;7
+asian;27;Male;Master's degree;germany;7
+citizen;28;Male;High school degree or equivalent;germany;8
+pizza;28;Male;High school degree or equivalent;germany;8
+chips;28;Male;High school degree or equivalent;germany;8
+pizza;29;Male;Master's degree;germany;9
+doner kebab;29;Male;Master's degree;germany;9
+currywurst;29;Male;Master's degree;germany;9
+hamburger;26;Male;Master's degree;germany;10
+falafel;26;Male;Master's degree;germany;10
+kebab;26;Male;Master's degree;germany;10
+hamburger;37;Male;Master's degree;germany;11
+pizza;37;Male;Master's degree;germany;11
+bratwurst;37;Male;Master's degree;germany;11
+hamburger;24;Male;Master's degree;germany;12
+kebab;24;Male;Master's degree;germany;12
+french fries;24;Male;Master's degree;germany;12
+hamburger;26;Female;Master's degree;germany;13
+pizza;26;Female;Master's degree;germany;13
+kebab;26;Female;Master's degree;germany;13
+french fries;26;Female;Master's degree;germany;14
+hamburger;26;Female;Master's degree;germany;14
+chick nuggets;26;Female;Master's degree;germany;14
+hamburger;28;Female;Doctorate (e.g. PhD);germany;15
+french fries;28;Female;Doctorate (e.g. PhD);germany;15
+onionrings;28;Female;Doctorate (e.g. PhD);germany;15
+hamburger;25;Male;NaN;germany;16
+french fries;25;Male;NaN;germany;16
+hamburger;31;Female;Master's degree;germany;17
+pizza;31;Female;Master's degree;germany;17
+sandwich;31;Female;Master's degree;germany;17
+hamburger;36;Male;Master's degree;germany;18
+pizza;36;Male;Master's degree;germany;18
+sandwich;36;Male;Master's degree;germany;18
+hamburger;27;Male;Master's degree;germany;19
+pizza;27;Male;Master's degree;germany;19
+hot dog;27;Male;Master's degree;germany;19
+pizza;33;Male;Doctorate (e.g. PhD);germany;20
+hamburger;33;Male;Doctorate (e.g. PhD);germany;20
+kebab;33;Male;Doctorate (e.g. PhD);germany;20
+hamburger;26;Male;Bachelor's degree;usa;21
+french fries;26;Male;Bachelor's degree;usa;21
+chicken sandwich;26;Male;Bachelor's degree;usa;21
+hamburger;44;Female;Doctorate (e.g. PhD);sweden;22
+hot dog;44;Female;Doctorate (e.g. PhD);sweden;22
+pizza;44;Female;Doctorate (e.g. PhD);sweden;22
+hamburger;26;Male;Bachelor's degree;germany;23
+wings;26;Male;Bachelor's degree;germany;23
+french fries;26;Male;Bachelor's degree;germany;23
+hamburger;27;Male;Bachelor's degree;nan;24
+pizza;27;Male;Bachelor's degree;nan;24
+chickenwings;27;Male;Bachelor's degree;nan;24
+pizza;23;Male;Bachelor's degree;germany;25
+hamburger;23;Male;Bachelor's degree;germany;25
+kebab;23;Male;Bachelor's degree;germany;25
+hamburger;22;Male;Bachelor's degree;germany;26
+pizza;22;Male;Bachelor's degree;germany;26
+taco;22;Male;Bachelor's degree;germany;26
+hamburger;25;Male;Bachelor's degree;germany;27
+kebab;25;Male;Bachelor's degree;germany;27
+sandwich;25;Male;Bachelor's degree;germany;27
+hamburger;27;Male;Master's degree;germany;28
+french fries;27;Male;Master's degree;germany;28
+chickenwings;27;Male;Master's degree;germany;28
+hamburger;30;Male;Bachelor's degree;usa;29
+taco;30;Male;Bachelor's degree;usa;29
+sandwich;30;Male;Bachelor's degree;usa;29
+hamburger;28;Male;Master's degree;germany;30
+sandwich;28;Male;Master's degree;germany;30
+pizza;38;Female;Doctorate (e.g. PhD);greece;31
+hamburger;38;Female;Doctorate (e.g. PhD);greece;31
+hot dog;38;Female;Doctorate (e.g. PhD);greece;31
+hamburger;28;Male;Master's degree;germany;32
+french fries;28;Male;Master's degree;germany;32
+wrap;28;Male;Master's degree;germany;32
+hamburger;26;Male;Bachelor's degree;germany;33
+hot dog;26;Male;Bachelor's degree;germany;33
+currywurst;26;Male;Bachelor's degree;germany;33
+cheeseburger;19;Male;High school degree or equivalent;germany;34
+french fries;19;Male;High school degree or equivalent;germany;34
+chick nuggets;19;Male;High school degree or equivalent;germany;34
+hamburger;25;Female;Bachelor's degree;germany;35
+hot dog;25;Female;Bachelor's degree;germany;35
+pizza;25;Female;Bachelor's degree;germany;35
+hamburger;24;Female;Master's degree;germany;36
+pizza;24;Female;Master's degree;germany;36
+sandwich;24;Female;Master's degree;germany;36
+hamburger;25;Male;Bachelor's degree;germany;37
+sushi;25;Male;Bachelor's degree;germany;37
+french fries;25;Male;Bachelor's degree;germany;37
+hamburger;64;Male;Doctorate (e.g. PhD);austria;38
+currywurst;64;Male;Doctorate (e.g. PhD);austria;38
+kebab;64;Male;Doctorate (e.g. PhD);austria;38
+hamburger;24;Male;Bachelor's degree;germany;39
+pizza;24;Male;Bachelor's degree;germany;39
+french fries;24;Male;Bachelor's degree;germany;39
+hamburger;31;Male;Bachelor's degree;germany;40
+kebab;31;Male;Bachelor's degree;germany;40
+pizza;31;Male;Bachelor's degree;germany;40
+pizza;25;Female;Bachelor's degree;germany;41
+hamburger;25;Female;Bachelor's degree;germany;41
+french fries;25;Female;Bachelor's degree;germany;41
+hamburger;28;Female;Bachelor's degree;germany;42
+pizza;28;Female;Bachelor's degree;germany;42
+french fries;28;Female;Bachelor's degree;germany;42
+hamburger;37;Female;Master's degree;germany;43
+pizza;37;Female;Master's degree;germany;43
+kebab;37;Female;Master's degree;germany;43
+sandwich;50;Female;High school degree or equivalent;germany;44
+hamburger;50;Female;High school degree or equivalent;germany;44
+kebab;50;Female;High school degree or equivalent;germany;44
+pizza;28;Female;High school degree or equivalent;germany;45
+french fries;28;Female;High school degree or equivalent;germany;45
+hamburger;28;Female;High school degree or equivalent;germany;45
+hamburger;31;Male;Bachelor's degree;germany;46
+pizza;31;Male;Bachelor's degree;germany;46
+kebab;31;Male;Bachelor's degree;germany;46
+hamburger;21;Female;High school degree or equivalent;germany;47
+hot dog;21;Female;High school degree or equivalent;germany;47
+french fries;21;Female;High school degree or equivalent;germany;47
+hamburger;23;Female;Bachelor's degree;germany;48
+french fries;23;Female;Bachelor's degree;germany;48
+milkshake;23;Female;Bachelor's degree;germany;48
+hamburger;36;Male;Bachelor's degree;india;49
+french fries;36;Male;Bachelor's degree;india;49
+samosa;36;Male;Bachelor's degree;india;49
+pizza;28;Female;Master's degree;romania;50
+pasta;28;Female;Master's degree;romania;50
+sushi;28;Female;Master's degree;romania;50
+pizza;19;Female;High school degree or equivalent;germany;51
+hamburger;19;Female;High school degree or equivalent;germany;51
+taco;19;Female;High school degree or equivalent;germany;51
+french fries;19;Female;High school degree or equivalent;germany;52
+hamburger;19;Female;High school degree or equivalent;germany;52
+kebab;19;Female;High school degree or equivalent;germany;52
+hamburger;25;Male;Bachelor's degree;germany;53
+french fries;25;Male;Bachelor's degree;germany;53
+tacos;25;Male;Bachelor's degree;germany;53
+french fries;34;Female;Master's degree;france;54
+hamburger;34;Female;Master's degree;france;54
+hot dog;34;Female;Master's degree;france;54
+french fries;20;Female;High school degree or equivalent;germany;55
+hamburger;20;Female;High school degree or equivalent;germany;55
+chick nuggets;20;Female;High school degree or equivalent;germany;55
+hamburger;26;Female;Master's degree;france;56
+kebab;29;Prefer not to say;Master's degree;germany;57
+ketwurst;29;Prefer not to say;Master's degree;germany;57
+currywurst;29;Prefer not to say;Master's degree;germany;57
+hamburger;31;Male;Master's degree;germany;58
+taco;31;Male;Master's degree;germany;58
+asian;31;Male;Master's degree;germany;58
+hamburger;23;Male;High school degree or equivalent;germany;59
+french fries;23;Male;High school degree or equivalent;germany;59
+pizza;23;Male;High school degree or equivalent;germany;59
+hamburger;21;Female;High school degree or equivalent;germany;60
+hot dog;21;Female;High school degree or equivalent;germany;60
+french fries;21;Female;High school degree or equivalent;germany;60
+pizza;54;Male;High school degree or equivalent;germany;61
+hamburger;54;Male;High school degree or equivalent;germany;61
+sushi;54;Male;High school degree or equivalent;germany;61
+hamburger;30;Female;Master's degree;france;62
+pizza;30;Female;Master's degree;france;62
+chips;30;Female;Master's degree;france;62
+hamburger;24;Male;Bachelor's degree;germany;63
+french fries;24;Male;Bachelor's degree;germany;63
+pizza;24;Male;Bachelor's degree;germany;63
+hamburger;17;Male;Less than a high school degree;germany;64
+fishandchips;17;Male;Less than a high school degree;germany;64
+french fries;17;Male;Less than a high school degree;germany;64
+hamburger;25;Female;High school degree or equivalent;germany;65
+kebab;25;Female;High school degree or equivalent;germany;65
+french fries;25;Female;High school degree or equivalent;germany;65
+french fries;16;Male;Less than a high school degree;germany;66
+hamburger;16;Male;Less than a high school degree;germany;66
+chick nuggets;16;Male;Less than a high school degree;germany;66
+hamburger;21;Male;High school degree or equivalent;germany;67
+french fries;21;Male;High school degree or equivalent;germany;67
+chick nuggets;21;Male;High school degree or equivalent;germany;67
+hamburger;0;Prefer not to say;NaN;nan;68
+french fries;0;Prefer not to say;NaN;nan;68
+hot dog;0;Prefer not to say;NaN;nan;68
+hamburger;24;Female;Master's degree;france;69
+kebab;26;Female;Master's degree;france;70
+hamburger;26;Female;Master's degree;france;70
+burrito;26;Female;Master's degree;france;70
+hamburger;34;Female;Master's degree;germany;71
+french fries;34;Female;Master's degree;germany;71
+pizza;34;Female;Master's degree;germany;71
+pizza;54;Male;Less than a high school degree;germany;72
+hamburger;54;Male;Less than a high school degree;germany;72
+taco;54;Male;Less than a high school degree;germany;72
+hamburger;23;Male;Bachelor's degree;germany;73
+kebab;23;Male;Bachelor's degree;germany;73
+hot dog;23;Male;Bachelor's degree;germany;73
+hamburger;27;Male;Master's degree;germany;74
+taco;27;Male;Master's degree;germany;74
+chick nuggets;27;Male;Master's degree;germany;74
+nachos;25;Male;Bachelor's degree;germany;75
+burrito;25;Male;Bachelor's degree;germany;75
+hamburger;25;Male;Bachelor's degree;germany;75
+hamburger;27;Female;Master's degree;germany;76
+french fries;27;Female;Master's degree;germany;76
+pizza;27;Female;Master's degree;germany;76
+taco;51;Male;High school degree or equivalent;germany;77
+pizza;51;Male;High school degree or equivalent;germany;77
+icecream;51;Male;High school degree or equivalent;germany;77
+hamburger;26;Male;High school degree or equivalent;germany;78
+pizza;26;Male;High school degree or equivalent;germany;78
+asian;26;Male;High school degree or equivalent;germany;78
+french fries;27;Male;Bachelor's degree;germany;79
+hamburger;27;Male;Bachelor's degree;germany;79
+pizza;27;Male;Bachelor's degree;germany;79
+hamburger;25;Male;Master's degree;germany;80
+pizza;25;Male;Master's degree;germany;80
+sandwich;25;Male;Master's degree;germany;80
+hamburger;25;Male;Bachelor's degree;germany;81
+sushi;25;Male;Bachelor's degree;germany;81
+taco;25;Male;Bachelor's degree;germany;81
+hamburger;21;Male;High school degree or equivalent;germany;82
+hot dog;21;Male;High school degree or equivalent;germany;82
+kebab;21;Male;High school degree or equivalent;germany;82
+hamburger;23;Female;Bachelor's degree;germany;83
+french fries;23;Female;Bachelor's degree;germany;83
+pizza;23;Female;Bachelor's degree;germany;83
+hamburger;28;Female;Master's degree;germany;84
+sandwich;28;Female;Master's degree;germany;84
+pizza;28;Female;Master's degree;germany;84
+hamburger;25;Female;Master's degree;germany;85
+french fries;25;Female;Master's degree;germany;85
+milkshake;25;Female;Master's degree;germany;85
+hamburger;25;Female;Bachelor's degree;russia;86
+kebab;25;Female;Bachelor's degree;russia;86
+falafel;25;Female;Bachelor's degree;russia;86
+pizza;24;Female;High school degree or equivalent;germany;87
+hamburger;24;Female;High school degree or equivalent;germany;87
+kebab;24;Female;High school degree or equivalent;germany;87
+hamburger;26;Male;Bachelor's degree;germany;88
+pizza;26;Male;Bachelor's degree;germany;88
+sushi;26;Male;Bachelor's degree;germany;88
+hamburger;27;Female;Master's degree;germany;89
+french fries;27;Female;Master's degree;germany;89
+chick nuggets;27;Female;Master's degree;germany;89
+hamburger;25;Male;Bachelor's degree;germany;90
+kebab;25;Male;Bachelor's degree;germany;90
+pizza;25;Male;Bachelor's degree;germany;90
+hamburger;25;Male;High school degree or equivalent;germany;91
+hot dog;25;Male;High school degree or equivalent;germany;91
+french fries;25;Male;High school degree or equivalent;germany;91
+hamburger;28;Male;High school degree or equivalent;germany;92
+pizza;28;Male;High school degree or equivalent;germany;92
+french fries;28;Male;High school degree or equivalent;germany;92
+currywurst;47;Female;Bachelor's degree;england;93
+hamburger;47;Female;Bachelor's degree;england;93
+kebab;47;Female;Bachelor's degree;england;93
+hamburger;38;Male;Bachelor's degree;germany;94
+cheeseburger;38;Male;Bachelor's degree;germany;94
+french fries;38;Male;Bachelor's degree;germany;94
+hamburger;40;Female;Bachelor's degree;china;95
+french fries;40;Female;Bachelor's degree;china;95
+chickenwings;40;Female;Bachelor's degree;china;95
+hamburger;28;Female;High school degree or equivalent;pakistan;96
+chickenwings;28;Female;High school degree or equivalent;pakistan;96
+hamburger;48;Female;Diplom;germany;97
+french fries;48;Female;Diplom;germany;97
+pizza;48;Female;Diplom;germany;97
+hamburger;26;Male;Less than a high school degree;germany;98
+pizza;26;Male;Less than a high school degree;germany;98
+french fries;26;Male;Less than a high school degree;germany;98
+hamburger;26;Female;High school degree or equivalent;germany;99
+hot dog;26;Female;High school degree or equivalent;germany;99
+french fries;26;Female;High school degree or equivalent;germany;99
+hamburger;45;Female;Bachelor's degree;usa;100
+hamburgers;23;Female;Master's degree;england;101
+french fries;23;Female;Master's degree;england;101
+pizza;23;Female;Master's degree;england;101
+hamburger;26;Female;Bachelor's degree;germany;102
+pizza;26;Female;Bachelor's degree;germany;102
+hot dogs;26;Female;Bachelor's degree;germany;102
+hamburger;70;Female;Dipl.-Ing.;germany;103
+hot dog;70;Female;Dipl.-Ing.;germany;103
+taco;70;Female;Dipl.-Ing.;germany;103
+pizza;33;Female;Master's degree;iran;104
+hamburger;33;Female;Master's degree;iran;104
+french fries;33;Female;Master's degree;iran;104
+hamburger;59;Male;Doctorate (e.g. PhD);germany;105
+friedchicken;59;Male;Doctorate (e.g. PhD);germany;105
+pizza;59;Male;Doctorate (e.g. PhD);germany;105
+hamburger;47;Female;Doctorate (e.g. PhD);germany;106
+french fries;47;Female;Doctorate (e.g. PhD);germany;106
+kebab;47;Female;Doctorate (e.g. PhD);germany;106
+hot dog;50;Female;Doctorate (e.g. PhD);germany;107
+hamburger;50;Female;Doctorate (e.g. PhD);germany;107
+french fries;50;Female;Doctorate (e.g. PhD);germany;107
+pizza;45;Female;Doctorate (e.g. PhD);germany;108
+hamburger;45;Female;Doctorate (e.g. PhD);germany;108
+fishandchips;45;Female;Doctorate (e.g. PhD);germany;108

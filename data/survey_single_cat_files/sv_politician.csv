@@ -1,0 +1,321 @@
+politicians;p_age;p_gender;p_education;p_country;p_id
+barackobama;26;Male;Bachelor's degree;Germany;0
+olafscholz;26;Male;Bachelor's degree;Germany;0
+roberthabeck;26;Male;Bachelor's degree;Germany;0
+angelamerkel;44;Male;Doctorate (e.g. PhD);Germany;1
+joebiden;44;Male;Doctorate (e.g. PhD);Germany;1
+georgew.bush;44;Male;Doctorate (e.g. PhD);Germany;1
+jeanlucmélenchon;46;Male;Bachelor's degree;France;2
+raphaëlcorrea;46;Male;Bachelor's degree;France;2
+gabrielboric;46;Male;Bachelor's degree;France;2
+roberthabeck;28;Male;Master's degree;Germany;3
+olafscholz;28;Male;Master's degree;Germany;3
+martinschulz;28;Male;Master's degree;Germany;3
+merkel;34;Female;Master's degree;Switzerland;4
+obama;34;Female;Master's degree;Switzerland;4
+biden;34;Female;Master's degree;Switzerland;4
+angelamerkel;27;Male;Bachelor's degree;Germany;5
+emanuelmacron;27;Male;Bachelor's degree;Germany;5
+olafscholz;27;Male;Bachelor's degree;Germany;5
+angelamerkel;27;Male;Master's degree;Germany;6
+borisjohnson;27;Male;Master's degree;Germany;6
+arnoldschwarzenegger;27;Male;Master's degree;Germany;6
+merkel;27;Male;Master's degree;Germany;7
+clinton;27;Male;Master's degree;Germany;7
+putin;27;Male;Master's degree;Germany;7
+olafscholz;28;Male;High school degree or equivalent;Germany;8
+vladimirputin;28;Male;High school degree or equivalent;Germany;8
+ursulavonderleyen;28;Male;High school degree or equivalent;Germany;8
+wladimirputin;29;Male;Master's degree;Germany;9
+marcustulliuscicero;29;Male;Master's degree;Germany;9
+angelamerkel;29;Male;Master's degree;Germany;9
+merkel;26;Male;Master's degree;Germany;10
+obama;26;Male;Master's degree;Germany;10
+johnson;26;Male;Master's degree;Germany;10
+kohl;37;Male;Master's degree;Germany;11
+merkel;37;Male;Master's degree;Germany;11
+stroebel;37;Male;Master's degree;Germany;11
+angelamerkel;24;Male;Master's degree;Germany;12
+donaldtrump;24;Male;Master's degree;Germany;12
+joebiden;24;Male;Master's degree;Germany;12
+olafscholz;26;Female;Master's degree;Germany;13
+annalenabaerbock;26;Female;Master's degree;Germany;13
+christianlindner;26;Female;Master's degree;Germany;13
+merkel;26;Female;Master's degree;Germany;14
+putin;26;Female;Master's degree;Germany;14
+biden;26;Female;Master's degree;Germany;14
+merkel;28;Female;Doctorate (e.g. PhD);Germany;15
+söder;28;Female;Doctorate (e.g. PhD);Germany;15
+scholz;28;Female;Doctorate (e.g. PhD);Germany;15
+angelamerkel;25;Male;NaN;Germany;16
+joschkafischer;25;Male;NaN;Germany;16
+wilfriedmartens;25;Male;NaN;Germany;16
+angelamerkel;31;Female;Master's degree;Germany;17
+olafscholz;31;Female;Master's degree;Germany;17
+claudiaroth;31;Female;Master's degree;Germany;17
+merkel;36;Male;Master's degree;Germany;18
+clinton;36;Male;Master's degree;Germany;18
+scholz;36;Male;Master's degree;Germany;18
+angelamerkel;27;Male;Master's degree;Germany;19
+wladimirputin;27;Male;Master's degree;Germany;19
+borisjohnson;27;Male;Master's degree;Germany;19
+merkel;33;Male;Doctorate (e.g. PhD);Germany;20
+scholz;33;Male;Doctorate (e.g. PhD);Germany;20
+söder;33;Male;Doctorate (e.g. PhD);Germany;20
+borisjohnson;26;Male;Bachelor's degree;USA;21
+vladimirputin;26;Male;Bachelor's degree;USA;21
+olafschulz;26;Male;Bachelor's degree;USA;21
+merkel;44;Female;Doctorate (e.g. PhD);Sweden;22
+macron;44;Female;Doctorate (e.g. PhD);Sweden;22
+putin;44;Female;Doctorate (e.g. PhD);Sweden;22
+christianlindner;26;Male;Bachelor's degree;Germany;23
+karllauterbach;26;Male;Bachelor's degree;Germany;23
+olafscholz;26;Male;Bachelor's degree;Germany;23
+angelamerkel;27;Male;Bachelor's degree;NaN;24
+olafscholz;23;Male;Bachelor's degree;Germany;25
+emmanuelmacron;23;Male;Bachelor's degree;Germany;25
+joebiden;23;Male;Bachelor's degree;Germany;25
+merkel;22;Male;Bachelor's degree;Germany;26
+özdemir;22;Male;Bachelor's degree;Germany;26
+scholz;22;Male;Bachelor's degree;Germany;26
+angelamerkel;25;Male;Bachelor's degree;Germany;27
+barackobama;25;Male;Bachelor's degree;Germany;27
+volkerbouffier;25;Male;Bachelor's degree;Germany;27
+gysi;27;Male;Master's degree;Germany;28
+baerbock;27;Male;Master's degree;Germany;28
+schwesig;27;Male;Master's degree;Germany;28
+rudygiuliani;30;Male;Bachelor's degree;USA;29
+ruthbaderginsburg;30;Male;Bachelor's degree;USA;29
+newtgingrich;30;Male;Bachelor's degree;USA;29
+merkel;28;Male;Master's degree;Germany;30
+baerbock;28;Male;Master's degree;Germany;30
+özdemir;28;Male;Master's degree;Germany;30
+barackobama;38;Female;Doctorate (e.g. PhD);Greece;31
+emanuelmacron;38;Female;Doctorate (e.g. PhD);Greece;31
+borisjohnson;38;Female;Doctorate (e.g. PhD);Greece;31
+biden;28;Male;Master's degree;Germany;32
+trump;28;Male;Master's degree;Germany;32
+obama;28;Male;Master's degree;Germany;32
+christianlindner;26;Male;Bachelor's degree;Germany;33
+dorotheebär;26;Male;Bachelor's degree;Germany;33
+wolfgangkubicki;26;Male;Bachelor's degree;Germany;33
+bismarck;19;Male;High school degree or equivalent;Germany;34
+adenauer;19;Male;High school degree or equivalent;Germany;34
+kohl;19;Male;High school degree or equivalent;Germany;34
+merkel;25;Female;Bachelor's degree;Germany;35
+putin;25;Female;Bachelor's degree;Germany;35
+clinton;25;Female;Bachelor's degree;Germany;35
+angelamerkel;24;Female;Master's degree;Germany;36
+putin;24;Female;Master's degree;Germany;36
+wagenknecht;24;Female;Master's degree;Germany;36
+angelamerkel;25;Male;Bachelor's degree;Germany;37
+markussöder;25;Male;Bachelor's degree;Germany;37
+xijinping;25;Male;Bachelor's degree;Germany;37
+brandt;64;Male;Doctorate (e.g. PhD);Austria;38
+wehner;64;Male;Doctorate (e.g. PhD);Austria;38
+helmutschmidt;64;Male;Doctorate (e.g. PhD);Austria;38
+olafscholz;24;Male;Bachelor's degree;Germany;39
+joebiden;24;Male;Bachelor's degree;Germany;39
+wladimirputin;24;Male;Bachelor's degree;Germany;39
+merkel;31;Male;Bachelor's degree;Germany;40
+trump;31;Male;Bachelor's degree;Germany;40
+putin;31;Male;Bachelor's degree;Germany;40
+biden;25;Female;Bachelor's degree;Germany;41
+harris;25;Female;Bachelor's degree;Germany;41
+putin;25;Female;Bachelor's degree;Germany;41
+angelamerkel;28;Female;Bachelor's degree;Germany;42
+algore;28;Female;Bachelor's degree;Germany;42
+barackobama;28;Female;Bachelor's degree;Germany;42
+schröder;37;Female;Master's degree;Germany;43
+kohl;37;Female;Master's degree;Germany;43
+merkel;37;Female;Master's degree;Germany;43
+angelamerkel;50;Female;High school degree or equivalent;Germany;44
+hillaryclinton;50;Female;High school degree or equivalent;Germany;44
+wolodymyrselenskj;50;Female;High school degree or equivalent;Germany;44
+gerhardschröder;28;Female;High school degree or equivalent;Germany;45
+emanuelmacron;28;Female;High school degree or equivalent;Germany;45
+annalenabaerbock;28;Female;High school degree or equivalent;Germany;45
+angelamerkel;31;Male;Bachelor's degree;Germany;46
+helmutkohl;31;Male;Bachelor's degree;Germany;46
+helmutschmidt;31;Male;Bachelor's degree;Germany;46
+lindner;21;Female;High school degree or equivalent;Germany;47
+scholz;21;Female;High school degree or equivalent;Germany;47
+baerbock;21;Female;High school degree or equivalent;Germany;47
+merkel;23;Female;Bachelor's degree;Germany;48
+baerbock;23;Female;Bachelor's degree;Germany;48
+scholz;23;Female;Bachelor's degree;Germany;48
+angelamerkel;36;Male;Bachelor's degree;India;49
+narendramodi;36;Male;Bachelor's degree;India;49
+barackobama;36;Male;Bachelor's degree;India;49
+angelamerkel;28;Female;Master's degree;Romania;50
+barackobama;28;Female;Master's degree;Romania;50
+emmanuelmacron;28;Female;Master's degree;Romania;50
+wladimirputin;19;Female;High school degree or equivalent;Germany;51
+angelamerkel;19;Female;High school degree or equivalent;Germany;51
+sahrawagenknecht;19;Female;High school degree or equivalent;Germany;51
+vladimirputin;19;Female;High school degree or equivalent;Germany;52
+angelamerkel;19;Female;High school degree or equivalent;Germany;52
+olafscholz;19;Female;High school degree or equivalent;Germany;52
+scholz;25;Male;Bachelor's degree;Germany;53
+wagenknecht;25;Male;Bachelor's degree;Germany;53
+habeck;25;Male;Bachelor's degree;Germany;53
+sarkozy;34;Female;Master's degree;France;54
+hillaryclinton;34;Female;Master's degree;France;54
+sadikhan;34;Female;Master's degree;France;54
+merkel;20;Female;High school degree or equivalent;Germany;55
+j.f.kennedy;20;Female;High school degree or equivalent;Germany;55
+borisjohnson;20;Female;High school degree or equivalent;Germany;55
+biden;26;Female;Master's degree;France;56
+trump;26;Female;Master's degree;France;56
+poutine;26;Female;Master's degree;France;56
+eisenhower;29;Prefer not to say;Master's degree;Germany;57
+roosevelt;29;Prefer not to say;Master's degree;Germany;57
+clinton;29;Prefer not to say;Master's degree;Germany;57
+donaldtrump;31;Male;Master's degree;Germany;58
+angelamerkel;31;Male;Master's degree;Germany;58
+wladimirputin;31;Male;Master's degree;Germany;58
+putin;23;Male;High school degree or equivalent;Germany;59
+scholz;23;Male;High school degree or equivalent;Germany;59
+baerbock;23;Male;High school degree or equivalent;Germany;59
+angelamerkel;21;Female;High school degree or equivalent;Germany;60
+olafscholz;21;Female;High school degree or equivalent;Germany;60
+joebiden;21;Female;High school degree or equivalent;Germany;60
+angelamerkel;54;Male;High school degree or equivalent;Germany;61
+joebiden;54;Male;High school degree or equivalent;Germany;61
+borisjohnson;54;Male;High school degree or equivalent;Germany;61
+macron;30;Female;Master's degree;France;62
+poutine;30;Female;Master's degree;France;62
+biden;30;Female;Master's degree;France;62
+mandela;24;Male;Bachelor's degree;Germany;63
+merkel;24;Male;Bachelor's degree;Germany;63
+brandt;24;Male;Bachelor's degree;Germany;63
+olafscholz;17;Male;Less than a high school degree;Germany;64
+martinsonneborn;17;Male;Less than a high school degree;Germany;64
+martinplum;17;Male;Less than a high school degree;Germany;64
+obama;25;Female;High school degree or equivalent;Germany;65
+putin;25;Female;High school degree or equivalent;Germany;65
+kimjongun;25;Female;High school degree or equivalent;Germany;65
+olafscholz;16;Male;Less than a high school degree;Germany;66
+joebiden;16;Male;Less than a high school degree;Germany;66
+donaldtrump;21;Male;High school degree or equivalent;Germany;67
+putin;21;Male;High school degree or equivalent;Germany;67
+merkel;0;Prefer not to say;NaN;NaN;68
+scholz;0;Prefer not to say;NaN;NaN;68
+steinmeier;0;Prefer not to say;NaN;NaN;68
+joebiden;24;Female;Master's degree;France;69
+nicolassarkozy;24;Female;Master's degree;France;69
+valeriepecresse;24;Female;Master's degree;France;69
+merkel;26;Female;Master's degree;France;70
+biden;26;Female;Master's degree;France;70
+macron;26;Female;Master's degree;France;70
+angelamerkel;34;Female;Master's degree;Germany;71
+barackobama;34;Female;Master's degree;Germany;71
+winstonchurchill;34;Female;Master's degree;Germany;71
+kohl;54;Male;Less than a high school degree;Germany;72
+schröder;54;Male;Less than a high school degree;Germany;72
+merkel;54;Male;Less than a high school degree;Germany;72
+barackobama;23;Male;Bachelor's degree;Germany;73
+olafscholz;23;Male;Bachelor's degree;Germany;73
+angelamerkel;23;Male;Bachelor's degree;Germany;73
+putin;27;Male;Master's degree;Germany;74
+scholz;27;Male;Master's degree;Germany;74
+macron;27;Male;Master's degree;Germany;74
+angelamerkel;25;Male;Bachelor's degree;Germany;75
+olafscholz;25;Male;Bachelor's degree;Germany;75
+annalenabaerbock;25;Male;Bachelor's degree;Germany;75
+joebiden;27;Female;Master's degree;Germany;76
+olafscholz;27;Female;Master's degree;Germany;76
+annalenabaerbock;27;Female;Master's degree;Germany;76
+scholz;51;Male;High school degree or equivalent;Germany;77
+putin;51;Male;High school degree or equivalent;Germany;77
+macron;51;Male;High school degree or equivalent;Germany;77
+merkel;26;Male;High school degree or equivalent;Germany;78
+schröder;26;Male;High school degree or equivalent;Germany;78
+obama;26;Male;High school degree or equivalent;Germany;78
+merkel;27;Male;Bachelor's degree;Germany;79
+scholz;27;Male;Bachelor's degree;Germany;79
+lindner;27;Male;Bachelor's degree;Germany;79
+schröder;25;Male;Master's degree;Germany;80
+trump;25;Male;Master's degree;Germany;80
+bush;25;Male;Master's degree;Germany;80
+christianlindner;25;Male;Bachelor's degree;Germany;81
+gerhardschröder;25;Male;Bachelor's degree;Germany;81
+wladimirputin;25;Male;Bachelor's degree;Germany;81
+joebiden;21;Male;High school degree or equivalent;Germany;82
+olafscholz;21;Male;High school degree or equivalent;Germany;82
+annalenabaerbock;21;Male;High school degree or equivalent;Germany;82
+angelamerkel;23;Female;Bachelor's degree;Germany;83
+jensspahn;23;Female;Bachelor's degree;Germany;83
+phillipamthor;23;Female;Bachelor's degree;Germany;83
+merkel;28;Female;Master's degree;Germany;84
+schröder;28;Female;Master's degree;Germany;84
+obama;28;Female;Master's degree;Germany;84
+christianlindner;25;Female;Master's degree;Germany;85
+nelsonmandela;25;Female;Bachelor's degree;Russia;86
+angelamerkel;25;Female;Bachelor's degree;Russia;86
+emmanuelmacron;25;Female;Bachelor's degree;Russia;86
+merkel;24;Female;High school degree or equivalent;Germany;87
+scholz;24;Female;High school degree or equivalent;Germany;87
+lauterbach;24;Female;High school degree or equivalent;Germany;87
+olafscholz;26;Male;Bachelor's degree;Germany;88
+norbertröttgen;26;Male;Bachelor's degree;Germany;88
+donaldtrump;26;Male;Bachelor's degree;Germany;88
+scholz;27;Female;Master's degree;Germany;89
+habeck;27;Female;Master's degree;Germany;89
+vonderleyen;27;Female;Master's degree;Germany;89
+colinpowell;25;Male;Bachelor's degree;Germany;90
+josephbiden;25;Male;Bachelor's degree;Germany;90
+sarahwagenknecht;25;Male;Bachelor's degree;Germany;90
+angelamerkel;25;Male;High school degree or equivalent;Germany;91
+cemözdemir;25;Male;High school degree or equivalent;Germany;91
+frankwaltersteinmeier;25;Male;High school degree or equivalent;Germany;91
+olafscholz;28;Male;High school degree or equivalent;Germany;92
+vladimirputin;28;Male;High school degree or equivalent;Germany;92
+wolodymyrselenskyj;28;Male;High school degree or equivalent;Germany;92
+borisjohnson;47;Female;Bachelor's degree;England;93
+barackobama;47;Female;Bachelor's degree;England;93
+vladimirputin;47;Female;Bachelor's degree;England;93
+angelamerkel;38;Male;Bachelor's degree;Germany;94
+donaldtrump;38;Male;Bachelor's degree;Germany;94
+kimjongun;38;Male;Bachelor's degree;Germany;94
+trump;40;Female;Bachelor's degree;China;95
+obama;40;Female;Bachelor's degree;China;95
+clinton;40;Female;Bachelor's degree;China;95
+putin;28;Female;High school degree or equivalent;Pakistan;96
+bush;28;Female;High school degree or equivalent;Pakistan;96
+trump;28;Female;High school degree or equivalent;Pakistan;96
+merkel;48;Female;Master's degree;Germany;97
+putin;48;Female;Master's degree;Germany;97
+biden;48;Female;Master's degree;Germany;97
+barackobama;26;Male;Less than a high school degree;Germany;98
+angelamerkel;26;Male;Less than a high school degree;Germany;98
+nelsonmandela;26;Male;Less than a high school degree;Germany;98
+merkel;26;Female;High school degree or equivalent;Germany;99
+obama;26;Female;High school degree or equivalent;Germany;99
+hitler;26;Female;High school degree or equivalent;Germany;99
+joebiden;45;Female;Bachelor's degree;USA;100
+barrackobama;45;Female;Bachelor's degree;USA;100
+hilaryclinton;45;Female;Bachelor's degree;USA;100
+borrisjohnson;23;Female;Master's degree;England;101
+theresamay;23;Female;Master's degree;England;101
+tonyblair;23;Female;Master's degree;England;101
+gerhardschröder;26;Female;Bachelor's degree;Germany;102
+angelamerkel;26;Female;Bachelor's degree;Germany;102
+caesar;70;Female;Master's degree;Germany;103
+napoleon;70;Female;Master's degree;Germany;103
+putin;70;Female;Master's degree;Germany;103
+bernardsanders;33;Female;Master's degree;Iran;104
+angelamerkel;33;Female;Master's degree;Iran;104
+borisjohnson;33;Female;Master's degree;Iran;104
+borisjohnson;59;Male;Doctorate (e.g. PhD);Germany;105
+angelamerkel;59;Male;Doctorate (e.g. PhD);Germany;105
+madeleinealbright;59;Male;Doctorate (e.g. PhD);Germany;105
+anglamerkel;47;Female;Doctorate (e.g. PhD);Germany;106
+joebiden;47;Female;Doctorate (e.g. PhD);Germany;106
+wladimirputin;47;Female;Doctorate (e.g. PhD);Germany;106
+annalenabaerbock;50;Female;Doctorate (e.g. PhD);Germany;107
+wladimirputin;50;Female;Doctorate (e.g. PhD);Germany;107
+olafscholz;50;Female;Doctorate (e.g. PhD);Germany;107
+roosevelt;45;Female;Doctorate (e.g. PhD);Germany;108
+churchill;45;Female;Doctorate (e.g. PhD);Germany;108
+bismarck;45;Female;Doctorate (e.g. PhD);Germany;108

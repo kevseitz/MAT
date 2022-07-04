@@ -1,0 +1,308 @@
+books;p_age;p_gender;p_education;p_country;p_id
+dune;26;Male;Bachelor's degree;Germany;0
+howdemocraciesdie;26;Male;Bachelor's degree;Germany;0
+harrypotter;26;Male;Bachelor's degree;Germany;0
+hamlet;44;Male;Doctorate (e.g. PhD);Germany;1
+faust;44;Male;Doctorate (e.g. PhD);Germany;1
+werther;44;Male;Doctorate (e.g. PhD);Germany;1
+hyperion;46;Male;Bachelor's degree;France;2
+harrypotter;46;Male;Bachelor's degree;France;2
+gameofthrones;46;Male;Bachelor's degree;France;2
+illuminati;28;Male;Master's degree;Germany;3
+daskapital;28;Male;Master's degree;Germany;3
+theprisoner;28;Male;Master's degree;Germany;3
+idiot;34;Female;Master's degree;Switzerland;4
+noisybear;34;Female;Master's degree;Switzerland;4
+beingandtime;34;Female;Master's degree;Switzerland;4
+artemisfowl;27;Male;Bachelor's degree;Germany;5
+harrypotterandthephilisophersstone;27;Male;Bachelor's degree;Germany;5
+dune;27;Male;Bachelor's degree;Germany;5
+unterleuten;27;Male;Master's degree;Germany;6
+vernichtung;27;Male;Master's degree;Germany;6
+lordoftheflies;27;Male;Master's degree;Germany;6
+kleidermachenleute;27;Male;Master's degree;Germany;7
+bibel;27;Male;Master's degree;Germany;7
+meinespielzüge;27;Male;Master's degree;Germany;7
+souveräninvestierenmitetfs;28;Male;High school degree or equivalent;Germany;8
+derherrderringe;28;Male;High school degree or equivalent;Germany;8
+1984;28;Male;High school degree or equivalent;Germany;8
+1984;29;Male;Master's degree;Germany;9
+harrypotterandthephilosophersstone;29;Male;Master's degree;Germany;9
+lordoftherings;29;Male;Master's degree;Germany;9
+thebible;26;Male;Master's degree;Germany;10
+1984;26;Male;Master's degree;Germany;10
+zauberberg;37;Male;Master's degree;Germany;11
+faust;37;Male;Master's degree;Germany;11
+krabat;37;Male;Master's degree;Germany;11
+homodeus;24;Male;Master's degree;Germany;12
+diekunstzulieben;24;Male;Master's degree;Germany;12
+frederick;24;Male;Master's degree;Germany;12
+lordoftherings;26;Female;Master's degree;Germany;13
+harrypotter;26;Female;Master's degree;Germany;13
+rubinrot;26;Female;Master's degree;Germany;13
+thegirlwiththedragontattoo;26;Female;Master's degree;Germany;14
+deaconkingkong;26;Female;Master's degree;Germany;14
+thevanishinghalf;26;Female;Master's degree;Germany;14
+dietherapie;28;Female;Doctorate (e.g. PhD);Germany;15
+hannes;28;Female;Doctorate (e.g. PhD);Germany;15
+einganzeshalbesjahr;28;Female;Doctorate (e.g. PhD);Germany;15
+leaderseatlast;25;Male;NaN;Germany;16
+thewhyareyouherecafe;25;Male;NaN;Germany;16
+startwithwhy;25;Male;NaN;Germany;16
+harrypotterandthegobletoffire;31;Female;Master's degree;Germany;17
+tokillamockingbird;31;Female;Master's degree;Germany;17
+theimportanceofbeingearnest;31;Female;Master's degree;Germany;17
+thehobbit;36;Male;Master's degree;Germany;18
+theswarm;36;Male;Master's degree;Germany;18
+50shadesofgrey;36;Male;Master's degree;Germany;18
+siddharta;27;Male;Master's degree;Germany;19
+harrypotter;33;Male;Doctorate (e.g. PhD);Germany;20
+lordoftherings;33;Male;Doctorate (e.g. PhD);Germany;20
+killyourfriends;33;Male;Doctorate (e.g. PhD);Germany;20
+slaughterhouse5;26;Male;Bachelor's degree;USA;21
+awrinkleintime;26;Male;Bachelor's degree;USA;21
+intheblinkofaneye;26;Male;Bachelor's degree;USA;21
+nan;44;Female;Doctorate (e.g. PhD);Sweden;22
+richdadpoordad;26;Male;Bachelor's degree;Germany;23
+billysummers;26;Male;Bachelor's degree;Germany;23
+playlist;26;Male;Bachelor's degree;Germany;23
+dascaféamrandederwelt;27;Male;Bachelor's degree;NaN;24
+derpfaddesfriedvollenkriegers;27;Male;Bachelor's degree;NaN;24
+;27;Male;Bachelor's degree;NaN;24
+factfulness;23;Male;Bachelor's degree;Germany;25
+theautobiographyofmalcomx;23;Male;Bachelor's degree;Germany;25
+freakonomics;23;Male;Bachelor's degree;Germany;25
+nan;22;Male;Bachelor's degree;Germany;26
+tomclancy´srainbowsix;25;Male;Bachelor's degree;Germany;27
+harrypotter;25;Male;Bachelor's degree;Germany;27
+it;25;Male;Bachelor's degree;Germany;27
+winningugly;27;Male;Master's degree;Germany;28
+howdemocraciesdie;27;Male;Master's degree;Germany;28
+rafa;27;Male;Master's degree;Germany;28
+mysideofthemountain;30;Male;Bachelor's degree;USA;29
+harrypotter;30;Male;Bachelor's degree;USA;29
+habenundsein;28;Male;Master's degree;Germany;30
+harrypotter;28;Male;Master's degree;Germany;30
+herrderringe;28;Male;Master's degree;Germany;30
+metamorphosis;38;Female;Doctorate (e.g. PhD);Greece;31
+anarchy’sbriefsummer;38;Female;Doctorate (e.g. PhD);Greece;31
+thedispossessed;38;Female;Doctorate (e.g. PhD);Greece;31
+harrypotter;28;Male;Master's degree;Germany;32
+it;28;Male;Master's degree;Germany;32
+sidartha;28;Male;Master's degree;Germany;32
+theartofwar;26;Male;Bachelor's degree;Germany;33
+theillustratedman;26;Male;Bachelor's degree;Germany;33
+theoldmanandthesea;26;Male;Bachelor's degree;Germany;33
+harrypotter;19;Male;High school degree or equivalent;Germany;34
+diegeheimebenediktgesellschaft;19;Male;High school degree or equivalent;Germany;34
+greg’stagebuch;19;Male;High school degree or equivalent;Germany;34
+flowersforalgernon;25;Female;Bachelor's degree;Germany;35
+1984;25;Female;Bachelor's degree;Germany;35
+bravenewworld;25;Female;Bachelor's degree;Germany;35
+1913;24;Female;Master's degree;Germany;36
+dienstagsbeimurrie;24;Female;Master's degree;Germany;36
+1984;24;Female;Master's degree;Germany;36
+harrypotter;25;Male;Bachelor's degree;Germany;37
+kriegundfrieden;25;Male;Bachelor's degree;Germany;37
+papillon;64;Male;Doctorate (e.g. PhD);Austria;38
+100jahreeinsamkeit;64;Male;Doctorate (e.g. PhD);Austria;38
+diebibel;64;Male;Doctorate (e.g. PhD);Austria;38
+harrypotterandthephilosophersstone;24;Male;Bachelor's degree;Germany;39
+lordoftherings;24;Male;Bachelor's degree;Germany;39
+sapiens:abriefhistoryofhumankind;24;Male;Bachelor's degree;Germany;39
+achtsammorden;31;Male;Bachelor's degree;Germany;40
+harrypotter;31;Male;Bachelor's degree;Germany;40
+herrderringe;31;Male;Bachelor's degree;Germany;40
+harrypotter;25;Female;Bachelor's degree;Germany;41
+twilight;25;Female;Bachelor's degree;Germany;41
+davincicode;25;Female;Bachelor's degree;Germany;41
+dieverlorenen;28;Female;Bachelor's degree;Germany;42
+daskunstseidenemaedchen;28;Female;Bachelor's degree;Germany;42
+zivilcourage;28;Female;Bachelor's degree;Germany;42
+harrypotter;37;Female;Master's degree;Germany;43
+it;37;Female;Master's degree;Germany;43
+thelordoftherings;37;Female;Master's degree;Germany;43
+outlander;50;Female;High school degree or equivalent;Germany;44
+it;50;Female;High school degree or equivalent;Germany;44
+harrypotter;50;Female;High school degree or equivalent;Germany;44
+littlelife;28;Female;High school degree or equivalent;Germany;45
+narzissandgoldmund;28;Female;High school degree or equivalent;Germany;45
+normalpeople;28;Female;High school degree or equivalent;Germany;45
+thehobbit;31;Male;Bachelor's degree;Germany;46
+krabat;31;Male;Bachelor's degree;Germany;46
+romeoandjuliet;31;Male;Bachelor's degree;Germany;46
+diegeschichtederbienen;21;Female;High school degree or equivalent;Germany;47
+harrypotter;21;Female;High school degree or equivalent;Germany;47
+cafeamrandederwelt;21;Female;High school degree or equivalent;Germany;47
+nan;23;Female;Bachelor's degree;Germany;48
+thelordoftherings;36;Male;Bachelor's degree;India;49
+davincicode;36;Male;Bachelor's degree;India;49
+timetravelerswife;36;Male;Bachelor's degree;India;49
+1984;28;Female;Master's degree;Romania;50
+prideandprejudice;28;Female;Master's degree;Romania;50
+thegirlwiththedragontattoo;28;Female;Master's degree;Romania;50
+prideandprejudice;19;Female;High school degree or equivalent;Germany;51
+emma;19;Female;High school degree or equivalent;Germany;51
+fivefeetapart;19;Female;High school degree or equivalent;Germany;51
+kriegundfrieden;19;Female;High school degree or equivalent;Germany;52
+howtokillamockingbird;19;Female;High school degree or equivalent;Germany;52
+stolzundvorurteil;19;Female;High school degree or equivalent;Germany;52
+nan;25;Male;Bachelor's degree;Germany;53
+piranesi;34;Female;Master's degree;France;54
+countofmontechristo;34;Female;Master's degree;France;54
+wereareallbesidesourselves;34;Female;Master's degree;France;54
+dasmagischebaumhaus;20;Female;High school degree or equivalent;Germany;55
+bibel;20;Female;High school degree or equivalent;Germany;55
+derursprungderwelt;20;Female;High school degree or equivalent;Germany;55
+belami;26;Female;Master's degree;France;56
+notredamedeparis;26;Female;Master's degree;France;56
+alarecherchedutempsperdu;26;Female;Master's degree;France;56
+principiamathematica;29;Prefer not to say;Master's degree;Germany;57
+nettseinistauchkeinelösung;29;Prefer not to say;Master's degree;Germany;57
+meinkampf;29;Prefer not to say;Master's degree;Germany;57
+12rulesforlife;31;Male;Master's degree;Germany;58
+crimeandpunishment;31;Male;Master's degree;Germany;58
+harrypotterandthephilosophersstone;31;Male;Master's degree;Germany;58
+thewitcher;23;Male;High school degree or equivalent;Germany;59
+lilalila;23;Male;High school degree or equivalent;Germany;59
+unverschwunden;23;Male;High school degree or equivalent;Germany;59
+thecafeontheedgeoftheworld;21;Female;High school degree or equivalent;Germany;60
+becoming;21;Female;High school degree or equivalent;Germany;60
+thechildinyou;21;Female;High school degree or equivalent;Germany;60
+thepillarsofearth;54;Male;High school degree or equivalent;Germany;61
+starwarsepisode1thephantomofmenace;54;Male;High school degree or equivalent;Germany;61
+thefabulousdestinyofamélie;54;Male;High school degree or equivalent;Germany;61
+war&peace;30;Female;Master's degree;France;62
+kafkaontheshore;30;Female;Master's degree;France;62
+pride&prejudice;30;Female;Master's degree;France;62
+harrypotter;24;Male;Bachelor's degree;Germany;63
+thecapital;24;Male;Bachelor's degree;Germany;63
+thetrial;24;Male;Bachelor's degree;Germany;63
+theholybible;17;Male;Less than a high school degree;Germany;64
+lordoftherings;17;Male;Less than a high school degree;Germany;64
+thecommunisticmanifest;17;Male;Less than a high school degree;Germany;64
+verblendung;25;Female;High school degree or equivalent;Germany;65
+vergebung;25;Female;High school degree or equivalent;Germany;65
+verdammnis;25;Female;High school degree or equivalent;Germany;65
+howtoavoidaclimatechange;16;Male;Less than a high school degree;Germany;66
+apromisedland;16;Male;Less than a high school degree;Germany;66
+richdadpoordad;16;Male;Less than a high school degree;Germany;66
+daskapital;21;Male;High school degree or equivalent;Germany;67
+harrypotter;21;Male;High school degree or equivalent;Germany;67
+blackout;0;Prefer not to say;NaN;NaN;68
+theswarm;0;Prefer not to say;NaN;NaN;68
+thebible;0;Prefer not to say;NaN;NaN;68
+lesmisérables;24;Female;Master's degree;France;69
+devenir;24;Female;Master's degree;France;69
+songed’unenuitd’été;24;Female;Master's degree;France;69
+gonewiththewind;26;Female;Master's degree;France;70
+lordoftherings;26;Female;Master's degree;France;70
+pillarsoftheearth;26;Female;Master's degree;France;70
+bibel;34;Female;Master's degree;Germany;71
+koran;34;Female;Master's degree;Germany;71
+harrypitter;34;Female;Master's degree;Germany;71
+nan;54;Male;Less than a high school degree;Germany;72
+exponential;23;Male;Bachelor's degree;Germany;73
+prisonersofgeography;23;Male;Bachelor's degree;Germany;73
+endersgame;23;Male;Bachelor's degree;Germany;73
+aurora;27;Male;Master's degree;Germany;74
+snowcrash;25;Male;Bachelor's degree;Germany;75
+themidnightlibrary;25;Male;Bachelor's degree;Germany;75
+percyjackson;25;Male;Bachelor's degree;Germany;75
+bible;27;Female;Master's degree;Germany;76
+catcherintherye;27;Female;Master's degree;Germany;76
+lordoftheflies;27;Female;Master's degree;Germany;76
+shinig;51;Male;High school degree or equivalent;Germany;77
+thestand;51;Male;High school degree or equivalent;Germany;77
+abriefhistoryoftime;51;Male;High school degree or equivalent;Germany;77
+friedhofderkuscheltiere;26;Male;High school degree or equivalent;Germany;78
+fluggast7a;26;Male;High school degree or equivalent;Germany;78
+es;26;Male;High school degree or equivalent;Germany;78
+harrypotter;27;Male;Bachelor's degree;Germany;79
+lordoftherings;27;Male;Bachelor's degree;Germany;79
+thebible;27;Male;Bachelor's degree;Germany;79
+harrypotter;25;Male;Master's degree;Germany;80
+lordoftherings;25;Male;Master's degree;Germany;80
+kafka;25;Male;Master's degree;Germany;80
+homodeus;25;Male;Bachelor's degree;Germany;81
+theintelligentinvestor;25;Male;Bachelor's degree;Germany;81
+darkmatter;25;Male;Bachelor's degree;Germany;81
+dasparfüm;21;Male;High school degree or equivalent;Germany;82
+faust1;21;Male;High school degree or equivalent;Germany;82
+diephysiker;21;Male;High school degree or equivalent;Germany;82
+harrypotter1;23;Female;Bachelor's degree;Germany;83
+derherrderringe1;23;Female;Bachelor's degree;Germany;83
+dune;23;Female;Bachelor's degree;Germany;83
+thelordoftherings;28;Female;Master's degree;Germany;84
+twilight;28;Female;Master's degree;Germany;84
+bibel;28;Female;Master's degree;Germany;84
+harrypotter;25;Female;Master's degree;Germany;85
+harrypotter;25;Female;Bachelor's degree;Russia;86
+mobydick;25;Female;Bachelor's degree;Russia;86
+thecatcherintherye;25;Female;Bachelor's degree;Russia;86
+passanger23;24;Female;High school degree or equivalent;Germany;87
+thetherapy;24;Female;High school degree or equivalent;Germany;87
+noah;24;Female;High school degree or equivalent;Germany;87
+bibel;26;Male;Bachelor's degree;Germany;88
+dieleidendesjungenwärter;26;Male;Bachelor's degree;Germany;88
+faust;26;Male;Bachelor's degree;Germany;88
+harrypotter;27;Female;Master's degree;Germany;89
+herrderringe;27;Female;Master's degree;Germany;89
+cafeontheedgeoftheworld;27;Female;Master's degree;Germany;89
+holyquran;25;Male;Bachelor's degree;Germany;90
+risiko;25;Male;Bachelor's degree;Germany;90
+richdadpoordad;25;Male;Bachelor's degree;Germany;90
+salemslot;25;Male;High school degree or equivalent;Germany;91
+it;25;Male;High school degree or equivalent;Germany;91
+dune;25;Male;High school degree or equivalent;Germany;91
+atomichabits;28;Male;High school degree or equivalent;Germany;92
+normalpeople;28;Male;High school degree or equivalent;Germany;92
+principals;28;Male;High school degree or equivalent;Germany;92
+harrypotter;47;Female;Bachelor's degree;England;93
+chroniclesofnarnia;47;Female;Bachelor's degree;England;93
+gonewiththewind;47;Female;Bachelor's degree;England;93
+wolfsblut;38;Male;Bachelor's degree;Germany;94
+yoganidra;38;Male;Bachelor's degree;Germany;94
+jetzt!;38;Male;Bachelor's degree;Germany;94
+taoandteh;40;Female;Bachelor's degree;China;95
+thestoryofart;40;Female;Bachelor's degree;China;95
+olivertwist;40;Female;Bachelor's degree;China;95
+kiteruner;28;Female;High school degree or equivalent;Pakistan;96
+fortyrulesoflove;28;Female;High school degree or equivalent;Pakistan;96
+sapiens;28;Female;High school degree or equivalent;Pakistan;96
+bible;48;Female;Master's degree;Germany;97
+catcherintherhye;48;Female;Master's degree;Germany;97
+glennkill;48;Female;Master's degree;Germany;97
+playlist;26;Male;Less than a high school degree;Germany;98
+hungergames;26;Male;Less than a high school degree;Germany;98
+diebestimmung;26;Male;Less than a high school degree;Germany;98
+werdienachtigallstört;26;Female;High school degree or equivalent;Germany;99
+dasgeschenk;26;Female;High school degree or equivalent;Germany;99
+harrypotterunddiekammerdesschreckens;26;Female;High school degree or equivalent;Germany;99
+lordoftherings;45;Female;Bachelor's degree;USA;100
+harrypotterandthesorcerersstone;45;Female;Bachelor's degree;USA;100
+andbreakfastofchampions;45;Female;Bachelor's degree;USA;100
+playdead;23;Female;Master's degree;England;101
+catch;23;Female;Master's degree;England;101
+thisisgoingtohurtabit;23;Female;Master's degree;England;101
+harrypotter;26;Female;Bachelor's degree;Germany;102
+acuriousincidentofadoginthenighttime;26;Female;Bachelor's degree;Germany;102
+notesonanervousplanet;26;Female;Bachelor's degree;Germany;102
+dertodinvenedig;70;Female;Master's degree;Germany;103
+einekurzegeschichtederzeit;70;Female;Master's degree;Germany;103
+dasparfum;70;Female;Master's degree;Germany;103
+milkman;33;Female;Master's degree;Iran;104
+sarah;33;Female;Master's degree;Iran;104
+themagicofthinkingbig;33;Female;Master's degree;Iran;104
+catcherintherye;59;Male;Doctorate (e.g. PhD);Germany;105
+tomsawyer;59;Male;Doctorate (e.g. PhD);Germany;105
+thebible;59;Male;Doctorate (e.g. PhD);Germany;105
+absalomabsalom;47;Female;Doctorate (e.g. PhD);Germany;106
+dieunendichegschichte;47;Female;Doctorate (e.g. PhD);Germany;106
+buddenbrooks;47;Female;Doctorate (e.g. PhD);Germany;106
+harrypotterandthegobletoffire;50;Female;Doctorate (e.g. PhD);Germany;107
+thekingofnarnia;50;Female;Doctorate (e.g. PhD);Germany;107
+pippilongstocking;50;Female;Doctorate (e.g. PhD);Germany;107
+atlasshrugged;45;Female;Doctorate (e.g. PhD);Germany;108
+tokillamockingbird;45;Female;Doctorate (e.g. PhD);Germany;108
+cienanosdesoledad;45;Female;Doctorate (e.g. PhD);Germany;108

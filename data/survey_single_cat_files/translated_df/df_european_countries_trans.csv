@@ -1,0 +1,326 @@
+european_countries;p_age;p_gender;p_education;p_country;p_id
+germany;26;Male;Bachelor's degree;germany;0
+france;26;Male;Bachelor's degree;germany;0
+italy;26;Male;Bachelor's degree;germany;0
+germany;44;Male;Doctorate (e.g. PhD);germany;1
+france;44;Male;Doctorate (e.g. PhD);germany;1
+italy;44;Male;Doctorate (e.g. PhD);germany;1
+france;46;Male;Bachelor's degree;france;2
+germany;46;Male;Bachelor's degree;france;2
+italy;46;Male;Bachelor's degree;france;2
+germany;28;Male;Master's degree;germany;3
+france;28;Male;Master's degree;germany;3
+united kingdom;28;Male;Master's degree;germany;3
+austria;34;Female;Master's degree;switzerland;4
+germany;34;Female;Master's degree;switzerland;4
+france;34;Female;Master's degree;switzerland;4
+germany;27;Male;Bachelor's degree;germany;5
+france;27;Male;Bachelor's degree;germany;5
+spain;27;Male;Bachelor's degree;germany;5
+germany;27;Male;Master's degree;germany;6
+switzerland;27;Male;Master's degree;germany;6
+denmark;27;Male;Master's degree;germany;6
+bulgaria;27;Male;Master's degree;germany;7
+poland;27;Male;Master's degree;germany;7
+italy;27;Male;Master's degree;germany;7
+germany;28;Male;High school degree or equivalent;germany;8
+austria;28;Male;High school degree or equivalent;germany;8
+switzerland;28;Male;High school degree or equivalent;germany;8
+germany;29;Male;Master's degree;germany;9
+france;29;Male;Master's degree;germany;9
+spain;29;Male;Master's degree;germany;9
+germany;26;Male;Master's degree;germany;10
+switzerland;26;Male;Master's degree;germany;10
+denmark;26;Male;Master's degree;germany;10
+monaco;37;Male;Master's degree;germany;11
+vatican city;37;Male;Master's degree;germany;11
+ukraine;37;Male;Master's degree;germany;11
+france;24;Male;Master's degree;germany;12
+germany;24;Male;Master's degree;germany;12
+denmark;24;Male;Master's degree;germany;12
+germany;26;Female;Master's degree;germany;13
+france;26;Female;Master's degree;germany;13
+italy;26;Female;Master's degree;germany;13
+germany;26;Female;Master's degree;germany;14
+italy;26;Female;Master's degree;germany;14
+france;26;Female;Master's degree;germany;14
+germany;28;Female;Doctorate (e.g. PhD);germany;15
+france;28;Female;Doctorate (e.g. PhD);germany;15
+spain;28;Female;Doctorate (e.g. PhD);germany;15
+italy;25;Male;NaN;germany;16
+spain;25;Male;NaN;germany;16
+belgium;25;Male;NaN;germany;16
+germany;31;Female;Master's degree;germany;17
+france;31;Female;Master's degree;germany;17
+italy;31;Female;Master's degree;germany;17
+germany;36;Male;Master's degree;germany;18
+austria;36;Male;Master's degree;germany;18
+switzerland;36;Male;Master's degree;germany;18
+germany;27;Male;Master's degree;germany;19
+switzerland;27;Male;Master's degree;germany;19
+ukraine;27;Male;Master's degree;germany;19
+germany;33;Male;Doctorate (e.g. PhD);germany;20
+france;33;Male;Doctorate (e.g. PhD);germany;20
+italy;33;Male;Doctorate (e.g. PhD);germany;20
+france;26;Male;Bachelor's degree;usa;21
+germany;26;Male;Bachelor's degree;usa;21
+denmark;26;Male;Bachelor's degree;usa;21
+france;44;Female;Doctorate (e.g. PhD);sweden;22
+italy;44;Female;Doctorate (e.g. PhD);sweden;22
+spain;44;Female;Doctorate (e.g. PhD);sweden;22
+germany;26;Male;Bachelor's degree;germany;23
+france;26;Male;Bachelor's degree;germany;23
+poland;26;Male;Bachelor's degree;germany;23
+germany;27;Male;Bachelor's degree;nan;24
+germany;23;Male;Bachelor's degree;germany;25
+france;23;Male;Bachelor's degree;germany;25
+denmark;23;Male;Bachelor's degree;germany;25
+germany;22;Male;Bachelor's degree;germany;26
+france;22;Male;Bachelor's degree;germany;26
+spain;22;Male;Bachelor's degree;germany;26
+germany;25;Male;Bachelor's degree;germany;27
+spain;25;Male;Bachelor's degree;germany;27
+united kingdom;25;Male;Bachelor's degree;germany;27
+austria;27;Male;Master's degree;germany;28
+iceland;27;Male;Master's degree;germany;28
+faroerislands;27;Male;Master's degree;germany;28
+norway;30;Male;Bachelor's degree;usa;29
+denmark;30;Male;Bachelor's degree;usa;29
+sweden;30;Male;Bachelor's degree;usa;29
+netherlands;28;Male;Master's degree;germany;30
+austria;28;Male;Master's degree;germany;30
+italy;28;Male;Master's degree;germany;30
+france;38;Female;Doctorate (e.g. PhD);greece;31
+greece;38;Female;Doctorate (e.g. PhD);greece;31
+croatia;38;Female;Doctorate (e.g. PhD);greece;31
+germany;28;Male;Master's degree;germany;32
+france;28;Male;Master's degree;germany;32
+italy;28;Male;Master's degree;germany;32
+germany;26;Male;Bachelor's degree;germany;33
+france;26;Male;Bachelor's degree;germany;33
+italy;26;Male;Bachelor's degree;germany;33
+germany;19;Male;High school degree or equivalent;germany;34
+united kingdom;19;Male;High school degree or equivalent;germany;34
+austria;19;Male;High school degree or equivalent;germany;34
+san marino;25;Female;Bachelor's degree;germany;35
+ukraine;25;Female;Bachelor's degree;germany;35
+spain;25;Female;Bachelor's degree;germany;35
+germany;24;Female;Master's degree;germany;36
+poland;24;Female;Master's degree;germany;36
+sweden;24;Female;Master's degree;germany;36
+germany;25;Male;Bachelor's degree;germany;37
+switzerland;25;Male;Bachelor's degree;germany;37
+austria;25;Male;Bachelor's degree;germany;37
+germany;64;Male;Doctorate (e.g. PhD);austria;38
+france;64;Male;Doctorate (e.g. PhD);austria;38
+italy;64;Male;Doctorate (e.g. PhD);austria;38
+germany;24;Male;Bachelor's degree;germany;39
+spain;24;Male;Bachelor's degree;germany;39
+france;24;Male;Bachelor's degree;germany;39
+germany;31;Male;Bachelor's degree;germany;40
+france;31;Male;Bachelor's degree;germany;40
+spain;31;Male;Bachelor's degree;germany;40
+france;25;Female;Bachelor's degree;germany;41
+germany;25;Female;Bachelor's degree;germany;41
+spain;25;Female;Bachelor's degree;germany;41
+italy;28;Female;Bachelor's degree;germany;42
+greece;28;Female;Bachelor's degree;germany;42
+france;28;Female;Bachelor's degree;germany;42
+germany;37;Female;Master's degree;germany;43
+ukraine;37;Female;Master's degree;germany;43
+united kingdom;37;Female;Master's degree;germany;43
+italy;50;Female;High school degree or equivalent;germany;44
+germany;50;Female;High school degree or equivalent;germany;44
+france;50;Female;High school degree or equivalent;germany;44
+sweden;28;Female;High school degree or equivalent;germany;45
+spain;28;Female;High school degree or equivalent;germany;45
+france;28;Female;High school degree or equivalent;germany;45
+germany;31;Male;Bachelor's degree;germany;46
+france;31;Male;Bachelor's degree;germany;46
+netherlands;31;Male;Bachelor's degree;germany;46
+germany;21;Female;High school degree or equivalent;germany;47
+italy;21;Female;High school degree or equivalent;germany;47
+sweden;21;Female;High school degree or equivalent;germany;47
+germany;23;Female;Bachelor's degree;germany;48
+spain;23;Female;Bachelor's degree;germany;48
+italy;23;Female;Bachelor's degree;germany;48
+germany;36;Male;Bachelor's degree;india;49
+switzerland;36;Male;Bachelor's degree;india;49
+austria;36;Male;Bachelor's degree;india;49
+germany;28;Female;Master's degree;romania;50
+france;28;Female;Master's degree;romania;50
+italy;28;Female;Master's degree;romania;50
+france;19;Female;High school degree or equivalent;germany;51
+spain;19;Female;High school degree or equivalent;germany;51
+united kingdom;19;Female;High school degree or equivalent;germany;51
+germany;19;Female;High school degree or equivalent;germany;52
+ukraine;19;Female;High school degree or equivalent;germany;52
+poland;19;Female;High school degree or equivalent;germany;52
+germany;25;Male;Bachelor's degree;germany;53
+france;25;Male;Bachelor's degree;germany;53
+poland;25;Male;Bachelor's degree;germany;53
+france;34;Female;Master's degree;france;54
+germany;34;Female;Master's degree;france;54
+romania;34;Female;Master's degree;france;54
+croatia;20;Female;High school degree or equivalent;germany;55
+slovenia;20;Female;High school degree or equivalent;germany;55
+denmark;20;Female;High school degree or equivalent;germany;55
+italy;26;Female;Master's degree;france;56
+france;26;Female;Master's degree;france;56
+germany;26;Female;Master's degree;france;56
+republic of ireland;29;Prefer not to say;Master's degree;germany;57
+united kingdom;29;Prefer not to say;Master's degree;germany;57
+united kingdom;29;Prefer not to say;Master's degree;germany;57
+germany;31;Male;Master's degree;germany;58
+france;31;Male;Master's degree;germany;58
+italy;31;Male;Master's degree;germany;58
+germany;23;Male;High school degree or equivalent;germany;59
+italy;23;Male;High school degree or equivalent;germany;59
+switzerland;23;Male;High school degree or equivalent;germany;59
+germany;21;Female;High school degree or equivalent;germany;60
+france;21;Female;High school degree or equivalent;germany;60
+italy;21;Female;High school degree or equivalent;germany;60
+france;54;Male;High school degree or equivalent;germany;61
+switzerland;54;Male;High school degree or equivalent;germany;61
+sweden;54;Male;High school degree or equivalent;germany;61
+france;30;Female;Master's degree;france;62
+united kingdom;30;Female;Master's degree;france;62
+italy;30;Female;Master's degree;france;62
+italy;24;Male;Bachelor's degree;germany;63
+france;24;Male;Bachelor's degree;germany;63
+poland;24;Male;Bachelor's degree;germany;63
+germany;17;Male;Less than a high school degree;germany;64
+france;17;Male;Less than a high school degree;germany;64
+sweden;17;Male;Less than a high school degree;germany;64
+germany;25;Female;High school degree or equivalent;germany;65
+netherlands;25;Female;High school degree or equivalent;germany;65
+belgium;25;Female;High school degree or equivalent;germany;65
+germany;16;Male;Less than a high school degree;germany;66
+france;16;Male;Less than a high school degree;germany;66
+spain;16;Male;Less than a high school degree;germany;66
+germany;21;Male;High school degree or equivalent;germany;67
+france;21;Male;High school degree or equivalent;germany;67
+austria;21;Male;High school degree or equivalent;germany;67
+austria;0;Prefer not to say;NaN;nan;68
+france;0;Prefer not to say;NaN;nan;68
+spain;0;Prefer not to say;NaN;nan;68
+switzerland;24;Female;Master's degree;france;69
+ukraine;24;Female;Master's degree;france;69
+luxembourg;24;Female;Master's degree;france;69
+france;26;Female;Master's degree;france;70
+portugal;26;Female;Master's degree;france;70
+italy;26;Female;Master's degree;france;70
+germany;34;Female;Master's degree;germany;71
+france;34;Female;Master's degree;germany;71
+belgium;34;Female;Master's degree;germany;71
+germany;54;Male;Less than a high school degree;germany;72
+italy;54;Male;Less than a high school degree;germany;72
+france;54;Male;Less than a high school degree;germany;72
+germany;23;Male;Bachelor's degree;germany;73
+france;23;Male;Bachelor's degree;germany;73
+spain;23;Male;Bachelor's degree;germany;73
+germany;27;Male;Master's degree;germany;74
+france;27;Male;Master's degree;germany;74
+spain;27;Male;Master's degree;germany;74
+germany;25;Male;Bachelor's degree;germany;75
+france;25;Male;Bachelor's degree;germany;75
+italy;25;Male;Bachelor's degree;germany;75
+italy;27;Female;Master's degree;germany;76
+france;27;Female;Master's degree;germany;76
+germany;27;Female;Master's degree;germany;76
+germany;51;Male;High school degree or equivalent;germany;77
+france;51;Male;High school degree or equivalent;germany;77
+italy;51;Male;High school degree or equivalent;germany;77
+france;26;Male;High school degree or equivalent;germany;78
+denmark;26;Male;High school degree or equivalent;germany;78
+switzerland;26;Male;High school degree or equivalent;germany;78
+germany;27;Male;Bachelor's degree;germany;79
+france;27;Male;Bachelor's degree;germany;79
+united kingdom;27;Male;Bachelor's degree;germany;79
+germany;25;Male;Master's degree;germany;80
+france;25;Male;Master's degree;germany;80
+spain;25;Male;Master's degree;germany;80
+spain;25;Male;Bachelor's degree;germany;81
+poland;25;Male;Bachelor's degree;germany;81
+sweden;25;Male;Bachelor's degree;germany;81
+norway;21;Male;High school degree or equivalent;germany;82
+republic of ireland;21;Male;High school degree or equivalent;germany;82
+sweden;21;Male;High school degree or equivalent;germany;82
+germany;23;Female;Bachelor's degree;germany;83
+italy;23;Female;Bachelor's degree;germany;83
+spain;23;Female;Bachelor's degree;germany;83
+france;28;Female;Master's degree;germany;84
+germany;28;Female;Master's degree;germany;84
+italy;28;Female;Master's degree;germany;84
+sweden;25;Female;Master's degree;germany;85
+austria;25;Female;Master's degree;germany;85
+portugal;25;Female;Master's degree;germany;85
+poland;25;Female;Bachelor's degree;russia;86
+slovakia;25;Female;Bachelor's degree;russia;86
+france;25;Female;Bachelor's degree;russia;86
+germany;24;Female;High school degree or equivalent;germany;87
+iceland;24;Female;High school degree or equivalent;germany;87
+norway;24;Female;High school degree or equivalent;germany;87
+germany;26;Male;Bachelor's degree;germany;88
+poland;26;Male;Bachelor's degree;germany;88
+spain;26;Male;Bachelor's degree;germany;88
+germany;27;Female;Master's degree;germany;89
+spain;27;Female;Master's degree;germany;89
+france;27;Female;Master's degree;germany;89
+romania;25;Male;Bachelor's degree;germany;90
+greece;25;Male;Bachelor's degree;germany;90
+denmark;25;Male;Bachelor's degree;germany;90
+germany;25;Male;High school degree or equivalent;germany;91
+spain;25;Male;High school degree or equivalent;germany;91
+france;25;Male;High school degree or equivalent;germany;91
+germany;28;Male;High school degree or equivalent;germany;92
+poland;28;Male;High school degree or equivalent;germany;92
+italy;28;Male;High school degree or equivalent;germany;92
+united kingdom;47;Female;Bachelor's degree;england;93
+spain;47;Female;Bachelor's degree;england;93
+germany;47;Female;Bachelor's degree;england;93
+france;38;Male;Bachelor's degree;germany;94
+germany;38;Male;Bachelor's degree;germany;94
+poland;38;Male;Bachelor's degree;germany;94
+germany;40;Female;Bachelor's degree;china;95
+united kingdom;40;Female;Bachelor's degree;china;95
+france;40;Female;Bachelor's degree;china;95
+germany;28;Female;High school degree or equivalent;pakistan;96
+italy;28;Female;High school degree or equivalent;pakistan;96
+spain;28;Female;High school degree or equivalent;pakistan;96
+germany;48;Female;Diplom;germany;97
+france;48;Female;Diplom;germany;97
+austria;48;Female;Diplom;germany;97
+iceland;26;Male;Less than a high school degree;germany;98
+sweden;26;Male;Less than a high school degree;germany;98
+portugal;26;Male;Less than a high school degree;germany;98
+germany;26;Female;High school degree or equivalent;germany;99
+poland;26;Female;High school degree or equivalent;germany;99
+spain;26;Female;High school degree or equivalent;germany;99
+united kingdom;45;Female;Bachelor's degree;usa;100
+germany;45;Female;Bachelor's degree;usa;100
+france;45;Female;Bachelor's degree;usa;100
+italy;23;Female;Master's degree;england;101
+spain;23;Female;Master's degree;england;101
+france;23;Female;Master's degree;england;101
+italy;26;Female;Bachelor's degree;germany;102
+spain;26;Female;Bachelor's degree;germany;102
+france;26;Female;Bachelor's degree;germany;102
+germany;70;Female;Dipl.-Ing.;germany;103
+spain;70;Female;Dipl.-Ing.;germany;103
+italy;70;Female;Dipl.-Ing.;germany;103
+republic of ireland;33;Female;Master's degree;iran;104
+united kingdom;33;Female;Master's degree;iran;104
+germany;33;Female;Master's degree;iran;104
+france;59;Male;Doctorate (e.g. PhD);germany;105
+germany;59;Male;Doctorate (e.g. PhD);germany;105
+italy;59;Male;Doctorate (e.g. PhD);germany;105
+malta;47;Female;Doctorate (e.g. PhD);germany;106
+france;47;Female;Doctorate (e.g. PhD);germany;106
+germany;47;Female;Doctorate (e.g. PhD);germany;106
+germany;50;Female;Doctorate (e.g. PhD);germany;107
+denmark;50;Female;Doctorate (e.g. PhD);germany;107
+poland;50;Female;Doctorate (e.g. PhD);germany;107
+lithuania;45;Female;Doctorate (e.g. PhD);germany;108
+germany;45;Female;Doctorate (e.g. PhD);germany;108
+sweden;45;Female;Doctorate (e.g. PhD);germany;108

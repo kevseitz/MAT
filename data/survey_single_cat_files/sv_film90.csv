@@ -1,0 +1,277 @@
+nineties_movies;p_age;p_gender;p_education;p_country;p_id
+thematrix;26;Male;Bachelor's degree;Germany;0
+groundhogday;26;Male;Bachelor's degree;Germany;0
+goodfellas;26;Male;Bachelor's degree;Germany;0
+batman;44;Male;Doctorate (e.g. PhD);Germany;1
+matrix;44;Male;Doctorate (e.g. PhD);Germany;1
+eyeswideshut;44;Male;Doctorate (e.g. PhD);Germany;1
+totalrecall;46;Male;Bachelor's degree;France;2
+lethalweapon;46;Male;Bachelor's degree;France;2
+predator;46;Male;Bachelor's degree;France;2
+léon:theprofessional;28;Male;Master's degree;Germany;3
+thematrix;28;Male;Master's degree;Germany;3
+departed;28;Male;Master's degree;Germany;3
+homealone;34;Female;Master's degree;Switzerland;4
+matrix;34;Female;Master's degree;Switzerland;4
+titanic;34;Female;Master's degree;Switzerland;4
+matrix;27;Male;Bachelor's degree;Germany;5
+oceans11;27;Male;Master's degree;Germany;6
+starwars;27;Male;Master's degree;Germany;6
+harrypotter;27;Male;Master's degree;Germany;6
+prettywoman;27;Male;Master's degree;Germany;7
+dermitdemwolftanzt;27;Male;Master's degree;Germany;7
+dasschweigenderlämmer;27;Male;Master's degree;Germany;7
+americanpie1;28;Male;High school degree or equivalent;Germany;8
+americanpie2;28;Male;High school degree or equivalent;Germany;8
+americanpie3;28;Male;High school degree or equivalent;Germany;8
+matrix;29;Male;Master's degree;Germany;9
+pulpfiction;29;Male;Master's degree;Germany;9
+shawshankredemption;29;Male;Master's degree;Germany;9
+batmanreturns;26;Male;Master's degree;Germany;10
+therainmaker;26;Male;Master's degree;Germany;10
+jurrasicpark;37;Male;Master's degree;Germany;11
+forrestgump;37;Male;Master's degree;Germany;11
+ginawild3;37;Male;Master's degree;Germany;11
+nottinghill;24;Male;Master's degree;Germany;12
+nightbeforechristmas;26;Female;Master's degree;Germany;13
+homealone;26;Female;Master's degree;Germany;14
+dirtydancing;26;Female;Master's degree;Germany;14
+clueless;28;Female;Doctorate (e.g. PhD);Germany;15
+americanpie;28;Female;Doctorate (e.g. PhD);Germany;15
+nan;25;Male;NaN;Germany;16
+thelionking;31;Female;Master's degree;Germany;17
+thematrix;31;Female;Master's degree;Germany;17
+titanic;31;Female;Master's degree;Germany;17
+honealone;36;Male;Master's degree;Germany;18
+matrix;36;Male;Master's degree;Germany;18
+titanic;36;Male;Master's degree;Germany;18
+backtothefuture;27;Male;Master's degree;Germany;19
+terminator;33;Male;Doctorate (e.g. PhD);Germany;20
+jurassicpark;33;Male;Doctorate (e.g. PhD);Germany;20
+waterworld;33;Male;Doctorate (e.g. PhD);Germany;20
+thematrix;26;Male;Bachelor's degree;USA;21
+diehard;26;Male;Bachelor's degree;USA;21
+thefifthelement;26;Male;Bachelor's degree;USA;21
+beingjohnmalkovich;44;Female;Doctorate (e.g. PhD);Sweden;22
+thematrix;44;Female;Doctorate (e.g. PhD);Sweden;22
+americanhistoryx;26;Male;Bachelor's degree;Germany;23
+schindlersliste;26;Male;Bachelor's degree;Germany;23
+matrix;26;Male;Bachelor's degree;Germany;23
+nan;27;Male;Bachelor's degree;NaN;24
+l.a.confidental;23;Male;Bachelor's degree;Germany;25
+heat;23;Male;Bachelor's degree;Germany;25
+thegreenmile;23;Male;Bachelor's degree;Germany;25
+nan;22;Male;Bachelor's degree;Germany;26
+fightclub;25;Male;Bachelor's degree;Germany;27
+titanic;25;Male;Bachelor's degree;Germany;27
+maninblack;25;Male;Bachelor's degree;Germany;27
+jamesbond;27;Male;Master's degree;Germany;28
+starwars;27;Male;Master's degree;Germany;28
+lordoftherings;27;Male;Master's degree;Germany;28
+lionking;30;Male;Bachelor's degree;USA;29
+dumb&dumber;30;Male;Bachelor's degree;USA;29
+youvegotmail;30;Male;Bachelor's degree;USA;29
+rocky;28;Male;Master's degree;Germany;30
+stirblangsam1;28;Male;Master's degree;Germany;30
+titanic;28;Male;Master's degree;Germany;30
+theageofinnocence;38;Female;Doctorate (e.g. PhD);Greece;31
+12monkeys;38;Female;Doctorate (e.g. PhD);Greece;31
+fearandloathinginlasvegas;38;Female;Doctorate (e.g. PhD);Greece;31
+scarymovie;28;Male;Master's degree;Germany;32
+waterworld;28;Male;Master's degree;Germany;32
+braveheart;28;Male;Master's degree;Germany;32
+blade;26;Male;Bachelor's degree;Germany;33
+tomorrowneverdies;26;Male;Bachelor's degree;Germany;33
+diehard;26;Male;Bachelor's degree;Germany;33
+nan;19;Male;High school degree or equivalent;Germany;34
+glenngarryglennross;25;Female;Bachelor's degree;Germany;35
+gattaca;25;Female;Bachelor's degree;Germany;35
+matrix;25;Female;Bachelor's degree;Germany;35
+pulpfiction;24;Female;Master's degree;Germany;36
+seven;24;Female;Master's degree;Germany;36
+goodwillhunting;24;Female;Master's degree;Germany;36
+pulpfiction;25;Male;Bachelor's degree;Germany;37
+nightinwarth;64;Male;Doctorate (e.g. PhD);Austria;38
+thesixthsense;64;Male;Doctorate (e.g. PhD);Austria;38
+pulpfiction;64;Male;Doctorate (e.g. PhD);Austria;38
+pulpfiction;24;Male;Bachelor's degree;Germany;39
+goodfellas;24;Male;Bachelor's degree;Germany;39
+thesilenceofthelambs;24;Male;Bachelor's degree;Germany;39
+kevinalleinzuhause;31;Male;Bachelor's degree;Germany;40
+pulpfiction;31;Male;Bachelor's degree;Germany;40
+americanpie;31;Male;Bachelor's degree;Germany;40
+jurassicpark;25;Female;Bachelor's degree;Germany;41
+scream;25;Female;Bachelor's degree;Germany;41
+prettywoman;25;Female;Bachelor's degree;Germany;41
+basicinstinct;28;Female;Bachelor's degree;Germany;42
+casino;28;Female;Bachelor's degree;Germany;42
+laconfidential;28;Female;Bachelor's degree;Germany;42
+forrestgump;37;Female;Master's degree;Germany;43
+goodwillhunting;37;Female;Master's degree;Germany;43
+independenceday;37;Female;Master's degree;Germany;43
+prettywoman;50;Female;High school degree or equivalent;Germany;44
+dirtydancing;50;Female;High school degree or equivalent;Germany;44
+meninblack;50;Female;High school degree or equivalent;Germany;44
+titanic;28;Female;High school degree or equivalent;Germany;45
+themask;28;Female;High school degree or equivalent;Germany;45
+flubber;28;Female;High school degree or equivalent;Germany;45
+harrypotter;31;Male;Bachelor's degree;Germany;46
+matrix;31;Male;Bachelor's degree;Germany;46
+terminator;31;Male;Bachelor's degree;Germany;46
+prettywomen;21;Female;High school degree or equivalent;Germany;47
+schindlersliste;21;Female;High school degree or equivalent;Germany;47
+titanic;23;Female;Bachelor's degree;Germany;48
+forestgump;23;Female;Bachelor's degree;Germany;48
+prettywomen;23;Female;Bachelor's degree;Germany;48
+shawshankredemption;36;Male;Bachelor's degree;India;49
+schindlerslist;36;Male;Bachelor's degree;India;49
+starwars;36;Male;Bachelor's degree;India;49
+forrestgump;28;Female;Master's degree;Romania;50
+pulpfiction;28;Female;Master's degree;Romania;50
+schindlerslist;28;Female;Master's degree;Romania;50
+prettywoman;19;Female;High school degree or equivalent;Germany;51
+jurassicpark;19;Female;High school degree or equivalent;Germany;51
+thesilenceofthelambs;19;Female;High school degree or equivalent;Germany;51
+prideandprejudice;19;Female;High school degree or equivalent;Germany;52
+pulpfriction;19;Female;High school degree or equivalent;Germany;52
+backtothefuture;19;Female;High school degree or equivalent;Germany;52
+nan;25;Male;Bachelor's degree;Germany;53
+clueless;34;Female;Master's degree;France;54
+mulan;34;Female;Master's degree;France;54
+hook;34;Female;Master's degree;France;54
+nan;20;Female;High school degree or equivalent;Germany;55
+starwars;26;Female;Master's degree;France;56
+pulpfiction;26;Female;Master's degree;France;56
+goodwillhunting;26;Female;Master's degree;France;56
+conair;29;Prefer not to say;Master's degree;Germany;57
+stirblangsam;29;Prefer not to say;Master's degree;Germany;57
+speed;31;Male;Master's degree;Germany;58
+matrix;31;Male;Master's degree;Germany;58
+silenceofthelambs;31;Male;Master's degree;Germany;58
+dirtydancing;23;Male;High school degree or equivalent;Germany;59
+terminator;23;Male;High school degree or equivalent;Germany;59
+starwars;23;Male;High school degree or equivalent;Germany;59
+schindler‘slist;21;Female;High school degree or equivalent;Germany;60
+goldeneye;21;Female;High school degree or equivalent;Germany;60
+tomorrowneverdies;21;Female;High school degree or equivalent;Germany;60
+greenmile;54;Male;High school degree or equivalent;Germany;61
+se7en;54;Male;High school degree or equivalent;Germany;61
+danceswithwolves;54;Male;High school degree or equivalent;Germany;61
+titanic;30;Female;Master's degree;France;62
+lionking;30;Female;Master's degree;France;62
+starwarsepisode1;30;Female;Master's degree;France;62
+pulpfiction;24;Male;Bachelor's degree;Germany;63
+twinpeaks;24;Male;Bachelor's degree;Germany;63
+memento;24;Male;Bachelor's degree;Germany;63
+nan;17;Male;Less than a high school degree;Germany;64
+rambo;25;Female;High school degree or equivalent;Germany;65
+saw;25;Female;High school degree or equivalent;Germany;65
+texaschainsawmassager;25;Female;High school degree or equivalent;Germany;65
+badboys;16;Male;Less than a high school degree;Germany;66
+nan;21;Male;High school degree or equivalent;Germany;67
+et;0;Prefer not to say;NaN;NaN;68
+prettywoman;0;Prefer not to say;NaN;NaN;68
+bodyguard;0;Prefer not to say;NaN;NaN;68
+prettywoman;24;Female;Master's degree;France;69
+nothinghill;24;Female;Master's degree;France;69
+lesvisiteurs;24;Female;Master's degree;France;69
+fightclub;26;Female;Master's degree;France;70
+pulpfiction;26;Female;Master's degree;France;70
+thebiglebowski;26;Female;Master's degree;France;70
+nan;34;Female;Master's degree;Germany;71
+titanic;54;Male;Less than a high school degree;Germany;72
+diehard;54;Male;Less than a high school degree;Germany;72
+titanic;23;Male;Bachelor's degree;Germany;73
+pulpfiction;23;Male;Bachelor's degree;Germany;73
+flubber;27;Male;Master's degree;Germany;74
+spacejam;27;Male;Master's degree;Germany;74
+backtothefuture;27;Male;Master's degree;Germany;74
+terminator3;25;Male;Bachelor's degree;Germany;75
+nan;27;Female;Master's degree;Germany;76
+se7en;51;Male;High school degree or equivalent;Germany;77
+twister;51;Male;High school degree or equivalent;Germany;77
+themummy;51;Male;High school degree or equivalent;Germany;77
+fastandthefurious;26;Male;High school degree or equivalent;Germany;78
+matrix;26;Male;High school degree or equivalent;Germany;78
+fightclub;27;Male;Bachelor's degree;Germany;79
+prettywoman;27;Male;Bachelor's degree;Germany;79
+matrix;27;Male;Bachelor's degree;Germany;79
+nan;25;Male;Master's degree;Germany;80
+pulpfiction;25;Male;Bachelor's degree;Germany;81
+homealone;25;Male;Bachelor's degree;Germany;81
+seven;25;Male;Bachelor's degree;Germany;81
+starwars;21;Male;High school degree or equivalent;Germany;82
+titanic;21;Male;High school degree or equivalent;Germany;82
+matrix;21;Male;High school degree or equivalent;Germany;82
+jurrasicpark;23;Female;Bachelor's degree;Germany;83
+backtothefuture;23;Female;Bachelor's degree;Germany;83
+titanic;23;Female;Bachelor's degree;Germany;83
+batman;28;Female;Master's degree;Germany;84
+prettywoman;28;Female;Master's degree;Germany;84
+freewilly;28;Female;Master's degree;Germany;84
+nan;25;Female;Master's degree;Germany;85
+matrix;25;Female;Bachelor's degree;Russia;86
+forrestgump;25;Female;Bachelor's degree;Russia;86
+homealone;25;Female;Bachelor's degree;Russia;86
+prettywoman;24;Female;High school degree or equivalent;Germany;87
+ghost;24;Female;High school degree or equivalent;Germany;87
+es;24;Female;High school degree or equivalent;Germany;87
+homealone;26;Male;Bachelor's degree;Germany;88
+starwars;26;Male;Bachelor's degree;Germany;88
+harrypotter;26;Male;Bachelor's degree;Germany;88
+batman;27;Female;Master's degree;Germany;89
+spiderman;27;Female;Master's degree;Germany;89
+titanic;27;Female;Master's degree;Germany;89
+spiderman;25;Male;Bachelor's degree;Germany;90
+titanic;25;Male;Bachelor's degree;Germany;90
+houseofwax;25;Male;Bachelor's degree;Germany;90
+titanic;25;Male;High school degree or equivalent;Germany;91
+forrestgump;25;Male;High school degree or equivalent;Germany;91
+pulpfiction;25;Male;High school degree or equivalent;Germany;91
+pulpfiction;28;Male;High school degree or equivalent;Germany;92
+prettywoman;28;Male;High school degree or equivalent;Germany;92
+thegreenmile;28;Male;High school degree or equivalent;Germany;92
+prettywoman;47;Female;Bachelor's degree;England;93
+toystory;47;Female;Bachelor's degree;England;93
+matrix;47;Female;Bachelor's degree;England;93
+matrix;38;Male;Bachelor's degree;Germany;94
+meninblack;38;Male;Bachelor's degree;Germany;94
+theusualsuspects;38;Male;Bachelor's degree;Germany;94
+missionimpossible;40;Female;Bachelor's degree;China;95
+harrypotter;40;Female;Bachelor's degree;China;95
+thelordoftherings;40;Female;Bachelor's degree;China;95
+matrix;28;Female;High school degree or equivalent;Pakistan;96
+starwars;28;Female;High school degree or equivalent;Pakistan;96
+lionking;28;Female;High school degree or equivalent;Pakistan;96
+starwars;48;Female;Master's degree;Germany;97
+nottinghill;48;Female;Master's degree;Germany;97
+thesilenceofthelambs;48;Female;Master's degree;Germany;97
+lionking;26;Male;Less than a high school degree;Germany;98
+americanpie;26;Male;Less than a high school degree;Germany;98
+kevinhomealone;26;Male;Less than a high school degree;Germany;98
+prinzessinmononoke;26;Female;High school degree or equivalent;Germany;99
+pulpfiction;26;Female;High school degree or equivalent;Germany;99
+seven;26;Female;High school degree or equivalent;Germany;99
+clueless;45;Female;Bachelor's degree;USA;100
+theweddingsinger;45;Female;Bachelor's degree;USA;100
+misery;45;Female;Bachelor's degree;USA;100
+10thingsihateaboutyou;23;Female;Master's degree;England;101
+mygirl;23;Female;Master's degree;England;101
+clueless;26;Female;Bachelor's degree;Germany;102
+chocolat;70;Female;Master's degree;Germany;103
+cinemaparadiso;70;Female;Master's degree;Germany;103
+thesilenceofthelambs;70;Female;Master's degree;Germany;103
+ghostdog:thewayofthesamurai;33;Female;Master's degree;Iran;104
+mrs.doubtfire;33;Female;Master's degree;Iran;104
+eyeswideshut;33;Female;Master's degree;Iran;104
+nan;59;Male;Doctorate (e.g. PhD);Germany;105
+jurassicpark;47;Female;Doctorate (e.g. PhD);Germany;106
+pulpfiction;47;Female;Doctorate (e.g. PhD);Germany;106
+dancerinthedark;47;Female;Doctorate (e.g. PhD);Germany;106
+fourweddingsandafuneral;50;Female;Doctorate (e.g. PhD);Germany;107
+gegendiewand;50;Female;Doctorate (e.g. PhD);Germany;107
+clerks;50;Female;Doctorate (e.g. PhD);Germany;107
+;50;Female;Doctorate (e.g. PhD);Germany;107
+pulpfiction;45;Female;Doctorate (e.g. PhD);Germany;108
+jamesbondgoldeneye;45;Female;Doctorate (e.g. PhD);Germany;108
+findingnemo;45;Female;Doctorate (e.g. PhD);Germany;108

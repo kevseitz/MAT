@@ -1,0 +1,325 @@
+music_genres;p_age;p_gender;p_education;p_country;p_id
+pop;26;Male;Bachelor's degree;Germany;0
+techno;26;Male;Bachelor's degree;Germany;0
+rap;26;Male;Bachelor's degree;Germany;0
+metal;44;Male;Doctorate (e.g. PhD);Germany;1
+rock;44;Male;Doctorate (e.g. PhD);Germany;1
+pop;44;Male;Doctorate (e.g. PhD);Germany;1
+funk;46;Male;Bachelor's degree;France;2
+rock;46;Male;Bachelor's degree;France;2
+electro;46;Male;Bachelor's degree;France;2
+techno;28;Male;Master's degree;Germany;3
+house;28;Male;Master's degree;Germany;3
+jazz;28;Male;Master's degree;Germany;3
+jazz;34;Female;Master's degree;Switzerland;4
+pop;34;Female;Master's degree;Switzerland;4
+hiphop;34;Female;Master's degree;Switzerland;4
+pop;27;Male;Bachelor's degree;Germany;5
+jazz;27;Male;Bachelor's degree;Germany;5
+swing;27;Male;Bachelor's degree;Germany;5
+rock;27;Male;Master's degree;Germany;6
+pop;27;Male;Master's degree;Germany;6
+classic;27;Male;Master's degree;Germany;6
+jazz;27;Male;Master's degree;Germany;7
+rnb;27;Male;Master's degree;Germany;7
+hiphop;27;Male;Master's degree;Germany;7
+rap;28;Male;High school degree or equivalent;Germany;8
+pop;28;Male;High school degree or equivalent;Germany;8
+metal;28;Male;High school degree or equivalent;Germany;8
+rock;29;Male;Master's degree;Germany;9
+pop;29;Male;Master's degree;Germany;9
+classical;29;Male;Master's degree;Germany;9
+rock;26;Male;Master's degree;Germany;10
+pop;26;Male;Master's degree;Germany;10
+metal;26;Male;Master's degree;Germany;10
+metal;37;Male;Master's degree;Germany;11
+rock;37;Male;Master's degree;Germany;11
+choral;37;Male;Master's degree;Germany;11
+hiphop;24;Male;Master's degree;Germany;12
+dance;24;Male;Master's degree;Germany;12
+trance;24;Male;Master's degree;Germany;12
+rock;26;Female;Master's degree;Germany;13
+pop;26;Female;Master's degree;Germany;13
+indie;26;Female;Master's degree;Germany;13
+metal;26;Female;Master's degree;Germany;14
+classical;26;Female;Master's degree;Germany;14
+jazz;26;Female;Master's degree;Germany;14
+soul;28;Female;Doctorate (e.g. PhD);Germany;15
+indie;28;Female;Doctorate (e.g. PhD);Germany;15
+hiphop;28;Female;Doctorate (e.g. PhD);Germany;15
+hiphop;25;Male;NaN;Germany;16
+classical;25;Male;NaN;Germany;16
+jazz;25;Male;NaN;Germany;16
+jazz;31;Female;Master's degree;Germany;17
+rock;31;Female;Master's degree;Germany;17
+blues;31;Female;Master's degree;Germany;17
+pop;36;Male;Master's degree;Germany;18
+rock;36;Male;Master's degree;Germany;18
+indie;36;Male;Master's degree;Germany;18
+funk;27;Male;Master's degree;Germany;19
+hiphop;33;Male;Doctorate (e.g. PhD);Germany;20
+jazz;33;Male;Doctorate (e.g. PhD);Germany;20
+metal;33;Male;Doctorate (e.g. PhD);Germany;20
+rock;26;Male;Bachelor's degree;USA;21
+jazz;26;Male;Bachelor's degree;USA;21
+classical;26;Male;Bachelor's degree;USA;21
+rock;44;Female;Doctorate (e.g. PhD);Sweden;22
+pop;44;Female;Doctorate (e.g. PhD);Sweden;22
+heavymetal;44;Female;Doctorate (e.g. PhD);Sweden;22
+techno;26;Male;Bachelor's degree;Germany;23
+trance;26;Male;Bachelor's degree;Germany;23
+metal;26;Male;Bachelor's degree;Germany;23
+metal;27;Male;Bachelor's degree;NaN;24
+rock;27;Male;Bachelor's degree;NaN;24
+klassik;27;Male;Bachelor's degree;NaN;24
+rock;23;Male;Bachelor's degree;Germany;25
+hiphop;23;Male;Bachelor's degree;Germany;25
+classical;23;Male;Bachelor's degree;Germany;25
+pop;22;Male;Bachelor's degree;Germany;26
+classical;22;Male;Bachelor's degree;Germany;26
+funk;22;Male;Bachelor's degree;Germany;26
+hiphop;25;Male;Bachelor's degree;Germany;27
+rnb;25;Male;Bachelor's degree;Germany;27
+rap;25;Male;Bachelor's degree;Germany;27
+rnb;27;Male;Master's degree;Germany;28
+jazz;27;Male;Master's degree;Germany;28
+schlager;27;Male;Master's degree;Germany;28
+heavymetal;30;Male;Bachelor's degree;USA;29
+classical;30;Male;Bachelor's degree;USA;29
+rock;28;Male;Master's degree;Germany;30
+hiphop;28;Male;Master's degree;Germany;30
+pop;28;Male;Master's degree;Germany;30
+pop;38;Female;Doctorate (e.g. PhD);Greece;31
+rock;38;Female;Doctorate (e.g. PhD);Greece;31
+psychedelic;38;Female;Doctorate (e.g. PhD);Greece;31
+rock;28;Male;Master's degree;Germany;32
+pop;28;Male;Master's degree;Germany;32
+hiphop;28;Male;Master's degree;Germany;32
+techno;26;Male;Bachelor's degree;Germany;33
+hiphop;26;Male;Bachelor's degree;Germany;33
+rock;26;Male;Bachelor's degree;Germany;33
+rap;19;Male;High school degree or equivalent;Germany;34
+hiphop;19;Male;High school degree or equivalent;Germany;34
+rnb;19;Male;High school degree or equivalent;Germany;34
+indie;25;Female;Bachelor's degree;Germany;35
+hiphop;25;Female;Bachelor's degree;Germany;35
+classicalmusic;25;Female;Bachelor's degree;Germany;35
+rock;24;Female;Master's degree;Germany;36
+techno;24;Female;Master's degree;Germany;36
+pop;24;Female;Master's degree;Germany;36
+classic;25;Male;Bachelor's degree;Germany;37
+rock;25;Male;Bachelor's degree;Germany;37
+pop;25;Male;Bachelor's degree;Germany;37
+hardrock;64;Male;Doctorate (e.g. PhD);Austria;38
+swing;64;Male;Doctorate (e.g. PhD);Austria;38
+countrymusic;64;Male;Doctorate (e.g. PhD);Austria;38
+rocknroll;24;Male;Bachelor's degree;Germany;39
+jazz;24;Male;Bachelor's degree;Germany;39
+rap;24;Male;Bachelor's degree;Germany;39
+rock;31;Male;Bachelor's degree;Germany;40
+rap;31;Male;Bachelor's degree;Germany;40
+pop;31;Male;Bachelor's degree;Germany;40
+rap;25;Female;Bachelor's degree;Germany;41
+house;25;Female;Bachelor's degree;Germany;41
+rock;25;Female;Bachelor's degree;Germany;41
+house;28;Female;Bachelor's degree;Germany;42
+jazz;28;Female;Bachelor's degree;Germany;42
+rnb;28;Female;Bachelor's degree;Germany;42
+jazz;37;Female;Master's degree;Germany;43
+blues;37;Female;Master's degree;Germany;43
+heavymetal;37;Female;Master's degree;Germany;43
+country;50;Female;High school degree or equivalent;Germany;44
+rock;50;Female;High school degree or equivalent;Germany;44
+heavymetal;50;Female;High school degree or equivalent;Germany;44
+indie;28;Female;High school degree or equivalent;Germany;45
+house;28;Female;High school degree or equivalent;Germany;45
+psychedelicrock;28;Female;High school degree or equivalent;Germany;45
+rock;31;Male;Bachelor's degree;Germany;46
+pop;31;Male;Bachelor's degree;Germany;46
+elektro;31;Male;Bachelor's degree;Germany;46
+techno;21;Female;High school degree or equivalent;Germany;47
+rap;21;Female;High school degree or equivalent;Germany;47
+hiphop;21;Female;High school degree or equivalent;Germany;47
+hiphop;23;Female;Bachelor's degree;Germany;48
+classic;23;Female;Bachelor's degree;Germany;48
+pop;23;Female;Bachelor's degree;Germany;48
+classic;36;Male;Bachelor's degree;India;49
+rock;36;Male;Bachelor's degree;India;49
+jazz;36;Male;Bachelor's degree;India;49
+rock;28;Female;Master's degree;Romania;50
+pop;28;Female;Master's degree;Romania;50
+classic;28;Female;Master's degree;Romania;50
+pop;19;Female;High school degree or equivalent;Germany;51
+punk;19;Female;High school degree or equivalent;Germany;51
+rap;19;Female;High school degree or equivalent;Germany;51
+techno;19;Female;High school degree or equivalent;Germany;52
+hiphop;19;Female;High school degree or equivalent;Germany;52
+klassik;19;Female;High school degree or equivalent;Germany;52
+rock;25;Male;Bachelor's degree;Germany;53
+classical;25;Male;Bachelor's degree;Germany;53
+techno;25;Male;Bachelor's degree;Germany;53
+pop;34;Female;Master's degree;France;54
+rock;34;Female;Master's degree;France;54
+musicals;34;Female;Master's degree;France;54
+rock;20;Female;High school degree or equivalent;Germany;55
+techno;20;Female;High school degree or equivalent;Germany;55
+pop;20;Female;High school degree or equivalent;Germany;55
+rap;26;Female;Master's degree;France;56
+pop;26;Female;Master's degree;France;56
+techno;26;Female;Master's degree;France;56
+rock;29;Prefer not to say;Master's degree;Germany;57
+pop;29;Prefer not to say;Master's degree;Germany;57
+jazz;29;Prefer not to say;Master's degree;Germany;57
+rock;31;Male;Master's degree;Germany;58
+pop;31;Male;Master's degree;Germany;58
+rap;31;Male;Master's degree;Germany;58
+rock;23;Male;High school degree or equivalent;Germany;59
+classical;23;Male;High school degree or equivalent;Germany;59
+pop;23;Male;High school degree or equivalent;Germany;59
+pop;21;Female;High school degree or equivalent;Germany;60
+techno;21;Female;High school degree or equivalent;Germany;60
+rock;21;Female;High school degree or equivalent;Germany;60
+heavymetal;54;Male;High school degree or equivalent;Germany;61
+punkrock;54;Male;High school degree or equivalent;Germany;61
+blues;54;Male;High school degree or equivalent;Germany;61
+pop;30;Female;Master's degree;France;62
+rock;30;Female;Master's degree;France;62
+techno;30;Female;Master's degree;France;62
+hiphop;24;Male;Bachelor's degree;Germany;63
+rock;24;Male;Bachelor's degree;Germany;63
+pop;24;Male;Bachelor's degree;Germany;63
+rap;17;Male;Less than a high school degree;Germany;64
+deutschrap;17;Male;Less than a high school degree;Germany;64
+americanrap;17;Male;Less than a high school degree;Germany;64
+rap;25;Female;High school degree or equivalent;Germany;65
+pop;25;Female;High school degree or equivalent;Germany;65
+jazz;25;Female;High school degree or equivalent;Germany;65
+hiphop;16;Male;Less than a high school degree;Germany;66
+classic;16;Male;Less than a high school degree;Germany;66
+rock;16;Male;Less than a high school degree;Germany;66
+rock;21;Male;High school degree or equivalent;Germany;67
+pop;21;Male;High school degree or equivalent;Germany;67
+hiphop;21;Male;High school degree or equivalent;Germany;67
+classic;0;Prefer not to say;NaN;NaN;68
+rock;0;Prefer not to say;NaN;NaN;68
+heavymetal;0;Prefer not to say;NaN;NaN;68
+rap;24;Female;Master's degree;France;69
+soul;24;Female;Master's degree;France;69
+jazz;24;Female;Master's degree;France;69
+country;26;Female;Master's degree;France;70
+rock;26;Female;Master's degree;France;70
+hiphop;26;Female;Master's degree;France;70
+rock;34;Female;Master's degree;Germany;71
+pop;34;Female;Master's degree;Germany;71
+classic;34;Female;Master's degree;Germany;71
+punk;54;Male;Less than a high school degree;Germany;72
+rock;54;Male;Less than a high school degree;Germany;72
+disco;54;Male;Less than a high school degree;Germany;72
+rap;23;Male;Bachelor's degree;Germany;73
+pop;23;Male;Bachelor's degree;Germany;73
+techno;23;Male;Bachelor's degree;Germany;73
+rap;27;Male;Master's degree;Germany;74
+classic;27;Male;Master's degree;Germany;74
+schlager;27;Male;Master's degree;Germany;74
+rock;25;Male;Bachelor's degree;Germany;75
+punk;25;Male;Bachelor's degree;Germany;75
+electro;25;Male;Bachelor's degree;Germany;75
+techno;27;Female;Master's degree;Germany;76
+rock;27;Female;Master's degree;Germany;76
+pop;27;Female;Master's degree;Germany;76
+rock;51;Male;High school degree or equivalent;Germany;77
+metal;51;Male;High school degree or equivalent;Germany;77
+punk;51;Male;High school degree or equivalent;Germany;77
+rap;26;Male;High school degree or equivalent;Germany;78
+trap;26;Male;High school degree or equivalent;Germany;78
+hardstyle;26;Male;High school degree or equivalent;Germany;78
+pop;27;Male;Bachelor's degree;Germany;79
+techno;27;Male;Bachelor's degree;Germany;79
+classicalmusic;27;Male;Bachelor's degree;Germany;79
+pop;25;Male;Master's degree;Germany;80
+rock;25;Male;Master's degree;Germany;80
+rap;25;Male;Master's degree;Germany;80
+hiphop;25;Male;Bachelor's degree;Germany;81
+jazz;25;Male;Bachelor's degree;Germany;81
+indiepop;25;Male;Bachelor's degree;Germany;81
+pop;21;Male;High school degree or equivalent;Germany;82
+rock;21;Male;High school degree or equivalent;Germany;82
+jazz;21;Male;High school degree or equivalent;Germany;82
+pop;23;Female;Bachelor's degree;Germany;83
+metal;23;Female;Bachelor's degree;Germany;83
+edm;23;Female;Bachelor's degree;Germany;83
+techno;28;Female;Master's degree;Germany;84
+pop;28;Female;Master's degree;Germany;84
+rock;28;Female;Master's degree;Germany;84
+swing;25;Female;Master's degree;Germany;85
+jazz;25;Female;Master's degree;Germany;85
+rap;25;Female;Master's degree;Germany;85
+punkrock;25;Female;Bachelor's degree;Russia;86
+psychedelicrock;25;Female;Bachelor's degree;Russia;86
+jazz;25;Female;Bachelor's degree;Russia;86
+hardstyle;24;Female;High school degree or equivalent;Germany;87
+techno;24;Female;High school degree or equivalent;Germany;87
+house;24;Female;High school degree or equivalent;Germany;87
+jazz;26;Male;Bachelor's degree;Germany;88
+hiphop;26;Male;Bachelor's degree;Germany;88
+rock;26;Male;Bachelor's degree;Germany;88
+pop;27;Female;Master's degree;Germany;89
+rock;27;Female;Master's degree;Germany;89
+house;27;Female;Master's degree;Germany;89
+rap;25;Male;Bachelor's degree;Germany;90
+rock;25;Male;Bachelor's degree;Germany;90
+pop;25;Male;Bachelor's degree;Germany;90
+techno;25;Male;High school degree or equivalent;Germany;91
+house;25;Male;High school degree or equivalent;Germany;91
+heavymetal;25;Male;High school degree or equivalent;Germany;91
+r&b;28;Male;High school degree or equivalent;Germany;92
+techno;28;Male;High school degree or equivalent;Germany;92
+rap;28;Male;High school degree or equivalent;Germany;92
+pop;47;Female;Bachelor's degree;England;93
+rock;47;Female;Bachelor's degree;England;93
+classic;47;Female;Bachelor's degree;England;93
+hiphop;38;Male;Bachelor's degree;Germany;94
+metal;38;Male;Bachelor's degree;Germany;94
+jazz;38;Male;Bachelor's degree;Germany;94
+barroco;40;Female;Bachelor's degree;China;95
+classicism;40;Female;Bachelor's degree;China;95
+romance;40;Female;Bachelor's degree;China;95
+pop;28;Female;High school degree or equivalent;Pakistan;96
+rock;28;Female;High school degree or equivalent;Pakistan;96
+hiphop;28;Female;High school degree or equivalent;Pakistan;96
+pop;48;Female;Master's degree;Germany;97
+rock;48;Female;Master's degree;Germany;97
+hiphop;48;Female;Master's degree;Germany;97
+r&b;26;Male;Less than a high school degree;Germany;98
+pop;26;Male;Less than a high school degree;Germany;98
+rap;26;Male;Less than a high school degree;Germany;98
+rock;26;Female;High school degree or equivalent;Germany;99
+soul;26;Female;High school degree or equivalent;Germany;99
+jazz;26;Female;High school degree or equivalent;Germany;99
+indie;45;Female;Bachelor's degree;USA;100
+classical;45;Female;Bachelor's degree;USA;100
+pop;45;Female;Bachelor's degree;USA;100
+carrot;23;Female;Master's degree;England;101
+mushroom;23;Female;Master's degree;England;101
+pepper;23;Female;Master's degree;England;101
+techno;26;Female;Bachelor's degree;Germany;102
+rock;26;Female;Bachelor's degree;Germany;102
+house;26;Female;Bachelor's degree;Germany;102
+jazz;70;Female;Master's degree;Germany;103
+classic;70;Female;Master's degree;Germany;103
+heavymetal;70;Female;Master's degree;Germany;103
+hiphop;33;Female;Master's degree;Iran;104
+rock;33;Female;Master's degree;Iran;104
+pop;33;Female;Master's degree;Iran;104
+pop;59;Male;Doctorate (e.g. PhD);Germany;105
+metal;59;Male;Doctorate (e.g. PhD);Germany;105
+hiphop;59;Male;Doctorate (e.g. PhD);Germany;105
+rock;47;Female;Doctorate (e.g. PhD);Germany;106
+hiphop;47;Female;Doctorate (e.g. PhD);Germany;106
+classic;47;Female;Doctorate (e.g. PhD);Germany;106
+pop;50;Female;Doctorate (e.g. PhD);Germany;107
+jazz;50;Female;Doctorate (e.g. PhD);Germany;107
+classic;50;Female;Doctorate (e.g. PhD);Germany;107
+jazz;45;Female;Doctorate (e.g. PhD);Germany;108
+swing;45;Female;Doctorate (e.g. PhD);Germany;108
+opera;45;Female;Doctorate (e.g. PhD);Germany;108

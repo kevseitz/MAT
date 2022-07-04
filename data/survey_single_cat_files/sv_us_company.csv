@@ -1,0 +1,322 @@
+us_companies;p_age;p_gender;p_education;p_country;p_id
+microsoft;26;Male;Bachelor's degree;Germany;0
+tmobile;26;Male;Bachelor's degree;Germany;0
+ralphlauren;26;Male;Bachelor's degree;Germany;0
+ford;44;Male;Doctorate (e.g. PhD);Germany;1
+generalelectric;44;Male;Doctorate (e.g. PhD);Germany;1
+meta;44;Male;Doctorate (e.g. PhD);Germany;1
+generalmotors;46;Male;Bachelor's degree;France;2
+generalelectric;46;Male;Bachelor's degree;France;2
+mcdonalds;46;Male;Bachelor's degree;France;2
+apple;28;Male;Master's degree;Germany;3
+alphabet;28;Male;Master's degree;Germany;3
+teslamotors;28;Male;Master's degree;Germany;3
+walmart;34;Female;Master's degree;Switzerland;4
+amazon;34;Female;Master's degree;Switzerland;4
+apple;34;Female;Master's degree;Switzerland;4
+microsoft;27;Male;Bachelor's degree;Germany;5
+apple;27;Male;Bachelor's degree;Germany;5
+google;27;Male;Bachelor's degree;Germany;5
+stripe;27;Male;Master's degree;Germany;6
+apple;27;Male;Master's degree;Germany;6
+microsoft;27;Male;Master's degree;Germany;6
+3m;27;Male;Master's degree;Germany;7
+at&t;27;Male;Master's degree;Germany;7
+nike;27;Male;Master's degree;Germany;7
+apple;28;Male;High school degree or equivalent;Germany;8
+google;28;Male;High school degree or equivalent;Germany;8
+microsoft;28;Male;High school degree or equivalent;Germany;8
+ford;29;Male;Master's degree;Germany;9
+gm;29;Male;Master's degree;Germany;9
+google;29;Male;Master's degree;Germany;9
+tesla;26;Male;Master's degree;Germany;10
+spacex;26;Male;Master's degree;Germany;10
+ford;26;Male;Master's degree;Germany;10
+3m;37;Male;Master's degree;Germany;11
+generalmotors;37;Male;Master's degree;Germany;11
+johnson&johnson;37;Male;Master's degree;Germany;11
+ibm;24;Male;Master's degree;Germany;12
+amazon;24;Male;Master's degree;Germany;12
+google;24;Male;Master's degree;Germany;12
+microsoft;26;Female;Master's degree;Germany;13
+amazon;26;Female;Master's degree;Germany;13
+apple;26;Female;Master's degree;Germany;13
+walmart;26;Female;Master's degree;Germany;14
+spacex;26;Female;Master's degree;Germany;14
+amazon;26;Female;Master's degree;Germany;14
+apple;28;Female;Doctorate (e.g. PhD);Germany;15
+microsoft;28;Female;Doctorate (e.g. PhD);Germany;15
+nestle;28;Female;Doctorate (e.g. PhD);Germany;15
+gm;25;Male;NaN;Germany;16
+generalelectric;25;Male;NaN;Germany;16
+microsoft;25;Male;NaN;Germany;16
+meta;31;Female;Master's degree;Germany;17
+glaxosmithkline;31;Female;Master's degree;Germany;17
+generalmotors;31;Female;Master's degree;Germany;17
+apple;36;Male;Master's degree;Germany;18
+chrysler;36;Male;Master's degree;Germany;18
+boeing;36;Male;Master's degree;Germany;18
+unilever;27;Male;Master's degree;Germany;19
+alphabet;27;Male;Master's degree;Germany;19
+meta;27;Male;Master's degree;Germany;19
+tesla;33;Male;Doctorate (e.g. PhD);Germany;20
+google;33;Male;Doctorate (e.g. PhD);Germany;20
+amazon;33;Male;Doctorate (e.g. PhD);Germany;20
+exxon;26;Male;Bachelor's degree;USA;21
+dupont;26;Male;Bachelor's degree;USA;21
+oracle;26;Male;Bachelor's degree;USA;21
+microsoft;44;Female;Doctorate (e.g. PhD);Sweden;22
+google;44;Female;Doctorate (e.g. PhD);Sweden;22
+apple;44;Female;Doctorate (e.g. PhD);Sweden;22
+apple;26;Male;Bachelor's degree;Germany;23
+microsoft;26;Male;Bachelor's degree;Germany;23
+nvidia;26;Male;Bachelor's degree;Germany;23
+apple;27;Male;Bachelor's degree;NaN;24
+microsoft;27;Male;Bachelor's degree;NaN;24
+netflix;27;Male;Bachelor's degree;NaN;24
+google;23;Male;Bachelor's degree;Germany;25
+fedex;23;Male;Bachelor's degree;Germany;25
+apple;23;Male;Bachelor's degree;Germany;25
+amazon;22;Male;Bachelor's degree;Germany;26
+dell;22;Male;Bachelor's degree;Germany;26
+bostondynamics;22;Male;Bachelor's degree;Germany;26
+apple;25;Male;Bachelor's degree;Germany;27
+amazon;25;Male;Bachelor's degree;Germany;27
+tesla;25;Male;Bachelor's degree;Germany;27
+cocacola;27;Male;Master's degree;Germany;28
+amazon;27;Male;Master's degree;Germany;28
+gm;27;Male;Master's degree;Germany;28
+pepsi;30;Male;Bachelor's degree;USA;29
+berkshirehathaway;30;Male;Bachelor's degree;USA;29
+jpmorganchase;30;Male;Bachelor's degree;USA;29
+twitter;28;Male;Master's degree;Germany;30
+facebook;28;Male;Master's degree;Germany;30
+walmart;28;Male;Master's degree;Germany;30
+walmart;38;Female;Doctorate (e.g. PhD);Greece;31
+homedepot;38;Female;Doctorate (e.g. PhD);Greece;31
+ups;38;Female;Doctorate (e.g. PhD);Greece;31
+microsoft;28;Male;Master's degree;Germany;32
+apple;28;Male;Master's degree;Germany;32
+tesla;28;Male;Master's degree;Germany;32
+ibm;26;Male;Bachelor's degree;Germany;33
+wellsfargo;26;Male;Bachelor's degree;Germany;33
+blackrock;26;Male;Bachelor's degree;Germany;33
+amazon;19;Male;High school degree or equivalent;Germany;34
+tesla;19;Male;High school degree or equivalent;Germany;34
+apple;19;Male;High school degree or equivalent;Germany;34
+generalelectrics;25;Female;Bachelor's degree;Germany;35
+exxonmobile;25;Female;Bachelor's degree;Germany;35
+jpmorgan;25;Female;Bachelor's degree;Germany;35
+nike;24;Female;Master's degree;Germany;36
+gm;24;Female;Master's degree;Germany;36
+ford;24;Female;Master's degree;Germany;36
+apple;25;Male;Bachelor's degree;Germany;37
+microsoft;25;Male;Bachelor's degree;Germany;37
+google;25;Male;Bachelor's degree;Germany;37
+ibm;64;Male;Doctorate (e.g. PhD);Austria;38
+generalelectric;64;Male;Doctorate (e.g. PhD);Austria;38
+generalmotors;64;Male;Doctorate (e.g. PhD);Austria;38
+procter&gamble;24;Male;Bachelor's degree;Germany;39
+blackrock;24;Male;Bachelor's degree;Germany;39
+microsoft;24;Male;Bachelor's degree;Germany;39
+amazon;31;Male;Bachelor's degree;Germany;40
+walmart;31;Male;Bachelor's degree;Germany;40
+cocacolacompany;31;Male;Bachelor's degree;Germany;40
+shell;25;Female;Bachelor's degree;Germany;41
+mcdonalds;25;Female;Bachelor's degree;Germany;41
+cocacola;25;Female;Bachelor's degree;Germany;41
+trader’sjoe;28;Female;Bachelor's degree;Germany;42
+walmart;28;Female;Bachelor's degree;Germany;42
+poloralphlauren;28;Female;Bachelor's degree;Germany;42
+apple;37;Female;Master's degree;Germany;43
+microsoft;37;Female;Master's degree;Germany;43
+nike;37;Female;Master's degree;Germany;43
+johndeere;50;Female;High school degree or equivalent;Germany;44
+mustang;50;Female;High school degree or equivalent;Germany;44
+hilfigher;50;Female;High school degree or equivalent;Germany;44
+herschies;28;Female;High school degree or equivalent;Germany;45
+cocacola;28;Female;High school degree or equivalent;Germany;45
+p&g;28;Female;High school degree or equivalent;Germany;45
+ibm;31;Male;Bachelor's degree;Germany;46
+ford;31;Male;Bachelor's degree;Germany;46
+jeep;31;Male;Bachelor's degree;Germany;46
+benandjerry;21;Female;High school degree or equivalent;Germany;47
+ford;21;Female;High school degree or equivalent;Germany;47
+abercrombie&fitch;21;Female;High school degree or equivalent;Germany;47
+amazon;23;Female;Bachelor's degree;Germany;48
+apple;23;Female;Bachelor's degree;Germany;48
+microsoft;23;Female;Bachelor's degree;Germany;48
+apple;36;Male;Bachelor's degree;India;49
+google;36;Male;Bachelor's degree;India;49
+ibm;36;Male;Bachelor's degree;India;49
+alphabet;28;Female;Master's degree;Romania;50
+amazon;28;Female;Master's degree;Romania;50
+microsoft;28;Female;Master's degree;Romania;50
+starbucks;19;Female;High school degree or equivalent;Germany;51
+apple;19;Female;High school degree or equivalent;Germany;51
+waltdisneycompany;19;Female;High school degree or equivalent;Germany;51
+apple;19;Female;High school degree or equivalent;Germany;52
+spotify;19;Female;High school degree or equivalent;Germany;52
+walmart;19;Female;High school degree or equivalent;Germany;52
+google;25;Male;Bachelor's degree;Germany;53
+apple;25;Male;Bachelor's degree;Germany;53
+starbucks;25;Male;Bachelor's degree;Germany;53
+target;34;Female;Master's degree;France;54
+starbucks;34;Female;Master's degree;France;54
+jcpenney;34;Female;Master's degree;France;54
+apple;20;Female;High school degree or equivalent;Germany;55
+walmart;20;Female;High school degree or equivalent;Germany;55
+mcdonalds;20;Female;High school degree or equivalent;Germany;55
+cocacola;26;Female;Master's degree;France;56
+apple;26;Female;Master's degree;France;56
+amazon;26;Female;Master's degree;France;56
+marlboro;29;Prefer not to say;Master's degree;Germany;57
+walmart;29;Prefer not to say;Master's degree;Germany;57
+morganstanley;29;Prefer not to say;Master's degree;Germany;57
+apple;31;Male;Master's degree;Germany;58
+ford;31;Male;Master's degree;Germany;58
+netflix;31;Male;Master's degree;Germany;58
+tesla;23;Male;High school degree or equivalent;Germany;59
+microsoft;23;Male;High school degree or equivalent;Germany;59
+apple;23;Male;High school degree or equivalent;Germany;59
+apple;21;Female;High school degree or equivalent;Germany;60
+meta;21;Female;High school degree or equivalent;Germany;60
+tesla;21;Female;High school degree or equivalent;Germany;60
+nike;54;Male;High school degree or equivalent;Germany;61
+harleydavidson;54;Male;High school degree or equivalent;Germany;61
+walmart;54;Male;High school degree or equivalent;Germany;61
+p&g;30;Female;Master's degree;France;62
+unilever;30;Female;Master's degree;France;62
+cocacola;30;Female;Master's degree;France;62
+microsoft;24;Male;Bachelor's degree;Germany;63
+apple;24;Male;Bachelor's degree;Germany;63
+tesla;24;Male;Bachelor's degree;Germany;63
+apple;17;Male;Less than a high school degree;Germany;64
+microsoft;17;Male;Less than a high school degree;Germany;64
+netflix;17;Male;Less than a high school degree;Germany;64
+tesla;25;Female;High school degree or equivalent;Germany;65
+microsoft;25;Female;High school degree or equivalent;Germany;65
+ford;25;Female;High school degree or equivalent;Germany;65
+pfizer;16;Male;Less than a high school degree;Germany;66
+goldmannsachs;16;Male;Less than a high school degree;Germany;66
+microsoft;16;Male;Less than a high school degree;Germany;66
+tesla;21;Male;High school degree or equivalent;Germany;67
+walmart;21;Male;High school degree or equivalent;Germany;67
+cocacola;21;Male;High school degree or equivalent;Germany;67
+google;0;Prefer not to say;NaN;NaN;68
+exxon;0;Prefer not to say;NaN;NaN;68
+nike;0;Prefer not to say;NaN;NaN;68
+americanairlines;24;Female;Master's degree;France;69
+microsoft;24;Female;Master's degree;France;69
+spacex;24;Female;Master's degree;France;69
+3m;26;Female;Master's degree;France;70
+apple;26;Female;Master's degree;France;70
+ibm;26;Female;Master's degree;France;70
+apple;34;Female;Master's degree;Germany;71
+meta;34;Female;Master's degree;Germany;71
+cocacola;34;Female;Master's degree;Germany;71
+ford;54;Male;Less than a high school degree;Germany;72
+exxon;54;Male;Less than a high school degree;Germany;72
+mcdonalds;54;Male;Less than a high school degree;Germany;72
+nvidia;23;Male;Bachelor's degree;Germany;73
+airbnb;23;Male;Bachelor's degree;Germany;73
+uber;23;Male;Bachelor's degree;Germany;73
+tesla;27;Male;Master's degree;Germany;74
+apple;27;Male;Master's degree;Germany;74
+amazon;27;Male;Master's degree;Germany;74
+bankofamerica;25;Male;Bachelor's degree;Germany;75
+goldmansachs;25;Male;Bachelor's degree;Germany;75
+pfizer;25;Male;Bachelor's degree;Germany;75
+apple;27;Female;Master's degree;Germany;76
+amazon;27;Female;Master's degree;Germany;76
+tesla;27;Female;Master's degree;Germany;76
+walmart;51;Male;High school degree or equivalent;Germany;77
+amazon;51;Male;High school degree or equivalent;Germany;77
+apple;51;Male;High school degree or equivalent;Germany;77
+apple;26;Male;High school degree or equivalent;Germany;78
+amazon;26;Male;High school degree or equivalent;Germany;78
+tesla;26;Male;High school degree or equivalent;Germany;78
+facebook;27;Male;Bachelor's degree;Germany;79
+apple;27;Male;Bachelor's degree;Germany;79
+google;27;Male;Bachelor's degree;Germany;79
+google;25;Male;Master's degree;Germany;80
+facebook;25;Male;Master's degree;Germany;80
+apple;25;Male;Bachelor's degree;Germany;81
+berkshirehathaway;25;Male;Bachelor's degree;Germany;81
+tesla;25;Male;Bachelor's degree;Germany;81
+tesla;21;Male;High school degree or equivalent;Germany;82
+alphabet;21;Male;High school degree or equivalent;Germany;82
+apple;21;Male;High school degree or equivalent;Germany;82
+apple;23;Female;Bachelor's degree;Germany;83
+microsoft;23;Female;Bachelor's degree;Germany;83
+apple;28;Female;Master's degree;Germany;84
+levis;28;Female;Master's degree;Germany;84
+amazon;28;Female;Master's degree;Germany;84
+apple;25;Female;Master's degree;Germany;85
+apple;25;Female;Bachelor's degree;Russia;86
+google;25;Female;Bachelor's degree;Russia;86
+amazon;25;Female;Bachelor's degree;Russia;86
+apple;24;Female;High school degree or equivalent;Germany;87
+walmart;24;Female;High school degree or equivalent;Germany;87
+amazon;24;Female;High school degree or equivalent;Germany;87
+google;26;Male;Bachelor's degree;Germany;88
+amazon;26;Male;Bachelor's degree;Germany;88
+microsoft;26;Male;Bachelor's degree;Germany;88
+apple;27;Female;Master's degree;Germany;89
+amazon;27;Female;Master's degree;Germany;89
+nike;27;Female;Master's degree;Germany;89
+blackrock;25;Male;Bachelor's degree;Germany;90
+cisco;25;Male;Bachelor's degree;Germany;90
+alphabet;25;Male;Bachelor's degree;Germany;90
+microsoft;25;Male;High school degree or equivalent;Germany;91
+apple;25;Male;High school degree or equivalent;Germany;91
+fedex;25;Male;High school degree or equivalent;Germany;91
+tesla;28;Male;High school degree or equivalent;Germany;92
+amazon;28;Male;High school degree or equivalent;Germany;92
+apple;28;Male;High school degree or equivalent;Germany;92
+walmart;47;Female;Bachelor's degree;England;93
+amazon;47;Female;Bachelor's degree;England;93
+target;47;Female;Bachelor's degree;England;93
+alphabet;38;Male;Bachelor's degree;Germany;94
+apple;38;Male;Bachelor's degree;Germany;94
+pinterest;38;Male;Bachelor's degree;Germany;94
+tesla;40;Female;Bachelor's degree;China;95
+jpmorgan;40;Female;Bachelor's degree;China;95
+gm;40;Female;Bachelor's degree;China;95
+apple;28;Female;High school degree or equivalent;Pakistan;96
+amazon;28;Female;High school degree or equivalent;Pakistan;96
+microsoft;28;Female;High school degree or equivalent;Pakistan;96
+google;48;Female;Master's degree;Germany;97
+tesla;48;Female;Master's degree;Germany;97
+amazon;48;Female;Master's degree;Germany;97
+ford;26;Male;Less than a high school degree;Germany;98
+amazon;26;Male;Less than a high school degree;Germany;98
+apple;26;Male;Less than a high school degree;Germany;98
+amazon;26;Female;High school degree or equivalent;Germany;99
+tiffany&co.;26;Female;High school degree or equivalent;Germany;99
+wholefoods;26;Female;High school degree or equivalent;Germany;99
+craftheinz;45;Female;Bachelor's degree;USA;100
+amazon;45;Female;Bachelor's degree;USA;100
+apple;45;Female;Bachelor's degree;USA;100
+amazon;23;Female;Master's degree;England;101
+apple;23;Female;Master's degree;England;101
+amazon;26;Female;Bachelor's degree;Germany;102
+apple;26;Female;Bachelor's degree;Germany;102
+ford;70;Female;Master's degree;Germany;103
+mcdonalds;70;Female;Master's degree;Germany;103
+wrangler;70;Female;Master's degree;Germany;103
+apple;33;Female;Master's degree;Iran;104
+walmart;33;Female;Master's degree;Iran;104
+amazon;33;Female;Master's degree;Iran;104
+mcdonalds;59;Male;Doctorate (e.g. PhD);Germany;105
+meta;59;Male;Doctorate (e.g. PhD);Germany;105
+starbucks;59;Male;Doctorate (e.g. PhD);Germany;105
+apple;47;Female;Doctorate (e.g. PhD);Germany;106
+ford;47;Female;Doctorate (e.g. PhD);Germany;106
+chrysler;47;Female;Doctorate (e.g. PhD);Germany;106
+ford;50;Female;Doctorate (e.g. PhD);Germany;107
+cocacola;50;Female;Doctorate (e.g. PhD);Germany;107
+heinzketchup;50;Female;Doctorate (e.g. PhD);Germany;107
+peterbilttrucks;45;Female;Doctorate (e.g. PhD);Germany;108
+waltdisney;45;Female;Doctorate (e.g. PhD);Germany;108
+mcdonalds;45;Female;Doctorate (e.g. PhD);Germany;108

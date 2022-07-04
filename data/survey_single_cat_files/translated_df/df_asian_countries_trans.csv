@@ -1,0 +1,321 @@
+asian_countries;p_age;p_gender;p_education;p_country;p_id
+japan;26;Male;Bachelor's degree;germany;0
+china;26;Male;Bachelor's degree;germany;0
+india;26;Male;Bachelor's degree;germany;0
+china;44;Male;Doctorate (e.g. PhD);germany;1
+japan;44;Male;Doctorate (e.g. PhD);germany;1
+south korea;44;Male;Doctorate (e.g. PhD);germany;1
+japan;46;Male;Bachelor's degree;france;2
+china;46;Male;Bachelor's degree;france;2
+south korea;46;Male;Bachelor's degree;france;2
+thailand;28;Male;Master's degree;germany;3
+vietnam;28;Male;Master's degree;germany;3
+china;28;Male;Master's degree;germany;3
+vietnam;34;Female;Master's degree;switzerland;4
+thailand;34;Female;Master's degree;switzerland;4
+japan;34;Female;Master's degree;switzerland;4
+china;27;Male;Bachelor's degree;germany;5
+korea;27;Male;Bachelor's degree;germany;5
+japan;27;Male;Bachelor's degree;germany;5
+myanmar;27;Male;Master's degree;germany;6
+china;27;Male;Master's degree;germany;6
+japan;27;Male;Master's degree;germany;6
+thailand;27;Male;Master's degree;germany;7
+china;27;Male;Master's degree;germany;7
+pakistan;27;Male;Master's degree;germany;7
+taiwan;28;Male;High school degree or equivalent;germany;8
+taiwan;28;Male;High school degree or equivalent;germany;8
+japan;28;Male;High school degree or equivalent;germany;8
+china;29;Male;Master's degree;germany;9
+japan;29;Male;Master's degree;germany;9
+india;29;Male;Master's degree;germany;9
+china;26;Male;Master's degree;germany;10
+japan;26;Male;Master's degree;germany;10
+nepal;26;Male;Master's degree;germany;10
+russia;37;Male;Master's degree;germany;11
+mongolia;37;Male;Master's degree;germany;11
+kazakhstan;37;Male;Master's degree;germany;11
+india;24;Male;Master's degree;germany;12
+china;24;Male;Master's degree;germany;12
+japan;24;Male;Master's degree;germany;12
+japan;26;Female;Master's degree;germany;13
+china;26;Female;Master's degree;germany;13
+china;26;Female;Master's degree;germany;14
+japan;26;Female;Master's degree;germany;14
+south korea;26;Female;Master's degree;germany;14
+indonesia;28;Female;Doctorate (e.g. PhD);germany;15
+thailand;28;Female;Doctorate (e.g. PhD);germany;15
+laos;28;Female;Doctorate (e.g. PhD);germany;15
+thailand;25;Male;NaN;germany;16
+china;25;Male;NaN;germany;16
+japan;25;Male;NaN;germany;16
+vietnam;31;Female;Master's degree;germany;17
+singapore;31;Female;Master's degree;germany;17
+china;31;Female;Master's degree;germany;17
+india;36;Male;Master's degree;germany;18
+srilanka;36;Male;Master's degree;germany;18
+south korea;36;Male;Master's degree;germany;18
+indonesia;27;Male;Master's degree;germany;19
+china;27;Male;Master's degree;germany;19
+vietnam;27;Male;Master's degree;germany;19
+india;33;Male;Doctorate (e.g. PhD);germany;20
+china;33;Male;Doctorate (e.g. PhD);germany;20
+japan;33;Male;Doctorate (e.g. PhD);germany;20
+china;26;Male;Bachelor's degree;usa;21
+taiwan;26;Male;Bachelor's degree;usa;21
+vietnam;26;Male;Bachelor's degree;usa;21
+china;44;Female;Doctorate (e.g. PhD);sweden;22
+korea;44;Female;Doctorate (e.g. PhD);sweden;22
+japan;44;Female;Doctorate (e.g. PhD);sweden;22
+thailand;26;Male;Bachelor's degree;germany;23
+china;26;Male;Bachelor's degree;germany;23
+south korea;26;Male;Bachelor's degree;germany;23
+thailand;27;Male;Bachelor's degree;nan;24
+myanmar;27;Male;Bachelor's degree;nan;24
+cambodia;27;Male;Bachelor's degree;nan;24
+japan;23;Male;Bachelor's degree;germany;25
+china;23;Male;Bachelor's degree;germany;25
+nan;22;Male;Bachelor's degree;germany;26
+china;25;Male;Bachelor's degree;germany;27
+japan;25;Male;Bachelor's degree;germany;27
+india;25;Male;Bachelor's degree;germany;27
+macao;27;Male;Master's degree;germany;28
+pakistan;27;Male;Master's degree;germany;28
+bangladesh;27;Male;Master's degree;germany;28
+singapore;30;Male;Bachelor's degree;usa;29
+cambodia;30;Male;Bachelor's degree;usa;29
+laos;30;Male;Bachelor's degree;usa;29
+thailand;28;Male;Master's degree;germany;30
+china;28;Male;Master's degree;germany;30
+japan;28;Male;Master's degree;germany;30
+japan;38;Female;Doctorate (e.g. PhD);greece;31
+india;38;Female;Doctorate (e.g. PhD);greece;31
+china;38;Female;Doctorate (e.g. PhD);greece;31
+china;28;Male;Master's degree;germany;32
+vietnam;28;Male;Master's degree;germany;32
+thailand;28;Male;Master's degree;germany;32
+china;26;Male;Bachelor's degree;germany;33
+taiwan;26;Male;Bachelor's degree;germany;33
+south korea;26;Male;Bachelor's degree;germany;33
+china;19;Male;High school degree or equivalent;germany;34
+singapore;19;Male;High school degree or equivalent;germany;34
+japan;19;Male;High school degree or equivalent;germany;34
+hong kong;25;Female;Bachelor's degree;germany;35
+cambodia;25;Female;Bachelor's degree;germany;35
+laos;25;Female;Bachelor's degree;germany;35
+china;24;Female;Master's degree;germany;36
+india;24;Female;Master's degree;germany;36
+south korea;24;Female;Master's degree;germany;36
+japan;25;Male;Bachelor's degree;germany;37
+china;25;Male;Bachelor's degree;germany;37
+burma;25;Male;Bachelor's degree;germany;37
+malaysia;64;Male;Doctorate (e.g. PhD);austria;38
+indonesia;64;Male;Doctorate (e.g. PhD);austria;38
+india;64;Male;Doctorate (e.g. PhD);austria;38
+china;24;Male;Bachelor's degree;germany;39
+japan;24;Male;Bachelor's degree;germany;39
+india;24;Male;Bachelor's degree;germany;39
+china;31;Male;Bachelor's degree;germany;40
+russia;31;Male;Bachelor's degree;germany;40
+india;31;Male;Bachelor's degree;germany;40
+thailand;25;Female;Bachelor's degree;germany;41
+china;25;Female;Bachelor's degree;germany;41
+indonesia;25;Female;Bachelor's degree;germany;41
+south korea;28;Female;Bachelor's degree;germany;42
+japan;28;Female;Bachelor's degree;germany;42
+china;28;Female;Bachelor's degree;germany;42
+philippines;37;Female;Master's degree;germany;43
+china;37;Female;Master's degree;germany;43
+malaysia;37;Female;Master's degree;germany;43
+thailand;50;Female;High school degree or equivalent;germany;44
+vietnam;50;Female;High school degree or equivalent;germany;44
+cambodia;50;Female;High school degree or equivalent;germany;44
+vietnam;28;Female;High school degree or equivalent;germany;45
+india;28;Female;High school degree or equivalent;germany;45
+thailand;28;Female;High school degree or equivalent;germany;45
+china;31;Male;Bachelor's degree;germany;46
+japan;31;Male;Bachelor's degree;germany;46
+india;31;Male;Bachelor's degree;germany;46
+india;21;Female;High school degree or equivalent;germany;47
+china;21;Female;High school degree or equivalent;germany;47
+japan;21;Female;High school degree or equivalent;germany;47
+peking;23;Female;Bachelor's degree;germany;48
+shanghai;23;Female;Bachelor's degree;germany;48
+mumbai;23;Female;Bachelor's degree;germany;48
+india;36;Male;Bachelor's degree;india;49
+china;36;Male;Bachelor's degree;india;49
+singapore;36;Male;Bachelor's degree;india;49
+japan;28;Female;Master's degree;romania;50
+south korea;28;Female;Master's degree;romania;50
+thailand;28;Female;Master's degree;romania;50
+china;19;Female;High school degree or equivalent;germany;51
+japan;19;Female;High school degree or equivalent;germany;51
+india;19;Female;High school degree or equivalent;germany;51
+china;19;Female;High school degree or equivalent;germany;52
+south korea;19;Female;High school degree or equivalent;germany;52
+japan;19;Female;High school degree or equivalent;germany;52
+china;25;Male;Bachelor's degree;germany;53
+thailand;25;Male;Bachelor's degree;germany;53
+vietnam;25;Male;Bachelor's degree;germany;53
+indonesia;34;Female;Master's degree;france;54
+israel;34;Female;Master's degree;france;54
+japan;34;Female;Master's degree;france;54
+vietnam;20;Female;High school degree or equivalent;germany;55
+thailand;20;Female;High school degree or equivalent;germany;55
+japan;20;Female;High school degree or equivalent;germany;55
+china;26;Female;Master's degree;france;56
+japan;26;Female;Master's degree;france;56
+singapore;26;Female;Master's degree;france;56
+china;29;Prefer not to say;Master's degree;germany;57
+north korea;29;Prefer not to say;Master's degree;germany;57
+south korea;29;Prefer not to say;Master's degree;germany;57
+china;31;Male;Master's degree;germany;58
+vietnam;31;Male;Master's degree;germany;58
+japan;31;Male;Master's degree;germany;58
+japan;23;Male;High school degree or equivalent;germany;59
+korea;23;Male;High school degree or equivalent;germany;59
+china;23;Male;High school degree or equivalent;germany;59
+china;21;Female;High school degree or equivalent;germany;60
+japan;21;Female;High school degree or equivalent;germany;60
+indonesia;21;Female;High school degree or equivalent;germany;60
+thailand;54;Male;High school degree or equivalent;germany;61
+india;54;Male;High school degree or equivalent;germany;61
+china;54;Male;High school degree or equivalent;germany;61
+japan;30;Female;Master's degree;france;62
+singapore;30;Female;Master's degree;france;62
+china;30;Female;Master's degree;france;62
+china;24;Male;Bachelor's degree;germany;63
+taiwan;24;Male;Bachelor's degree;germany;63
+india;24;Male;Bachelor's degree;germany;63
+china;17;Male;Less than a high school degree;germany;64
+japan;17;Male;Less than a high school degree;germany;64
+taiwan;17;Male;Less than a high school degree;germany;64
+china;25;Female;High school degree or equivalent;germany;65
+taiwan;25;Female;High school degree or equivalent;germany;65
+south korea;25;Female;High school degree or equivalent;germany;65
+china;16;Male;Less than a high school degree;germany;66
+kazakhstan;16;Male;Less than a high school degree;germany;66
+mongolia;16;Male;Less than a high school degree;germany;66
+japan;21;Male;High school degree or equivalent;germany;67
+china;21;Male;High school degree or equivalent;germany;67
+thailand;21;Male;High school degree or equivalent;germany;67
+china;0;Prefer not to say;NaN;nan;68
+taiwan;0;Prefer not to say;NaN;nan;68
+hong kong;0;Prefer not to say;NaN;nan;68
+china;24;Female;Master's degree;france;69
+japan;24;Female;Master's degree;france;69
+indonesia;24;Female;Master's degree;france;69
+indonesia;26;Female;Master's degree;france;70
+singapore;26;Female;Master's degree;france;70
+china;26;Female;Master's degree;france;70
+japan;34;Female;Master's degree;germany;71
+south korea;34;Female;Master's degree;germany;71
+china;34;Female;Master's degree;germany;71
+india;54;Male;Less than a high school degree;germany;72
+china;54;Male;Less than a high school degree;germany;72
+vietnam;54;Male;Less than a high school degree;germany;72
+japan;23;Male;Bachelor's degree;germany;73
+indonesia;23;Male;Bachelor's degree;germany;73
+taiwan;23;Male;Bachelor's degree;germany;73
+turgay;27;Male;Master's degree;germany;74
+china;27;Male;Master's degree;germany;74
+japan;27;Male;Master's degree;germany;74
+vietnam;25;Male;Bachelor's degree;germany;75
+japan;25;Male;Bachelor's degree;germany;75
+indonesia;25;Male;Bachelor's degree;germany;75
+japan;27;Female;Master's degree;germany;76
+china;27;Female;Master's degree;germany;76
+singapore;27;Female;Master's degree;germany;76
+china;51;Male;High school degree or equivalent;germany;77
+japan;51;Male;High school degree or equivalent;germany;77
+indonesia;51;Male;High school degree or equivalent;germany;77
+vietnam;26;Male;High school degree or equivalent;germany;78
+thailand;26;Male;High school degree or equivalent;germany;78
+cambodia;26;Male;High school degree or equivalent;germany;78
+china;27;Male;Bachelor's degree;germany;79
+japan;27;Male;Bachelor's degree;germany;79
+south korea;27;Male;Bachelor's degree;germany;79
+china;25;Male;Master's degree;germany;80
+vietnam;25;Male;Master's degree;germany;80
+japan;25;Male;Master's degree;germany;80
+china;25;Male;Bachelor's degree;germany;81
+japan;25;Male;Bachelor's degree;germany;81
+south korea;25;Male;Bachelor's degree;germany;81
+china;21;Male;High school degree or equivalent;germany;82
+mongolia;21;Male;High school degree or equivalent;germany;82
+vietnam;21;Male;High school degree or equivalent;germany;82
+malaysia;23;Female;Bachelor's degree;germany;83
+china;23;Female;Bachelor's degree;germany;83
+japan;23;Female;Bachelor's degree;germany;83
+china;28;Female;Master's degree;germany;84
+vietnam;28;Female;Master's degree;germany;84
+japan;28;Female;Master's degree;germany;84
+china;25;Female;Master's degree;germany;85
+china;25;Female;Bachelor's degree;russia;86
+south korea;25;Female;Bachelor's degree;russia;86
+japan;25;Female;Bachelor's degree;russia;86
+indonesia;24;Female;High school degree or equivalent;germany;87
+srilanka;24;Female;High school degree or equivalent;germany;87
+thailand;24;Female;High school degree or equivalent;germany;87
+china;26;Male;Bachelor's degree;germany;88
+vietnam;26;Male;Bachelor's degree;germany;88
+japan;26;Male;Bachelor's degree;germany;88
+indonesia;27;Female;Master's degree;germany;89
+china;27;Female;Master's degree;germany;89
+philipines;27;Female;Master's degree;germany;89
+syria;25;Male;Bachelor's degree;germany;90
+china;25;Male;Bachelor's degree;germany;90
+pakistan;25;Male;Bachelor's degree;germany;90
+japan;25;Male;High school degree or equivalent;germany;91
+indonesia;25;Male;High school degree or equivalent;germany;91
+china;25;Male;High school degree or equivalent;germany;91
+indonesia;28;Male;High school degree or equivalent;germany;92
+china;28;Male;High school degree or equivalent;germany;92
+japan;28;Male;High school degree or equivalent;germany;92
+china;47;Female;Bachelor's degree;england;93
+japan;47;Female;Bachelor's degree;england;93
+singapore;47;Female;Bachelor's degree;england;93
+south korea;38;Male;Bachelor's degree;germany;94
+china;38;Male;Bachelor's degree;germany;94
+india;38;Male;Bachelor's degree;germany;94
+china;40;Female;Bachelor's degree;china;95
+japan;40;Female;Bachelor's degree;china;95
+south korea;40;Female;Bachelor's degree;china;95
+china;28;Female;High school degree or equivalent;pakistan;96
+russia;28;Female;High school degree or equivalent;pakistan;96
+pakistan;28;Female;High school degree or equivalent;pakistan;96
+china;48;Female;Diplom;germany;97
+russia;48;Female;Diplom;germany;97
+japan;48;Female;Diplom;germany;97
+japan;26;Male;Less than a high school degree;germany;98
+india;26;Male;Less than a high school degree;germany;98
+nepal;26;Male;Less than a high school degree;germany;98
+thailand;26;Female;High school degree or equivalent;germany;99
+india;26;Female;High school degree or equivalent;germany;99
+russia;26;Female;High school degree or equivalent;germany;99
+india;45;Female;Bachelor's degree;usa;100
+china;45;Female;Bachelor's degree;usa;100
+turkey;45;Female;Bachelor's degree;usa;100
+thailand;23;Female;Master's degree;england;101
+cambodia;23;Female;Master's degree;england;101
+japan;23;Female;Master's degree;england;101
+thailand;26;Female;Bachelor's degree;germany;102
+japan;26;Female;Bachelor's degree;germany;102
+thailand;70;Female;Dipl.-Ing.;germany;103
+china;70;Female;Dipl.-Ing.;germany;103
+india;70;Female;Dipl.-Ing.;germany;103
+iran;33;Female;Master's degree;iran;104
+japan;33;Female;Master's degree;iran;104
+south korea;33;Female;Master's degree;iran;104
+china;59;Male;Doctorate (e.g. PhD);germany;105
+south korea;59;Male;Doctorate (e.g. PhD);germany;105
+vietnam;59;Male;Doctorate (e.g. PhD);germany;105
+mongolia;47;Female;Doctorate (e.g. PhD);germany;106
+china;47;Female;Doctorate (e.g. PhD);germany;106
+india;47;Female;Doctorate (e.g. PhD);germany;106
+china;50;Female;Doctorate (e.g. PhD);germany;107
+south korea;50;Female;Doctorate (e.g. PhD);germany;107
+japan;50;Female;Doctorate (e.g. PhD);germany;107
+china;45;Female;Doctorate (e.g. PhD);germany;108
+vietnam;45;Female;Doctorate (e.g. PhD);germany;108
+indonesia;45;Female;Doctorate (e.g. PhD);germany;108

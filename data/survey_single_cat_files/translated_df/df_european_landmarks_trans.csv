@@ -1,0 +1,313 @@
+european_landmarks;p_age;p_gender;p_education;p_country;p_id
+eiffel tower;26;Male;Bachelor's degree;germany;0
+brandenburg gate;26;Male;Bachelor's degree;germany;0
+colosseum;26;Male;Bachelor's degree;germany;0
+eiffel tower;44;Male;Doctorate (e.g. PhD);germany;1
+towerbridge;44;Male;Doctorate (e.g. PhD);germany;1
+leaning tower of pisa;44;Male;Doctorate (e.g. PhD);germany;1
+eiffel tower;46;Male;Bachelor's degree;france;2
+leaning tower of pisa;46;Male;Bachelor's degree;france;2
+stonehenge;46;Male;Bachelor's degree;france;2
+eiffel tower;28;Male;Master's degree;germany;3
+brandenburg gate;28;Male;Master's degree;germany;3
+london eye;28;Male;Master's degree;germany;3
+eiffel tower;34;Female;Master's degree;switzerland;4
+big ben;34;Female;Master's degree;switzerland;4
+manneken pis;34;Female;Master's degree;switzerland;4
+eiffel tower;27;Male;Bachelor's degree;germany;5
+brandenburg gate;27;Male;Bachelor's degree;germany;5
+neuschwanstein castle;27;Male;Bachelor's degree;germany;5
+brandenburg gate;27;Male;Master's degree;germany;6
+big ben;27;Male;Master's degree;germany;6
+tower bridge;27;Male;Master's degree;germany;6
+eiffel tower;27;Male;Master's degree;germany;7
+brandenburg gate;27;Male;Master's degree;germany;7
+london eye;27;Male;Master's degree;germany;7
+odenwald;28;Male;High school degree or equivalent;germany;8
+alps;28;Male;High school degree or equivalent;germany;8
+cotedazur;28;Male;High school degree or equivalent;germany;8
+brandenburg gate;29;Male;Master's degree;germany;9
+colosseum;29;Male;Master's degree;germany;9
+eiffel tower;29;Male;Master's degree;germany;9
+zugspitze;26;Male;Master's degree;germany;10
+externals;37;Male;Master's degree;germany;11
+rock sea;37;Male;Master's degree;germany;11
+rheinfall;37;Male;Master's degree;germany;11
+eiffel tower;24;Male;Master's degree;germany;12
+brandenburg gate;24;Male;Master's degree;germany;12
+neuschwanstein castle;24;Male;Master's degree;germany;12
+eiffel tour;26;Female;Master's degree;germany;13
+colosseum;26;Female;Master's degree;germany;13
+neuschwanstein castle;26;Female;Master's degree;germany;13
+colosseum;26;Female;Master's degree;germany;14
+neuschwanstein castle;26;Female;Master's degree;germany;14
+leaning tower of pisa;26;Female;Master's degree;germany;14
+eiffel tower;28;Female;Doctorate (e.g. PhD);germany;15
+neuschwanstein castle;28;Female;Doctorate (e.g. PhD);germany;15
+colosseum;28;Female;Doctorate (e.g. PhD);germany;15
+eiffel tower;25;Male;NaN;germany;16
+atomium;25;Male;NaN;germany;16
+eiffel tower;31;Female;Master's degree;germany;17
+tower bridge;31;Female;Master's degree;germany;17
+buckingham palace;31;Female;Master's degree;germany;17
+eiffel tower;36;Male;Master's degree;germany;18
+rialto bridge;36;Male;Master's degree;germany;18
+colosseum;36;Male;Master's degree;germany;18
+eiffel tower;27;Male;Master's degree;germany;19
+eiffel tower;33;Male;Doctorate (e.g. PhD);germany;20
+tower bridge;33;Male;Doctorate (e.g. PhD);germany;20
+brandenburg gate;33;Male;Doctorate (e.g. PhD);germany;20
+eiffel tower;26;Male;Bachelor's degree;usa;21
+brandenburg gate;26;Male;Bachelor's degree;usa;21
+neuschwanstein castle;26;Male;Bachelor's degree;usa;21
+eiffel tower;44;Female;Doctorate (e.g. PhD);sweden;22
+leaning tower of pisa;44;Female;Doctorate (e.g. PhD);sweden;22
+colosseum;44;Female;Doctorate (e.g. PhD);sweden;22
+eiffel tower;26;Male;Bachelor's degree;germany;23
+reichstag building;26;Male;Bachelor's degree;germany;23
+charles bridge;26;Male;Bachelor's degree;germany;23
+eiffel tower;27;Male;Bachelor's degree;nan;24
+london eye;27;Male;Bachelor's degree;nan;24
+cologne cathedral;27;Male;Bachelor's degree;nan;24
+eiffel tower;23;Male;Bachelor's degree;germany;25
+big ben;23;Male;Bachelor's degree;germany;25
+sagrada familia;23;Male;Bachelor's degree;germany;25
+heidelberg castle;22;Male;Bachelor's degree;germany;26
+neuschwanstein castle;22;Male;Bachelor's degree;germany;26
+brandenburg gate;22;Male;Bachelor's degree;germany;26
+eiffel tower;25;Male;Bachelor's degree;germany;27
+brandenburg gate;25;Male;Bachelor's degree;germany;27
+colosseum;25;Male;Bachelor's degree;germany;27
+eiffel tower;27;Male;Master's degree;germany;28
+heidelberg castle;27;Male;Master's degree;germany;28
+louvre;27;Male;Master's degree;germany;28
+eiffel tower;30;Male;Bachelor's degree;usa;29
+brandenburg gate;30;Male;Bachelor's degree;usa;29
+eiffel tower;28;Male;Master's degree;germany;30
+brandenburg gate;28;Male;Master's degree;germany;30
+colosseum;28;Male;Master's degree;germany;30
+eiffel tower;38;Female;Doctorate (e.g. PhD);greece;31
+parthenon;38;Female;Doctorate (e.g. PhD);greece;31
+colosseum;38;Female;Doctorate (e.g. PhD);greece;31
+colosseum;28;Male;Master's degree;germany;32
+brandenburg gate;28;Male;Master's degree;germany;32
+london bridge;28;Male;Master's degree;germany;32
+eiffel tower;26;Male;Bachelor's degree;germany;33
+leaning tower of pisa;26;Male;Bachelor's degree;germany;33
+sagrada familia;26;Male;Bachelor's degree;germany;33
+brandenburg gate;19;Male;High school degree or equivalent;germany;34
+battle of nations memorial;19;Male;High school degree or equivalent;germany;34
+kaiser wilhelm monument;19;Male;High school degree or equivalent;germany;34
+eiffel tower;25;Female;Bachelor's degree;germany;35
+brandenburg gate;25;Female;Bachelor's degree;germany;35
+sagrada familia;25;Female;Bachelor's degree;germany;35
+eiffel tower;24;Female;Master's degree;germany;36
+london bridge;24;Female;Master's degree;germany;36
+brandenburg gate;24;Female;Master's degree;germany;36
+eiffel tower;25;Male;Bachelor's degree;germany;37
+louvre;25;Male;Bachelor's degree;germany;37
+colosseum;25;Male;Bachelor's degree;germany;37
+eiffel tower;64;Male;Doctorate (e.g. PhD);austria;38
+brandenburg gate;64;Male;Doctorate (e.g. PhD);austria;38
+colosseum;64;Male;Doctorate (e.g. PhD);austria;38
+eiffel tower;24;Male;Bachelor's degree;germany;39
+colosseum;24;Male;Bachelor's degree;germany;39
+neuschwanstein castle;24;Male;Bachelor's degree;germany;39
+neuschwanstein castle;31;Male;Bachelor's degree;germany;40
+eiffel tower;31;Male;Bachelor's degree;germany;40
+charles bridge;31;Male;Bachelor's degree;germany;40
+brandenburg gate;25;Female;Bachelor's degree;germany;41
+eiffel tower;25;Female;Bachelor's degree;germany;41
+big ben;25;Female;Bachelor's degree;germany;41
+brandenburg gate;28;Female;Bachelor's degree;germany;42
+eiffel tower;28;Female;Bachelor's degree;germany;42
+big ben;28;Female;Bachelor's degree;germany;42
+eiffel tower;37;Female;Master's degree;germany;43
+brandenburg gate;37;Female;Master's degree;germany;43
+buckingham palace;37;Female;Master's degree;germany;43
+black forrest;50;Female;High school degree or equivalent;germany;44
+colosseum;50;Female;High school degree or equivalent;germany;44
+provence;50;Female;High school degree or equivalent;germany;44
+heidelberg castle;28;Female;High school degree or equivalent;germany;45
+eiffel tower;28;Female;High school degree or equivalent;germany;45
+saint peter's basilica;28;Female;High school degree or equivalent;germany;45
+brandenburg gate;31;Male;Bachelor's degree;germany;46
+eiffel tower;31;Male;Bachelor's degree;germany;46
+cologne cathedral;31;Male;Bachelor's degree;germany;46
+eiffel tower;21;Female;High school degree or equivalent;germany;47
+brandenburg gate;21;Female;High school degree or equivalent;germany;47
+london eye;21;Female;High school degree or equivalent;germany;47
+brandenburg gate;23;Female;Bachelor's degree;germany;48
+big ben;23;Female;Bachelor's degree;germany;48
+colosseum;23;Female;Bachelor's degree;germany;48
+eiffel tower;36;Male;Bachelor's degree;india;49
+berlin wall;36;Male;Bachelor's degree;india;49
+leaning tower of pisa;36;Male;Bachelor's degree;india;49
+eiffel tower;28;Female;Master's degree;romania;50
+neuschwanstein castle;28;Female;Master's degree;romania;50
+sagrada familia;28;Female;Master's degree;romania;50
+eiffel tower;19;Female;High school degree or equivalent;germany;51
+colosseum;19;Female;High school degree or equivalent;germany;51
+big ben;19;Female;High school degree or equivalent;germany;51
+brandenburg gate;19;Female;High school degree or equivalent;germany;52
+eiffel tower;19;Female;High school degree or equivalent;germany;52
+the little mermaid;19;Female;High school degree or equivalent;germany;52
+eiffel tower;25;Male;Bachelor's degree;germany;53
+palace of versailles;34;Female;Master's degree;france;54
+eiffel tower;34;Female;Master's degree;france;54
+reiks museum;34;Female;Master's degree;france;54
+berlin wall;20;Female;High school degree or equivalent;germany;55
+eiffel tower;20;Female;High school degree or equivalent;germany;55
+cologne cathedral;20;Female;High school degree or equivalent;germany;55
+eiffel tower;26;Female;Master's degree;france;56
+tower bridge;26;Female;Master's degree;france;56
+palace of versailles;26;Female;Master's degree;france;56
+bellevue palace;29;Prefer not to say;Master's degree;germany;57
+reichstag building;29;Prefer not to say;Master's degree;germany;57
+hagia sophia;29;Prefer not to say;Master's degree;germany;57
+eiffel tower;31;Male;Master's degree;germany;58
+tower bridge;31;Male;Master's degree;germany;58
+big ben;31;Male;Master's degree;germany;58
+rhine falls;23;Male;High school degree or equivalent;germany;59
+eiffel tower;23;Male;High school degree or equivalent;germany;59
+leaning tower of pisa;23;Male;High school degree or equivalent;germany;59
+brandenburg gate;21;Female;High school degree or equivalent;germany;60
+eiffel tower;21;Female;High school degree or equivalent;germany;60
+colosseum;21;Female;High school degree or equivalent;germany;60
+neuschwanstein castle;54;Male;High school degree or equivalent;germany;61
+eiffel tower;54;Male;High school degree or equivalent;germany;61
+tower bridge;54;Male;High school degree or equivalent;germany;61
+eiffel tower;30;Female;Master's degree;france;62
+palace of versailles;30;Female;Master's degree;france;62
+big ben;30;Female;Master's degree;france;62
+leaning tower of pisa;24;Male;Bachelor's degree;germany;63
+eiffel tower;24;Male;Bachelor's degree;germany;63
+holocaust memorial;24;Male;Bachelor's degree;germany;63
+colosseum;17;Male;Less than a high school degree;germany;64
+eiffel tower;17;Male;Less than a high school degree;germany;64
+berlin wall;17;Male;Less than a high school degree;germany;64
+eiffel tower;25;Female;High school degree or equivalent;germany;65
+kaiserstuhl;25;Female;High school degree or equivalent;germany;65
+wadden sea;25;Female;High school degree or equivalent;germany;65
+eiffel tower;16;Male;Less than a high school degree;germany;66
+brandenburg gate;16;Male;Less than a high school degree;germany;66
+tower bridge;16;Male;Less than a high school degree;germany;66
+nan;21;Male;High school degree or equivalent;germany;67
+eiffel tower;0;Prefer not to say;NaN;nan;68
+brandenburg gate;0;Prefer not to say;NaN;nan;68
+berlin wall;0;Prefer not to say;NaN;nan;68
+nan;24;Female;Master's degree;france;69
+eiffel tower;26;Female;Master's degree;france;70
+mont saint michel;26;Female;Master's degree;france;70
+big ben;26;Female;Master's degree;france;70
+brandenburg gate;34;Female;Master's degree;germany;71
+eiffel tower;34;Female;Master's degree;germany;71
+london eye;34;Female;Master's degree;germany;71
+nan;54;Male;Less than a high school degree;germany;72
+berlin wall;23;Male;Bachelor's degree;germany;73
+eiffel tower;23;Male;Bachelor's degree;germany;73
+eiffel tower;27;Male;Master's degree;germany;74
+brandenburg gate;27;Male;Master's degree;germany;74
+cathedral of saint mary the royal of la almudena;27;Male;Master's degree;germany;74
+leaning tower of pisa;25;Male;Bachelor's degree;germany;75
+eiffel tower;25;Male;Bachelor's degree;germany;75
+colosseum;25;Male;Bachelor's degree;germany;75
+eiffel tower;27;Female;Master's degree;germany;76
+neuschwanstein castle;27;Female;Master's degree;germany;76
+colosseum;27;Female;Master's degree;germany;76
+notre dame;51;Male;High school degree or equivalent;germany;77
+palace of versailles;51;Male;High school degree or equivalent;germany;77
+big ben;51;Male;High school degree or equivalent;germany;77
+bodensee;26;Male;High school degree or equivalent;germany;78
+north sea;26;Male;High school degree or equivalent;germany;78
+sylt;26;Male;High school degree or equivalent;germany;78
+eiffel tower;27;Male;Bachelor's degree;germany;79
+big ben;27;Male;Bachelor's degree;germany;79
+berlin tv tower;27;Male;Bachelor's degree;germany;79
+eiffel tour;25;Male;Master's degree;germany;80
+brandenburg gate;25;Male;Master's degree;germany;80
+neuschwanstein castle;25;Male;Master's degree;germany;80
+eiffel tower;25;Male;Bachelor's degree;germany;81
+brandenburg gate;25;Male;Bachelor's degree;germany;81
+colosseum;25;Male;Bachelor's degree;germany;81
+eiffel tower;21;Male;High school degree or equivalent;germany;82
+elbphilharmonie;21;Male;High school degree or equivalent;germany;82
+colosseum;21;Male;High school degree or equivalent;germany;82
+heidelberg castle;23;Female;Bachelor's degree;germany;83
+sagrada familia;23;Female;Bachelor's degree;germany;83
+alhambra;23;Female;Bachelor's degree;germany;83
+eiffel tower;28;Female;Master's degree;germany;84
+brandenburg gate;28;Female;Master's degree;germany;84
+colosseum;28;Female;Master's degree;germany;84
+eiffel tower;25;Female;Master's degree;germany;85
+buckingham palace;25;Female;Master's degree;germany;85
+arc de triomphe;25;Female;Master's degree;germany;85
+place of versailles;25;Female;Bachelor's degree;russia;86
+roman forum;25;Female;Bachelor's degree;russia;86
+sagrada familia;25;Female;Bachelor's degree;russia;86
+saint peter's basilica;24;Female;High school degree or equivalent;germany;87
+acropolis;24;Female;High school degree or equivalent;germany;87
+big ben;24;Female;High school degree or equivalent;germany;87
+eiffel tower;26;Male;Bachelor's degree;germany;88
+heidelberg castle;26;Male;Bachelor's degree;germany;88
+brandenburg gate;26;Male;Bachelor's degree;germany;88
+eiffel tower;27;Female;Master's degree;germany;89
+colosseum;27;Female;Master's degree;germany;89
+brandenburg gate;27;Female;Master's degree;germany;89
+acropolis;25;Male;Bachelor's degree;germany;90
+cathedral mosquecordoca;25;Male;Bachelor's degree;germany;90
+eiffel tower;25;Male;Bachelor's degree;germany;90
+eiffel tower;25;Male;High school degree or equivalent;germany;91
+louvre;25;Male;High school degree or equivalent;germany;91
+coliseum;25;Male;High school degree or equivalent;germany;91
+brandenburg gate;28;Male;High school degree or equivalent;germany;92
+colosseum;28;Male;High school degree or equivalent;germany;92
+eiffel tower;28;Male;High school degree or equivalent;germany;92
+buckingham palace;47;Female;Bachelor's degree;england;93
+plaza de sevilla;47;Female;Bachelor's degree;england;93
+heidelberg castle;47;Female;Bachelor's degree;england;93
+eiffel tower;38;Male;Bachelor's degree;germany;94
+zugspitze;38;Male;Bachelor's degree;germany;94
+bodensee;38;Male;Bachelor's degree;germany;94
+alps;40;Female;Bachelor's degree;china;95
+eiffel tower;40;Female;Bachelor's degree;china;95
+big ben;40;Female;Bachelor's degree;china;95
+eiffel tower;28;Female;High school degree or equivalent;pakistan;96
+neuschwanstein castle;28;Female;High school degree or equivalent;pakistan;96
+charles bridge;28;Female;High school degree or equivalent;pakistan;96
+eiffel tower;48;Female;Diplom;germany;97
+brandenburg gate;48;Female;Diplom;germany;97
+saint peter's basilica;48;Female;Diplom;germany;97
+eiffel tower;26;Male;Less than a high school degree;germany;98
+colosseum;26;Male;Less than a high school degree;germany;98
+brandenburg gate;26;Male;Less than a high school degree;germany;98
+eiffel tower;26;Female;High school degree or equivalent;germany;99
+brandenburg gate;26;Female;High school degree or equivalent;germany;99
+rakotz bridge;26;Female;High school degree or equivalent;germany;99
+big ben;45;Female;Bachelor's degree;usa;100
+loch ness;45;Female;Bachelor's degree;usa;100
+eiffel tower;45;Female;Bachelor's degree;usa;100
+eiffel tower;23;Female;Master's degree;england;101
+manneken pis;23;Female;Master's degree;england;101
+big ben;23;Female;Master's degree;england;101
+eiffel tower;26;Female;Bachelor's degree;germany;102
+tower bridge;26;Female;Bachelor's degree;germany;102
+brandenburg gate;26;Female;Bachelor's degree;germany;102
+eiffel tower;70;Female;Dipl.-Ing.;germany;103
+brandenburg gate;70;Female;Dipl.-Ing.;germany;103
+atomium;70;Female;Dipl.-Ing.;germany;103
+glendalough;33;Female;Master's degree;iran;104
+bray;33;Female;Master's degree;iran;104
+kilkenny;33;Female;Master's degree;iran;104
+big ben;59;Male;Doctorate (e.g. PhD);germany;105
+eiffel tower;59;Male;Doctorate (e.g. PhD);germany;105
+colosseum;59;Male;Doctorate (e.g. PhD);germany;105
+sagrada familia;47;Female;Doctorate (e.g. PhD);germany;106
+bradenburg gate;47;Female;Doctorate (e.g. PhD);germany;106
+knossos;47;Female;Doctorate (e.g. PhD);germany;106
+cologne cathedral;50;Female;Doctorate (e.g. PhD);germany;107
+tower bridge;50;Female;Doctorate (e.g. PhD);germany;107
+palace of versailles;50;Female;Doctorate (e.g. PhD);germany;107
+louvre;45;Female;Doctorate (e.g. PhD);germany;108
+alhambra;45;Female;Doctorate (e.g. PhD);germany;108
+prague old town;45;Female;Doctorate (e.g. PhD);germany;108

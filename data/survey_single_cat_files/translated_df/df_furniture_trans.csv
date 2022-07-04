@@ -1,0 +1,322 @@
+furniture;p_age;p_gender;p_education;p_country;p_id
+chair;26;Male;Bachelor's degree;germany;0
+table;26;Male;Bachelor's degree;germany;0
+lamp;26;Male;Bachelor's degree;germany;0
+chair;44;Male;Doctorate (e.g. PhD);germany;1
+table;44;Male;Doctorate (e.g. PhD);germany;1
+sofa;44;Male;Doctorate (e.g. PhD);germany;1
+table;46;Male;Bachelor's degree;france;2
+cupboard;46;Male;Bachelor's degree;france;2
+chair;46;Male;Bachelor's degree;france;2
+bed;28;Male;Master's degree;germany;3
+sofa;28;Male;Master's degree;germany;3
+table;28;Male;Master's degree;germany;3
+chair;34;Female;Master's degree;switzerland;4
+table;34;Female;Master's degree;switzerland;4
+cabinet;34;Female;Master's degree;switzerland;4
+chair;27;Male;Bachelor's degree;germany;5
+sofa;27;Male;Bachelor's degree;germany;5
+table;27;Male;Bachelor's degree;germany;5
+couch;27;Male;Master's degree;germany;6
+chair;27;Male;Master's degree;germany;6
+wardrobe;27;Male;Master's degree;germany;6
+chair;27;Male;Master's degree;germany;7
+table;27;Male;Master's degree;germany;7
+cabinet;27;Male;Master's degree;germany;7
+couch;28;Male;High school degree or equivalent;germany;8
+dining table;28;Male;High school degree or equivalent;germany;8
+bed;28;Male;High school degree or equivalent;germany;8
+chair;29;Male;Master's degree;germany;9
+table;29;Male;Master's degree;germany;9
+bed;29;Male;Master's degree;germany;9
+couch;26;Male;Master's degree;germany;10
+table;26;Male;Master's degree;germany;10
+chair;26;Male;Master's degree;germany;10
+chair;37;Male;Master's degree;germany;11
+bed;37;Male;Master's degree;germany;11
+table;37;Male;Master's degree;germany;11
+chair;24;Male;Master's degree;germany;12
+table;24;Male;Master's degree;germany;12
+wardrobe;24;Male;Master's degree;germany;12
+couch;26;Female;Master's degree;germany;13
+bed;26;Female;Master's degree;germany;13
+table;26;Female;Master's degree;germany;13
+sofa;26;Female;Master's degree;germany;14
+chair;26;Female;Master's degree;germany;14
+bed;26;Female;Master's degree;germany;14
+chair;28;Female;Doctorate (e.g. PhD);germany;15
+table;28;Female;Doctorate (e.g. PhD);germany;15
+couch;28;Female;Doctorate (e.g. PhD);germany;15
+chair;25;Male;NaN;germany;16
+table;25;Male;NaN;germany;16
+bed;25;Male;NaN;germany;16
+chair;31;Female;Master's degree;germany;17
+table;31;Female;Master's degree;germany;17
+wardrobe;31;Female;Master's degree;germany;17
+table;36;Male;Master's degree;germany;18
+chair;36;Male;Master's degree;germany;18
+cupboard;36;Male;Master's degree;germany;18
+table;27;Male;Master's degree;germany;19
+chair;33;Male;Doctorate (e.g. PhD);germany;20
+desk;33;Male;Doctorate (e.g. PhD);germany;20
+couch;33;Male;Doctorate (e.g. PhD);germany;20
+chair;26;Male;Bachelor's degree;usa;21
+desk;26;Male;Bachelor's degree;usa;21
+endtable;26;Male;Bachelor's degree;usa;21
+chair;44;Female;Doctorate (e.g. PhD);sweden;22
+table;44;Female;Doctorate (e.g. PhD);sweden;22
+bed;44;Female;Doctorate (e.g. PhD);sweden;22
+chair;26;Male;Bachelor's degree;germany;23
+table;26;Male;Bachelor's degree;germany;23
+cabinet;26;Male;Bachelor's degree;germany;23
+sideboard;27;Male;Bachelor's degree;nan;24
+writing table;27;Male;Bachelor's degree;nan;24
+cabinet;27;Male;Bachelor's degree;nan;24
+couch;23;Male;Bachelor's degree;germany;25
+desk;23;Male;Bachelor's degree;germany;25
+table;23;Male;Bachelor's degree;germany;25
+bed;22;Male;Bachelor's degree;germany;26
+shelf;22;Male;Bachelor's degree;germany;26
+table;22;Male;Bachelor's degree;germany;26
+couch;25;Male;Bachelor's degree;germany;27
+table;25;Male;Bachelor's degree;germany;27
+wardrobe;25;Male;Bachelor's degree;germany;27
+bed;27;Male;Master's degree;germany;28
+chair;27;Male;Master's degree;germany;28
+table;27;Male;Master's degree;germany;28
+chair;30;Male;Bachelor's degree;usa;29
+bed;30;Male;Bachelor's degree;usa;29
+bench;30;Male;Bachelor's degree;usa;29
+chair;28;Male;Master's degree;germany;30
+table;28;Male;Master's degree;germany;30
+bed;28;Male;Master's degree;germany;30
+table;38;Female;Doctorate (e.g. PhD);greece;31
+chair;38;Female;Doctorate (e.g. PhD);greece;31
+desk;38;Female;Doctorate (e.g. PhD);greece;31
+table;28;Male;Master's degree;germany;32
+chair;28;Male;Master's degree;germany;32
+cupboard;28;Male;Master's degree;germany;32
+chair;26;Male;Bachelor's degree;germany;33
+table;26;Male;Bachelor's degree;germany;33
+lamp;26;Male;Bachelor's degree;germany;33
+chair;19;Male;High school degree or equivalent;germany;34
+table;19;Male;High school degree or equivalent;germany;34
+cabinet;19;Male;High school degree or equivalent;germany;34
+chair;25;Female;Bachelor's degree;germany;35
+shelf;25;Female;Bachelor's degree;germany;35
+table;25;Female;Bachelor's degree;germany;35
+desk;24;Female;Master's degree;germany;36
+chair;24;Female;Master's degree;germany;36
+wardrobe;24;Female;Master's degree;germany;36
+desk;25;Male;Bachelor's degree;germany;37
+chair;25;Male;Bachelor's degree;germany;37
+cupboard;25;Male;Bachelor's degree;germany;37
+chair;64;Male;Doctorate (e.g. PhD);austria;38
+tablet;64;Male;Doctorate (e.g. PhD);austria;38
+cupboard;64;Male;Doctorate (e.g. PhD);austria;38
+couch;24;Male;Bachelor's degree;germany;39
+table;24;Male;Bachelor's degree;germany;39
+chair;24;Male;Bachelor's degree;germany;39
+chair;31;Male;Bachelor's degree;germany;40
+table;31;Male;Bachelor's degree;germany;40
+cabinet;31;Male;Bachelor's degree;germany;40
+couch;25;Female;Bachelor's degree;germany;41
+bed;25;Female;Bachelor's degree;germany;41
+table;25;Female;Bachelor's degree;germany;41
+coffeetable;28;Female;Bachelor's degree;germany;42
+ottoman;28;Female;Bachelor's degree;germany;42
+couch;28;Female;Bachelor's degree;germany;42
+chair;37;Female;Master's degree;germany;43
+sofa;37;Female;Master's degree;germany;43
+table;37;Female;Master's degree;germany;43
+couch;50;Female;High school degree or equivalent;germany;44
+table;50;Female;High school degree or equivalent;germany;44
+sideboard;50;Female;High school degree or equivalent;germany;44
+chair;28;Female;High school degree or equivalent;germany;45
+table;28;Female;High school degree or equivalent;germany;45
+couch;28;Female;High school degree or equivalent;germany;45
+table;31;Male;Bachelor's degree;germany;46
+chair;31;Male;Bachelor's degree;germany;46
+shelf;31;Male;Bachelor's degree;germany;46
+table;21;Female;High school degree or equivalent;germany;47
+bed;21;Female;High school degree or equivalent;germany;47
+chair;21;Female;High school degree or equivalent;germany;47
+desk;23;Female;Bachelor's degree;germany;48
+chair;23;Female;Bachelor's degree;germany;48
+wardrobe;23;Female;Bachelor's degree;germany;48
+sofa;36;Male;Bachelor's degree;india;49
+bed;36;Male;Bachelor's degree;india;49
+chair;36;Male;Bachelor's degree;india;49
+chair;28;Female;Master's degree;romania;50
+desk;28;Female;Master's degree;romania;50
+wardrobe;28;Female;Master's degree;romania;50
+bed;19;Female;High school degree or equivalent;germany;51
+table;19;Female;High school degree or equivalent;germany;51
+closet;19;Female;High school degree or equivalent;germany;51
+bed;19;Female;High school degree or equivalent;germany;52
+couch;19;Female;High school degree or equivalent;germany;52
+chair;19;Female;High school degree or equivalent;germany;52
+chair;25;Male;Bachelor's degree;germany;53
+desk;25;Male;Bachelor's degree;germany;53
+wardrobe;25;Male;Bachelor's degree;germany;53
+desk;34;Female;Master's degree;france;54
+bed;34;Female;Master's degree;france;54
+chair;34;Female;Master's degree;france;54
+sofa;20;Female;High school degree or equivalent;germany;55
+closet;20;Female;High school degree or equivalent;germany;55
+bed;20;Female;High school degree or equivalent;germany;55
+chair;26;Female;Master's degree;france;56
+table;26;Female;Master's degree;france;56
+fridge;26;Female;Master's degree;france;56
+chair;29;Prefer not to say;Master's degree;germany;57
+table;29;Prefer not to say;Master's degree;germany;57
+cabinet;29;Prefer not to say;Master's degree;germany;57
+shelf;31;Male;Master's degree;germany;58
+table;31;Male;Master's degree;germany;58
+bed;31;Male;Master's degree;germany;58
+chair;23;Male;High school degree or equivalent;germany;59
+table;23;Male;High school degree or equivalent;germany;59
+closet;23;Male;High school degree or equivalent;germany;59
+bed;21;Female;High school degree or equivalent;germany;60
+chair;21;Female;High school degree or equivalent;germany;60
+table;21;Female;High school degree or equivalent;germany;60
+chair;54;Male;High school degree or equivalent;germany;61
+table;54;Male;High school degree or equivalent;germany;61
+bed;54;Male;High school degree or equivalent;germany;61
+table;30;Female;Master's degree;france;62
+bed;30;Female;Master's degree;france;62
+chair;30;Female;Master's degree;france;62
+desk;24;Male;Bachelor's degree;germany;63
+bed;24;Male;Bachelor's degree;germany;63
+lamp;24;Male;Bachelor's degree;germany;63
+desk;17;Male;Less than a high school degree;germany;64
+bed;17;Male;Less than a high school degree;germany;64
+seat;17;Male;Less than a high school degree;germany;64
+couch;25;Female;High school degree or equivalent;germany;65
+chair;25;Female;High school degree or equivalent;germany;65
+table;25;Female;High school degree or equivalent;germany;65
+chair;16;Male;Less than a high school degree;germany;66
+table;16;Male;Less than a high school degree;germany;66
+couch;16;Male;Less than a high school degree;germany;66
+chair;21;Male;High school degree or equivalent;germany;67
+bed;21;Male;High school degree or equivalent;germany;67
+couch;0;Prefer not to say;NaN;nan;68
+chair;0;Prefer not to say;NaN;nan;68
+table;0;Prefer not to say;NaN;nan;68
+desk;24;Female;Master's degree;france;69
+bed;24;Female;Master's degree;france;69
+bathtub;24;Female;Master's degree;france;69
+sofa;26;Female;Master's degree;france;70
+table;26;Female;Master's degree;france;70
+chair;26;Female;Master's degree;france;70
+chair;34;Female;Master's degree;germany;71
+table;34;Female;Master's degree;germany;71
+sofa;34;Female;Master's degree;germany;71
+bed;54;Male;Less than a high school degree;germany;72
+table;54;Male;Less than a high school degree;germany;72
+chair;54;Male;Less than a high school degree;germany;72
+chair;23;Male;Bachelor's degree;germany;73
+bed;23;Male;Bachelor's degree;germany;73
+table;23;Male;Bachelor's degree;germany;73
+couch;27;Male;Master's degree;germany;74
+bed;27;Male;Master's degree;germany;74
+chair;27;Male;Master's degree;germany;74
+sofa;25;Male;Bachelor's degree;germany;75
+chair;25;Male;Bachelor's degree;germany;75
+bed;25;Male;Bachelor's degree;germany;75
+bed;27;Female;Master's degree;germany;76
+couch;27;Female;Master's degree;germany;76
+chair;27;Female;Master's degree;germany;76
+table;51;Male;High school degree or equivalent;germany;77
+chair;51;Male;High school degree or equivalent;germany;77
+armchair;51;Male;High school degree or equivalent;germany;77
+sideboard;26;Male;High school degree or equivalent;germany;78
+cabinet;26;Male;High school degree or equivalent;germany;78
+bedside table;26;Male;High school degree or equivalent;germany;78
+table;27;Male;Bachelor's degree;germany;79
+chair;27;Male;Bachelor's degree;germany;79
+bed;27;Male;Bachelor's degree;germany;79
+bed;25;Male;Master's degree;germany;80
+cupboard;25;Male;Master's degree;germany;80
+chair;25;Male;Bachelor's degree;germany;81
+table;25;Male;Bachelor's degree;germany;81
+fridge;25;Male;Bachelor's degree;germany;81
+desk;21;Male;High school degree or equivalent;germany;82
+closet;21;Male;High school degree or equivalent;germany;82
+coat rack;21;Male;High school degree or equivalent;germany;82
+chair;23;Female;Bachelor's degree;germany;83
+table;23;Female;Bachelor's degree;germany;83
+bed;23;Female;Bachelor's degree;germany;83
+chair;28;Female;Master's degree;germany;84
+table;28;Female;Master's degree;germany;84
+couch;28;Female;Master's degree;germany;84
+chair;25;Female;Master's degree;germany;85
+chair;25;Female;Bachelor's degree;russia;86
+table;25;Female;Bachelor's degree;russia;86
+couch;25;Female;Bachelor's degree;russia;86
+chair;24;Female;High school degree or equivalent;germany;87
+bed;24;Female;High school degree or equivalent;germany;87
+table;24;Female;High school degree or equivalent;germany;87
+chair;26;Male;Bachelor's degree;germany;88
+table;26;Male;Bachelor's degree;germany;88
+couch;26;Male;Bachelor's degree;germany;88
+table;27;Female;Master's degree;germany;89
+chair;27;Female;Master's degree;germany;89
+couch;27;Female;Master's degree;germany;89
+chair;25;Male;Bachelor's degree;germany;90
+table;25;Male;Bachelor's degree;germany;90
+cupboard;25;Male;Bachelor's degree;germany;90
+chair;25;Male;High school degree or equivalent;germany;91
+table;25;Male;High school degree or equivalent;germany;91
+bed;25;Male;High school degree or equivalent;germany;91
+desk;28;Male;High school degree or equivalent;germany;92
+couch;28;Male;High school degree or equivalent;germany;92
+sideboard;28;Male;High school degree or equivalent;germany;92
+sofa;47;Female;Bachelor's degree;england;93
+wardrobe;47;Female;Bachelor's degree;england;93
+dining table;47;Female;Bachelor's degree;england;93
+chair;38;Male;Bachelor's degree;germany;94
+table;38;Male;Bachelor's degree;germany;94
+sofa;38;Male;Bachelor's degree;germany;94
+sofa;40;Female;Bachelor's degree;china;95
+table;40;Female;Bachelor's degree;china;95
+chair;40;Female;Bachelor's degree;china;95
+cupboard;28;Female;High school degree or equivalent;pakistan;96
+dining table;28;Female;High school degree or equivalent;pakistan;96
+sofa;28;Female;High school degree or equivalent;pakistan;96
+sofa;48;Female;Diplom;germany;97
+desk;48;Female;Diplom;germany;97
+bed;48;Female;Diplom;germany;97
+bed;26;Male;Less than a high school degree;germany;98
+couch;26;Male;Less than a high school degree;germany;98
+cabinet;26;Male;Less than a high school degree;germany;98
+couch;26;Female;High school degree or equivalent;germany;99
+bed;26;Female;High school degree or equivalent;germany;99
+drawers;26;Female;High school degree or equivalent;germany;99
+couch;45;Female;Bachelor's degree;usa;100
+table;45;Female;Bachelor's degree;usa;100
+bed;45;Female;Bachelor's degree;usa;100
+bed;23;Female;Master's degree;england;101
+wardrobe;23;Female;Master's degree;england;101
+desk;23;Female;Master's degree;england;101
+chair;26;Female;Bachelor's degree;germany;102
+desk;26;Female;Bachelor's degree;germany;102
+lamp;26;Female;Bachelor's degree;germany;102
+barcelona chair;70;Female;Dipl.-Ing.;germany;103
+diamond chair;70;Female;Dipl.-Ing.;germany;103
+le corbusier lc4;70;Female;Dipl.-Ing.;germany;103
+chair;33;Female;Master's degree;iran;104
+table;33;Female;Master's degree;iran;104
+sofa;33;Female;Master's degree;iran;104
+chair;59;Male;Doctorate (e.g. PhD);germany;105
+table;59;Male;Doctorate (e.g. PhD);germany;105
+sofa;59;Male;Doctorate (e.g. PhD);germany;105
+chair;47;Female;Doctorate (e.g. PhD);germany;106
+sofa;47;Female;Doctorate (e.g. PhD);germany;106
+table;47;Female;Doctorate (e.g. PhD);germany;106
+bed;50;Female;Doctorate (e.g. PhD);germany;107
+table;50;Female;Doctorate (e.g. PhD);germany;107
+sofa;50;Female;Doctorate (e.g. PhD);germany;107
+cupboard;45;Female;Doctorate (e.g. PhD);germany;108
+table;45;Female;Doctorate (e.g. PhD);germany;108
+chair;45;Female;Doctorate (e.g. PhD);germany;108

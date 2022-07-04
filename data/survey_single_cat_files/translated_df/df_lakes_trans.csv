@@ -1,0 +1,298 @@
+lakes;p_age;p_gender;p_education;p_country;p_id
+bodensee;26;Male;Bachelor's degree;germany;0
+lake victoria;26;Male;Bachelor's degree;germany;0
+lake tahoe;26;Male;Bachelor's degree;germany;0
+lake geneva;44;Male;Doctorate (e.g. PhD);germany;1
+lake tahoe;44;Male;Doctorate (e.g. PhD);germany;1
+lake eerie;44;Male;Doctorate (e.g. PhD);germany;1
+erie;46;Male;Bachelor's degree;france;2
+léman;46;Male;Bachelor's degree;france;2
+lake garda;28;Male;Master's degree;germany;3
+lake michigan;28;Male;Master's degree;germany;3
+bodensee;28;Male;Master's degree;germany;3
+geneva lake baikal lake;34;Female;Master's degree;switzerland;4
+baikal lake;34;Female;Master's degree;switzerland;4
+lugano lake;34;Female;Master's degree;switzerland;4
+bodensee;27;Male;Bachelor's degree;germany;5
+garda lake;27;Male;Master's degree;germany;6
+tegernsee;27;Male;Master's degree;germany;6
+bodensee;27;Male;Master's degree;germany;6
+Lake Constance;27;Male;Master's degree;germany;7
+lake garda;27;Male;Master's degree;germany;7
+lake michigan;27;Male;Master's degree;germany;7
+bodensee;28;Male;High school degree or equivalent;germany;8
+lake garda;28;Male;High school degree or equivalent;germany;8
+tegernsee;28;Male;High school degree or equivalent;germany;8
+lake constance;29;Male;Master's degree;germany;9
+lake garda;29;Male;Master's degree;germany;9
+lake baikal;29;Male;Master's degree;germany;9
+bodensee;26;Male;Master's degree;germany;10
+lake michigan;26;Male;Master's degree;germany;10
+bodensee;37;Male;Master's degree;germany;11
+steinhuder meer;37;Male;Master's degree;germany;11
+chiemsee;37;Male;Master's degree;germany;11
+bodensee;24;Male;Master's degree;germany;12
+lake balaton;24;Male;Master's degree;germany;12
+bodensee;26;Female;Master's degree;germany;13
+lake garda;26;Female;Master's degree;germany;13
+eibsee;26;Female;Master's degree;germany;13
+lake michigan;26;Female;Master's degree;germany;14
+lake constance;26;Female;Master's degree;germany;14
+lake como;26;Female;Master's degree;germany;14
+bodensee;28;Female;Doctorate (e.g. PhD);germany;15
+chiemsee;28;Female;Doctorate (e.g. PhD);germany;15
+walchensee;28;Female;Doctorate (e.g. PhD);germany;15
+chiemsee;25;Male;NaN;germany;16
+bodensee;25;Male;NaN;germany;16
+lake michigan;31;Female;Master's degree;germany;17
+lake maggiore;31;Female;Master's degree;germany;17
+bodensee;31;Female;Master's degree;germany;17
+lake constance;36;Male;Master's degree;germany;18
+lake maggiore;36;Male;Master's degree;germany;18
+lake erie;36;Male;Master's degree;germany;18
+bodensee;27;Male;Master's degree;germany;19
+lake geneva;33;Male;Doctorate (e.g. PhD);germany;20
+lake baikal;33;Male;Doctorate (e.g. PhD);germany;20
+lake victoria;33;Male;Doctorate (e.g. PhD);germany;20
+lake huron;26;Male;Bachelor's degree;usa;21
+keuka lake;26;Male;Bachelor's degree;usa;21
+seneca lake;26;Male;Bachelor's degree;usa;21
+vättern;44;Female;Doctorate (e.g. PhD);sweden;22
+vänern;44;Female;Doctorate (e.g. PhD);sweden;22
+lake garda;44;Female;Doctorate (e.g. PhD);sweden;22
+mummelsee;26;Male;Bachelor's degree;germany;23
+bodensee;26;Male;Bachelor's degree;germany;23
+lake zurich;26;Male;Bachelor's degree;germany;23
+bodensee;27;Male;Bachelor's degree;nan;24
+lake feeling;27;Male;Bachelor's degree;nan;24
+lake victoria;27;Male;Bachelor's degree;nan;24
+lake michigan;23;Male;Bachelor's degree;germany;25
+lake maggiore;23;Male;Bachelor's degree;germany;25
+chiemsee;23;Male;Bachelor's degree;germany;25
+bodensee;22;Male;Bachelor's degree;germany;26
+lake balaton;22;Male;Bachelor's degree;germany;26
+lake maggiore;22;Male;Bachelor's degree;germany;26
+achensee;25;Male;Bachelor's degree;germany;27
+chiemsee;25;Male;Bachelor's degree;germany;27
+langener waldsee;25;Male;Bachelor's degree;germany;27
+achensee;27;Male;Master's degree;germany;28
+ural lake;27;Male;Master's degree;germany;28
+lake michigan;27;Male;Master's degree;germany;28
+lake superior;30;Male;Bachelor's degree;usa;29
+lake michigan;30;Male;Bachelor's degree;usa;29
+bodensee;30;Male;Bachelor's degree;usa;29
+bodensee;28;Male;Master's degree;germany;30
+chiemsee;28;Male;Master's degree;germany;30
+lake viktoria;28;Male;Master's degree;germany;30
+lake plastiras;38;Female;Doctorate (e.g. PhD);greece;31
+lake pamvotida;38;Female;Doctorate (e.g. PhD);greece;31
+lake doxa;38;Female;Doctorate (e.g. PhD);greece;31
+bodensee;28;Male;Master's degree;germany;32
+aral sea;28;Male;Master's degree;germany;32
+lake starnberg;28;Male;Master's degree;germany;32
+lake maggiore;26;Male;Bachelor's degree;germany;33
+lake geneva;26;Male;Bachelor's degree;germany;33
+wannsee;26;Male;Bachelor's degree;germany;33
+bodensee;19;Male;High school degree or equivalent;germany;34
+schluchsee;19;Male;High school degree or equivalent;germany;34
+lake victoria;19;Male;High school degree or equivalent;germany;34
+lake garda;25;Female;Bachelor's degree;germany;35
+lake starnberg;25;Female;Bachelor's degree;germany;35
+bodensee;24;Female;Master's degree;germany;36
+lake tahoe;24;Female;Master's degree;germany;36
+lake garda;24;Female;Master's degree;germany;36
+bodensee;25;Male;Bachelor's degree;germany;37
+tegernsee;25;Male;Bachelor's degree;germany;37
+ammersee;25;Male;Bachelor's degree;germany;37
+bodensee;64;Male;Doctorate (e.g. PhD);austria;38
+chiemsee;64;Male;Doctorate (e.g. PhD);austria;38
+ammersee;64;Male;Doctorate (e.g. PhD);austria;38
+bodensee;24;Male;Bachelor's degree;germany;39
+edersee;24;Male;Bachelor's degree;germany;39
+lake erie;24;Male;Bachelor's degree;germany;39
+chiemsee;31;Male;Bachelor's degree;germany;40
+lake victoria;31;Male;Bachelor's degree;germany;40
+lake titicaca;31;Male;Bachelor's degree;germany;40
+lake titicaca;25;Female;Bachelor's degree;germany;41
+lake constance;25;Female;Bachelor's degree;germany;41
+silver lake;25;Female;Bachelor's degree;germany;41
+lake tahoe;28;Female;Bachelor's degree;germany;42
+bodensee;28;Female;Bachelor's degree;germany;42
+eibsee;28;Female;Bachelor's degree;germany;42
+lake constance;37;Female;Master's degree;germany;43
+titisee;37;Female;Master's degree;germany;43
+lake balaton;37;Female;Master's degree;germany;43
+lake balaton;50;Female;High school degree or equivalent;germany;44
+lake erie;50;Female;High school degree or equivalent;germany;44
+lake lucerne;50;Female;High school degree or equivalent;germany;44
+schlachtensee;28;Female;High school degree or equivalent;germany;45
+curvilinear;28;Female;High school degree or equivalent;germany;45
+bodensee;28;Female;High school degree or equivalent;germany;45
+lake constance;31;Male;Bachelor's degree;germany;46
+lake titicaca;31;Male;Bachelor's degree;germany;46
+bidensee;21;Female;High school degree or equivalent;germany;47
+chiemsee;21;Female;High school degree or equivalent;germany;47
+isar;23;Female;Bachelor's degree;germany;48
+neckar;23;Female;Bachelor's degree;germany;48
+rhine;23;Female;Bachelor's degree;germany;48
+titisee;36;Male;Bachelor's degree;india;49
+lake constance;36;Male;Bachelor's degree;india;49
+königssee;36;Male;Bachelor's degree;india;49
+bodensee;28;Female;Master's degree;romania;50
+titisee;28;Female;Master's degree;romania;50
+chiemsee;28;Female;Master's degree;romania;50
+lake constance;19;Female;High school degree or equivalent;germany;51
+lake garda;19;Female;High school degree or equivalent;germany;51
+chiemsee;19;Female;High school degree or equivalent;germany;51
+sacrowersee;19;Female;High school degree or equivalent;germany;52
+lake liebnitz;19;Female;High school degree or equivalent;germany;52
+königssee;19;Female;High school degree or equivalent;germany;52
+bodensee;25;Male;Bachelor's degree;germany;53
+lake zurich;25;Male;Bachelor's degree;germany;53
+lake balaton;25;Male;Bachelor's degree;germany;53
+lake como;34;Female;Master's degree;france;54
+lakeg eneva;34;Female;Master's degree;france;54
+lake garda;34;Female;Master's degree;france;54
+bodensee;20;Female;High school degree or equivalent;germany;55
+chiemsee;20;Female;High school degree or equivalent;germany;55
+lake garda;20;Female;High school degree or equivalent;germany;55
+lake como;26;Female;Master's degree;france;56
+lake annecy;26;Female;Master's degree;france;56
+lake powell;26;Female;Master's degree;france;56
+bodensee;29;Prefer not to say;Master's degree;germany;57
+lake erie;29;Prefer not to say;Master's degree;germany;57
+lake michigan;29;Prefer not to say;Master's degree;germany;57
+lake garda;31;Male;Master's degree;germany;58
+bodensee;31;Male;Master's degree;germany;58
+lake tahoe;31;Male;Master's degree;germany;58
+lake constance;23;Male;High school degree or equivalent;germany;59
+lake geneva;23;Male;High school degree or equivalent;germany;59
+lake garda;23;Male;High school degree or equivalent;germany;59
+lake constance;21;Female;High school degree or equivalent;germany;60
+lake erie;21;Female;High school degree or equivalent;germany;60
+lake tahoe;21;Female;High school degree or equivalent;germany;60
+lake constance;54;Male;High school degree or equivalent;germany;61
+lake balaton;54;Male;High school degree or equivalent;germany;61
+lake erie;54;Male;High school degree or equivalent;germany;61
+lake erie;30;Female;Master's degree;france;62
+lake superior;30;Female;Master's degree;france;62
+lake huron;30;Female;Master's degree;france;62
+bodensee;24;Male;Bachelor's degree;germany;63
+lake victoria;24;Male;Bachelor's degree;germany;63
+aral sea;24;Male;Bachelor's degree;germany;63
+nan;17;Male;Less than a high school degree;germany;64
+bodensee;25;Female;High school degree or equivalent;germany;65
+Lake erie;25;Female;High school degree or equivalent;germany;65
+caspian sea;25;Female;High school degree or equivalent;germany;65
+salt lake;16;Male;Less than a high school degree;germany;66
+bodensee;21;Male;High school degree or equivalent;germany;67
+lake victoria;0;Prefer not to say;NaN;nan;68
+lake michigan;0;Prefer not to say;NaN;nan;68
+connemara;24;Female;Master's degree;france;69
+lake clément;24;Female;Master's degree;france;69
+lake annecy;24;Female;Master's degree;france;69
+lake geneva;26;Female;Master's degree;france;70
+Lac de Serre-Ponçon;26;Female;Master's degree;france;70
+lake starnberg;34;Female;Master's degree;germany;71
+lake zurich;34;Female;Master's degree;germany;71
+bodensee;34;Female;Master's degree;germany;71
+lake victoria;54;Male;Less than a high school degree;germany;72
+bodensee;54;Male;Less than a high school degree;germany;72
+lake maggiore;54;Male;Less than a high school degree;germany;72
+bodensee;23;Male;Bachelor's degree;germany;73
+lake garda;23;Male;Bachelor's degree;germany;73
+mummelsee;23;Male;Bachelor's degree;germany;73
+nan;27;Male;Master's degree;germany;74
+bodensee;25;Male;Bachelor's degree;germany;75
+lake zurich;25;Male;Bachelor's degree;germany;75
+lake huron;25;Male;Bachelor's degree;germany;75
+bodensee;27;Female;Master's degree;germany;76
+forggensee;27;Female;Master's degree;germany;76
+eibsee;27;Female;Master's degree;germany;76
+titisee;51;Male;High school degree or equivalent;germany;77
+chiemsee;51;Male;High school degree or equivalent;germany;77
+lake geneva;51;Male;High school degree or equivalent;germany;77
+bodensee;26;Male;High school degree or equivalent;germany;78
+lake breitau;26;Male;High school degree or equivalent;germany;78
+lake maggiore;26;Male;High school degree or equivalent;germany;78
+lake garda;27;Male;Bachelor's degree;germany;79
+müggelsee;27;Male;Bachelor's degree;germany;79
+lake zurich;27;Male;Bachelor's degree;germany;79
+lake victoria;25;Male;Master's degree;germany;80
+bodensee;25;Male;Master's degree;germany;80
+lake tahoe;25;Male;Bachelor's degree;germany;81
+lake michigan;25;Male;Bachelor's degree;germany;81
+crater lake;25;Male;Bachelor's degree;germany;81
+lake viktoria;21;Male;High school degree or equivalent;germany;82
+lake baikal;21;Male;High school degree or equivalent;germany;82
+bodensee;21;Male;High school degree or equivalent;germany;82
+bodensee;23;Female;Bachelor's degree;germany;83
+chiemsee;23;Female;Bachelor's degree;germany;83
+lake garda;23;Female;Bachelor's degree;germany;83
+lake constance;28;Female;Master's degree;germany;84
+silver lake;28;Female;Master's degree;germany;84
+albsee;28;Female;Master's degree;germany;84
+lake garda;25;Female;Master's degree;germany;85
+lake maggiore;25;Female;Bachelor's degree;russia;86
+lake baikal;25;Female;Bachelor's degree;russia;86
+lake tahoe;25;Female;Bachelor's degree;russia;86
+chiemsee;24;Female;High school degree or equivalent;germany;87
+eibsee;24;Female;High school degree or equivalent;germany;87
+bodensee;24;Female;High school degree or equivalent;germany;87
+lake michigan;26;Male;Bachelor's degree;germany;88
+lake constance;26;Male;Bachelor's degree;germany;88
+aral sea;26;Male;Bachelor's degree;germany;88
+lake constance;27;Female;Master's degree;germany;89
+eibsee;27;Female;Master's degree;germany;89
+alpsee;27;Female;Master's degree;germany;89
+Lake erie;25;Male;Bachelor's degree;germany;90
+bodensee;25;Male;Bachelor's degree;germany;90
+Lake Titicaca;25;Male;Bachelor's degree;germany;90
+griebnitzsee;25;Male;High school degree or equivalent;germany;91
+curvilinear;25;Male;High school degree or equivalent;germany;91
+schlachtensee;25;Male;High school degree or equivalent;germany;91
+lake como;28;Male;High school degree or equivalent;germany;92
+lake garda;28;Male;High school degree or equivalent;germany;92
+lake starnberg;28;Male;High school degree or equivalent;germany;92
+loch ness;47;Female;Bachelor's degree;england;93
+lake garda;47;Female;Bachelor's degree;england;93
+lake michigan;47;Female;Bachelor's degree;england;93
+lake constance;38;Male;Bachelor's degree;germany;94
+lake garda;38;Male;Bachelor's degree;germany;94
+westlake;40;Female;Bachelor's degree;china;95
+peyto lake;40;Female;Bachelor's degree;china;95
+abersee;40;Female;Bachelor's degree;china;95
+lake king william;28;Female;High school degree or equivalent;pakistan;96
+lake constance;48;Female;Diplom;germany;97
+lake erie;48;Female;Diplom;germany;97
+lake titikaka;48;Female;Diplom;germany;97
+lake constance;26;Male;Less than a high school degree;germany;98
+loch ness;26;Male;Less than a high school degree;germany;98
+lake garda;26;Male;Less than a high school degree;germany;98
+lake michigan;26;Female;High school degree or equivalent;germany;99
+bodensee;26;Female;High school degree or equivalent;germany;99
+lake titikaka;26;Female;High school degree or equivalent;germany;99
+lake erie;45;Female;Bachelor's degree;usa;100
+lake michigan;45;Female;Bachelor's degree;usa;100
+lake huron;45;Female;Bachelor's degree;usa;100
+loch ness;23;Female;Master's degree;england;101
+windemere;23;Female;Master's degree;england;101
+lake constance;26;Female;Bachelor's degree;germany;102
+lake louise;70;Female;Dipl.-Ing.;germany;103
+lake geneva;70;Female;Dipl.-Ing.;germany;103
+lake constance;70;Female;Dipl.-Ing.;germany;103
+lake baikal;33;Female;Master's degree;iran;104
+lake superior;33;Female;Master's degree;iran;104
+lake victoria;33;Female;Master's degree;iran;104
+lake ontario;59;Male;Doctorate (e.g. PhD);germany;105
+lake victoria;59;Male;Doctorate (e.g. PhD);germany;105
+bodensee;59;Male;Doctorate (e.g. PhD);germany;105
+lake erie;47;Female;Doctorate (e.g. PhD);germany;106
+bodensee;47;Female;Doctorate (e.g. PhD);germany;106
+aral sea;47;Female;Doctorate (e.g. PhD);germany;106
+bodensee;50;Female;Doctorate (e.g. PhD);germany;107
+curvilinear;50;Female;Doctorate (e.g. PhD);germany;107
+wannsee;50;Female;Doctorate (e.g. PhD);germany;107
+tegernsee;45;Female;Doctorate (e.g. PhD);germany;108
+lake starnberg;45;Female;Doctorate (e.g. PhD);germany;108
+schliersee;45;Female;Doctorate (e.g. PhD);germany;108

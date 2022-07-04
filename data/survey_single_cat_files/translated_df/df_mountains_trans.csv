@@ -1,0 +1,316 @@
+mountains;p_age;p_gender;p_education;p_country;p_id
+k2;26;Male;Bachelor's degree;germany;0
+zugspitze;26;Male;Bachelor's degree;germany;0
+brocken;26;Male;Bachelor's degree;germany;0
+mount everest;44;Male;Doctorate (e.g. PhD);germany;1
+matterhorn;44;Male;Doctorate (e.g. PhD);germany;1
+nanga parbat;44;Male;Doctorate (e.g. PhD);germany;1
+mount kilimanjaro;46;Male;Bachelor's degree;france;2
+mount everest;46;Male;Bachelor's degree;france;2
+mont blanc;46;Male;Bachelor's degree;france;2
+k2;28;Male;Master's degree;germany;3
+mount everest;28;Male;Master's degree;germany;3
+zugspitze;28;Male;Master's degree;germany;3
+alps;34;Female;Master's degree;switzerland;4
+jura;34;Female;Master's degree;switzerland;4
+carpathian mountains;34;Female;Master's degree;switzerland;4
+mount everest;27;Male;Bachelor's degree;germany;5
+zugspitze;27;Male;Bachelor's degree;germany;5
+mount rushmore;27;Male;Bachelor's degree;germany;5
+mont blanc;27;Male;Master's degree;germany;6
+mount everest;27;Male;Master's degree;germany;6
+k2;27;Male;Master's degree;germany;6
+weißer stein (vogelsberg);27;Male;Master's degree;germany;7
+sandberg;27;Male;Master's degree;germany;7
+k2;27;Male;Master's degree;germany;7
+mount everest;28;Male;High school degree or equivalent;germany;8
+königstuhl;28;Male;High school degree or equivalent;germany;8
+grossglockner;28;Male;High school degree or equivalent;germany;8
+zugspitze;29;Male;Master's degree;germany;9
+mount everest;29;Male;Master's degree;germany;9
+mount kilimanjaro;29;Male;Master's degree;germany;9
+zugspitze;26;Male;Master's degree;germany;10
+matterhorn;26;Male;Master's degree;germany;10
+mount everest;26;Male;Master's degree;germany;10
+barebones;37;Male;Master's degree;germany;11
+brocken;37;Male;Master's degree;germany;11
+mount kilimanjaro;37;Male;Master's degree;germany;11
+zugspitze;24;Male;Master's degree;germany;12
+mont blanc;24;Male;Master's degree;germany;12
+k2;24;Male;Master's degree;germany;12
+zugspitze;26;Female;Master's degree;germany;13
+mont blanc;26;Female;Master's degree;germany;13
+mount fuji;26;Female;Master's degree;germany;13
+mount everest;26;Female;Master's degree;germany;14
+mount kilimanjaro;26;Female;Master's degree;germany;14
+mont blanc;26;Female;Master's degree;germany;14
+zugspitze;28;Female;Doctorate (e.g. PhD);germany;15
+dolomites;28;Female;Doctorate (e.g. PhD);germany;15
+karwendel;28;Female;Doctorate (e.g. PhD);germany;15
+mount everest;25;Male;NaN;germany;16
+mont blanc;25;Male;NaN;germany;16
+k2;25;Male;NaN;germany;16
+mount everest;31;Female;Master's degree;germany;17
+zugspitze;31;Female;Master's degree;germany;17
+feldberg (black forest);31;Female;Master's degree;germany;17
+zugspitze;36;Male;Master's degree;germany;18
+piz buin;36;Male;Master's degree;germany;18
+k2;36;Male;Master's degree;germany;18
+matterhorn;27;Male;Master's degree;germany;19
+mountkilimanjaro;33;Male;Doctorate (e.g. PhD);germany;20
+mount everest;33;Male;Doctorate (e.g. PhD);germany;20
+brocken;33;Male;Doctorate (e.g. PhD);germany;20
+mount everest;26;Male;Bachelor's degree;usa;21
+mount kilimanjaro;26;Male;Bachelor's degree;usa;21
+appalachian mountains;26;Male;Bachelor's degree;usa;21
+mount everest;44;Female;Doctorate (e.g. PhD);sweden;22
+kebnekaise;44;Female;Doctorate (e.g. PhD);sweden;22
+mont blanc;44;Female;Doctorate (e.g. PhD);sweden;22
+mont everest;26;Male;Bachelor's degree;germany;23
+zugspitze;26;Male;Bachelor's degree;germany;23
+matterhorn;26;Male;Bachelor's degree;germany;23
+mount everest;27;Male;Bachelor's degree;nan;24
+feldberg (black forest);27;Male;Bachelor's degree;nan;24
+zugspitze;27;Male;Bachelor's degree;nan;24
+feldberg (black forest);23;Male;Bachelor's degree;germany;25
+mount everest;23;Male;Bachelor's degree;germany;25
+k2;23;Male;Bachelor's degree;germany;25
+mount everest;22;Male;Bachelor's degree;germany;26
+zugspitze;22;Male;Bachelor's degree;germany;26
+mount kilimanjaro;22;Male;Bachelor's degree;germany;26
+feldberg (black forest);25;Male;Bachelor's degree;germany;27
+k2;25;Male;Bachelor's degree;germany;27
+mount everest;25;Male;Bachelor's degree;germany;27
+nockspitze;27;Male;Master's degree;germany;28
+hafelekar;27;Male;Master's degree;germany;28
+sizzle;27;Male;Master's degree;germany;28
+mount kilamanjaro;30;Male;Bachelor's degree;usa;29
+mount everest;30;Male;Bachelor's degree;usa;29
+zugspitze;28;Male;Master's degree;germany;30
+mount everest;28;Male;Master's degree;germany;30
+matterhorn;28;Male;Master's degree;germany;30
+mount everest;38;Female;Doctorate (e.g. PhD);greece;31
+mount olympus;38;Female;Doctorate (e.g. PhD);greece;31
+mount kilimanjaro;38;Female;Doctorate (e.g. PhD);greece;31
+k2;28;Male;Master's degree;germany;32
+mount everest;28;Male;Master's degree;germany;32
+zugspitze;28;Male;Master's degree;germany;32
+k2;26;Male;Bachelor's degree;germany;33
+alps;26;Male;Bachelor's degree;germany;33
+matterhorn;26;Male;Bachelor's degree;germany;33
+zugspitze;19;Male;High school degree or equivalent;germany;34
+mount wilhelm;19;Male;High school degree or equivalent;germany;34
+k2;19;Male;High school degree or equivalent;germany;34
+zugspitze;25;Female;Bachelor's degree;germany;35
+mont blanc;25;Female;Bachelor's degree;germany;35
+brocken;25;Female;Bachelor's degree;germany;35
+k2;24;Female;Master's degree;germany;36
+mount everest;24;Female;Master's degree;germany;36
+zugspitze;24;Female;Master's degree;germany;36
+mount everest;25;Male;Bachelor's degree;germany;37
+zugspitze;25;Male;Bachelor's degree;germany;37
+chimborazo;25;Male;Bachelor's degree;germany;37
+mount everest;64;Male;Doctorate (e.g. PhD);austria;38
+zugspitze;64;Male;Doctorate (e.g. PhD);austria;38
+mount kilimanjaro;64;Male;Doctorate (e.g. PhD);austria;38
+mounteverest;24;Male;Bachelor's degree;germany;39
+k2;24;Male;Bachelor's degree;germany;39
+zugspitze;24;Male;Bachelor's degree;germany;39
+mount everest;31;Male;Bachelor's degree;germany;40
+feldberg (black forest);31;Male;Bachelor's degree;germany;40
+k2;31;Male;Bachelor's degree;germany;40
+mount everest;25;Female;Bachelor's degree;germany;41
+himalayas;25;Female;Bachelor's degree;germany;41
+mont blanc;25;Female;Bachelor's degree;germany;41
+mount everest;28;Female;Bachelor's degree;germany;42
+zugspitze;28;Female;Bachelor's degree;germany;42
+feldberg (black forest);28;Female;Bachelor's degree;germany;42
+mount everest;37;Female;Master's degree;germany;43
+zugspitze;37;Female;Master's degree;germany;43
+uluru;37;Female;Master's degree;germany;43
+k2;50;Female;High school degree or equivalent;germany;44
+machu picchu;50;Female;High school degree or equivalent;germany;44
+k2;28;Female;High school degree or equivalent;germany;45
+matterhorn;28;Female;High school degree or equivalent;germany;45
+mont blanc;28;Female;High school degree or equivalent;germany;45
+mount everest;31;Male;Bachelor's degree;germany;46
+mont blanc;31;Male;Bachelor's degree;germany;46
+zugspitze;21;Female;High school degree or equivalent;germany;47
+mount everest;21;Female;High school degree or equivalent;germany;47
+mount kilimanjaro;21;Female;High school degree or equivalent;germany;47
+mount everest;23;Female;Bachelor's degree;germany;48
+zugspitze;23;Female;Bachelor's degree;germany;48
+mont blanc;23;Female;Bachelor's degree;germany;48
+mount everest;36;Male;Bachelor's degree;india;49
+mount fuji;36;Male;Bachelor's degree;india;49
+mount elbrus;36;Male;Bachelor's degree;india;49
+mont blanc;28;Female;Master's degree;romania;50
+zugspitze;28;Female;Master's degree;romania;50
+matterhorn;28;Female;Master's degree;romania;50
+zugspitze;19;Female;High school degree or equivalent;germany;51
+mount everest;19;Female;High school degree or equivalent;germany;51
+matterhorn;19;Female;High school degree or equivalent;germany;51
+zugspitze;19;Female;High school degree or equivalent;germany;52
+mount everest;19;Female;High school degree or equivalent;germany;52
+watzmann;19;Female;High school degree or equivalent;germany;52
+zugspitze;25;Male;Bachelor's degree;germany;53
+weissfluh;25;Male;Bachelor's degree;germany;53
+mount fuji;25;Male;Bachelor's degree;germany;53
+mont blanc;34;Female;Master's degree;france;54
+mount everest;34;Female;Master's degree;france;54
+zugspitze;20;Female;High school degree or equivalent;germany;55
+mount everest;20;Female;High school degree or equivalent;germany;55
+montblanc;20;Female;High school degree or equivalent;germany;55
+himalayas;26;Female;Master's degree;france;56
+alps;26;Female;Master's degree;france;56
+canadian rockies;26;Female;Master's degree;france;56
+zugspitze;29;Prefer not to say;Master's degree;germany;57
+k2;29;Prefer not to say;Master's degree;germany;57
+matterhorn;29;Prefer not to say;Master's degree;germany;57
+mount everest;31;Male;Master's degree;germany;58
+zugspitze;31;Male;Master's degree;germany;58
+königstuhl;31;Male;Master's degree;germany;58
+k2;23;Male;High school degree or equivalent;germany;59
+matterhorn;23;Male;High school degree or equivalent;germany;59
+zugspitze;23;Male;High school degree or equivalent;germany;59
+zugspitze;21;Female;High school degree or equivalent;germany;60
+königstuhl;21;Female;High school degree or equivalent;germany;60
+puy de dôme;21;Female;High school degree or equivalent;germany;60
+mount kilimanjaro;54;Male;High school degree or equivalent;germany;61
+k2;54;Male;High school degree or equivalent;germany;61
+eiger;54;Male;High school degree or equivalent;germany;61
+mont blanc;30;Female;Master's degree;france;62
+mount everest;30;Female;Master's degree;france;62
+mount kilimanjaro;30;Female;Master's degree;france;62
+mount everest;24;Male;Bachelor's degree;germany;63
+zugspitze;24;Male;Bachelor's degree;germany;63
+mount kilimanjaro;24;Male;Bachelor's degree;germany;63
+mount everest;17;Male;Less than a high school degree;germany;64
+zugspite;17;Male;Less than a high school degree;germany;64
+zugspitze;25;Female;High school degree or equivalent;germany;65
+mount kilimanjaro;25;Female;High school degree or equivalent;germany;65
+mount everest;25;Female;High school degree or equivalent;germany;65
+uluru;16;Male;Less than a high school degree;germany;66
+zugspitze;21;Male;High school degree or equivalent;germany;67
+mount everest;21;Male;High school degree or equivalent;germany;67
+mont blanc;21;Male;High school degree or equivalent;germany;67
+nanga parbat;0;Prefer not to say;NaN;nan;68
+k2;0;Prefer not to say;NaN;nan;68
+zugspitze;0;Prefer not to say;NaN;nan;68
+alps;24;Female;Master's degree;france;69
+vosges;24;Female;Master's degree;france;69
+pyrenees;24;Female;Master's degree;france;69
+mont blanc;26;Female;Master's degree;france;70
+mount kilimanjaro;26;Female;Master's degree;france;70
+mount everest;26;Female;Master's degree;france;70
+zugspitze;34;Female;Master's degree;germany;71
+mont blanc;34;Female;Master's degree;germany;71
+mount everest;34;Female;Master's degree;germany;71
+mount everst;54;Male;Less than a high school degree;germany;72
+k2;54;Male;Less than a high school degree;germany;72
+zugspitze;54;Male;Less than a high school degree;germany;72
+zugspitze;23;Male;Bachelor's degree;germany;73
+matterhorn;23;Male;Bachelor's degree;germany;73
+mount everest;23;Male;Bachelor's degree;germany;73
+mount everest;27;Male;Master's degree;germany;74
+himalayas;27;Male;Master's degree;germany;74
+zugspitze;27;Male;Master's degree;germany;74
+zugspitze;25;Male;Bachelor's degree;germany;75
+mont blanc;25;Male;Bachelor's degree;germany;75
+matterhorn;25;Male;Bachelor's degree;germany;75
+mount everest;27;Female;Master's degree;germany;76
+mount blanc;27;Female;Master's degree;germany;76
+zugspitze;27;Female;Master's degree;germany;76
+zugspitze;51;Male;High school degree or equivalent;germany;77
+feldberg (black forest);51;Male;High school degree or equivalent;germany;77
+eiger;51;Male;High school degree or equivalent;germany;77
+mount blanc;26;Male;High school degree or equivalent;germany;78
+mount everest;26;Male;High school degree or equivalent;germany;78
+zugspitze;26;Male;High school degree or equivalent;germany;78
+mount kilimanjaro;27;Male;Bachelor's degree;germany;79
+kreuzberg;27;Male;Bachelor's degree;germany;79
+mount everest;27;Male;Bachelor's degree;germany;79
+mount everest;25;Male;Master's degree;germany;80
+zugspitze;25;Male;Master's degree;germany;80
+mont blanc;25;Male;Master's degree;germany;80
+mount everest;25;Male;Bachelor's degree;germany;81
+mount kilimanjaro;25;Male;Bachelor's degree;germany;81
+k2;25;Male;Bachelor's degree;germany;81
+mount kilimanjaro;21;Male;High school degree or equivalent;germany;82
+mount everest;21;Male;High school degree or equivalent;germany;82
+zugspitze;21;Male;High school degree or equivalent;germany;82
+mount everest;23;Female;Bachelor's degree;germany;83
+zugspitze;23;Female;Bachelor's degree;germany;83
+k2;23;Female;Bachelor's degree;germany;83
+zugspitze;28;Female;Master's degree;germany;84
+mount everest;28;Female;Master's degree;germany;84
+ural mountains;28;Female;Master's degree;germany;84
+zugspitze;25;Female;Master's degree;germany;85
+dolomites;25;Female;Bachelor's degree;russia;86
+alps;25;Female;Bachelor's degree;russia;86
+carpathian mountains;25;Female;Bachelor's degree;russia;86
+zugspitze;24;Female;High school degree or equivalent;germany;87
+matterhorn;24;Female;High school degree or equivalent;germany;87
+mount everest;24;Female;High school degree or equivalent;germany;87
+mount everest;26;Male;Bachelor's degree;germany;88
+zugspitze;26;Male;Bachelor's degree;germany;88
+katzenbuckel;26;Male;Bachelor's degree;germany;88
+mount everest;27;Female;Master's degree;germany;89
+mount blanc;27;Female;Master's degree;germany;89
+matterhorn;27;Female;Master's degree;germany;89
+nanga parbat;25;Male;Bachelor's degree;germany;90
+k2;25;Male;Bachelor's degree;germany;90
+feldberg (black forest);25;Male;Bachelor's degree;germany;90
+zugspitze;25;Male;High school degree or equivalent;germany;91
+matterhorn;25;Male;High school degree or equivalent;germany;91
+k2;25;Male;High school degree or equivalent;germany;91
+tischberg;28;Male;High school degree or equivalent;germany;92
+zugspitze;28;Male;High school degree or equivalent;germany;92
+mount kilimanjaro;28;Male;High school degree or equivalent;germany;92
+mount everest;47;Female;Bachelor's degree;england;93
+matterhorn;47;Female;Bachelor's degree;england;93
+ben nevis;47;Female;Bachelor's degree;england;93
+zugspitze;38;Male;Bachelor's degree;germany;94
+mount kilimanjaro;38;Male;Bachelor's degree;germany;94
+mount everest;38;Male;Bachelor's degree;germany;94
+himalayas;40;Female;Bachelor's degree;china;95
+alps;40;Female;Bachelor's degree;china;95
+mount kilimanjaro;40;Female;Bachelor's degree;china;95
+k2;28;Female;High school degree or equivalent;pakistan;96
+mount everest;28;Female;High school degree or equivalent;pakistan;96
+nanga parbat;28;Female;High school degree or equivalent;pakistan;96
+mount everest;48;Female;Diplom;germany;97
+k2;48;Female;Diplom;germany;97
+montb lanc;48;Female;Diplom;germany;97
+k2;26;Male;Less than a high school degree;germany;98
+grossglockner;26;Male;Less than a high school degree;germany;98
+zugspitze;26;Male;Less than a high school degree;germany;98
+mount everest;26;Female;High school degree or equivalent;germany;99
+zugspitze;26;Female;High school degree or equivalent;germany;99
+stetind;26;Female;High school degree or equivalent;germany;99
+alps;45;Female;Bachelor's degree;usa;100
+canadian rockies;45;Female;Bachelor's degree;usa;100
+pyrenees;45;Female;Bachelor's degree;usa;100
+val d Isere;23;Female;Master's degree;england;101
+mount etna;23;Female;Master's degree;england;101
+zugspitze;26;Female;Bachelor's degree;germany;102
+watzmann;26;Female;Bachelor's degree;germany;102
+feldberg (black forest);26;Female;Bachelor's degree;germany;102
+matterhorn;70;Female;Dipl.-Ing.;germany;103
+grossglockner;70;Female;Dipl.-Ing.;germany;103
+zugspitze;70;Female;Dipl.-Ing.;germany;103
+mount everest;33;Female;Master's degree;iran;104
+damavand;33;Female;Master's degree;iran;104
+dena;33;Female;Master's degree;iran;104
+zugspitze;59;Male;Doctorate (e.g. PhD);germany;105
+triglav;59;Male;Doctorate (e.g. PhD);germany;105
+matterhorn;59;Male;Doctorate (e.g. PhD);germany;105
+aconcagua;47;Female;Doctorate (e.g. PhD);germany;106
+mount everest;47;Female;Doctorate (e.g. PhD);germany;106
+zugspitze;47;Female;Doctorate (e.g. PhD);germany;106
+mount everest;50;Female;Doctorate (e.g. PhD);germany;107
+zugspitze;50;Female;Doctorate (e.g. PhD);germany;107
+brocken;50;Female;Doctorate (e.g. PhD);germany;107
+mont blanc;45;Female;Doctorate (e.g. PhD);germany;108
+zugspitze;45;Female;Doctorate (e.g. PhD);germany;108
+monte baldo;45;Female;Doctorate (e.g. PhD);germany;108

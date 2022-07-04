@@ -1,0 +1,304 @@
+dax_companies;p_age;p_gender;p_education;p_country;p_id
+sap;26;Male;Bachelor's degree;Germany;0
+allianz;26;Male;Bachelor's degree;Germany;0
+lufthansa;26;Male;Bachelor's degree;Germany;0
+sap;44;Male;Doctorate (e.g. PhD);Germany;1
+bmw;44;Male;Doctorate (e.g. PhD);Germany;1
+siemens;44;Male;Doctorate (e.g. PhD);Germany;1
+bayer;46;Male;Bachelor's degree;France;2
+bmw;46;Male;Bachelor's degree;France;2
+volkswagen;46;Male;Bachelor's degree;France;2
+lufthansa;28;Male;Master's degree;Germany;3
+volkswagen;28;Male;Master's degree;Germany;3
+fresenius;28;Male;Master's degree;Germany;3
+zalando;34;Female;Master's degree;Switzerland;4
+volkswagen;34;Female;Master's degree;Switzerland;4
+daimler;34;Female;Master's degree;Switzerland;4
+mercedesbenz;27;Male;Bachelor's degree;Germany;5
+basf;27;Male;Bachelor's degree;Germany;5
+sap;27;Male;Bachelor's degree;Germany;5
+sap;27;Male;Master's degree;Germany;6
+basf;27;Male;Master's degree;Germany;6
+zalando;27;Male;Master's degree;Germany;6
+basf;27;Male;Master's degree;Germany;7
+bmw;27;Male;Master's degree;Germany;7
+allianz;27;Male;Master's degree;Germany;7
+volkswagen;28;Male;High school degree or equivalent;Germany;8
+adidas;28;Male;High school degree or equivalent;Germany;8
+rheinmetall;28;Male;High school degree or equivalent;Germany;8
+vw;29;Male;Master's degree;Germany;9
+sap;29;Male;Master's degree;Germany;9
+heidelbergcement;29;Male;Master's degree;Germany;9
+daimler;26;Male;Master's degree;Germany;10
+volkswagen;26;Male;Master's degree;Germany;10
+sap;26;Male;Master's degree;Germany;10
+siemens;37;Male;Master's degree;Germany;11
+mercedes;37;Male;Master's degree;Germany;11
+deutschebank;37;Male;Master's degree;Germany;11
+henkel;24;Male;Master's degree;Germany;12
+daimler;24;Male;Master's degree;Germany;12
+sap;26;Female;Master's degree;Germany;13
+lufthansa;26;Female;Master's degree;Germany;13
+basf;26;Female;Master's degree;Germany;13
+basf;26;Female;Master's degree;Germany;14
+sap;26;Female;Master's degree;Germany;14
+henkel;26;Female;Master's degree;Germany;14
+bmw;28;Female;Doctorate (e.g. PhD);Germany;15
+allianz;25;Male;NaN;Germany;16
+adidas;25;Male;NaN;Germany;16
+sap;25;Male;NaN;Germany;16
+siemens;31;Female;Master's degree;Germany;17
+volkswagen;31;Female;Master's degree;Germany;17
+basf;31;Female;Master's degree;Germany;17
+bmw;36;Male;Master's degree;Germany;18
+lufthansa;36;Male;Master's degree;Germany;18
+siemens;36;Male;Master's degree;Germany;18
+bmw;27;Male;Master's degree;Germany;19
+vw;27;Male;Master's degree;Germany;19
+thyssenkrupp;27;Male;Master's degree;Germany;19
+siemens;33;Male;Doctorate (e.g. PhD);Germany;20
+infineon;33;Male;Doctorate (e.g. PhD);Germany;20
+thyssenkrupp;33;Male;Doctorate (e.g. PhD);Germany;20
+nan;26;Male;Bachelor's degree;USA;21
+nan;44;Female;Doctorate (e.g. PhD);Sweden;22
+fresenius;26;Male;Bachelor's degree;Germany;23
+bmw;26;Male;Bachelor's degree;Germany;23
+basf;26;Male;Bachelor's degree;Germany;23
+sap;27;Male;Bachelor's degree;NaN;24
+heidelbergcement;27;Male;Bachelor's degree;NaN;24
+bechtle;27;Male;Bachelor's degree;NaN;24
+allianz;23;Male;Bachelor's degree;Germany;25
+adidas;23;Male;Bachelor's degree;Germany;25
+bmw;23;Male;Bachelor's degree;Germany;25
+hellofresh;22;Male;Bachelor's degree;Germany;26
+lufthansa;22;Male;Bachelor's degree;Germany;26
+heidelbergercement;22;Male;Bachelor's degree;Germany;26
+lufthansa;25;Male;Bachelor's degree;Germany;27
+audi;25;Male;Bachelor's degree;Germany;27
+vw;25;Male;Bachelor's degree;Germany;27
+mercedesbenz;27;Male;Master's degree;Germany;28
+sap;27;Male;Master's degree;Germany;28
+deliveryhero;27;Male;Master's degree;Germany;28
+audi;30;Male;Bachelor's degree;USA;29
+bayer;30;Male;Bachelor's degree;USA;29
+sap;30;Male;Bachelor's degree;USA;29
+daimler;28;Male;Master's degree;Germany;30
+dhl;28;Male;Master's degree;Germany;30
+volkswagen;28;Male;Master's degree;Germany;30
+nan;38;Female;Doctorate (e.g. PhD);Greece;31
+bmw;28;Male;Master's degree;Germany;32
+allianz;28;Male;Master's degree;Germany;32
+basf;28;Male;Master's degree;Germany;32
+bayer;26;Male;Bachelor's degree;Germany;33
+porsche;26;Male;Bachelor's degree;Germany;33
+adidas;26;Male;Bachelor's degree;Germany;33
+daimler;19;Male;High school degree or equivalent;Germany;34
+bmw;19;Male;High school degree or equivalent;Germany;34
+siemens;19;Male;High school degree or equivalent;Germany;34
+nan;25;Female;Bachelor's degree;Germany;35
+sap;24;Female;Master's degree;Germany;36
+bmw;24;Female;Master's degree;Germany;36
+allianz;24;Female;Master's degree;Germany;36
+vw;25;Male;Bachelor's degree;Germany;37
+adidas;25;Male;Bachelor's degree;Germany;37
+bmw;25;Male;Bachelor's degree;Germany;37
+bmw;64;Male;Doctorate (e.g. PhD);Austria;38
+qiagen;64;Male;Doctorate (e.g. PhD);Austria;38
+vw;64;Male;Doctorate (e.g. PhD);Austria;38
+sap;24;Male;Bachelor's degree;Germany;39
+daimler;24;Male;Bachelor's degree;Germany;39
+bmw;24;Male;Bachelor's degree;Germany;39
+adidas;31;Male;Bachelor's degree;Germany;40
+mercedesbenzgroup;31;Male;Bachelor's degree;Germany;40
+deutschebank;31;Male;Bachelor's degree;Germany;40
+merck;25;Female;Bachelor's degree;Germany;41
+sap;25;Female;Bachelor's degree;Germany;41
+dbcargo;25;Female;Bachelor's degree;Germany;41
+westwing;28;Female;Bachelor's degree;Germany;42
+alibaba;28;Female;Bachelor's degree;Germany;42
+lmvh;28;Female;Bachelor's degree;Germany;42
+adidas;37;Female;Master's degree;Germany;43
+lufthansa;37;Female;Master's degree;Germany;43
+siemens;37;Female;Master's degree;Germany;43
+flatex;50;Female;High school degree or equivalent;Germany;44
+consorsbank;50;Female;High school degree or equivalent;Germany;44
+ing;50;Female;High school degree or equivalent;Germany;44
+vw;28;Female;High school degree or equivalent;Germany;45
+sap;28;Female;High school degree or equivalent;Germany;45
+heidelbergerdruck;28;Female;High school degree or equivalent;Germany;45
+sap;31;Male;Bachelor's degree;Germany;46
+henkel;31;Male;Bachelor's degree;Germany;46
+bayernmunich;31;Male;Bachelor's degree;Germany;46
+adidas;21;Female;High school degree or equivalent;Germany;47
+allianz;21;Female;High school degree or equivalent;Germany;47
+basf;21;Female;High school degree or equivalent;Germany;47
+audi;23;Female;Bachelor's degree;Germany;48
+bmw;23;Female;Bachelor's degree;Germany;48
+daimler;23;Female;Bachelor's degree;Germany;48
+apple;36;Male;Bachelor's degree;India;49
+google;36;Male;Bachelor's degree;India;49
+volkswagen;36;Male;Bachelor's degree;India;49
+mercedesbenzgroup;28;Female;Master's degree;Romania;50
+basf;28;Female;Master's degree;Romania;50
+deutschebank;28;Female;Master's degree;Romania;50
+volkswagen;19;Female;High school degree or equivalent;Germany;51
+daimler;19;Female;High school degree or equivalent;Germany;51
+siemens;19;Female;High school degree or equivalent;Germany;51
+vw;19;Female;High school degree or equivalent;Germany;52
+bayer;19;Female;High school degree or equivalent;Germany;52
+hellofresh;19;Female;High school degree or equivalent;Germany;52
+nan;25;Male;Bachelor's degree;Germany;53
+nan;34;Female;Master's degree;France;54
+nan;20;Female;High school degree or equivalent;Germany;55
+nan;26;Female;Master's degree;France;56
+allianz;29;Prefer not to say;Master's degree;Germany;57
+bmw;29;Prefer not to say;Master's degree;Germany;57
+vw;29;Prefer not to say;Master's degree;Germany;57
+sap;31;Male;Master's degree;Germany;58
+basf;31;Male;Master's degree;Germany;58
+volkswagen;31;Male;Master's degree;Germany;58
+vw;23;Male;High school degree or equivalent;Germany;59
+basf;23;Male;High school degree or equivalent;Germany;59
+sap;23;Male;High school degree or equivalent;Germany;59
+sap;21;Female;High school degree or equivalent;Germany;60
+beiersdorf;21;Female;High school degree or equivalent;Germany;60
+deutschepost;21;Female;High school degree or equivalent;Germany;60
+basf;54;Male;High school degree or equivalent;Germany;61
+sap;54;Male;High school degree or equivalent;Germany;61
+bmw;54;Male;High school degree or equivalent;Germany;61
+bmw;30;Female;Master's degree;France;62
+porsche;30;Female;Master's degree;France;62
+audi;30;Female;Master's degree;France;62
+sap;24;Male;Bachelor's degree;Germany;63
+deutschebank;24;Male;Bachelor's degree;Germany;63
+biontech;24;Male;Bachelor's degree;Germany;63
+daimler;17;Male;Less than a high school degree;Germany;64
+sap;17;Male;Less than a high school degree;Germany;64
+hellofresh;17;Male;Less than a high school degree;Germany;64
+sap;25;Female;High school degree or equivalent;Germany;65
+vw;25;Female;High school degree or equivalent;Germany;65
+jungheinrich;25;Female;High school degree or equivalent;Germany;65
+siemens;16;Male;Less than a high school degree;Germany;66
+airbus;16;Male;Less than a high school degree;Germany;66
+deutschebank;16;Male;Less than a high school degree;Germany;66
+allianz;21;Male;High school degree or equivalent;Germany;67
+vonovia;21;Male;High school degree or equivalent;Germany;67
+bmw;21;Male;High school degree or equivalent;Germany;67
+sap;0;Prefer not to say;NaN;NaN;68
+mercedesbenz;0;Prefer not to say;NaN;NaN;68
+basf;0;Prefer not to say;NaN;NaN;68
+merck;24;Female;Master's degree;France;69
+bmw;24;Female;Master's degree;France;69
+lufthansa;24;Female;Master's degree;France;69
+dpdhl;26;Female;Master's degree;France;70
+lufthansa;26;Female;Master's degree;France;70
+deutschebank;26;Female;Master's degree;France;70
+siemens;34;Female;Master's degree;Germany;71
+lufthansa;34;Female;Master's degree;Germany;71
+daimler;34;Female;Master's degree;Germany;71
+mercedesbenz;54;Male;Less than a high school degree;Germany;72
+sap;54;Male;Less than a high school degree;Germany;72
+volkswagen;54;Male;Less than a high school degree;Germany;72
+daimler;23;Male;Bachelor's degree;Germany;73
+eon;23;Male;Bachelor's degree;Germany;73
+vw;23;Male;Bachelor's degree;Germany;73
+heidelbergclement;27;Male;Master's degree;Germany;74
+abbvie;27;Male;Master's degree;Germany;74
+bmw;27;Male;Master's degree;Germany;74
+deutschepost;25;Male;Bachelor's degree;Germany;75
+deliveryhero;25;Male;Bachelor's degree;Germany;75
+merck;25;Male;Bachelor's degree;Germany;75
+sap;27;Female;Master's degree;Germany;76
+basf;27;Female;Master's degree;Germany;76
+rheinmetall;27;Female;Master's degree;Germany;76
+sap;51;Male;High school degree or equivalent;Germany;77
+linde;51;Male;High school degree or equivalent;Germany;77
+vw;51;Male;High school degree or equivalent;Germany;77
+basf;26;Male;High school degree or equivalent;Germany;78
+daimler;26;Male;High school degree or equivalent;Germany;78
+deutschewohnen;26;Male;High school degree or equivalent;Germany;78
+vw;27;Male;Bachelor's degree;Germany;79
+bmw;27;Male;Bachelor's degree;Germany;79
+lufthansa;27;Male;Bachelor's degree;Germany;79
+daimler;25;Male;Master's degree;Germany;80
+vw;25;Male;Master's degree;Germany;80
+basf;25;Male;Master's degree;Germany;80
+adidasag;25;Male;Bachelor's degree;Germany;81
+lindeplc;25;Male;Bachelor's degree;Germany;81
+siemens;25;Male;Bachelor's degree;Germany;81
+adidas;21;Male;High school degree or equivalent;Germany;82
+sap;21;Male;High school degree or equivalent;Germany;82
+lufthansa;21;Male;High school degree or equivalent;Germany;82
+adidas;23;Female;Bachelor's degree;Germany;83
+pfizer;23;Female;Bachelor's degree;Germany;83
+henkel;23;Female;Bachelor's degree;Germany;83
+basf;28;Female;Master's degree;Germany;84
+db;28;Female;Master's degree;Germany;84
+bosch;28;Female;Master's degree;Germany;84
+sap;25;Female;Master's degree;Germany;85
+porsche;25;Female;Master's degree;Germany;85
+miele;25;Female;Master's degree;Germany;85
+volkswagen;25;Female;Bachelor's degree;Russia;86
+sap;25;Female;Bachelor's degree;Russia;86
+daimler;25;Female;Bachelor's degree;Russia;86
+fresenius;24;Female;High school degree or equivalent;Germany;87
+sap;24;Female;High school degree or equivalent;Germany;87
+allianz;24;Female;High school degree or equivalent;Germany;87
+vw;26;Male;Bachelor's degree;Germany;88
+mercedesbenz;26;Male;Bachelor's degree;Germany;88
+sap;26;Male;Bachelor's degree;Germany;88
+apple;27;Female;Master's degree;Germany;89
+samsung;27;Female;Master's degree;Germany;89
+sap;27;Female;Master's degree;Germany;89
+benz;25;Male;Bachelor's degree;Germany;90
+sap;25;Male;Bachelor's degree;Germany;90
+adidas;25;Male;Bachelor's degree;Germany;90
+sap;25;Male;High school degree or equivalent;Germany;91
+basf;25;Male;High school degree or equivalent;Germany;91
+porsche;25;Male;High school degree or equivalent;Germany;91
+mercedes;28;Male;High school degree or equivalent;Germany;92
+sap;28;Male;High school degree or equivalent;Germany;92
+vw;28;Male;High school degree or equivalent;Germany;92
+adidas;47;Female;Bachelor's degree;England;93
+sap;47;Female;Bachelor's degree;England;93
+deutschetelekom;47;Female;Bachelor's degree;England;93
+linde;38;Male;Bachelor's degree;Germany;94
+bayer;38;Male;Bachelor's degree;Germany;94
+heidelbergcement;38;Male;Bachelor's degree;Germany;94
+sap;40;Female;Bachelor's degree;China;95
+vw;40;Female;Bachelor's degree;China;95
+basf;40;Female;Bachelor's degree;China;95
+basf;28;Female;High school degree or equivalent;Pakistan;96
+sap;28;Female;High school degree or equivalent;Pakistan;96
+covestro;28;Female;High school degree or equivalent;Pakistan;96
+sap;48;Female;Master's degree;Germany;97
+basf;48;Female;Master's degree;Germany;97
+daimler;48;Female;Master's degree;Germany;97
+adidas;26;Male;Less than a high school degree;Germany;98
+allianz;26;Male;Less than a high school degree;Germany;98
+bmw;26;Male;Less than a high school degree;Germany;98
+meta;26;Female;High school degree or equivalent;Germany;99
+teslar;26;Female;High school degree or equivalent;Germany;99
+apple;26;Female;High school degree or equivalent;Germany;99
+adidas;45;Female;Bachelor's degree;USA;100
+bayer;45;Female;Bachelor's degree;USA;100
+bmw;45;Female;Bachelor's degree;USA;100
+nan;23;Female;Master's degree;England;101
+nan;26;Female;Bachelor's degree;Germany;102
+telekom;70;Female;Master's degree;Germany;103
+basf;70;Female;Master's degree;Germany;103
+daimler;70;Female;Master's degree;Germany;103
+airbus;33;Female;Master's degree;Iran;104
+adidas;33;Female;Master's degree;Iran;104
+allianz;33;Female;Master's degree;Iran;104
+siemens;59;Male;Doctorate (e.g. PhD);Germany;105
+deutschebank;59;Male;Doctorate (e.g. PhD);Germany;105
+siemens;47;Female;Doctorate (e.g. PhD);Germany;106
+bosch;47;Female;Doctorate (e.g. PhD);Germany;106
+deutschebank;47;Female;Doctorate (e.g. PhD);Germany;106
+siemens;50;Female;Doctorate (e.g. PhD);Germany;107
+volkswagen;50;Female;Doctorate (e.g. PhD);Germany;107
+bmw;50;Female;Doctorate (e.g. PhD);Germany;107
+mercedes;45;Female;Doctorate (e.g. PhD);Germany;108
+bosch;45;Female;Doctorate (e.g. PhD);Germany;108
+miele;45;Female;Doctorate (e.g. PhD);Germany;108

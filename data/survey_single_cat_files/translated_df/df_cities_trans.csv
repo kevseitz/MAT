@@ -1,0 +1,327 @@
+cities;p_age;p_gender;p_education;p_country;p_id
+berlin;26;Male;Bachelor's degree;germany;0
+new york;26;Male;Bachelor's degree;germany;0
+moscow;26;Male;Bachelor's degree;germany;0
+new york;44;Male;Doctorate (e.g. PhD);germany;1
+amsterdam;44;Male;Doctorate (e.g. PhD);germany;1
+berlin;44;Male;Doctorate (e.g. PhD);germany;1
+paris;46;Male;Bachelor's degree;france;2
+new york;46;Male;Bachelor's degree;france;2
+istanbul;46;Male;Bachelor's degree;france;2
+berlin;28;Male;Master's degree;germany;3
+new york;28;Male;Master's degree;germany;3
+kyiv;28;Male;Master's degree;germany;3
+leuven;34;Female;Master's degree;switzerland;4
+chisinau;34;Female;Master's degree;switzerland;4
+moscow;34;Female;Master's degree;switzerland;4
+paris;27;Male;Bachelor's degree;germany;5
+berlin;27;Male;Bachelor's degree;germany;5
+london;27;Male;Bachelor's degree;germany;5
+brussels;27;Male;Master's degree;germany;6
+london;27;Male;Master's degree;germany;6
+berlin;27;Male;Master's degree;germany;6
+berlin;27;Male;Master's degree;germany;7
+amsterdam;27;Male;Master's degree;germany;7
+cologne;27;Male;Master's degree;germany;7
+berlin;28;Male;High school degree or equivalent;germany;8
+london;28;Male;High school degree or equivalent;germany;8
+belfast;28;Male;High school degree or equivalent;germany;8
+heidelberg;29;Male;Master's degree;germany;9
+new york;29;Male;Master's degree;germany;9
+milan;29;Male;Master's degree;germany;9
+berlin;26;Male;Master's degree;germany;10
+paris;26;Male;Master's degree;germany;10
+brussels;26;Male;Master's degree;germany;10
+hövelhof;37;Male;Master's degree;germany;11
+delbrück;37;Male;Master's degree;germany;11
+detmold;37;Male;Master's degree;germany;11
+mannheim;24;Male;Master's degree;germany;12
+berlin;24;Male;Master's degree;germany;12
+düsseldorf;24;Male;Master's degree;germany;12
+berlin;26;Female;Master's degree;germany;13
+paris;26;Female;Master's degree;germany;13
+rome;26;Female;Master's degree;germany;13
+amsterdam;26;Female;Master's degree;germany;14
+berlin;26;Female;Master's degree;germany;14
+munich;26;Female;Master's degree;germany;14
+munich;28;Female;Doctorate (e.g. PhD);germany;15
+berlin;28;Female;Doctorate (e.g. PhD);germany;15
+hamburg;28;Female;Doctorate (e.g. PhD);germany;15
+san francisco;25;Male;NaN;germany;16
+sydney;25;Male;NaN;germany;16
+berlin;25;Male;NaN;germany;16
+new york;31;Female;Master's degree;germany;17
+rio de janeiro;31;Female;Master's degree;germany;17
+rosenheim;31;Female;Master's degree;germany;17
+mannheim;36;Male;Master's degree;germany;18
+hamburg;36;Male;Master's degree;germany;18
+munich;36;Male;Master's degree;germany;18
+kyiv;27;Male;Master's degree;germany;19
+moscow;27;Male;Master's degree;germany;19
+freiburg;27;Male;Master's degree;germany;19
+berlin;33;Male;Doctorate (e.g. PhD);germany;20
+london;33;Male;Doctorate (e.g. PhD);germany;20
+barcelona;33;Male;Doctorate (e.g. PhD);germany;20
+new york;26;Male;Bachelor's degree;usa;21
+philadelphia;26;Male;Bachelor's degree;usa;21
+san francisco;26;Male;Bachelor's degree;usa;21
+stockholm;44;Female;Doctorate (e.g. PhD);sweden;22
+paris;44;Female;Doctorate (e.g. PhD);sweden;22
+rome;44;Female;Doctorate (e.g. PhD);sweden;22
+vatican city;26;Male;Bachelor's degree;germany;23
+bangkok;26;Male;Bachelor's degree;germany;23
+moscow;26;Male;Bachelor's degree;germany;23
+cologne;27;Male;Bachelor's degree;nan;24
+heilbronn;27;Male;Bachelor's degree;nan;24
+munich;27;Male;Bachelor's degree;nan;24
+belfast;23;Male;Bachelor's degree;germany;25
+new york;23;Male;Bachelor's degree;germany;25
+milan;23;Male;Bachelor's degree;germany;25
+heilbronn;22;Male;Bachelor's degree;germany;26
+heidelberg;22;Male;Bachelor's degree;germany;26
+stuttgart;22;Male;Bachelor's degree;germany;26
+frankfurt;25;Male;Bachelor's degree;germany;27
+berlin;25;Male;Bachelor's degree;germany;27
+munich;25;Male;Bachelor's degree;germany;27
+straubing;27;Male;Master's degree;germany;28
+almería;27;Male;Master's degree;germany;28
+bammental;27;Male;Master's degree;germany;28
+calcutta;30;Male;Bachelor's degree;usa;29
+shanghai;30;Male;Bachelor's degree;usa;29
+washington, d.c.;30;Male;Bachelor's degree;usa;29
+munich;28;Male;Master's degree;germany;30
+münster;28;Male;Master's degree;germany;30
+hamburg;28;Male;Master's degree;germany;30
+new york;38;Female;Doctorate (e.g. PhD);greece;31
+athens;38;Female;Doctorate (e.g. PhD);greece;31
+beijing;38;Female;Doctorate (e.g. PhD);greece;31
+berlin;28;Male;Master's degree;germany;32
+paris;28;Male;Master's degree;germany;32
+rome;28;Male;Master's degree;germany;32
+seville;26;Male;Bachelor's degree;germany;33
+hong kong;26;Male;Bachelor's degree;germany;33
+london;26;Male;Bachelor's degree;germany;33
+berlin;19;Male;High school degree or equivalent;germany;34
+hamburg;19;Male;High school degree or equivalent;germany;34
+munich;19;Male;High school degree or equivalent;germany;34
+berlin;25;Female;Bachelor's degree;germany;35
+brunswick;25;Female;Bachelor's degree;germany;35
+heidelberg;24;Female;Master's degree;germany;36
+mannheim;24;Female;Master's degree;germany;36
+frankfurt;24;Female;Master's degree;germany;36
+berlin;25;Male;Bachelor's degree;germany;37
+munich;25;Male;Bachelor's degree;germany;37
+hamburg;25;Male;Bachelor's degree;germany;37
+munich;64;Male;Doctorate (e.g. PhD);austria;38
+new york;64;Male;Doctorate (e.g. PhD);austria;38
+tokyo;64;Male;Doctorate (e.g. PhD);austria;38
+mannheim;24;Male;Bachelor's degree;germany;39
+frankfurt;24;Male;Bachelor's degree;germany;39
+darmstadt;24;Male;Bachelor's degree;germany;39
+munich;31;Male;Bachelor's degree;germany;40
+hamburg;31;Male;Bachelor's degree;germany;40
+london;31;Male;Bachelor's degree;germany;40
+paris;25;Female;Bachelor's degree;germany;41
+london;25;Female;Bachelor's degree;germany;41
+barcelona;25;Female;Bachelor's degree;germany;41
+milan;28;Female;Bachelor's degree;germany;42
+tarifa;28;Female;Bachelor's degree;germany;42
+malmö;28;Female;Bachelor's degree;germany;42
+paris;37;Female;Master's degree;germany;43
+berlin;37;Female;Master's degree;germany;43
+tokyo;37;Female;Master's degree;germany;43
+madrid;50;Female;High school degree or equivalent;germany;44
+frankfurt;50;Female;High school degree or equivalent;germany;44
+belfast;50;Female;High school degree or equivalent;germany;44
+rome;28;Female;High school degree or equivalent;germany;45
+capetown;28;Female;High school degree or equivalent;germany;45
+potsdam;28;Female;High school degree or equivalent;germany;45
+money;31;Male;Bachelor's degree;germany;46
+oranienburg;31;Male;Bachelor's degree;germany;46
+ilmenau;31;Male;Bachelor's degree;germany;46
+london;21;Female;High school degree or equivalent;germany;47
+paris;21;Female;High school degree or equivalent;germany;47
+rome;21;Female;High school degree or equivalent;germany;47
+rome;23;Female;Bachelor's degree;germany;48
+paris;23;Female;Bachelor's degree;germany;48
+london;23;Female;Bachelor's degree;germany;48
+berlin;36;Male;Bachelor's degree;india;49
+heidelberg;36;Male;Bachelor's degree;india;49
+new york;36;Male;Bachelor's degree;india;49
+mannheim;28;Female;Master's degree;romania;50
+munich;28;Female;Master's degree;romania;50
+berlin;28;Female;Master's degree;romania;50
+new york;19;Female;High school degree or equivalent;germany;51
+london;19;Female;High school degree or equivalent;germany;51
+barcelona;19;Female;High school degree or equivalent;germany;51
+potsdam;19;Female;High school degree or equivalent;germany;52
+munich;19;Female;High school degree or equivalent;germany;52
+leipzig;19;Female;High school degree or equivalent;germany;52
+mannheim;25;Male;Bachelor's degree;germany;53
+schwetzingen;25;Male;Bachelor's degree;germany;53
+heidelberg;25;Male;Bachelor's degree;germany;53
+hartford;34;Female;Master's degree;france;54
+enghienlesbains;34;Female;Master's degree;france;54
+montreal;34;Female;Master's degree;france;54
+zurich;20;Female;High school degree or equivalent;germany;55
+prague;20;Female;High school degree or equivalent;germany;55
+madrid;20;Female;High school degree or equivalent;germany;55
+nice;26;Female;Master's degree;france;56
+lille;26;Female;Master's degree;france;56
+versailles;26;Female;Master's degree;france;56
+kyiv;29;Prefer not to say;Master's degree;germany;57
+moscow;29;Prefer not to say;Master's degree;germany;57
+minsk;29;Prefer not to say;Master's degree;germany;57
+paris;31;Male;Master's degree;germany;58
+berlin;31;Male;Master's degree;germany;58
+milan;31;Male;Master's degree;germany;58
+mannheim;23;Male;High school degree or equivalent;germany;59
+heidelberg;23;Male;High school degree or equivalent;germany;59
+zurich;23;Male;High school degree or equivalent;germany;59
+berlin;21;Female;High school degree or equivalent;germany;60
+heidelberg;21;Female;High school degree or equivalent;germany;60
+paris;21;Female;High school degree or equivalent;germany;60
+heidelberg;54;Male;High school degree or equivalent;germany;61
+prague;54;Male;High school degree or equivalent;germany;61
+lisbon;54;Male;High school degree or equivalent;germany;61
+paris;30;Female;Master's degree;france;62
+london;30;Female;Master's degree;france;62
+new york;30;Female;Master's degree;france;62
+frankfurt;24;Male;Bachelor's degree;germany;63
+milano;24;Male;Bachelor's degree;germany;63
+new york;24;Male;Bachelor's degree;germany;63
+berlin;17;Male;Less than a high school degree;germany;64
+frankfurt;17;Male;Less than a high school degree;germany;64
+gothamcity;17;Male;Less than a high school degree;germany;64
+waterloo;25;Female;High school degree or equivalent;germany;65
+geneva;25;Female;High school degree or equivalent;germany;65
+copenhagen;25;Female;High school degree or equivalent;germany;65
+new york;16;Male;Less than a high school degree;germany;66
+washington, d.c.;16;Male;Less than a high school degree;germany;66
+los angeles;16;Male;Less than a high school degree;germany;66
+cologne;21;Male;High school degree or equivalent;germany;67
+paris;21;Male;High school degree or equivalent;germany;67
+barcelona;21;Male;High school degree or equivalent;germany;67
+heidelberg;0;Prefer not to say;NaN;nan;68
+mannheim;0;Prefer not to say;NaN;nan;68
+frankfurt;0;Prefer not to say;NaN;nan;68
+paris;24;Female;Master's degree;france;69
+singapore;24;Female;Master's degree;france;69
+london;24;Female;Master's degree;france;69
+paris;26;Female;Master's degree;france;70
+london;26;Female;Master's degree;france;70
+berlin;26;Female;Master's degree;france;70
+berlin;34;Female;Master's degree;germany;71
+london;34;Female;Master's degree;germany;71
+paris;34;Female;Master's degree;germany;71
+berlin;54;Male;Less than a high school degree;germany;72
+munich;54;Male;Less than a high school degree;germany;72
+paris;54;Male;Less than a high school degree;germany;72
+kyiv;23;Male;Bachelor's degree;germany;73
+berlin;23;Male;Bachelor's degree;germany;73
+frankfurt;23;Male;Bachelor's degree;germany;73
+mannheim;27;Male;Master's degree;germany;74
+berlin;27;Male;Master's degree;germany;74
+athens;27;Male;Master's degree;germany;74
+moscow;25;Male;Bachelor's degree;germany;75
+kyiv;25;Male;Bachelor's degree;germany;75
+beijing;25;Male;Bachelor's degree;germany;75
+paris;27;Female;Master's degree;germany;76
+rome;27;Female;Master's degree;germany;76
+london;27;Female;Master's degree;germany;76
+mannheim;51;Male;High school degree or equivalent;germany;77
+heidelberg;51;Male;High school degree or equivalent;germany;77
+hamburg;51;Male;High school degree or equivalent;germany;77
+heidelberg;26;Male;High school degree or equivalent;germany;78
+mannheim;26;Male;High school degree or equivalent;germany;78
+stuttgart;26;Male;High school degree or equivalent;germany;78
+berlin;27;Male;Bachelor's degree;germany;79
+new york;27;Male;Bachelor's degree;germany;79
+london;27;Male;Bachelor's degree;germany;79
+cologne;25;Male;Master's degree;germany;80
+düsseldorf;25;Male;Master's degree;germany;80
+frankfurt;25;Male;Master's degree;germany;80
+heidelberg;25;Male;Bachelor's degree;germany;81
+berlin;25;Male;Bachelor's degree;germany;81
+madrid;25;Male;Bachelor's degree;germany;81
+peking;21;Male;High school degree or equivalent;germany;82
+moscow;21;Male;High school degree or equivalent;germany;82
+oslo;21;Male;High school degree or equivalent;germany;82
+mannheim;23;Female;Bachelor's degree;germany;83
+heidelberg;23;Female;Bachelor's degree;germany;83
+weinheim;23;Female;Bachelor's degree;germany;83
+new york;28;Female;Master's degree;germany;84
+amsterdam;28;Female;Master's degree;germany;84
+berlin;28;Female;Master's degree;germany;84
+berlin;25;Female;Master's degree;germany;85
+hanover;25;Female;Master's degree;germany;85
+heidelberg;25;Female;Master's degree;germany;85
+berlin;25;Female;Bachelor's degree;russia;86
+tokyo;25;Female;Bachelor's degree;russia;86
+london;25;Female;Bachelor's degree;russia;86
+monchengladbach;24;Female;High school degree or equivalent;germany;87
+hamburg;24;Female;High school degree or equivalent;germany;87
+munich;24;Female;High school degree or equivalent;germany;87
+heidelberg;26;Male;Bachelor's degree;germany;88
+glue;26;Male;Bachelor's degree;germany;88
+mannheim;26;Male;Bachelor's degree;germany;88
+new york;27;Female;Master's degree;germany;89
+london;27;Female;Master's degree;germany;89
+barcelona;27;Female;Master's degree;germany;89
+munich;25;Male;Bachelor's degree;germany;90
+berlin;25;Male;Bachelor's degree;germany;90
+hamburg;25;Male;Bachelor's degree;germany;90
+berlin;25;Male;High school degree or equivalent;germany;91
+paris;25;Male;High school degree or equivalent;germany;91
+madrid;25;Male;High school degree or equivalent;germany;91
+berlin;28;Male;High school degree or equivalent;germany;92
+rome;28;Male;High school degree or equivalent;germany;92
+sydney;28;Male;High school degree or equivalent;germany;92
+london;47;Female;Bachelor's degree;england;93
+seville;47;Female;Bachelor's degree;england;93
+rome;47;Female;Bachelor's degree;england;93
+london;38;Male;Bachelor's degree;germany;94
+berlin;38;Male;Bachelor's degree;germany;94
+künzelsau;38;Male;Bachelor's degree;germany;94
+shanghai;40;Female;Bachelor's degree;china;95
+beijing;40;Female;Bachelor's degree;china;95
+london;40;Female;Bachelor's degree;china;95
+rome;28;Female;High school degree or equivalent;pakistan;96
+mannheim;28;Female;High school degree or equivalent;pakistan;96
+paris;28;Female;High school degree or equivalent;pakistan;96
+mannheim;48;Female;Diplom;germany;97
+stuttgart;48;Female;Diplom;germany;97
+munich;48;Female;Diplom;germany;97
+munich;26;Male;Less than a high school degree;germany;98
+reykjavik;26;Male;Less than a high school degree;germany;98
+lisbon;26;Male;Less than a high school degree;germany;98
+jaipur;26;Female;High school degree or equivalent;germany;99
+berlin;26;Female;High school degree or equivalent;germany;99
+heidelberg;26;Female;High school degree or equivalent;germany;99
+pittsburgh;45;Female;Bachelor's degree;usa;100
+las vegas;45;Female;Bachelor's degree;usa;100
+london;45;Female;Bachelor's degree;usa;100
+birmingham;23;Female;Master's degree;england;101
+nice;23;Female;Master's degree;england;101
+amsterdam;23;Female;Master's degree;england;101
+berlin;26;Female;Bachelor's degree;germany;102
+hamburg;26;Female;Bachelor's degree;germany;102
+munich;26;Female;Bachelor's degree;germany;102
+paris;70;Female;Dipl.-Ing.;germany;103
+berlin;70;Female;Dipl.-Ing.;germany;103
+rome;70;Female;Dipl.-Ing.;germany;103
+new york;33;Female;Master's degree;iran;104
+washington;33;Female;Master's degree;iran;104
+dublin;33;Female;Master's degree;iran;104
+new york;59;Male;Doctorate (e.g. PhD);germany;105
+stockholm;59;Male;Doctorate (e.g. PhD);germany;105
+munich;59;Male;Doctorate (e.g. PhD);germany;105
+rome;47;Female;Doctorate (e.g. PhD);germany;106
+bologna;47;Female;Doctorate (e.g. PhD);germany;106
+berlin;47;Female;Doctorate (e.g. PhD);germany;106
+berlin;50;Female;Doctorate (e.g. PhD);germany;107
+munich;50;Female;Doctorate (e.g. PhD);germany;107
+hamburg;50;Female;Doctorate (e.g. PhD);germany;107
+new york;45;Female;Doctorate (e.g. PhD);germany;108
+hamburg;45;Female;Doctorate (e.g. PhD);germany;108
+bremen;45;Female;Doctorate (e.g. PhD);germany;108

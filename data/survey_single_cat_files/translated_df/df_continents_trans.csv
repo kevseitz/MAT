@@ -1,0 +1,324 @@
+continents;p_age;p_gender;p_education;p_country;p_id
+europe;26;Male;Bachelor's degree;germany;0
+africa;26;Male;Bachelor's degree;germany;0
+asia;26;Male;Bachelor's degree;germany;0
+europe;44;Male;Doctorate (e.g. PhD);germany;1
+africa;44;Male;Doctorate (e.g. PhD);germany;1
+north america;44;Male;Doctorate (e.g. PhD);germany;1
+europe;46;Male;Bachelor's degree;france;2
+asia;46;Male;Bachelor's degree;france;2
+north america;46;Male;Bachelor's degree;france;2
+europe;28;Male;Master's degree;germany;3
+north america;28;Male;Master's degree;germany;3
+asia;28;Male;Master's degree;germany;3
+asia;34;Female;Master's degree;switzerland;4
+africa;34;Female;Master's degree;switzerland;4
+australia;34;Female;Master's degree;switzerland;4
+asia;27;Male;Bachelor's degree;germany;5
+europe;27;Male;Bachelor's degree;germany;5
+africa;27;Male;Bachelor's degree;germany;5
+europe;27;Male;Master's degree;germany;6
+africa;27;Male;Master's degree;germany;6
+asia;27;Male;Master's degree;germany;6
+asia;27;Male;Master's degree;germany;7
+africa;27;Male;Master's degree;germany;7
+europe;27;Male;Master's degree;germany;7
+europe;28;Male;High school degree or equivalent;germany;8
+africa;28;Male;High school degree or equivalent;germany;8
+australia;28;Male;High school degree or equivalent;germany;8
+australia;29;Male;Master's degree;germany;9
+north america;29;Male;Master's degree;germany;9
+south america;29;Male;Master's degree;germany;9
+africa;26;Male;Master's degree;germany;10
+europe;26;Male;Master's degree;germany;10
+antarctica;26;Male;Master's degree;germany;10
+asia;37;Male;Master's degree;germany;11
+africa;37;Male;Master's degree;germany;11
+north america;37;Male;Master's degree;germany;11
+europe;24;Male;Master's degree;germany;12
+asia;24;Male;Master's degree;germany;12
+africa;24;Male;Master's degree;germany;12
+africa;26;Female;Master's degree;germany;13
+europe;26;Female;Master's degree;germany;13
+australia;26;Female;Master's degree;germany;13
+africa;26;Female;Master's degree;germany;14
+south america;26;Female;Master's degree;germany;14
+australia;26;Female;Master's degree;germany;14
+asia;28;Female;Doctorate (e.g. PhD);germany;15
+europe;28;Female;Doctorate (e.g. PhD);germany;15
+africa;28;Female;Doctorate (e.g. PhD);germany;15
+africa;25;Male;NaN;germany;16
+europe;25;Male;NaN;germany;16
+asia;25;Male;NaN;germany;16
+africa;31;Female;Master's degree;germany;17
+europe;31;Female;Master's degree;germany;17
+asia;31;Female;Master's degree;germany;17
+africa;36;Male;Master's degree;germany;18
+europe;36;Male;Master's degree;germany;18
+australia;36;Male;Master's degree;germany;18
+asia;27;Male;Master's degree;germany;19
+australia;27;Male;Master's degree;germany;19
+europe;33;Male;Doctorate (e.g. PhD);germany;20
+north america;33;Male;Doctorate (e.g. PhD);germany;20
+south america;33;Male;Doctorate (e.g. PhD);germany;20
+asia;26;Male;Bachelor's degree;usa;21
+north america;26;Male;Bachelor's degree;usa;21
+africa;26;Male;Bachelor's degree;usa;21
+euroe;44;Female;Doctorate (e.g. PhD);sweden;22
+asia;44;Female;Doctorate (e.g. PhD);sweden;22
+africa;44;Female;Doctorate (e.g. PhD);sweden;22
+europe;26;Male;Bachelor's degree;germany;23
+asia;26;Male;Bachelor's degree;germany;23
+north america;26;Male;Bachelor's degree;germany;23
+europe;27;Male;Bachelor's degree;nan;24
+africa;27;Male;Bachelor's degree;nan;24
+north america;27;Male;Bachelor's degree;nan;24
+europe;23;Male;Bachelor's degree;germany;25
+south america;23;Male;Bachelor's degree;germany;25
+africa;23;Male;Bachelor's degree;germany;25
+europe;22;Male;Bachelor's degree;germany;26
+asia;22;Male;Bachelor's degree;germany;26
+australia;22;Male;Bachelor's degree;germany;26
+europe;25;Male;Bachelor's degree;germany;27
+africa;25;Male;Bachelor's degree;germany;27
+asia;25;Male;Bachelor's degree;germany;27
+europe;27;Male;Master's degree;germany;28
+africa;27;Male;Master's degree;germany;28
+asia;27;Male;Master's degree;germany;28
+africa;30;Male;Bachelor's degree;usa;29
+north america;30;Male;Bachelor's degree;usa;29
+antarctica;30;Male;Bachelor's degree;usa;29
+africa;28;Male;Master's degree;germany;30
+europe;28;Male;Master's degree;germany;30
+australia;28;Male;Master's degree;germany;30
+europe;38;Female;Doctorate (e.g. PhD);greece;31
+africa;38;Female;Doctorate (e.g. PhD);greece;31
+australia;38;Female;Doctorate (e.g. PhD);greece;31
+africa;28;Male;Master's degree;germany;32
+europe;28;Male;Master's degree;germany;32
+asia;28;Male;Master's degree;germany;32
+africa;26;Male;Bachelor's degree;germany;33
+asia;26;Male;Bachelor's degree;germany;33
+north america;26;Male;Bachelor's degree;germany;33
+europe;19;Male;High school degree or equivalent;germany;34
+africa;19;Male;High school degree or equivalent;germany;34
+asia;19;Male;High school degree or equivalent;germany;34
+asia;25;Female;Bachelor's degree;germany;35
+europe;25;Female;Bachelor's degree;germany;35
+north america;25;Female;Bachelor's degree;germany;35
+europe;24;Female;Master's degree;germany;36
+africa;25;Male;Bachelor's degree;germany;37
+antarctica;25;Male;Bachelor's degree;germany;37
+asia;25;Male;Bachelor's degree;germany;37
+america;64;Male;Doctorate (e.g. PhD);austria;38
+europe;64;Male;Doctorate (e.g. PhD);austria;38
+asia;64;Male;Doctorate (e.g. PhD);austria;38
+europe;24;Male;Bachelor's degree;germany;39
+asia;24;Male;Bachelor's degree;germany;39
+africa;24;Male;Bachelor's degree;germany;39
+europe;31;Male;Bachelor's degree;germany;40
+asia;31;Male;Bachelor's degree;germany;40
+north america;31;Male;Bachelor's degree;germany;40
+africa;25;Female;Bachelor's degree;germany;41
+south america;25;Female;Bachelor's degree;germany;41
+north america;25;Female;Bachelor's degree;germany;41
+asia;28;Female;Bachelor's degree;germany;42
+europe;28;Female;Bachelor's degree;germany;42
+australia;28;Female;Bachelor's degree;germany;42
+europe;37;Female;Master's degree;germany;43
+north america;37;Female;Master's degree;germany;43
+asia;37;Female;Master's degree;germany;43
+asia;50;Female;High school degree or equivalent;germany;44
+africa;50;Female;High school degree or equivalent;germany;44
+europe;50;Female;High school degree or equivalent;germany;44
+europe;28;Female;High school degree or equivalent;germany;45
+south america;28;Female;High school degree or equivalent;germany;45
+asia;28;Female;High school degree or equivalent;germany;45
+europe;31;Male;Bachelor's degree;germany;46
+africa;31;Male;Bachelor's degree;germany;46
+south america;31;Male;Bachelor's degree;germany;46
+europe;21;Female;High school degree or equivalent;germany;47
+asia;21;Female;High school degree or equivalent;germany;47
+africa;21;Female;High school degree or equivalent;germany;47
+asia;23;Female;Bachelor's degree;germany;48
+europe;23;Female;Bachelor's degree;germany;48
+africa;23;Female;Bachelor's degree;germany;48
+europe;36;Male;Bachelor's degree;india;49
+asia;36;Male;Bachelor's degree;india;49
+africa;36;Male;Bachelor's degree;india;49
+europe;28;Female;Master's degree;romania;50
+asia;28;Female;Master's degree;romania;50
+africa;28;Female;Master's degree;romania;50
+europe;19;Female;High school degree or equivalent;germany;51
+asia;19;Female;High school degree or equivalent;germany;51
+africa;19;Female;High school degree or equivalent;germany;51
+europe;19;Female;High school degree or equivalent;germany;52
+asia;19;Female;High school degree or equivalent;germany;52
+africa;19;Female;High school degree or equivalent;germany;52
+asia;25;Male;Bachelor's degree;germany;53
+europe;25;Male;Bachelor's degree;germany;53
+africa;25;Male;Bachelor's degree;germany;53
+europe;34;Female;Master's degree;france;54
+north america;34;Female;Master's degree;france;54
+asia;34;Female;Master's degree;france;54
+australia;20;Female;High school degree or equivalent;germany;55
+europe;20;Female;High school degree or equivalent;germany;55
+south america;20;Female;High school degree or equivalent;germany;55
+asia;26;Female;Master's degree;france;56
+europe;26;Female;Master's degree;france;56
+north america;26;Female;Master's degree;france;56
+antarctica;29;Prefer not to say;Master's degree;germany;57
+europe;29;Prefer not to say;Master's degree;germany;57
+africa;29;Prefer not to say;Master's degree;germany;57
+europe;31;Male;Master's degree;germany;58
+north america;31;Male;Master's degree;germany;58
+south america;31;Male;Master's degree;germany;58
+asia;23;Male;High school degree or equivalent;germany;59
+africa;23;Male;High school degree or equivalent;germany;59
+europe;23;Male;High school degree or equivalent;germany;59
+europe;21;Female;High school degree or equivalent;germany;60
+africa;21;Female;High school degree or equivalent;germany;60
+asia;21;Female;High school degree or equivalent;germany;60
+europe;54;Male;High school degree or equivalent;germany;61
+australia;54;Male;High school degree or equivalent;germany;61
+asia;54;Male;High school degree or equivalent;germany;61
+europe;30;Female;Master's degree;france;62
+north america;30;Female;Master's degree;france;62
+asia;30;Female;Master's degree;france;62
+africa;24;Male;Bachelor's degree;germany;63
+europe;24;Male;Bachelor's degree;germany;63
+asia;24;Male;Bachelor's degree;germany;63
+europe;17;Male;Less than a high school degree;germany;64
+africa;17;Male;Less than a high school degree;germany;64
+asia;17;Male;Less than a high school degree;germany;64
+africa;25;Female;High school degree or equivalent;germany;65
+asia;25;Female;High school degree or equivalent;germany;65
+antarctica;25;Female;High school degree or equivalent;germany;65
+africa;16;Male;Less than a high school degree;germany;66
+europe;16;Male;Less than a high school degree;germany;66
+north america;16;Male;Less than a high school degree;germany;66
+asia;21;Male;High school degree or equivalent;germany;67
+europe;21;Male;High school degree or equivalent;germany;67
+oceania;21;Male;High school degree or equivalent;germany;67
+asia;0;Prefer not to say;NaN;nan;68
+europe;0;Prefer not to say;NaN;nan;68
+north america;0;Prefer not to say;NaN;nan;68
+africa;24;Female;Master's degree;france;69
+australia;24;Female;Master's degree;france;69
+europe;24;Female;Master's degree;france;69
+europe;26;Female;Master's degree;france;70
+north america;26;Female;Master's degree;france;70
+asia;26;Female;Master's degree;france;70
+europe;34;Female;Master's degree;germany;71
+asia;34;Female;Master's degree;germany;71
+africa;34;Female;Master's degree;germany;71
+africa;54;Male;Less than a high school degree;germany;72
+asia;54;Male;Less than a high school degree;germany;72
+australia;54;Male;Less than a high school degree;germany;72
+europe;23;Male;Bachelor's degree;germany;73
+north america;23;Male;Bachelor's degree;germany;73
+asia;23;Male;Bachelor's degree;germany;73
+europe;27;Male;Master's degree;germany;74
+north america;27;Male;Master's degree;germany;74
+asia;27;Male;Master's degree;germany;74
+europe;25;Male;Bachelor's degree;germany;75
+africa;25;Male;Bachelor's degree;germany;75
+asia;25;Male;Bachelor's degree;germany;75
+africa;27;Female;Master's degree;germany;76
+europe;27;Female;Master's degree;germany;76
+australia;27;Female;Master's degree;germany;76
+asia;51;Male;High school degree or equivalent;germany;77
+europe;51;Male;High school degree or equivalent;germany;77
+africa;51;Male;High school degree or equivalent;germany;77
+north america;26;Male;High school degree or equivalent;germany;78
+south america;26;Male;High school degree or equivalent;germany;78
+asia;26;Male;High school degree or equivalent;germany;78
+europe;27;Male;Bachelor's degree;germany;79
+north america;27;Male;Bachelor's degree;germany;79
+africa;27;Male;Bachelor's degree;germany;79
+africa;25;Male;Master's degree;germany;80
+europe;25;Male;Master's degree;germany;80
+africa;25;Male;Bachelor's degree;germany;81
+asia;25;Male;Bachelor's degree;germany;81
+europe;25;Male;Bachelor's degree;germany;81
+europe;21;Male;High school degree or equivalent;germany;82
+asia;21;Male;High school degree or equivalent;germany;82
+africa;21;Male;High school degree or equivalent;germany;82
+europe;23;Female;Bachelor's degree;germany;83
+north america;23;Female;Bachelor's degree;germany;83
+africa;23;Female;Bachelor's degree;germany;83
+africa;28;Female;Master's degree;germany;84
+north america;28;Female;Master's degree;germany;84
+europe;28;Female;Master's degree;germany;84
+africa;25;Female;Master's degree;germany;85
+asia;25;Female;Master's degree;germany;85
+europe;25;Female;Master's degree;germany;85
+europe;25;Female;Bachelor's degree;russia;86
+africa;25;Female;Bachelor's degree;russia;86
+north america;25;Female;Bachelor's degree;russia;86
+africa;24;Female;High school degree or equivalent;germany;87
+asia;24;Female;High school degree or equivalent;germany;87
+australia;24;Female;High school degree or equivalent;germany;87
+africa;26;Male;Bachelor's degree;germany;88
+australia;26;Male;Bachelor's degree;germany;88
+europe;26;Male;Bachelor's degree;germany;88
+asia;27;Female;Master's degree;germany;89
+europe;27;Female;Master's degree;germany;89
+africa;27;Female;Master's degree;germany;89
+asia;25;Male;Bachelor's degree;germany;90
+europe;25;Male;Bachelor's degree;germany;90
+africa;25;Male;Bachelor's degree;germany;90
+europe;25;Male;High school degree or equivalent;germany;91
+asia;25;Male;High school degree or equivalent;germany;91
+south america;25;Male;High school degree or equivalent;germany;91
+europe;28;Male;High school degree or equivalent;germany;92
+north america;28;Male;High school degree or equivalent;germany;92
+africa;28;Male;High school degree or equivalent;germany;92
+europe;47;Female;Bachelor's degree;england;93
+asia;47;Female;Bachelor's degree;england;93
+africa;47;Female;Bachelor's degree;england;93
+asia;38;Male;Bachelor's degree;germany;94
+europe;38;Male;Bachelor's degree;germany;94
+africa;38;Male;Bachelor's degree;germany;94
+asia;40;Female;Bachelor's degree;china;95
+europe;40;Female;Bachelor's degree;china;95
+africa;40;Female;Bachelor's degree;china;95
+north america;28;Female;High school degree or equivalent;pakistan;96
+europe;28;Female;High school degree or equivalent;pakistan;96
+asia;28;Female;High school degree or equivalent;pakistan;96
+europe;48;Female;Diplom;germany;97
+africa;48;Female;Diplom;germany;97
+asia;48;Female;Diplom;germany;97
+europe;26;Male;Less than a high school degree;germany;98
+australia;26;Male;Less than a high school degree;germany;98
+antarctica;26;Male;Less than a high school degree;germany;98
+europe;26;Female;High school degree or equivalent;germany;99
+australia;26;Female;High school degree or equivalent;germany;99
+africa;26;Female;High school degree or equivalent;germany;99
+australia;45;Female;Bachelor's degree;usa;100
+europe;45;Female;Bachelor's degree;usa;100
+asia;45;Female;Bachelor's degree;usa;100
+europe;23;Female;Master's degree;england;101
+australia;23;Female;Master's degree;england;101
+africa;23;Female;Master's degree;england;101
+asia;26;Female;Bachelor's degree;germany;102
+africa;26;Female;Bachelor's degree;germany;102
+north america;26;Female;Bachelor's degree;germany;102
+europe;70;Female;Dipl.-Ing.;germany;103
+asia;70;Female;Dipl.-Ing.;germany;103
+africa;70;Female;Dipl.-Ing.;germany;103
+asia;33;Female;Master's degree;iran;104
+africa;33;Female;Master's degree;iran;104
+europe;33;Female;Master's degree;iran;104
+asia;59;Male;Doctorate (e.g. PhD);germany;105
+europe;59;Male;Doctorate (e.g. PhD);germany;105
+africa;59;Male;Doctorate (e.g. PhD);germany;105
+europe;47;Female;Doctorate (e.g. PhD);germany;106
+asia;47;Female;Doctorate (e.g. PhD);germany;106
+australia;47;Female;Doctorate (e.g. PhD);germany;106
+asia;50;Female;Doctorate (e.g. PhD);germany;107
+europe;50;Female;Doctorate (e.g. PhD);germany;107
+africa;50;Female;Doctorate (e.g. PhD);germany;107
+asia;45;Female;Doctorate (e.g. PhD);germany;108
+north america;45;Female;Doctorate (e.g. PhD);germany;108
+europe;45;Female;Doctorate (e.g. PhD);germany;108

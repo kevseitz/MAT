@@ -1,0 +1,305 @@
+birds;p_age;p_gender;p_education;p_country;p_id
+robin;26;Male;Bachelor's degree;germany;0
+mockingbird;26;Male;Bachelor's degree;germany;0
+pelican;26;Male;Bachelor's degree;germany;0
+ostrich;44;Male;Doctorate (e.g. PhD);germany;1
+owl;44;Male;Doctorate (e.g. PhD);germany;1
+mockingbird;44;Male;Doctorate (e.g. PhD);germany;1
+nightingale;46;Male;Bachelor's degree;france;2
+swallow;46;Male;Bachelor's degree;france;2
+pelican;46;Male;Bachelor's degree;france;2
+eagle;28;Male;Master's degree;germany;3
+magpie;28;Male;Master's degree;germany;3
+owl;28;Male;Master's degree;germany;3
+sparrow;34;Female;Master's degree;switzerland;4
+eagle;34;Female;Master's degree;switzerland;4
+gull;34;Female;Master's degree;switzerland;4
+eagle;27;Male;Bachelor's degree;germany;5
+dove;27;Male;Bachelor's degree;germany;5
+pigeon;27;Male;Bachelor's degree;germany;5
+eagle;27;Male;Master's degree;germany;6
+sparrow;27;Male;Master's degree;germany;6
+duck;27;Male;Master's degree;germany;6
+eagle;27;Male;Master's degree;germany;7
+buzzard;27;Male;Master's degree;germany;7
+blackbird;27;Male;Master's degree;germany;7
+eagle;28;Male;High school degree or equivalent;germany;8
+falcon;28;Male;High school degree or equivalent;germany;8
+ostrich;28;Male;High school degree or equivalent;germany;8
+eagle;29;Male;Master's degree;germany;9
+penguin;29;Male;Master's degree;germany;9
+kiwi;29;Male;Master's degree;germany;9
+robin;26;Male;Master's degree;germany;10
+owl;26;Male;Master's degree;germany;10
+penguin;26;Male;Master's degree;germany;10
+blackbird;37;Male;Master's degree;germany;11
+choke;37;Male;Master's degree;germany;11
+fink;37;Male;Master's degree;germany;11
+blackbird;24;Male;Master's degree;germany;12
+red calyx;24;Male;Master's degree;germany;12
+stork;24;Male;Master's degree;germany;12
+dove;26;Female;Master's degree;germany;13
+crow;26;Female;Master's degree;germany;13
+stork;26;Female;Master's degree;germany;13
+eagle;26;Female;Master's degree;germany;14
+hummingbird;26;Female;Master's degree;germany;14
+robin;26;Female;Master's degree;germany;14
+blackbird;28;Female;Doctorate (e.g. PhD);germany;15
+choke;28;Female;Doctorate (e.g. PhD);germany;15
+fink;28;Female;Doctorate (e.g. PhD);germany;15
+pidgeon;25;Male;NaN;germany;16
+mockingbird;31;Female;Master's degree;germany;17
+chicken;31;Female;Master's degree;germany;17
+seagull;31;Female;Master's degree;germany;17
+owl;36;Male;Master's degree;germany;18
+hawk;36;Male;Master's degree;germany;18
+hummingbird;36;Male;Master's degree;germany;18
+mockingbird;27;Male;Master's degree;germany;19
+hummingbird;27;Male;Master's degree;germany;19
+pigeon;33;Male;Doctorate (e.g. PhD);germany;20
+swallow;33;Male;Doctorate (e.g. PhD);germany;20
+owl;33;Male;Doctorate (e.g. PhD);germany;20
+robin;26;Male;Bachelor's degree;usa;21
+crow;26;Male;Bachelor's degree;usa;21
+cardinal;26;Male;Bachelor's degree;usa;21
+kiwi;44;Female;Doctorate (e.g. PhD);sweden;22
+hummingbird;44;Female;Doctorate (e.g. PhD);sweden;22
+robin;26;Male;Bachelor's degree;germany;23
+owl;26;Male;Bachelor's degree;germany;23
+sparrow;26;Male;Bachelor's degree;germany;23
+eagle;27;Male;Bachelor's degree;nan;24
+tit;27;Male;Bachelor's degree;nan;24
+woodpecker;27;Male;Bachelor's degree;nan;24
+robin;23;Male;Bachelor's degree;germany;25
+parrot;23;Male;Bachelor's degree;germany;25
+eagle;23;Male;Bachelor's degree;germany;25
+pelican;22;Male;Bachelor's degree;germany;26
+raven;22;Male;Bachelor's degree;germany;26
+eagle;22;Male;Bachelor's degree;germany;26
+eagle;25;Male;Bachelor's degree;germany;27
+cardinal;25;Male;Bachelor's degree;germany;27
+dove;25;Male;Bachelor's degree;germany;27
+eagle;27;Male;Master's degree;germany;28
+goose;27;Male;Master's degree;germany;28
+penguin;27;Male;Master's degree;germany;28
+eagle;30;Male;Bachelor's degree;usa;29
+parakeet;30;Male;Bachelor's degree;usa;29
+falcon;30;Male;Bachelor's degree;usa;29
+sparrow;28;Male;Master's degree;germany;30
+falcon;28;Male;Master's degree;germany;30
+hummingbird;28;Male;Master's degree;germany;30
+crow;38;Female;Doctorate (e.g. PhD);greece;31
+chicken;38;Female;Doctorate (e.g. PhD);greece;31
+nightingale;38;Female;Doctorate (e.g. PhD);greece;31
+hummingbird;28;Male;Master's degree;germany;32
+eagle;28;Male;Master's degree;germany;32
+sparrow;28;Male;Master's degree;germany;32
+dove;26;Male;Bachelor's degree;germany;33
+sparrow;26;Male;Bachelor's degree;germany;33
+seagull;26;Male;Bachelor's degree;germany;33
+blue tit;19;Male;High school degree or equivalent;germany;34
+eagle;19;Male;High school degree or equivalent;germany;34
+sparrow;19;Male;High school degree or equivalent;germany;34
+colibri;25;Female;Bachelor's degree;germany;35
+stork;25;Female;Bachelor's degree;germany;35
+chicken;25;Female;Bachelor's degree;germany;35
+woodpecker;24;Female;Master's degree;germany;36
+cuckoo;24;Female;Master's degree;germany;36
+crow;24;Female;Master's degree;germany;36
+red kite;25;Male;Bachelor's degree;germany;37
+brown throat;25;Male;Bachelor's degree;germany;37
+blackbird;25;Male;Bachelor's degree;germany;37
+blackbird;64;Male;Doctorate (e.g. PhD);austria;38
+eagle;64;Male;Doctorate (e.g. PhD);austria;38
+sparrow;64;Male;Doctorate (e.g. PhD);austria;38
+eagle;24;Male;Bachelor's degree;germany;39
+vulture;24;Male;Bachelor's degree;germany;39
+crow;24;Male;Bachelor's degree;germany;39
+blackbird;31;Male;Bachelor's degree;germany;40
+eagle;31;Male;Bachelor's degree;germany;40
+vulture;31;Male;Bachelor's degree;germany;40
+ara;25;Female;Bachelor's degree;germany;41
+mockingbird;25;Female;Bachelor's degree;germany;41
+robin;25;Female;Bachelor's degree;germany;41
+tit;28;Female;Bachelor's degree;germany;42
+blackbird;28;Female;Bachelor's degree;germany;42
+hummingbird;28;Female;Bachelor's degree;germany;42
+blackbird;37;Female;Master's degree;germany;43
+sparrow;37;Female;Master's degree;germany;43
+fink;37;Female;Master's degree;germany;43
+eagle;50;Female;High school degree or equivalent;germany;44
+robin;50;Female;High school degree or equivalent;germany;44
+parrot;50;Female;High school degree or equivalent;germany;44
+owl;28;Female;High school degree or equivalent;germany;45
+duck;28;Female;High school degree or equivalent;germany;45
+swan;28;Female;High school degree or equivalent;germany;45
+eagle;31;Male;Bachelor's degree;germany;46
+chicken;31;Male;Bachelor's degree;germany;46
+vulture;31;Male;Bachelor's degree;germany;46
+eagle;21;Female;High school degree or equivalent;germany;47
+chicken;21;Female;High school degree or equivalent;germany;47
+penguin;21;Female;High school degree or equivalent;germany;47
+swan;23;Female;Bachelor's degree;germany;48
+eagle;36;Male;Bachelor's degree;india;49
+hummingbird;36;Male;Bachelor's degree;india;49
+crane;36;Male;Bachelor's degree;india;49
+pigeon;28;Female;Master's degree;romania;50
+eagle;28;Female;Master's degree;romania;50
+sparrow;28;Female;Master's degree;romania;50
+woodpecker;19;Female;High school degree or equivalent;germany;51
+sparrow;19;Female;High school degree or equivalent;germany;51
+blackbird;19;Female;High school degree or equivalent;germany;51
+tit;19;Female;High school degree or equivalent;germany;52
+swallow;19;Female;High school degree or equivalent;germany;52
+gull;19;Female;High school degree or equivalent;germany;52
+nan;25;Male;Bachelor's degree;germany;53
+parakeet;34;Female;Master's degree;france;54
+robin;34;Female;Master's degree;france;54
+duck;34;Female;Master's degree;france;54
+blackbird;20;Female;High school degree or equivalent;germany;55
+robin;20;Female;High school degree or equivalent;germany;55
+blue tit;20;Female;High school degree or equivalent;germany;55
+parrot;26;Female;Master's degree;france;56
+nightingale;26;Female;Master's degree;france;56
+crow;26;Female;Master's degree;france;56
+sparrow;29;Prefer not to say;Master's degree;germany;57
+crane;29;Prefer not to say;Master's degree;germany;57
+eagle;29;Prefer not to say;Master's degree;germany;57
+eagle;31;Male;Master's degree;germany;58
+mockingbird;31;Male;Master's degree;germany;58
+raven;31;Male;Master's degree;germany;58
+sparrow;23;Male;High school degree or equivalent;germany;59
+woodpecker;23;Male;High school degree or equivalent;germany;59
+dove;23;Male;High school degree or equivalent;germany;59
+eagle;21;Female;High school degree or equivalent;germany;60
+parrot;21;Female;High school degree or equivalent;germany;60
+finch;21;Female;High school degree or equivalent;germany;60
+eagle;54;Male;High school degree or equivalent;germany;61
+falcon;54;Male;High school degree or equivalent;germany;61
+raven;54;Male;High school degree or equivalent;germany;61
+sparrow;30;Female;Master's degree;france;62
+eagle;30;Female;Master's degree;france;62
+crow;30;Female;Master's degree;france;62
+nightingale;24;Male;Bachelor's degree;germany;63
+eagle;24;Male;Bachelor's degree;germany;63
+parrot;24;Male;Bachelor's degree;germany;63
+nan;17;Male;Less than a high school degree;germany;64
+pileated woodpecker;25;Female;High school degree or equivalent;germany;65
+blackbird;25;Female;High school degree or equivalent;germany;65
+chaffinch;25;Female;High school degree or equivalent;germany;65
+nan;16;Male;Less than a high school degree;germany;66
+parrot;21;Male;High school degree or equivalent;germany;67
+sparrow;21;Male;High school degree or equivalent;germany;67
+eagle;0;Prefer not to say;NaN;nan;68
+vulture;0;Prefer not to say;NaN;nan;68
+sparrow;0;Prefer not to say;NaN;nan;68
+robin;24;Female;Master's degree;france;69
+magpie;24;Female;Master's degree;france;69
+eagle;24;Female;Master's degree;france;69
+mockingjay;26;Female;Master's degree;france;70
+raven;26;Female;Master's degree;france;70
+eagle;26;Female;Master's degree;france;70
+blackbird;34;Female;Master's degree;germany;71
+tit;34;Female;Master's degree;germany;71
+fink;34;Female;Master's degree;germany;71
+nan;54;Male;Less than a high school degree;germany;72
+mockingbird;23;Male;Bachelor's degree;germany;73
+eagle;23;Male;Bachelor's degree;germany;73
+pigeon;27;Male;Master's degree;germany;74
+penguin;27;Male;Master's degree;germany;74
+hummingbird;27;Male;Master's degree;germany;74
+albatross;25;Male;Bachelor's degree;germany;75
+seagull;25;Male;Bachelor's degree;germany;75
+raven;25;Male;Bachelor's degree;germany;75
+parrot;27;Female;Master's degree;germany;76
+kookaburra;27;Female;Master's degree;germany;76
+raven;27;Female;Master's degree;germany;76
+owl;51;Male;High school degree or equivalent;germany;77
+blackbird;51;Male;High school degree or equivalent;germany;77
+buzzard;51;Male;High school degree or equivalent;germany;77
+blackbird;26;Male;High school degree or equivalent;germany;78
+choke;26;Male;High school degree or equivalent;germany;78
+fink;26;Male;High school degree or equivalent;germany;78
+crow;27;Male;Bachelor's degree;germany;79
+pigeon;27;Male;Bachelor's degree;germany;79
+eagle;27;Male;Bachelor's degree;germany;79
+eagle;25;Male;Master's degree;germany;80
+hawk;25;Male;Master's degree;germany;80
+eagle;25;Male;Bachelor's degree;germany;81
+kingfisher;21;Male;High school degree or equivalent;germany;82
+crane;21;Male;High school degree or equivalent;germany;82
+budgie;21;Male;High school degree or equivalent;germany;82
+robin;23;Female;Bachelor's degree;germany;83
+magpie;23;Female;Bachelor's degree;germany;83
+deaf;23;Female;Bachelor's degree;germany;83
+duck;28;Female;Master's degree;germany;84
+eagle;28;Female;Master's degree;germany;84
+sparrow;28;Female;Master's degree;germany;84
+owl;25;Female;Master's degree;germany;85
+stork;25;Female;Bachelor's degree;russia;86
+pigeon;25;Female;Bachelor's degree;russia;86
+colibri;25;Female;Bachelor's degree;russia;86
+budgie;24;Female;High school degree or equivalent;germany;87
+parrot;24;Female;High school degree or equivalent;germany;87
+eagle;24;Female;High school degree or equivalent;germany;87
+tit;26;Male;Bachelor's degree;germany;88
+blackbird;26;Male;Bachelor's degree;germany;88
+magpie;26;Male;Bachelor's degree;germany;88
+eagle;27;Female;Master's degree;germany;89
+budgie;27;Female;Master's degree;germany;89
+parrot;27;Female;Master's degree;germany;89
+budgie;25;Male;Bachelor's degree;germany;90
+dove;25;Male;Bachelor's degree;germany;90
+chiffchaff;25;Male;Bachelor's degree;germany;90
+raven;25;Male;High school degree or equivalent;germany;91
+ostrich;25;Male;High school degree or equivalent;germany;91
+peacock;25;Male;High school degree or equivalent;germany;91
+dove;28;Male;High school degree or equivalent;germany;92
+eagle;28;Male;High school degree or equivalent;germany;92
+sparrow;28;Male;High school degree or equivalent;germany;92
+blackbird;47;Female;Bachelor's degree;england;93
+robin;47;Female;Bachelor's degree;england;93
+blue tit;47;Female;Bachelor's degree;england;93
+blackbird;38;Male;Bachelor's degree;germany;94
+tit;38;Male;Bachelor's degree;germany;94
+finch;38;Male;Bachelor's degree;germany;94
+robin;40;Female;Bachelor's degree;china;95
+nightingale;40;Female;Bachelor's degree;china;95
+seagull;40;Female;Bachelor's degree;china;95
+nan;28;Female;High school degree or equivalent;pakistan;96
+blackbird;48;Female;Diplom;germany;97
+sparrow;48;Female;Diplom;germany;97
+tit;48;Female;Diplom;germany;97
+falcon;26;Male;Less than a high school degree;germany;98
+parrot;26;Male;Less than a high school degree;germany;98
+eagle;26;Male;Less than a high school degree;germany;98
+owl;26;Female;High school degree or equivalent;germany;99
+raven;26;Female;High school degree or equivalent;germany;99
+hummingbird;26;Female;High school degree or equivalent;germany;99
+cardinal;45;Female;Bachelor's degree;usa;100
+robin;45;Female;Bachelor's degree;usa;100
+wren;45;Female;Bachelor's degree;usa;100
+magpie;23;Female;Master's degree;england;101
+crow;23;Female;Master's degree;england;101
+robin;23;Female;Master's degree;england;101
+seagull;26;Female;Bachelor's degree;germany;102
+robin;26;Female;Bachelor's degree;germany;102
+sparrow;26;Female;Bachelor's degree;germany;102
+eagle;70;Female;Dipl.-Ing.;germany;103
+swallow;70;Female;Dipl.-Ing.;germany;103
+pigeon;70;Female;Dipl.-Ing.;germany;103
+chicken;33;Female;Master's degree;iran;104
+sparrow;33;Female;Master's degree;iran;104
+rooster;33;Female;Master's degree;iran;104
+eagle;59;Male;Doctorate (e.g. PhD);germany;105
+nightingale;59;Male;Doctorate (e.g. PhD);germany;105
+seagull;59;Male;Doctorate (e.g. PhD);germany;105
+thrush;47;Female;Doctorate (e.g. PhD);germany;106
+crow;47;Female;Doctorate (e.g. PhD);germany;106
+stork;47;Female;Doctorate (e.g. PhD);germany;106
+sparrow;50;Female;Doctorate (e.g. PhD);germany;107
+eagle;50;Female;Doctorate (e.g. PhD);germany;107
+falcon;50;Female;Doctorate (e.g. PhD);germany;107
+flamingo;45;Female;Doctorate (e.g. PhD);germany;108
+swan;45;Female;Doctorate (e.g. PhD);germany;108
+raven;45;Female;Doctorate (e.g. PhD);germany;108

@@ -1,0 +1,317 @@
+vegetables;p_age;p_gender;p_education;p_country;p_id
+peas;26;Male;Bachelor's degree;germany;0
+carrot;26;Male;Bachelor's degree;germany;0
+tomato;26;Male;Bachelor's degree;germany;0
+cucumber;44;Male;Doctorate (e.g. PhD);germany;1
+tomato;44;Male;Doctorate (e.g. PhD);germany;1
+zucchini;44;Male;Doctorate (e.g. PhD);germany;1
+leek;46;Male;Bachelor's degree;france;2
+cabbage;46;Male;Bachelor's degree;france;2
+potato;46;Male;Bachelor's degree;france;2
+zucchini;28;Male;Master's degree;germany;3
+eggplant;28;Male;Master's degree;germany;3
+pepper;28;Male;Master's degree;germany;3
+bell pepper;34;Female;Master's degree;switzerland;4
+eggplant;34;Female;Master's degree;switzerland;4
+tomato;34;Female;Master's degree;switzerland;4
+zucchini;27;Male;Bachelor's degree;germany;5
+eggplant;27;Male;Bachelor's degree;germany;5
+carrot;27;Male;Bachelor's degree;germany;5
+cucumber;27;Male;Master's degree;germany;6
+tomato;27;Male;Master's degree;germany;6
+grapes;27;Male;Master's degree;germany;6
+cucumber;27;Male;Master's degree;germany;7
+paprika;27;Male;Master's degree;germany;7
+radishes;27;Male;Master's degree;germany;7
+potato;28;Male;High school degree or equivalent;germany;8
+carrott;28;Male;High school degree or equivalent;germany;8
+bean;28;Male;High school degree or equivalent;germany;8
+tomato;29;Male;Master's degree;germany;9
+potato;29;Male;Master's degree;germany;9
+carrot;29;Male;Master's degree;germany;9
+carrot;26;Male;Master's degree;germany;10
+cucumber;37;Male;Master's degree;germany;11
+spinach;37;Male;Master's degree;germany;11
+kale;37;Male;Master's degree;germany;11
+cucumber;24;Male;Master's degree;germany;12
+pepper;24;Male;Master's degree;germany;12
+tomato;24;Male;Master's degree;germany;12
+bell pepper;26;Female;Master's degree;germany;13
+eggplant;26;Female;Master's degree;germany;13
+carrot;26;Female;Master's degree;germany;13
+cucumber;26;Female;Master's degree;germany;14
+pepper;26;Female;Master's degree;germany;14
+carrot;26;Female;Master's degree;germany;14
+cucumber;28;Female;Doctorate (e.g. PhD);germany;15
+tomato;28;Female;Doctorate (e.g. PhD);germany;15
+asparagus;28;Female;Doctorate (e.g. PhD);germany;15
+bean;25;Male;NaN;germany;16
+cucumber;31;Female;Master's degree;germany;17
+carrot;31;Female;Master's degree;germany;17
+bell pepper;31;Female;Master's degree;germany;17
+cucumber;36;Male;Master's degree;germany;18
+carrot;36;Male;Master's degree;germany;18
+salad;36;Male;Master's degree;germany;18
+potato;27;Male;Master's degree;germany;19
+carrot;33;Male;Doctorate (e.g. PhD);germany;20
+onion;33;Male;Doctorate (e.g. PhD);germany;20
+pumpkin;33;Male;Doctorate (e.g. PhD);germany;20
+carrot;26;Male;Bachelor's degree;usa;21
+celery;26;Male;Bachelor's degree;usa;21
+turnip;26;Male;Bachelor's degree;usa;21
+cucumber;44;Female;Doctorate (e.g. PhD);sweden;22
+pepper;44;Female;Doctorate (e.g. PhD);sweden;22
+carrot;44;Female;Doctorate (e.g. PhD);sweden;22
+broccoli;26;Male;Bachelor's degree;germany;23
+mushrooms;26;Male;Bachelor's degree;germany;23
+carrot;26;Male;Bachelor's degree;germany;23
+tomato;27;Male;Bachelor's degree;nan;24
+cucumber;27;Male;Bachelor's degree;nan;24
+zucchini;27;Male;Bachelor's degree;nan;24
+onion;23;Male;Bachelor's degree;germany;25
+mushroom;23;Male;Bachelor's degree;germany;25
+broccoli;23;Male;Bachelor's degree;germany;25
+carrott;22;Male;Bachelor's degree;germany;26
+salad;22;Male;Bachelor's degree;germany;26
+cucumber;22;Male;Bachelor's degree;germany;26
+tomato;25;Male;Bachelor's degree;germany;27
+pepper;25;Male;Bachelor's degree;germany;27
+carrot;25;Male;Bachelor's degree;germany;27
+tomato;27;Male;Master's degree;germany;28
+onion;27;Male;Master's degree;germany;28
+carrot;27;Male;Master's degree;germany;28
+carrot;30;Male;Bachelor's degree;usa;29
+broccoli;30;Male;Bachelor's degree;usa;29
+zucchini;30;Male;Bachelor's degree;usa;29
+carrot;28;Male;Master's degree;germany;30
+broccoli;28;Male;Master's degree;germany;30
+potato;28;Male;Master's degree;germany;30
+eggplant;38;Female;Doctorate (e.g. PhD);greece;31
+tomato;38;Female;Doctorate (e.g. PhD);greece;31
+cucumber;38;Female;Doctorate (e.g. PhD);greece;31
+carrot;28;Male;Master's degree;germany;32
+tomato;28;Male;Master's degree;germany;32
+cucumber;28;Male;Master's degree;germany;32
+spinach;26;Male;Bachelor's degree;germany;33
+artichoke;26;Male;Bachelor's degree;germany;33
+tomato;26;Male;Bachelor's degree;germany;33
+paprika;19;Male;High school degree or equivalent;germany;34
+cucumber;19;Male;High school degree or equivalent;germany;34
+tomato;19;Male;High school degree or equivalent;germany;34
+eggplant;25;Female;Bachelor's degree;germany;35
+tomato;25;Female;Bachelor's degree;germany;35
+cucumber;25;Female;Bachelor's degree;germany;35
+broccoli;24;Female;Master's degree;germany;36
+carrot;24;Female;Master's degree;germany;36
+cucumber;24;Female;Master's degree;germany;36
+zucchini;25;Male;Bachelor's degree;germany;37
+paprika;25;Male;Bachelor's degree;germany;37
+carrot;64;Male;Doctorate (e.g. PhD);austria;38
+cauliflower;64;Male;Doctorate (e.g. PhD);austria;38
+leek;64;Male;Doctorate (e.g. PhD);austria;38
+tomato;24;Male;Bachelor's degree;germany;39
+cucumber;24;Male;Bachelor's degree;germany;39
+onion;24;Male;Bachelor's degree;germany;39
+cucumber;31;Male;Bachelor's degree;germany;40
+tomato;31;Male;Bachelor's degree;germany;40
+zucchini;31;Male;Bachelor's degree;germany;40
+cucumber;25;Female;Bachelor's degree;germany;41
+carrot;25;Female;Bachelor's degree;germany;41
+broccoli;25;Female;Bachelor's degree;germany;41
+eggplant;28;Female;Bachelor's degree;germany;42
+zucchini;28;Female;Bachelor's degree;germany;42
+tomato;28;Female;Bachelor's degree;germany;42
+carrot;37;Female;Master's degree;germany;43
+cucumber;37;Female;Master's degree;germany;43
+eggplant;37;Female;Master's degree;germany;43
+carrot;50;Female;High school degree or equivalent;germany;44
+potato;50;Female;High school degree or equivalent;germany;44
+eggplant;50;Female;High school degree or equivalent;germany;44
+cucumber;28;Female;High school degree or equivalent;germany;45
+tomato;28;Female;High school degree or equivalent;germany;45
+carrot;28;Female;High school degree or equivalent;germany;45
+cabbage;31;Male;Bachelor's degree;germany;46
+cucumber;31;Male;Bachelor's degree;germany;46
+zucchini;31;Male;Bachelor's degree;germany;46
+cucumber;21;Female;High school degree or equivalent;germany;47
+broccoli;21;Female;High school degree or equivalent;germany;47
+carrot;21;Female;High school degree or equivalent;germany;47
+tomato;23;Female;Bachelor's degree;germany;48
+mushroom;23;Female;Bachelor's degree;germany;48
+carrot;23;Female;Bachelor's degree;germany;48
+tomato;36;Male;Bachelor's degree;india;49
+spinach;36;Male;Bachelor's degree;india;49
+onion;36;Male;Bachelor's degree;india;49
+carrot;28;Female;Master's degree;romania;50
+potato;28;Female;Master's degree;romania;50
+cucumber;28;Female;Master's degree;romania;50
+tomato;19;Female;High school degree or equivalent;germany;51
+cucumber;19;Female;High school degree or equivalent;germany;51
+zucchini;19;Female;High school degree or equivalent;germany;51
+cucumber;19;Female;High school degree or equivalent;germany;52
+salad;19;Female;High school degree or equivalent;germany;52
+eggplant;19;Female;High school degree or equivalent;germany;52
+carrot;25;Male;Bachelor's degree;germany;53
+tomato;25;Male;Bachelor's degree;germany;53
+zucchini;25;Male;Bachelor's degree;germany;53
+broccoli;34;Female;Master's degree;france;54
+lettuce;34;Female;Master's degree;france;54
+eggplant;34;Female;Master's degree;france;54
+potato;20;Female;High school degree or equivalent;germany;55
+cucumber;20;Female;High school degree or equivalent;germany;55
+celery;20;Female;High school degree or equivalent;germany;55
+carrot;26;Female;Master's degree;france;56
+eggplant;26;Female;Master's degree;france;56
+leak;26;Female;Master's degree;france;56
+tomato;29;Prefer not to say;Master's degree;germany;57
+cauliflower;29;Prefer not to say;Master's degree;germany;57
+Brussels sprouts;29;Prefer not to say;Master's degree;germany;57
+carrot;31;Male;Master's degree;germany;58
+potato;31;Male;Master's degree;germany;58
+pepper;31;Male;Master's degree;germany;58
+zucchini;23;Male;High school degree or equivalent;germany;59
+tomato;23;Male;High school degree or equivalent;germany;59
+cucumber;23;Male;High school degree or equivalent;germany;59
+cucumber;21;Female;High school degree or equivalent;germany;60
+carrot;21;Female;High school degree or equivalent;germany;60
+bell pepper;21;Female;High school degree or equivalent;germany;60
+eggplant;54;Male;High school degree or equivalent;germany;61
+tomato;54;Male;High school degree or equivalent;germany;61
+cauliflower;54;Male;High school degree or equivalent;germany;61
+cauliflower;30;Female;Master's degree;france;62
+zucchini;30;Female;Master's degree;france;62
+mushroom;30;Female;Master's degree;france;62
+carrot;24;Male;Bachelor's degree;germany;63
+potato;24;Male;Bachelor's degree;germany;63
+cucumber;24;Male;Bachelor's degree;germany;63
+apple;17;Male;Less than a high school degree;germany;64
+tomato;17;Male;Less than a high school degree;germany;64
+carrot;25;Female;High school degree or equivalent;germany;65
+potato;25;Female;High school degree or equivalent;germany;65
+cauliflower;25;Female;High school degree or equivalent;germany;65
+apple;16;Male;Less than a high school degree;germany;66
+banana;16;Male;Less than a high school degree;germany;66
+mango;16;Male;Less than a high school degree;germany;66
+tomato;21;Male;High school degree or equivalent;germany;67
+zucchini;21;Male;High school degree or equivalent;germany;67
+cucumber;0;Prefer not to say;NaN;nan;68
+carrot;0;Prefer not to say;NaN;nan;68
+onion;0;Prefer not to say;NaN;nan;68
+cauliflower;24;Female;Master's degree;france;69
+carrot;24;Female;Master's degree;france;69
+beetroot;24;Female;Master's degree;france;69
+zucchini;26;Female;Master's degree;france;70
+cauliflower;26;Female;Master's degree;france;70
+carrot;26;Female;Master's degree;france;70
+broccoli;34;Female;Master's degree;germany;71
+beetroot;34;Female;Master's degree;germany;71
+leek;34;Female;Master's degree;germany;71
+onion;54;Male;Less than a high school degree;germany;72
+tomato;54;Male;Less than a high school degree;germany;72
+cucumber;54;Male;Less than a high school degree;germany;72
+tomato;23;Male;Bachelor's degree;germany;73
+carrot;23;Male;Bachelor's degree;germany;73
+mushroom;23;Male;Bachelor's degree;germany;73
+tomato;27;Male;Master's degree;germany;74
+potato;27;Male;Master's degree;germany;74
+carrott;27;Male;Master's degree;germany;74
+bell pepper;25;Male;Bachelor's degree;germany;75
+cucumber;25;Male;Bachelor's degree;germany;75
+salad;25;Male;Bachelor's degree;germany;75
+broccoli;27;Female;Master's degree;germany;76
+potato;27;Female;Master's degree;germany;76
+eggplant;27;Female;Master's degree;germany;76
+tomato;51;Male;High school degree or equivalent;germany;77
+cucumber;51;Male;High school degree or equivalent;germany;77
+carrot;51;Male;High school degree or equivalent;germany;77
+cucumber;26;Male;High school degree or equivalent;germany;78
+tomato;26;Male;High school degree or equivalent;germany;78
+paprika;26;Male;High school degree or equivalent;germany;78
+tomato;27;Male;Bachelor's degree;germany;79
+cucumber;27;Male;Bachelor's degree;germany;79
+bell pepper;27;Male;Bachelor's degree;germany;79
+cauliflower;25;Male;Master's degree;germany;80
+asparagus;25;Male;Master's degree;germany;80
+carrot;25;Male;Master's degree;germany;80
+tomato;25;Male;Bachelor's degree;germany;81
+broccoli;25;Male;Bachelor's degree;germany;81
+paprika;25;Male;Bachelor's degree;germany;81
+cucumber;21;Male;High school degree or equivalent;germany;82
+paprika;21;Male;High school degree or equivalent;germany;82
+carrot;21;Male;High school degree or equivalent;germany;82
+tomato;23;Female;Bachelor's degree;germany;83
+paprika;23;Female;Bachelor's degree;germany;83
+zucchini;23;Female;Bachelor's degree;germany;83
+avocado;28;Female;Master's degree;germany;84
+broccoli;28;Female;Master's degree;germany;84
+carrot;28;Female;Master's degree;germany;84
+potato;25;Female;Master's degree;germany;85
+bean;25;Female;Master's degree;germany;85
+lentil;25;Female;Master's degree;germany;85
+cucumber;25;Female;Bachelor's degree;russia;86
+broccoli;25;Female;Bachelor's degree;russia;86
+carrot;25;Female;Bachelor's degree;russia;86
+cucumber;24;Female;High school degree or equivalent;germany;87
+mushroom;24;Female;High school degree or equivalent;germany;87
+avocado;24;Female;High school degree or equivalent;germany;87
+tomato;26;Male;Bachelor's degree;germany;88
+cucumber;26;Male;Bachelor's degree;germany;88
+pumpkin;26;Male;Bachelor's degree;germany;88
+tomato;27;Female;Master's degree;germany;89
+carrot;27;Female;Master's degree;germany;89
+paprika;27;Female;Master's degree;germany;89
+cucumber;25;Male;Bachelor's degree;germany;90
+tomato;25;Male;Bachelor's degree;germany;90
+paprika;25;Male;Bachelor's degree;germany;90
+potato;25;Male;High school degree or equivalent;germany;91
+paprika;25;Male;High school degree or equivalent;germany;91
+onion;25;Male;High school degree or equivalent;germany;91
+pepper;28;Male;High school degree or equivalent;germany;92
+broccoli;28;Male;High school degree or equivalent;germany;92
+spinach;28;Male;High school degree or equivalent;germany;92
+potato;47;Female;Bachelor's degree;england;93
+bell pepper;47;Female;Bachelor's degree;england;93
+mushroom;47;Female;Bachelor's degree;england;93
+tomato;38;Male;Bachelor's degree;germany;94
+cucumber;38;Male;Bachelor's degree;germany;94
+capsicum;38;Male;Bachelor's degree;germany;94
+potato;40;Female;Bachelor's degree;china;95
+tomato;40;Female;Bachelor's degree;china;95
+cucumber;40;Female;Bachelor's degree;china;95
+pumpkin;28;Female;High school degree or equivalent;pakistan;96
+broccoli;28;Female;High school degree or equivalent;pakistan;96
+eggplant;28;Female;High school degree or equivalent;pakistan;96
+broccoli;48;Female;Diplom;germany;97
+spinach;48;Female;Diplom;germany;97
+carrot;48;Female;Diplom;germany;97
+paprika;26;Male;Less than a high school degree;germany;98
+potato;26;Male;Less than a high school degree;germany;98
+onion;26;Male;Less than a high school degree;germany;98
+tomato;26;Female;High school degree or equivalent;germany;99
+cucumber;26;Female;High school degree or equivalent;germany;99
+garlic;26;Female;High school degree or equivalent;germany;99
+broccoli;45;Female;Bachelor's degree;usa;100
+carrot;45;Female;Bachelor's degree;usa;100
+green bean;45;Female;Bachelor's degree;usa;100
+nan;23;Female;Master's degree;england;101
+carrot;26;Female;Bachelor's degree;germany;102
+eggplant;26;Female;Bachelor's degree;germany;102
+broccoli;26;Female;Bachelor's degree;germany;102
+bean;70;Female;Dipl.-Ing.;germany;103
+pea;70;Female;Dipl.-Ing.;germany;103
+carrot;70;Female;Dipl.-Ing.;germany;103
+eggplant;33;Female;Master's degree;iran;104
+zucchini;33;Female;Master's degree;iran;104
+lettuce;33;Female;Master's degree;iran;104
+bean;59;Male;Doctorate (e.g. PhD);germany;105
+cauliflower;59;Male;Doctorate (e.g. PhD);germany;105
+carrot;59;Male;Doctorate (e.g. PhD);germany;105
+cucumber;47;Female;Doctorate (e.g. PhD);germany;106
+cauliflower;47;Female;Doctorate (e.g. PhD);germany;106
+onion;47;Female;Doctorate (e.g. PhD);germany;106
+carrot;50;Female;Doctorate (e.g. PhD);germany;107
+turnip;50;Female;Doctorate (e.g. PhD);germany;107
+cucumber;50;Female;Doctorate (e.g. PhD);germany;107
+onion;45;Female;Doctorate (e.g. PhD);germany;108
+potato;45;Female;Doctorate (e.g. PhD);germany;108
+tomato;45;Female;Doctorate (e.g. PhD);germany;108

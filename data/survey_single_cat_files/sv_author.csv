@@ -1,0 +1,305 @@
+authors;p_age;p_gender;p_education;p_country;p_id
+frankherbert;26;Male;Bachelor's degree;Germany;0
+georger.r.martin;26;Male;Bachelor's degree;Germany;0
+j.k.rowling;26;Male;Bachelor's degree;Germany;0
+shakespeare;44;Male;Doctorate (e.g. PhD);Germany;1
+goethe;44;Male;Doctorate (e.g. PhD);Germany;1
+stephenking;44;Male;Doctorate (e.g. PhD);Germany;1
+asimov;46;Male;Bachelor's degree;France;2
+frankherbert;46;Male;Bachelor's degree;France;2
+simmons;46;Male;Bachelor's degree;France;2
+j.k.rowling;28;Male;Master's degree;Germany;3
+johngrisham;28;Male;Master's degree;Germany;3
+danbrown;28;Male;Master's degree;Germany;3
+dostoevsky;34;Female;Master's degree;Switzerland;4
+nabokov;34;Female;Master's degree;Switzerland;4
+bradbury;34;Female;Master's degree;Switzerland;4
+j.k.rowling;27;Male;Bachelor's degree;Germany;5
+georger.r.martin;27;Male;Bachelor's degree;Germany;5
+eoincolfer;27;Male;Bachelor's degree;Germany;5
+julizeh;27;Male;Master's degree;Germany;6
+michelhouellebecq;27;Male;Master's degree;Germany;6
+michaellewis;27;Male;Master's degree;Germany;6
+j.k.rowling;27;Male;Master's degree;Germany;7
+sebastianfitzek;27;Male;Master's degree;Germany;7
+martinsuter;27;Male;Master's degree;Germany;7
+sebastianfitzek;28;Male;High school degree or equivalent;Germany;8
+gerdkommer;28;Male;High school degree or equivalent;Germany;8
+georgeorwell;29;Male;Master's degree;Germany;9
+georger.r.martin;29;Male;Master's degree;Germany;9
+ernestcline;29;Male;Master's degree;Germany;9
+marcelsberg;26;Male;Master's degree;Germany;10
+georger.r.martin;26;Male;Master's degree;Germany;10
+georgeorwell;26;Male;Master's degree;Germany;10
+kästner;37;Male;Master's degree;Germany;11
+goethe;37;Male;Master's degree;Germany;11
+franzen;37;Male;Master's degree;Germany;11
+j.j.tolkin;24;Male;Master's degree;Germany;12
+j.k.rowling;24;Male;Master's degree;Germany;12
+marcuwekling;24;Male;Master's degree;Germany;12
+j.k.rowling;26;Female;Master's degree;Germany;13
+tolkien;26;Female;Master's degree;Germany;13
+kerstingier;26;Female;Master's degree;Germany;13
+michelleobama;26;Female;Master's degree;Germany;14
+jkrowling;26;Female;Master's degree;Germany;14
+gottfriedkeller;26;Female;Master's degree;Germany;14
+sebastianfitzek;28;Female;Doctorate (e.g. PhD);Germany;15
+ritafalk;28;Female;Doctorate (e.g. PhD);Germany;15
+jojomoyes;28;Female;Doctorate (e.g. PhD);Germany;15
+simonsinek;25;Male;NaN;Germany;16
+stephanking;25;Male;NaN;Germany;16
+j.k.rowling;31;Female;Master's degree;Germany;17
+c.ruizzafon;31;Female;Master's degree;Germany;17
+janeausten;31;Female;Master's degree;Germany;17
+danbrown;36;Male;Master's degree;Germany;18
+frankschätzing;36;Male;Master's degree;Germany;18
+jkrowling;36;Male;Master's degree;Germany;18
+jkrowling;27;Male;Master's degree;Germany;19
+georger.r.martin;33;Male;Doctorate (e.g. PhD);Germany;20
+hohlbein;33;Male;Doctorate (e.g. PhD);Germany;20
+tolkien;33;Male;Doctorate (e.g. PhD);Germany;20
+kurtvonnegut;26;Male;Bachelor's degree;USA;21
+juliaroberts;26;Male;Bachelor's degree;USA;21
+marktwain;26;Male;Bachelor's degree;USA;21
+nan;44;Female;Doctorate (e.g. PhD);Sweden;22
+stephenking;26;Male;Bachelor's degree;Germany;23
+sebastianfitzek;26;Male;Bachelor's degree;Germany;23
+robertt.kyosaki;26;Male;Bachelor's degree;Germany;23
+nan;27;Male;Bachelor's degree;NaN;24
+hansd.rosling;23;Male;Bachelor's degree;Germany;25
+stevenking;22;Male;Bachelor's degree;Germany;26
+goethe;22;Male;Bachelor's degree;Germany;26
+franzkafka;22;Male;Bachelor's degree;Germany;26
+jkrowling;25;Male;Bachelor's degree;Germany;27
+tomclancy;25;Male;Bachelor's degree;Germany;27
+stephenking;25;Male;Bachelor's degree;Germany;27
+danbrown;27;Male;Master's degree;Germany;28
+j.k.rowling;27;Male;Master's degree;Germany;28
+alfredhitchcock;27;Male;Master's degree;Germany;28
+stephenking;30;Male;Bachelor's degree;USA;29
+jkrowling;30;Male;Bachelor's degree;USA;29
+;30;Male;Bachelor's degree;USA;29
+erichfromm;28;Male;Master's degree;Germany;30
+astridlindgren;28;Male;Master's degree;Germany;30
+martinsuter;28;Male;Master's degree;Germany;30
+terrypratchett;38;Female;Doctorate (e.g. PhD);Greece;31
+fyodordostoevsky;38;Female;Doctorate (e.g. PhD);Greece;31
+franzkafka;38;Female;Doctorate (e.g. PhD);Greece;31
+tolkin;28;Male;Master's degree;Germany;32
+hesse;28;Male;Master's degree;Germany;32
+camus;28;Male;Master's degree;Germany;32
+tolstoy;26;Male;Bachelor's degree;Germany;33
+carnegie;26;Male;Bachelor's degree;Germany;33
+bradbury;26;Male;Bachelor's degree;Germany;33
+j.k.rowling;19;Male;High school degree or equivalent;Germany;34
+thomasmann;19;Male;High school degree or equivalent;Germany;34
+ferdinandvonschirach;19;Male;High school degree or equivalent;Germany;34
+tolkien;25;Female;Bachelor's degree;Germany;35
+georger.r.martin;25;Female;Bachelor's degree;Germany;35
+raybradbury;25;Female;Bachelor's degree;Germany;35
+astridlindgren;24;Female;Master's degree;Germany;36
+stephenking;24;Female;Master's degree;Germany;36
+garcia;24;Female;Master's degree;Germany;36
+levgrossman;25;Male;Bachelor's degree;Germany;37
+arthurconandoyle;25;Male;Bachelor's degree;Germany;37
+walterisaacson;25;Male;Bachelor's degree;Germany;37
+grass;64;Male;Doctorate (e.g. PhD);Austria;38
+bertholdbrecht;64;Male;Doctorate (e.g. PhD);Austria;38
+irving;64;Male;Doctorate (e.g. PhD);Austria;38
+yuvalnoahharari;24;Male;Bachelor's degree;Germany;39
+j.r.r.tolkien;24;Male;Bachelor's degree;Germany;39
+j.k.rowling;24;Male;Bachelor's degree;Germany;39
+sebastianfitzek;31;Male;Bachelor's degree;Germany;40
+j.k.rowling;31;Male;Bachelor's degree;Germany;40
+stephenking;31;Male;Bachelor's degree;Germany;40
+sebastianfitzek;25;Female;Bachelor's degree;Germany;41
+danbrown;25;Female;Bachelor's degree;Germany;41
+j.k.rowling;25;Female;Bachelor's degree;Germany;41
+tomclancy;28;Female;Bachelor's degree;Germany;42
+simonbeckett;28;Female;Bachelor's degree;Germany;42
+leechild;28;Female;Bachelor's degree;Germany;42
+j.k.rowling;37;Female;Master's degree;Germany;43
+j.r.r.tolkien;37;Female;Master's degree;Germany;43
+stephenking;37;Female;Master's degree;Germany;43
+stephenking;50;Female;High school degree or equivalent;Germany;44
+henningmankel;50;Female;High school degree or equivalent;Germany;44
+dianagabaldon;50;Female;High school degree or equivalent;Germany;44
+hermannhesse;28;Female;High school degree or equivalent;Germany;45
+harukimurakami;28;Female;High school degree or equivalent;Germany;45
+sallyrooney;28;Female;High school degree or equivalent;Germany;45
+stephenking;31;Male;Bachelor's degree;Germany;46
+tolkien;31;Male;Bachelor's degree;Germany;46
+rowling;31;Male;Bachelor's degree;Germany;46
+goethe;21;Female;High school degree or equivalent;Germany;47
+michaelende;21;Female;High school degree or equivalent;Germany;47
+schiller;21;Female;High school degree or equivalent;Germany;47
+nan;23;Female;Bachelor's degree;Germany;48
+jkrowling;36;Male;Bachelor's degree;India;49
+anitanair;36;Male;Bachelor's degree;India;49
+jonathanswift;36;Male;Bachelor's degree;India;49
+janeaustin;28;Female;Master's degree;Romania;50
+stephenking;28;Female;Master's degree;Romania;50
+georgeorwell;28;Female;Master's degree;Romania;50
+johngreen;19;Female;High school degree or equivalent;Germany;51
+janeausten;19;Female;High school degree or equivalent;Germany;51
+j.k.rowling;19;Female;High school degree or equivalent;Germany;51
+leotolstoi;19;Female;High school degree or equivalent;Germany;52
+janeausten;19;Female;High school degree or equivalent;Germany;52
+williamshakespeare;19;Female;High school degree or equivalent;Germany;52
+nan;25;Male;Bachelor's degree;Germany;53
+tamorapierce;34;Female;Master's degree;France;54
+moliere;34;Female;Master's degree;France;54
+patricksuskind;34;Female;Master's degree;France;54
+neleneuhaus;20;Female;High school degree or equivalent;Germany;55
+luisaneubauer;20;Female;High school degree or equivalent;Germany;55
+j.k.rowling;20;Female;High school degree or equivalent;Germany;55
+jkrowling;26;Female;Master's degree;France;56
+balzac;26;Female;Master's degree;France;56
+zola;26;Female;Master's degree;France;56
+hitler;29;Prefer not to say;Master's degree;Germany;57
+newton;29;Prefer not to say;Master's degree;Germany;57
+hawking;29;Prefer not to say;Master's degree;Germany;57
+jordanpeterson;31;Male;Master's degree;Germany;58
+fjodormichailowitschdostojewski;31;Male;Master's degree;Germany;58
+helmutschmidt;31;Male;Master's degree;Germany;58
+sapkowski;23;Male;High school degree or equivalent;Germany;59
+tolstoy;23;Male;High school degree or equivalent;Germany;59
+suter;23;Male;High school degree or equivalent;Germany;59
+sebastianfitzek;21;Female;High school degree or equivalent;Germany;60
+astridlindgren;21;Female;High school degree or equivalent;Germany;60
+johnstrelecky;21;Female;High school degree or equivalent;Germany;60
+j.r.r.tolkien;54;Male;High school degree or equivalent;Germany;61
+ritafalk;54;Male;High school degree or equivalent;Germany;61
+rötgerfeldmann;54;Male;High school degree or equivalent;Germany;61
+jkrowling;30;Female;Master's degree;France;62
+victorhugo;30;Female;Master's degree;France;62
+honorédebalzac;30;Female;Master's degree;France;62
+kafka;24;Male;Bachelor's degree;Germany;63
+mann;24;Male;Bachelor's degree;Germany;63
+fitzgerald;24;Male;Bachelor's degree;Germany;63
+jk.rowling;17;Male;Less than a high school degree;Germany;64
+karlmarx;17;Male;Less than a high school degree;Germany;64
+jrrtolkin;17;Male;Less than a high school degree;Germany;64
+kenfollet;25;Female;High school degree or equivalent;Germany;65
+stiglarsson;25;Female;High school degree or equivalent;Germany;65
+sionbeckett;25;Female;High school degree or equivalent;Germany;65
+billgates;16;Male;Less than a high school degree;Germany;66
+barackobama;16;Male;Less than a high school degree;Germany;66
+j.k.rowling;21;Male;High school degree or equivalent;Germany;67
+marx;21;Male;High school degree or equivalent;Germany;67
+kafka;21;Male;High school degree or equivalent;Germany;67
+stevenking;0;Prefer not to say;NaN;NaN;68
+frankschätzing;0;Prefer not to say;NaN;NaN;68
+richarddavidprecht;0;Prefer not to say;NaN;NaN;68
+virginiegrimaldi;24;Female;Master's degree;France;69
+victorhugo;24;Female;Master's degree;France;69
+julesvernes;24;Female;Master's degree;France;69
+balzac;26;Female;Master's degree;France;70
+stendhal;26;Female;Master's degree;France;70
+hugo;26;Female;Master's degree;France;70
+jkrowling;34;Female;Master's degree;Germany;71
+earnesthemingway;34;Female;Master's degree;Germany;71
+michelfoucault;34;Female;Master's degree;Germany;71
+nan;54;Male;Less than a high school degree;Germany;72
+orsonscottcard;23;Male;Bachelor's degree;Germany;73
+yuvalnoahharari;23;Male;Bachelor's degree;Germany;73
+johnstrelecky;23;Male;Bachelor's degree;Germany;73
+nan;27;Male;Master's degree;Germany;74
+jkrowling;25;Male;Bachelor's degree;Germany;75
+oscarwilde;27;Female;Master's degree;Germany;76
+stephenking;27;Female;Master's degree;Germany;76
+ingridnoll;27;Female;Master's degree;Germany;76
+stevenking;51;Male;High school degree or equivalent;Germany;77
+stevejobs;51;Male;High school degree or equivalent;Germany;77
+stephenhawking;51;Male;High school degree or equivalent;Germany;77
+king;26;Male;High school degree or equivalent;Germany;78
+fitzek;26;Male;High school degree or equivalent;Germany;78
+stepheniemeyer;27;Male;Bachelor's degree;Germany;79
+madelinemiller;27;Male;Bachelor's degree;Germany;79
+j.k.rowling;27;Male;Bachelor's degree;Germany;79
+j.k.rowling;25;Male;Master's degree;Germany;80
+arthurconandoyle;25;Male;Master's degree;Germany;80
+stephenking;25;Male;Bachelor's degree;Germany;81
+jasonzweig;25;Male;Bachelor's degree;Germany;81
+yuvalnoahharari;25;Male;Bachelor's degree;Germany;81
+astridlindgren;21;Male;High school degree or equivalent;Germany;82
+jkrowling;21;Male;High school degree or equivalent;Germany;82
+johannw.goethe;21;Male;High school degree or equivalent;Germany;82
+nicolassparks;23;Female;Bachelor's degree;Germany;83
+j.krowling;23;Female;Bachelor's degree;Germany;83
+tolkien;23;Female;Bachelor's degree;Germany;83
+rowling;28;Female;Master's degree;Germany;84
+tolstoy;28;Female;Master's degree;Germany;84
+stephenking;28;Female;Master's degree;Germany;84
+joannek.rowling;25;Female;Master's degree;Germany;85
+sebastianfitzek;25;Female;Master's degree;Germany;85
+danielkahnemann;25;Female;Master's degree;Germany;85
+alexandredumas;25;Female;Bachelor's degree;Russia;86
+victorhugo;25;Female;Bachelor's degree;Russia;86
+yuvalharari;25;Female;Bachelor's degree;Russia;86
+stephenking;24;Female;High school degree or equivalent;Germany;87
+j.krowling;24;Female;High school degree or equivalent;Germany;87
+sebastianfitzek;24;Female;High school degree or equivalent;Germany;87
+j.krowling;26;Male;Bachelor's degree;Germany;88
+astridlindgren;26;Male;Bachelor's degree;Germany;88
+sebastianfitzek;26;Male;Bachelor's degree;Germany;88
+lindgren;27;Female;Master's degree;Germany;89
+nicholassparks;27;Female;Master's degree;Germany;89
+stephanking;27;Female;Master's degree;Germany;89
+rafischami;25;Male;Bachelor's degree;Germany;90
+astridlindgren;25;Male;Bachelor's degree;Germany;90
+stefankopetzky;25;Male;Bachelor's degree;Germany;90
+stephenking;25;Male;High school degree or equivalent;Germany;91
+hermannhesse;25;Male;High school degree or equivalent;Germany;91
+kenfollett;25;Male;High school degree or equivalent;Germany;91
+jamesclear;28;Male;High school degree or equivalent;Germany;92
+j.k.rowling;28;Male;High school degree or equivalent;Germany;92
+salleyrooney;28;Male;High school degree or equivalent;Germany;92
+roalddahl;47;Female;Bachelor's degree;England;93
+janeaustin;47;Female;Bachelor's degree;England;93
+jkrowling;47;Female;Bachelor's degree;England;93
+jacklondon;38;Male;Bachelor's degree;Germany;94
+astridlindgren;38;Male;Bachelor's degree;Germany;94
+wolfganghohlbein;38;Male;Bachelor's degree;Germany;94
+laozi;40;Female;Bachelor's degree;China;95
+louisamayalcott;40;Female;Bachelor's degree;China;95
+grimm;40;Female;Bachelor's degree;China;95
+jkrowling;28;Female;High school degree or equivalent;Pakistan;96
+khaledhosseini;28;Female;High school degree or equivalent;Pakistan;96
+nicholassparks;28;Female;High school degree or equivalent;Pakistan;96
+harukimurakami;48;Female;Master's degree;Germany;97
+thomasmann;48;Female;Master's degree;Germany;97
+stieglarsson;48;Female;Master's degree;Germany;97
+sebastianfitzek;26;Male;Less than a high school degree;Germany;98
+jpkraemer;26;Male;Less than a high school degree;Germany;98
+j.k.rowling;26;Male;Less than a high school degree;Germany;98
+fitzgerald;26;Female;High school degree or equivalent;Germany;99
+astridlindgren;26;Female;High school degree or equivalent;Germany;99
+waltermoers;26;Female;High school degree or equivalent;Germany;99
+tolkien;45;Female;Bachelor's degree;USA;100
+rowling;45;Female;Bachelor's degree;USA;100
+kurtvonnegut;45;Female;Bachelor's degree;USA;100
+harlancoben;23;Female;Master's degree;England;101
+megcarter;23;Female;Master's degree;England;101
+giovannafletcher;23;Female;Master's degree;England;101
+charlottebrontë;26;Female;Bachelor's degree;Germany;102
+benedictwells;26;Female;Bachelor's degree;Germany;102
+janeausten;26;Female;Bachelor's degree;Germany;102
+thomasmann;70;Female;Master's degree;Germany;103
+güntergrass;70;Female;Master's degree;Germany;103
+franzkafka;70;Female;Master's degree;Germany;103
+anthonyrobbins;33;Female;Master's degree;Iran;104
+estherhicks;33;Female;Master's degree;Iran;104
+jerryhicks;33;Female;Master's degree;Iran;104
+stephenking;59;Male;Doctorate (e.g. PhD);Germany;105
+ernesthemingway;59;Male;Doctorate (e.g. PhD);Germany;105
+astridlindgren;59;Male;Doctorate (e.g. PhD);Germany;105
+williamfaulkner;47;Female;Doctorate (e.g. PhD);Germany;106
+thomasmann;47;Female;Doctorate (e.g. PhD);Germany;106
+selmalagerlöv;47;Female;Doctorate (e.g. PhD);Germany;106
+tonimorrisson;50;Female;Doctorate (e.g. PhD);Germany;107
+stanislawlem;50;Female;Doctorate (e.g. PhD);Germany;107
+richardscarry;50;Female;Doctorate (e.g. PhD);Germany;107
+lendeighton;45;Female;Doctorate (e.g. PhD);Germany;108
+ernesthemingway;45;Female;Doctorate (e.g. PhD);Germany;108
+mariovargasllosa;45;Female;Doctorate (e.g. PhD);Germany;108

@@ -1,0 +1,314 @@
+actors;p_age;p_gender;p_education;p_country;p_id
+tomcruise;26;Male;Bachelor's degree;Germany;0
+amyadams;26;Male;Bachelor's degree;Germany;0
+arnoldschwarzenegger;26;Male;Bachelor's degree;Germany;0
+jacknicholson;44;Male;Doctorate (e.g. PhD);Germany;1
+nicolekidman;44;Male;Doctorate (e.g. PhD);Germany;1
+georgeclooney;44;Male;Doctorate (e.g. PhD);Germany;1
+gérarddepardieu;46;Male;Bachelor's degree;France;2
+christinaricci;46;Male;Bachelor's degree;France;2
+bradpitt;46;Male;Bachelor's degree;France;2
+bradpitt;28;Male;Master's degree;Germany;3
+denzelwashington;28;Male;Master's degree;Germany;3
+georgeclooney;28;Male;Master's degree;Germany;3
+nicolekidman;34;Female;Master's degree;Switzerland;4
+merylstreep;34;Female;Master's degree;Switzerland;4
+penelopecruz;34;Female;Master's degree;Switzerland;4
+leonardodicaprio;27;Male;Bachelor's degree;Germany;5
+dwaynejohnson;27;Male;Bachelor's degree;Germany;5
+tomholland;27;Male;Bachelor's degree;Germany;5
+georgeclooney;27;Male;Master's degree;Germany;6
+amandaseyfried;27;Male;Master's degree;Germany;6
+mattdamon;27;Male;Master's degree;Germany;6
+angelinajolie;27;Male;Master's degree;Germany;7
+brattpitt;27;Male;Master's degree;Germany;7
+moritzbleibtreu;27;Male;Master's degree;Germany;7
+bradpitt;28;Male;High school degree or equivalent;Germany;8
+robertdeniro;28;Male;High school degree or equivalent;Germany;8
+benaffleck;28;Male;High school degree or equivalent;Germany;8
+robertdeniro;29;Male;Master's degree;Germany;9
+tomhanks;29;Male;Master's degree;Germany;9
+christophwaltz;29;Male;Master's degree;Germany;9
+kevinbacon;26;Male;Master's degree;Germany;10
+leonardodicaprio;26;Male;Master's degree;Germany;10
+angelinajolie;26;Male;Master's degree;Germany;10
+schwarzenegger;37;Male;Master's degree;Germany;11
+stallone;37;Male;Master's degree;Germany;11
+brunoganz;37;Male;Master's degree;Germany;11
+juliaroberts;24;Male;Master's degree;Germany;12
+tilschweiger;24;Male;Master's degree;Germany;12
+janjosefliefers;24;Male;Master's degree;Germany;12
+nan;26;Female;Master's degree;Germany;13
+jenniferlawrence;26;Female;Master's degree;Germany;14
+benaffleck;26;Female;Master's degree;Germany;14
+chrishemsworth;26;Female;Master's degree;Germany;14
+blakelively;28;Female;Doctorate (e.g. PhD);Germany;15
+sandraoh;28;Female;Doctorate (e.g. PhD);Germany;15
+georgeclooney;28;Female;Doctorate (e.g. PhD);Germany;15
+tomcruse;25;Male;NaN;Germany;16
+danielcraig;25;Male;NaN;Germany;16
+georgecloony;31;Female;Master's degree;Germany;17
+ryangossling;31;Female;Master's degree;Germany;17
+jeniferlawrence;31;Female;Master's degree;Germany;17
+billcosby;36;Male;Master's degree;Germany;18
+charlysheen;36;Male;Master's degree;Germany;18
+pamelaanderson;36;Male;Master's degree;Germany;18
+leonardodicaprio;27;Male;Master's degree;Germany;19
+robertdeniro;27;Male;Master's degree;Germany;19
+juliaroberts;27;Male;Master's degree;Germany;19
+hughjackman;33;Male;Doctorate (e.g. PhD);Germany;20
+tomcruise;33;Male;Doctorate (e.g. PhD);Germany;20
+arnoldschwarzenegger;33;Male;Doctorate (e.g. PhD);Germany;20
+christophwaltz;26;Male;Bachelor's degree;USA;21
+samuelljackson;26;Male;Bachelor's degree;USA;21
+leonardodicaprio;26;Male;Bachelor's degree;USA;21
+seanconnery;44;Female;Doctorate (e.g. PhD);Sweden;22
+gretagarbo;44;Female;Doctorate (e.g. PhD);Sweden;22
+johnnydepp;44;Female;Doctorate (e.g. PhD);Sweden;22
+kevinhart;26;Male;Bachelor's degree;Germany;23
+mattdaemon;26;Male;Bachelor's degree;Germany;23
+keanureeves;26;Male;Bachelor's degree;Germany;23
+angelinajolie;27;Male;Bachelor's degree;NaN;24
+danielradcliffe;27;Male;Bachelor's degree;NaN;24
+leonardodicaprio;23;Male;Bachelor's degree;Germany;25
+ryangosling;23;Male;Bachelor's degree;Germany;25
+tomhardy;23;Male;Bachelor's degree;Germany;25
+dicaprio;22;Male;Bachelor's degree;Germany;26
+ryangossling;22;Male;Bachelor's degree;Germany;26
+jenniferaniston;22;Male;Bachelor's degree;Germany;26
+willsmith;25;Male;Bachelor's degree;Germany;27
+michaelbjordan;25;Male;Bachelor's degree;Germany;27
+alexandradaddario;25;Male;Bachelor's degree;Germany;27
+georgeclooney;27;Male;Master's degree;Germany;28
+emmawatson;27;Male;Master's degree;Germany;28
+danielradcliffe;27;Male;Master's degree;Germany;28
+morganfreeman;30;Male;Bachelor's degree;USA;29
+bradpitt;30;Male;Bachelor's degree;USA;29
+leonardodicaprio;28;Male;Master's degree;Germany;30
+sylvesterstallone;28;Male;Master's degree;Germany;30
+liamneeson;28;Male;Master's degree;Germany;30
+johnnydepp;38;Female;Doctorate (e.g. PhD);Greece;31
+bratpitt;38;Female;Doctorate (e.g. PhD);Greece;31
+michellepfeiffer;38;Female;Doctorate (e.g. PhD);Greece;31
+georgeclooney;28;Male;Master's degree;Germany;32
+bradpitt;28;Male;Master's degree;Germany;32
+johnnydepp;28;Male;Master's degree;Germany;32
+ryangosling;26;Male;Bachelor's degree;Germany;33
+madsmikkelsen;26;Male;Bachelor's degree;Germany;33
+toniservillo;26;Male;Bachelor's degree;Germany;33
+stevecarell;19;Male;High school degree or equivalent;Germany;34
+jasonstatham;19;Male;High school degree or equivalent;Germany;34
+keanureeves;19;Male;High school degree or equivalent;Germany;34
+jenniferlawrence;25;Female;Bachelor's degree;Germany;35
+leonardodicaprio;25;Female;Bachelor's degree;Germany;35
+judelaw;25;Female;Bachelor's degree;Germany;35
+billmurray;24;Female;Master's degree;Germany;36
+scarlettjohanson;24;Female;Master's degree;Germany;36
+angelinajolie;24;Female;Master's degree;Germany;36
+willsmith;25;Male;Bachelor's degree;Germany;37
+güntergrass;64;Male;Doctorate (e.g. PhD);Austria;38
+irving;64;Male;Doctorate (e.g. PhD);Austria;38
+rainkin;64;Male;Doctorate (e.g. PhD);Austria;38
+bradpitt;24;Male;Bachelor's degree;Germany;39
+johnnydepp;24;Male;Bachelor's degree;Germany;39
+jenniferlawrence;24;Male;Bachelor's degree;Germany;39
+denzelwashington;31;Male;Bachelor's degree;Germany;40
+bradpitt;31;Male;Bachelor's degree;Germany;40
+alexandradaddario;31;Male;Bachelor's degree;Germany;40
+johnnydepp;25;Female;Bachelor's degree;Germany;41
+angelinajolie;25;Female;Bachelor's degree;Germany;41
+tomhardy;25;Female;Bachelor's degree;Germany;41
+jessicachastain;28;Female;Bachelor's degree;Germany;42
+charliehunnam;28;Female;Bachelor's degree;Germany;42
+christophwaltz;28;Female;Bachelor's degree;Germany;42
+ryanreynolds;37;Female;Master's degree;Germany;43
+arnoldschwarzenegger;37;Female;Master's degree;Germany;43
+liztaylor;37;Female;Master's degree;Germany;43
+jacknicolsen;50;Female;High school degree or equivalent;Germany;44
+meryelstreep;50;Female;High school degree or equivalent;Germany;44
+willsmith;50;Female;High school degree or equivalent;Germany;44
+leonardodicaprio;28;Female;High school degree or equivalent;Germany;45
+timothèechalamet;28;Female;High school degree or equivalent;Germany;45
+juliagarner;28;Female;High school degree or equivalent;Germany;45
+johnnydepp;31;Male;Bachelor's degree;Germany;46
+andrewgarfield;31;Male;Bachelor's degree;Germany;46
+freddiehighmore;31;Male;Bachelor's degree;Germany;46
+bradpit;21;Female;High school degree or equivalent;Germany;47
+leonardodicaprio;21;Female;High school degree or equivalent;Germany;47
+tomcruise;21;Female;High school degree or equivalent;Germany;47
+bradpitt;23;Female;Bachelor's degree;Germany;48
+blakelively;23;Female;Bachelor's degree;Germany;48
+georgecloony;23;Female;Bachelor's degree;Germany;48
+robertdowneyjr;36;Male;Bachelor's degree;India;49
+scarletjohnson;36;Male;Bachelor's degree;India;49
+liamneeson;36;Male;Bachelor's degree;India;49
+robertdeniro;28;Female;Master's degree;Romania;50
+robertredford;28;Female;Master's degree;Romania;50
+alpacino;28;Female;Master's degree;Romania;50
+emmawatson;19;Female;High school degree or equivalent;Germany;51
+kilianmurphy;19;Female;High school degree or equivalent;Germany;51
+cateblanchett;19;Female;High school degree or equivalent;Germany;51
+chrisevans;19;Female;High school degree or equivalent;Germany;52
+chrishemsworth;19;Female;High school degree or equivalent;Germany;52
+chrispine;19;Female;High school degree or equivalent;Germany;52
+nan;25;Male;Bachelor's degree;Germany;53
+scarletjohansen;34;Female;Master's degree;France;54
+rachelweiz;34;Female;Master's degree;France;54
+kristenbell;34;Female;Master's degree;France;54
+palinarojinski;20;Female;High school degree or equivalent;Germany;55
+elyasmbarek;20;Female;High school degree or equivalent;Germany;55
+jessicaschwarz;20;Female;High school degree or equivalent;Germany;55
+bradpitt;26;Female;Master's degree;France;56
+georgeclooney;26;Female;Master's degree;France;56
+jenniferaniston;26;Female;Master's degree;France;56
+tilschweiger;29;Prefer not to say;Master's degree;Germany;57
+christophwalz;29;Prefer not to say;Master's degree;Germany;57
+kevinspacey;29;Prefer not to say;Master's degree;Germany;57
+liamneeson;31;Male;Master's degree;Germany;58
+ewanmcgregor;31;Male;Master's degree;Germany;58
+marlonbrando;31;Male;Master's degree;Germany;58
+cumberbatch;23;Male;High school degree or equivalent;Germany;59
+lewis;23;Male;High school degree or equivalent;Germany;59
+schwarzenegger;23;Male;High school degree or equivalent;Germany;59
+danielcraig;21;Female;High school degree or equivalent;Germany;60
+ellenpompeo;21;Female;High school degree or equivalent;Germany;60
+eliasm‘barek;21;Female;High school degree or equivalent;Germany;60
+kevincostner;54;Male;High school degree or equivalent;Germany;61
+liamneeson;54;Male;High school degree or equivalent;Germany;61
+jenniferaniston;54;Male;High school degree or equivalent;Germany;61
+bradpitt;30;Female;Master's degree;France;62
+leonardodicaprio;30;Female;Master's degree;France;62
+tomhanks;30;Female;Master's degree;France;62
+emmawatson;24;Male;Bachelor's degree;Germany;63
+ryangosling;24;Male;Bachelor's degree;Germany;63
+christianbale;24;Male;Bachelor's degree;Germany;63
+karryfisher;17;Male;Less than a high school degree;Germany;64
+ryanreynolds;25;Female;High school degree or equivalent;Germany;65
+benedictcumberbatch;25;Female;High school degree or equivalent;Germany;65
+ottowalkes;25;Female;High school degree or equivalent;Germany;65
+galgadot;16;Male;Less than a high school degree;Germany;66
+therock;16;Male;Less than a high school degree;Germany;66
+ryanreynolds;16;Male;Less than a high school degree;Germany;66
+ryanreynolds;21;Male;High school degree or equivalent;Germany;67
+elyasmbarek;21;Male;High school degree or equivalent;Germany;67
+scarlettjohanssen;21;Male;High school degree or equivalent;Germany;67
+jonnydepp;0;Prefer not to say;NaN;NaN;68
+angelinajolie;0;Prefer not to say;NaN;NaN;68
+bradpitt;0;Prefer not to say;NaN;NaN;68
+bradpitt;24;Female;Master's degree;France;69
+bradleycooper;24;Female;Master's degree;France;69
+seanconnery;24;Female;Master's degree;France;69
+georgeclooney;26;Female;Master's degree;France;70
+keiraknightley;26;Female;Master's degree;France;70
+tomholland;26;Female;Master's degree;France;70
+keanureeves;34;Female;Master's degree;Germany;71
+heathledger;34;Female;Master's degree;Germany;71
+seanconnery;34;Female;Master's degree;Germany;71
+pitt;54;Male;Less than a high school degree;Germany;72
+clooney;54;Male;Less than a high school degree;Germany;72
+brucewillis;54;Male;Less than a high school degree;Germany;72
+jenniferlawrence;23;Male;Bachelor's degree;Germany;73
+tomellis;23;Male;Bachelor's degree;Germany;73
+bradpitt;27;Male;Master's degree;Germany;74
+leonardodicaprio;27;Male;Master's degree;Germany;74
+angelinajolie;27;Male;Master's degree;Germany;74
+georgeclooney;25;Male;Bachelor's degree;Germany;75
+angelinajolie;25;Male;Bachelor's degree;Germany;75
+bradpitt;25;Male;Bachelor's degree;Germany;75
+zendaya;27;Female;Master's degree;Germany;76
+emmawatson;27;Female;Master's degree;Germany;76
+jenniferlawrence;27;Female;Master's degree;Germany;76
+robertdeniro;51;Male;High school degree or equivalent;Germany;77
+humphreybogart;51;Male;High school degree or equivalent;Germany;77
+jacknicholson;51;Male;High school degree or equivalent;Germany;77
+schweiger;26;Male;High school degree or equivalent;Germany;78
+diesel;26;Male;High school degree or equivalent;Germany;78
+walker;26;Male;High school degree or equivalent;Germany;78
+bradpitt;27;Male;Bachelor's degree;Germany;79
+angelinajolie;27;Male;Bachelor's degree;Germany;79
+jenniferaniston;27;Male;Bachelor's degree;Germany;79
+leonardodicaprio;25;Male;Master's degree;Germany;80
+jenniferlawrence;25;Male;Master's degree;Germany;80
+leonardodicaprio;25;Male;Bachelor's degree;Germany;81
+tomhanks;25;Male;Bachelor's degree;Germany;81
+emmawatson;25;Male;Bachelor's degree;Germany;81
+therock;21;Male;High school degree or equivalent;Germany;82
+adamsandler;21;Male;High school degree or equivalent;Germany;82
+kevinhart;21;Male;High school degree or equivalent;Germany;82
+jenniferlawrence;23;Female;Bachelor's degree;Germany;83
+bradpit;23;Female;Bachelor's degree;Germany;83
+sandrabullock;23;Female;Bachelor's degree;Germany;83
+kristenstewart;28;Female;Master's degree;Germany;84
+tomholland;28;Female;Master's degree;Germany;84
+robertpattinson;28;Female;Master's degree;Germany;84
+hughjackman;25;Female;Master's degree;Germany;85
+emmastone;25;Female;Master's degree;Germany;85
+ryanreynolds;25;Female;Master's degree;Germany;85
+leonardodicaprio;25;Female;Bachelor's degree;Russia;86
+tomhanks;25;Female;Bachelor's degree;Russia;86
+matthewmcconaughey;25;Female;Bachelor's degree;Russia;86
+elyasm‘barek;24;Female;High school degree or equivalent;Germany;87
+danielradcliffe;24;Female;High school degree or equivalent;Germany;87
+markwahlberg;24;Female;High school degree or equivalent;Germany;87
+leonardodicaprio;26;Male;Bachelor's degree;Germany;88
+willsmith;26;Male;Bachelor's degree;Germany;88
+tillschweiger;26;Male;Bachelor's degree;Germany;88
+leonardodicaprio;27;Female;Master's degree;Germany;89
+orlandobloom;27;Female;Master's degree;Germany;89
+channingtatum;27;Female;Master's degree;Germany;89
+eddiemurphy;25;Male;Bachelor's degree;Germany;90
+leonardodicaprio;25;Male;Bachelor's degree;Germany;90
+tomhardy;25;Male;Bachelor's degree;Germany;90
+leonardodicaprio;25;Male;High school degree or equivalent;Germany;91
+katewinslet;25;Male;High school degree or equivalent;Germany;91
+jamiefoxx;25;Male;High school degree or equivalent;Germany;91
+tomholland;28;Male;High school degree or equivalent;Germany;92
+jonahhill;28;Male;High school degree or equivalent;Germany;92
+milakunis;28;Male;High school degree or equivalent;Germany;92
+robertdeniro;47;Female;Bachelor's degree;England;93
+tomhanks;47;Female;Bachelor's degree;England;93
+morgenfreeman;47;Female;Bachelor's degree;England;93
+tomhanks;38;Male;Bachelor's degree;Germany;94
+davidhasselhoff;38;Male;Bachelor's degree;Germany;94
+dwaynejohnson;38;Male;Bachelor's degree;Germany;94
+tomcruise;40;Female;Bachelor's degree;China;95
+angelinajolie;40;Female;Bachelor's degree;China;95
+julieandrews;40;Female;Bachelor's degree;China;95
+leonardodicaprio;28;Female;High school degree or equivalent;Pakistan;96
+willsmith;28;Female;High school degree or equivalent;Pakistan;96
+robertdeniro;28;Female;High school degree or equivalent;Pakistan;96
+tomhanks;48;Female;Master's degree;Germany;97
+robinwilliams;48;Female;Master's degree;Germany;97
+juliaroberts;48;Female;Master's degree;Germany;97
+robertdowneyjr.;26;Male;Less than a high school degree;Germany;98
+jenniferaniston;26;Male;Less than a high school degree;Germany;98
+kevinjames;26;Male;Less than a high school degree;Germany;98
+chrisevans;26;Female;High school degree or equivalent;Germany;99
+sebastianstan;26;Female;High school degree or equivalent;Germany;99
+jensenackles;26;Female;High school degree or equivalent;Germany;99
+chrispratt;45;Female;Bachelor's degree;USA;100
+bradpitt;45;Female;Bachelor's degree;USA;100
+mattdamon;45;Female;Bachelor's degree;USA;100
+michellekeegan;23;Female;Master's degree;England;101
+davidwalliams;23;Female;Master's degree;England;101
+jenniferaniston;26;Female;Bachelor's degree;Germany;102
+bradpitt;26;Female;Bachelor's degree;Germany;102
+angelinajolie;26;Female;Bachelor's degree;Germany;102
+danielcraig;70;Female;Master's degree;Germany;103
+juliettebinoche;70;Female;Master's degree;Germany;103
+juliaroberts;70;Female;Master's degree;Germany;103
+bradpitt;33;Female;Master's degree;Iran;104
+lilyjames;33;Female;Master's degree;Iran;104
+pauldano;33;Female;Master's degree;Iran;104
+richardgere;59;Male;Doctorate (e.g. PhD);Germany;105
+juliaroberts;59;Male;Doctorate (e.g. PhD);Germany;105
+brucewillis;59;Male;Doctorate (e.g. PhD);Germany;105
+maxschreck;47;Female;Doctorate (e.g. PhD);Germany;106
+peterlorre;47;Female;Doctorate (e.g. PhD);Germany;106
+orsonwelles;47;Female;Doctorate (e.g. PhD);Germany;106
+kevinbacon;50;Female;Doctorate (e.g. PhD);Germany;107
+keanureeves;50;Female;Doctorate (e.g. PhD);Germany;107
+dustinhoffman;50;Female;Doctorate (e.g. PhD);Germany;107
+hughgrant;45;Female;Doctorate (e.g. PhD);Germany;108
+jacknicholson;45;Female;Doctorate (e.g. PhD);Germany;108
+marlenedietrich;45;Female;Doctorate (e.g. PhD);Germany;108

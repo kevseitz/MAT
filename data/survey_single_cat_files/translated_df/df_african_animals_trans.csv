@@ -1,0 +1,322 @@
+african_animals;p_age;p_gender;p_education;p_country;p_id
+lion;26;Male;Bachelor's degree;germany;0
+elephant;26;Male;Bachelor's degree;germany;0
+honeybadger;26;Male;Bachelor's degree;germany;0
+elephant;44;Male;Doctorate (e.g. PhD);germany;1
+lion;44;Male;Doctorate (e.g. PhD);germany;1
+zebra;44;Male;Doctorate (e.g. PhD);germany;1
+leopard;46;Male;Bachelor's degree;france;2
+hyena;46;Male;Bachelor's degree;france;2
+gazelle;46;Male;Bachelor's degree;france;2
+zebra;28;Male;Master's degree;germany;3
+elephant;28;Male;Master's degree;germany;3
+lion;28;Male;Master's degree;germany;3
+elephant;34;Female;Master's degree;switzerland;4
+zebra;34;Female;Master's degree;switzerland;4
+giraffe;34;Female;Master's degree;switzerland;4
+elephant;27;Male;Bachelor's degree;germany;5
+lion;27;Male;Bachelor's degree;germany;5
+hyena;27;Male;Bachelor's degree;germany;5
+lion;27;Male;Master's degree;germany;6
+giraffe;27;Male;Master's degree;germany;6
+elephant;27;Male;Master's degree;germany;6
+lion;27;Male;Master's degree;germany;7
+elephant;27;Male;Master's degree;germany;7
+antelope;27;Male;Master's degree;germany;7
+lion;28;Male;High school degree or equivalent;germany;8
+elephant;28;Male;High school degree or equivalent;germany;8
+giraffe;28;Male;High school degree or equivalent;germany;8
+elephant;29;Male;Master's degree;germany;9
+giraffe;29;Male;Master's degree;germany;9
+chetah;29;Male;Master's degree;germany;9
+elephant;26;Male;Master's degree;germany;10
+giraffe;26;Male;Master's degree;germany;10
+lion;26;Male;Master's degree;germany;10
+elephant;37;Male;Master's degree;germany;11
+lion;37;Male;Master's degree;germany;11
+hippo;37;Male;Master's degree;germany;11
+elephant;24;Male;Master's degree;germany;12
+giraffe;24;Male;Master's degree;germany;12
+antelope;24;Male;Master's degree;germany;12
+lion;26;Female;Master's degree;germany;13
+elephant;26;Female;Master's degree;germany;13
+giraffe;26;Female;Master's degree;germany;13
+giraffe;26;Female;Master's degree;germany;14
+zebra;26;Female;Master's degree;germany;14
+lion;26;Female;Master's degree;germany;14
+lion;28;Female;Doctorate (e.g. PhD);germany;15
+giraffe;28;Female;Doctorate (e.g. PhD);germany;15
+antelope;28;Female;Doctorate (e.g. PhD);germany;15
+lion;25;Male;NaN;germany;16
+zebra;25;Male;NaN;germany;16
+elephant;25;Male;NaN;germany;16
+elephant;31;Female;Master's degree;germany;17
+giraffe;31;Female;Master's degree;germany;17
+lion;31;Female;Master's degree;germany;17
+elephant;36;Male;Master's degree;germany;18
+zebra;36;Male;Master's degree;germany;18
+gorilla;36;Male;Master's degree;germany;18
+tiger;27;Male;Master's degree;germany;19
+lion;27;Male;Master's degree;germany;19
+giraffe;27;Male;Master's degree;germany;19
+lion;33;Male;Doctorate (e.g. PhD);germany;20
+elephant;33;Male;Doctorate (e.g. PhD);germany;20
+gnu;33;Male;Doctorate (e.g. PhD);germany;20
+giraffe;26;Male;Bachelor's degree;usa;21
+rhino;26;Male;Bachelor's degree;usa;21
+lion;26;Male;Bachelor's degree;usa;21
+elephant;44;Female;Doctorate (e.g. PhD);sweden;22
+lion;44;Female;Doctorate (e.g. PhD);sweden;22
+rhino;44;Female;Doctorate (e.g. PhD);sweden;22
+lion;26;Male;Bachelor's degree;germany;23
+elephant;26;Male;Bachelor's degree;germany;23
+zebra;26;Male;Bachelor's degree;germany;23
+elephant;27;Male;Bachelor's degree;nan;24
+lion;27;Male;Bachelor's degree;nan;24
+giraffe;27;Male;Bachelor's degree;nan;24
+lion;23;Male;Bachelor's degree;germany;25
+elephant;23;Male;Bachelor's degree;germany;25
+rhino;23;Male;Bachelor's degree;germany;25
+antelope;22;Male;Bachelor's degree;germany;26
+tiger;22;Male;Bachelor's degree;germany;26
+lion;22;Male;Bachelor's degree;germany;26
+lion;25;Male;Bachelor's degree;germany;27
+zebra;25;Male;Bachelor's degree;germany;27
+giraffe;25;Male;Bachelor's degree;germany;27
+lion;27;Male;Master's degree;germany;28
+giraffe;27;Male;Master's degree;germany;28
+elephant;27;Male;Master's degree;germany;28
+giraffe;30;Male;Bachelor's degree;usa;29
+alligator;30;Male;Bachelor's degree;usa;29
+lion;28;Male;Master's degree;germany;30
+hippo;28;Male;Master's degree;germany;30
+mamba;28;Male;Master's degree;germany;30
+zebra;38;Female;Doctorate (e.g. PhD);greece;31
+elephant;38;Female;Doctorate (e.g. PhD);greece;31
+lion;38;Female;Doctorate (e.g. PhD);greece;31
+elephant;28;Male;Master's degree;germany;32
+lion;28;Male;Master's degree;germany;32
+giraffe;28;Male;Master's degree;germany;32
+giraffe;26;Male;Bachelor's degree;germany;33
+lion;26;Male;Bachelor's degree;germany;33
+rhino;26;Male;Bachelor's degree;germany;33
+zebra;19;Male;High school degree or equivalent;germany;34
+lion;19;Male;High school degree or equivalent;germany;34
+giraffe;19;Male;High school degree or equivalent;germany;34
+giraffe;25;Female;Bachelor's degree;germany;35
+lion;25;Female;Bachelor's degree;germany;35
+zebra;25;Female;Bachelor's degree;germany;35
+zebra;24;Female;Master's degree;germany;36
+lion;24;Female;Master's degree;germany;36
+giraffe;24;Female;Master's degree;germany;36
+lion;25;Male;Bachelor's degree;germany;37
+elephant;25;Male;Bachelor's degree;germany;37
+buffalo;25;Male;Bachelor's degree;germany;37
+elephant;64;Male;Doctorate (e.g. PhD);austria;38
+monkey;64;Male;Doctorate (e.g. PhD);austria;38
+lion;64;Male;Doctorate (e.g. PhD);austria;38
+giraffe;24;Male;Bachelor's degree;germany;39
+elephant;24;Male;Bachelor's degree;germany;39
+lion;24;Male;Bachelor's degree;germany;39
+elephant;31;Male;Bachelor's degree;germany;40
+lion;31;Male;Bachelor's degree;germany;40
+rhino;31;Male;Bachelor's degree;germany;40
+zebra;25;Female;Bachelor's degree;germany;41
+elephant;25;Female;Bachelor's degree;germany;41
+lion;25;Female;Bachelor's degree;germany;41
+elephant;28;Female;Bachelor's degree;germany;42
+giraffe;28;Female;Bachelor's degree;germany;42
+zebra;28;Female;Bachelor's degree;germany;42
+lion;37;Female;Master's degree;germany;43
+elephant;37;Female;Master's degree;germany;43
+hippo;37;Female;Master's degree;germany;43
+elephant;50;Female;High school degree or equivalent;germany;44
+impala;50;Female;High school degree or equivalent;germany;44
+lion;50;Female;High school degree or equivalent;germany;44
+elephant;28;Female;High school degree or equivalent;germany;45
+lion;28;Female;High school degree or equivalent;germany;45
+monkey;28;Female;High school degree or equivalent;germany;45
+lion;31;Male;Bachelor's degree;germany;46
+zebra;31;Male;Bachelor's degree;germany;46
+giraffe;31;Male;Bachelor's degree;germany;46
+elephant;21;Female;High school degree or equivalent;germany;47
+lion;21;Female;High school degree or equivalent;germany;47
+giraffe;21;Female;High school degree or equivalent;germany;47
+lion;23;Female;Bachelor's degree;germany;48
+giraffe;23;Female;Bachelor's degree;germany;48
+elephant;23;Female;Bachelor's degree;germany;48
+elephant;36;Male;Bachelor's degree;india;49
+lion;36;Male;Bachelor's degree;india;49
+cheetah;36;Male;Bachelor's degree;india;49
+elephant;28;Female;Master's degree;romania;50
+giraffe;28;Female;Master's degree;romania;50
+zebra;28;Female;Master's degree;romania;50
+lion;19;Female;High school degree or equivalent;germany;51
+cheetah;19;Female;High school degree or equivalent;germany;51
+giraffe;19;Female;High school degree or equivalent;germany;51
+giraffe;19;Female;High school degree or equivalent;germany;52
+elephant;19;Female;High school degree or equivalent;germany;52
+gazelle;19;Female;High school degree or equivalent;germany;52
+elephant;25;Male;Bachelor's degree;germany;53
+hippo;25;Male;Bachelor's degree;germany;53
+giraffe;25;Male;Bachelor's degree;germany;53
+lion;34;Female;Master's degree;france;54
+elephant;34;Female;Master's degree;france;54
+zebra;34;Female;Master's degree;france;54
+zebra;20;Female;High school degree or equivalent;germany;55
+giraffe gazelle;20;Female;High school degree or equivalent;germany;55
+lion;26;Female;Master's degree;france;56
+zebra;26;Female;Master's degree;france;56
+panther;26;Female;Master's degree;france;56
+antelope;29;Prefer not to say;Master's degree;germany;57
+lion;29;Prefer not to say;Master's degree;germany;57
+elephant;29;Prefer not to say;Master's degree;germany;57
+elephant;31;Male;Master's degree;germany;58
+cougar;31;Male;Master's degree;germany;58
+lion;31;Male;Master's degree;germany;58
+giraffe;23;Male;High school degree or equivalent;germany;59
+lion;23;Male;High school degree or equivalent;germany;59
+antelope;23;Male;High school degree or equivalent;germany;59
+elephant;21;Female;High school degree or equivalent;germany;60
+zebra;21;Female;High school degree or equivalent;germany;60
+giraffe;21;Female;High school degree or equivalent;germany;60
+rhino;54;Male;High school degree or equivalent;germany;61
+giraffe;54;Male;High school degree or equivalent;germany;61
+lion;54;Male;High school degree or equivalent;germany;61
+zebra;30;Female;Master's degree;france;62
+elephant;30;Female;Master's degree;france;62
+panther;30;Female;Master's degree;france;62
+lion;24;Male;Bachelor's degree;germany;63
+scorpion;24;Male;Bachelor's degree;germany;63
+monkey;24;Male;Bachelor's degree;germany;63
+lion;17;Male;Less than a high school degree;germany;64
+zebra;17;Male;Less than a high school degree;germany;64
+scorpion;17;Male;Less than a high school degree;germany;64
+elephant;25;Female;High school degree or equivalent;germany;65
+lion;25;Female;High school degree or equivalent;germany;65
+hyena;25;Female;High school degree or equivalent;germany;65
+elephant;16;Male;Less than a high school degree;germany;66
+zebra;16;Male;Less than a high school degree;germany;66
+tiger;16;Male;Less than a high school degree;germany;66
+elephant;21;Male;High school degree or equivalent;germany;67
+giraffe;21;Male;High school degree or equivalent;germany;67
+elephant;0;Prefer not to say;NaN;nan;68
+lion;0;Prefer not to say;NaN;nan;68
+rhino;0;Prefer not to say;NaN;nan;68
+lion;24;Female;Master's degree;france;69
+giraffe;24;Female;Master's degree;france;69
+zebra;24;Female;Master's degree;france;69
+camel;26;Female;Master's degree;france;70
+elephant;26;Female;Master's degree;france;70
+snake;26;Female;Master's degree;france;70
+giraffe;34;Female;Master's degree;germany;71
+elephant;34;Female;Master's degree;germany;71
+zebra;34;Female;Master's degree;germany;71
+lion;54;Male;Less than a high school degree;germany;72
+elephant;54;Male;Less than a high school degree;germany;72
+zebra;54;Male;Less than a high school degree;germany;72
+lion;23;Male;Bachelor's degree;germany;73
+elephant;23;Male;Bachelor's degree;germany;73
+giraffe;27;Male;Master's degree;germany;74
+lion;27;Male;Master's degree;germany;74
+hyena;27;Male;Master's degree;germany;74
+giraffe;25;Male;Bachelor's degree;germany;75
+elephant;25;Male;Bachelor's degree;germany;75
+hyena;25;Male;Bachelor's degree;germany;75
+lion;27;Female;Master's degree;germany;76
+elephant;27;Female;Master's degree;germany;76
+tiger;27;Female;Master's degree;germany;76
+lion;51;Male;High school degree or equivalent;germany;77
+elephant;51;Male;High school degree or equivalent;germany;77
+buffalo;51;Male;High school degree or equivalent;germany;77
+giraffe;26;Male;High school degree or equivalent;germany;78
+leopard;26;Male;High school degree or equivalent;germany;78
+lion;26;Male;High school degree or equivalent;germany;78
+elephant;27;Male;Bachelor's degree;germany;79
+zebra;27;Male;Bachelor's degree;germany;79
+lion;27;Male;Bachelor's degree;germany;79
+zebra;25;Male;Master's degree;germany;80
+elephant;25;Male;Master's degree;germany;80
+giraffe;25;Male;Master's degree;germany;80
+lion;25;Male;Bachelor's degree;germany;81
+giraffe;25;Male;Bachelor's degree;germany;81
+zebra;25;Male;Bachelor's degree;germany;81
+lion;21;Male;High school degree or equivalent;germany;82
+elephant;21;Male;High school degree or equivalent;germany;82
+giraffe;21;Male;High school degree or equivalent;germany;82
+elephant;23;Female;Bachelor's degree;germany;83
+giraffe;23;Female;Bachelor's degree;germany;83
+zebra;23;Female;Bachelor's degree;germany;83
+elephant;28;Female;Master's degree;germany;84
+zebra;28;Female;Master's degree;germany;84
+lion;28;Female;Master's degree;germany;84
+giraffe;25;Female;Master's degree;germany;85
+lion;25;Female;Bachelor's degree;russia;86
+elephant;25;Female;Bachelor's degree;russia;86
+zebra;25;Female;Bachelor's degree;russia;86
+elephant;24;Female;High school degree or equivalent;germany;87
+zebra;24;Female;High school degree or equivalent;germany;87
+hippo;24;Female;High school degree or equivalent;germany;87
+monkey;26;Male;Bachelor's degree;germany;88
+crocodile;26;Male;Bachelor's degree;germany;88
+hippo;26;Male;Bachelor's degree;germany;88
+tiger;27;Female;Master's degree;germany;89
+elephant;27;Female;Master's degree;germany;89
+giraffe;27;Female;Master's degree;germany;89
+giraffe;25;Male;Bachelor's degree;germany;90
+elephant;25;Male;Bachelor's degree;germany;90
+lion;25;Male;Bachelor's degree;germany;90
+elephant;25;Male;High school degree or equivalent;germany;91
+zebra;25;Male;High school degree or equivalent;germany;91
+lion;25;Male;High school degree or equivalent;germany;91
+zebra;28;Male;High school degree or equivalent;germany;92
+rhino;28;Male;High school degree or equivalent;germany;92
+alligator;28;Male;High school degree or equivalent;germany;92
+elephant;47;Female;Bachelor's degree;england;93
+giraffe;47;Female;Bachelor's degree;england;93
+zebra;47;Female;Bachelor's degree;england;93
+elephant;38;Male;Bachelor's degree;germany;94
+buffalo;38;Male;Bachelor's degree;germany;94
+rhino;38;Male;Bachelor's degree;germany;94
+lion;40;Female;Bachelor's degree;china;95
+elephant;40;Female;Bachelor's degree;china;95
+tiger;40;Female;Bachelor's degree;china;95
+zebra;28;Female;High school degree or equivalent;pakistan;96
+elephant;28;Female;High school degree or equivalent;pakistan;96
+lion;28;Female;High school degree or equivalent;pakistan;96
+lion;48;Female;Diplom;germany;97
+elephant;48;Female;Diplom;germany;97
+giraffe;48;Female;Diplom;germany;97
+lion;26;Male;Less than a high school degree;germany;98
+elephant;26;Male;Less than a high school degree;germany;98
+hippo;26;Male;Less than a high school degree;germany;98
+zebra;26;Female;High school degree or equivalent;germany;99
+gnu;26;Female;High school degree or equivalent;germany;99
+elephant;26;Female;High school degree or equivalent;germany;99
+elephant;45;Female;Bachelor's degree;usa;100
+hyena;45;Female;Bachelor's degree;usa;100
+hippo;45;Female;Bachelor's degree;usa;100
+elephant;23;Female;Master's degree;england;101
+lion;23;Female;Master's degree;england;101
+antelope;23;Female;Master's degree;england;101
+antelope;26;Female;Bachelor's degree;germany;102
+lion;26;Female;Bachelor's degree;germany;102
+elephant;26;Female;Bachelor's degree;germany;102
+lion;70;Female;Dipl.-Ing.;germany;103
+giraffe;70;Female;Dipl.-Ing.;germany;103
+rhino;70;Female;Dipl.-Ing.;germany;103
+elephant;33;Female;Master's degree;iran;104
+hippopotamus;33;Female;Master's degree;iran;104
+giraffe;33;Female;Master's degree;iran;104
+elephant;59;Male;Doctorate (e.g. PhD);germany;105
+lion;59;Male;Doctorate (e.g. PhD);germany;105
+gnu;59;Male;Doctorate (e.g. PhD);germany;105
+lion;47;Female;Doctorate (e.g. PhD);germany;106
+zebra;47;Female;Doctorate (e.g. PhD);germany;106
+giraffe;47;Female;Doctorate (e.g. PhD);germany;106
+lion;50;Female;Doctorate (e.g. PhD);germany;107
+elephant;50;Female;Doctorate (e.g. PhD);germany;107
+cheeta;50;Female;Doctorate (e.g. PhD);germany;107
+leopard;45;Female;Doctorate (e.g. PhD);germany;108
+elephant;45;Female;Doctorate (e.g. PhD);germany;108
+lion;45;Female;Doctorate (e.g. PhD);germany;108
