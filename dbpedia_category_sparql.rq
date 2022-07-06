@@ -1,0 +1,276 @@
+# 90s movie
+# categories only exist for each year of the 90s separately
+SELECT DISTINCT ?resource ?name WHERE {
+    VALUES ?f90 {dbc:1990_films dbc:1991_films dbc:1992_films dbc:1993_films dbc:1994_films dbc:1995_films dbc:1996_films dbc:1997_films dbc:1998_films dbc:1999_films}
+    ?resource a dbo:Film ;
+        ?p ?f90 .
+    ?resource rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# actor
+SELECT DISTINCT ?actor ?name WHERE {
+    ?actor a dbo:Person ;
+        dbp:occupation "Actor"@en .
+    ?actor rdfs:label ?name .
+    FILTER langMatches( lang(?name), "EN" )
+}
+
+# music genre
+SELECT DISTINCT ?mGenre ?name WHERE {
+    ?mGenre a dbo:MusicGenre .
+    ?mGenre rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# book
+SELECT DISTINCT ?book ?name WHERE {
+    ?book a dbo:Book .
+    ?book rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# book author
+SELECT DISTINCT ?author ?name WHERE {
+    {
+        ?author a dbo:Person ;
+            dbp:author ?o .
+    }
+    UNION {
+#        VALUES ?writtenWork {dbo:Book dbo:Poem dbo:Comic}
+#        ?work a ?writtenWork ;
+        ?work a dbo:book ;
+            dbo:author ?author .
+    }
+    ?author rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# politician
+SELECT DISTINCT ?pol ?name WHERE {
+    ?pol a dbo:Person ;
+        a dbo:Politician .
+    ?pol rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# US president
+SELECT DISTINCT ?potus ?name WHERE {
+    ?potus a dbo:Person ;
+        dct:subject dbc:Presidents_of_the_United_States .
+    ?potus rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# city
+SELECT DISTINCT ?city ?name WHERE {
+    ?city a dbo:City .
+    ?city rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+# lake
+SELECT DISTINCT ?lake ?name WHERE {
+    ?lake a dbo:Lake .
+    ?lake rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# mountain
+SELECT DISTINCT ?mount ?name WHERE {
+    ?mount a dbo:Mountain .
+    ?mount rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# european capital city
+SELECT DISTINCT ?euCap ?name WHERE {
+    ?euCap a dbo:City ;
+        dct:subject dbc:Capitals_in_Europe .
+    ?euCap rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# european country
+SELECT DISTINCT ?euCountry ?name WHERE {
+    ?euroCountry a dbo:Place ;
+        dct:subject dbc:Countries_in_Europe .
+    ?euCountry rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# asian country
+## including East_Asian_countries necessary to get Japan, Taiwan, Turkmenistan and the Koreas
+SELECT DISTINCT ?asCountry ?name WHERE {
+     VALUES ?cc {dbc:Countries_in_Asia dbc:East_Asian_countries}
+        ?asCountry a dbo:Place ;
+            dct:subject ?cc .
+        ?asCountry rdfs:label ?name .
+        FILTER langMatches(lang(?name), "EN")
+}
+
+SELECT DISTINCT ?asCountry ?name WHERE {
+     VALUES ?cc {dbc:Countries_in_Asia dbc:East_Asian_countries dbc:Taiwan dbc:Central_Asian_countries}
+        ?asCountry a dbo:Place ;
+            dct:subject ?cc .
+        ?asCountry rdfs:label ?name .
+        FILTER langMatches(lang(?name), "EN")
+}
+
+# continent
+SELECT DISTINCT ?conti ?name WHERE {
+    ?conti dct:subject dbc:Continents .
+    ?conti rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# bird
+# SELECT DISTINCT ?bird ?name WHERE {
+#     ?bird dbo:class dbr:Bird .
+#     ?bird rdfs:label ?name .
+#     FILTER langMatches(lang(?name), "EN")
+# }
+SELECT DISTINCT ?bird ?name WHERE {
+    ?bird dct:subject/skos:broader+ dbc:Birds .
+    ?bird rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# african animal
+SELECT DISTINCT ?afrAnimal ?name WHERE {
+    ?afrAnimal dct:subject/skos:broader+ dbc:Vertebrates_of_Africa .
+    ?afrAnimal rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# furniture
+SELECT DISTINCT ?fur ?name WHERE {
+    ?fur dct:subject/skos:broader+ dbc:Furniture .
+    ?fur rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# vegetable
+## contains a lot of noise
+SELECT DISTINCT ?veg ?name WHERE {
+    ?veg dct:subject/skos:broader+ dbc:Vegetables .
+    ?veg rdfs:label ?name .
+    FILTER langMatches( lang(?name), "EN" )
+}
+
+# fast food
+SELECT DISTINCT ?fastFood ?name WHERE {
+        ?fastFood a dbo:Food ;
+             dct:subject/skos:broader+ dbc:Fast_food .
+    ?fastFood rdfs:label ?name .
+    FILTER langMatches( lang(?name), "EN" )
+}
+
+# landmarks/sights in Europe
+SELECT DISTINCT ?euroSight ?name WHERE {
+    {
+        VALUES ?cc {
+            dbc:Landmarks_in_Bulgaria
+            dbc:Landmarks_in_Malta
+            dbc:Landmarks_in_Albania
+            dbc:Landmarks_in_Andorra
+            dbc:Landmarks_in_Armenia
+            dbc:Landmarks_in_Austria
+            dbc:Landmarks_in_Bosnia_and_Herzegovina
+            dbc:Landmarks_in_Cyprus
+            dbc:Landmarks_in_Gibraltar
+            dbc:Landmarks_in_Iceland
+            dbc:Landmarks_in_Liechtenstein
+            dbc:Landmarks_in_Luxembourg
+            dbc:Landmarks_in_Moldova
+            dbc:Landmarks_in_Monaco
+            dbc:Landmarks_in_Montenegro
+            dbc:Landmarks_in_North_Macedonia
+            dbc:Landmarks_in_Northern_Cyprus
+            dbc:Landmarks_in_San_Marino
+            dbc:Landmarks_in_Slovakia
+            dbc:Landmarks_in_Switzerland
+            dbc:Landmarks_in_Vatican_City
+            dbc:Landmarks_in_Kazakhstan
+            dbc:Landmarks_in_Finland
+            dbc:Landmarks_in_Belgium
+            dbc:Landmarks_in_Germany
+            dbc:Landmarks_in_France
+            dbc:Landmarks_in_Ukraine
+            dbc:Landmarks_in_Estonia
+            dbc:Landmarks_in_Portugal
+            dbc:Landmarks_in_Spain
+            dbc:Landmarks_in_the_Republic_of_Ireland
+            dbc:Landmarks_in_Hungary
+            dbc:Landmarks_in_Poland
+            dbc:Landmarks_in_Turkey
+            dbc:Landmarks_in_the_Czech_Republic
+            dbc:Landmarks_in_Serbia
+            dbc:Landmarks_in_Romania
+            dbc:Landmarks_in_Denmark
+            dbc:Landmarks_in_Slovenia
+            dbc:Landmarks_in_Croatia
+            dbc:Landmarks_in_Italy
+            dbc:Landmarks_in_Russia
+            dbc:Monuments_and_memorials_in_Europe_by_country
+            dbc:Landmarks_in_the_United_Kingdom
+            dbc:Landmarks_in_Lithuania
+            dbc:Landmarks_in_Norway
+            dbc:Landmarks_in_the_Netherlands
+            dbc:Landmarks_in_Kosovo
+            dbc:Landmarks_in_Latvia
+            dbc:Landmarks_in_Sweden
+            dbc:Landmarks_in_Azerbaijan
+            dbc:Landmarks_in_Belarus
+            dbc:Landmarks_in_Greece
+            dbc:Tourist_attractions_in_Berlin
+            dbc:World_Heritage_Sites_in_Italy
+            }
+            ?euroSight a dbo:ArchitecturalStructure ;
+                dct:subject ?cc .
+    }
+    UNION{
+        ?euroSight a dbo:ArchitecturalStructure ;
+            ?p dbr:Landmark .
+
+    }
+    ?euroSight rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# company listed in the DAX (German stock index)
+SELECT DISTINCT ?DAXco ?name WHERE {
+   ?DAXco a dbo:Company ;
+        dbp:tradedAs dbr:DAX .
+    ?DAXco rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}
+
+# US company
+SELECT DISTINCT ?USCo ?name WHERE {
+    {
+    VALUES ?loc {dbo:locationCity dbp:locationCity dbo:locationCountry dbo:locationCountry}
+        ?USCo a dbo:Company ;
+            ?loc ?city .
+            ?city dbo:country dbr:United_States .
+    }
+    UNION {
+        VALUES ?langTag1 { "U.S."@en "U.S.A."@en "US"@en "USA"@en "United States"@en "United States of America"@en}
+        ?USCo a dbo:Company ;
+            dbp:locationCity ?city .
+        ?city dbp:subdivisionName ?langTag1 .
+    }
+    UNION {
+        VALUES ?langTag2 { "U.S."@en "U.S.A."@en "US"@en "USA"@en "United States"@en "United States of America"@en}
+        ?USCo a dbo:Company ;
+            dbp:hqLocationCountry ?langTag2 .
+   }
+   ?USCo rdfs:label ?name .
+   FILTER langMatches(lang(?name), "EN")
+}
+
+# US tech company
+SELECT DISTINCT ?usTechCo ?name WHERE {
+    ?usTechCo dct:subject/skos:broader+ dbc:Technology_companies_of_the_United_States .
+    ?usTechCo rdfs:label ?name .
+    FILTER langMatches(lang(?name), "EN")
+}

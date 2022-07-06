@@ -1,0 +1,326 @@
+﻿uri;european_countries;p_age;p_gender;p_education;p_country;p_id
+http://dbpedia.org/resource/Germany;germany;26;Male;Bachelor's degree;germany;0
+http://dbpedia.org/resource/France;france;26;Male;Bachelor's degree;germany;0
+http://dbpedia.org/resource/Italy;italy;26;Male;Bachelor's degree;germany;0
+http://dbpedia.org/resource/Germany;germany;44;Male;Doctorate (e.g. PhD);germany;1
+http://dbpedia.org/resource/France;france;44;Male;Doctorate (e.g. PhD);germany;1
+http://dbpedia.org/resource/Italy;italy;44;Male;Doctorate (e.g. PhD);germany;1
+http://dbpedia.org/resource/France;france;46;Male;Bachelor's degree;france;2
+http://dbpedia.org/resource/Germany;germany;46;Male;Bachelor's degree;france;2
+http://dbpedia.org/resource/Italy;italy;46;Male;Bachelor's degree;france;2
+http://dbpedia.org/resource/Germany;germany;28;Male;Master's degree;germany;3
+http://dbpedia.org/resource/France;france;28;Male;Master's degree;germany;3
+http://dbpedia.org/resource/United_Kingdom;united kingdom;28;Male;Master's degree;germany;3
+http://dbpedia.org/resource/Austria;austria;34;Female;Master's degree;switzerland;4
+http://dbpedia.org/resource/Germany;germany;34;Female;Master's degree;switzerland;4
+http://dbpedia.org/resource/France;france;34;Female;Master's degree;switzerland;4
+http://dbpedia.org/resource/Germany;germany;27;Male;Bachelor's degree;germany;5
+http://dbpedia.org/resource/France;france;27;Male;Bachelor's degree;germany;5
+http://dbpedia.org/resource/Spain;spain;27;Male;Bachelor's degree;germany;5
+http://dbpedia.org/resource/Germany;germany;27;Male;Master's degree;germany;6
+http://dbpedia.org/resource/Switzerland;switzerland;27;Male;Master's degree;germany;6
+http://dbpedia.org/resource/Denmark;denmark;27;Male;Master's degree;germany;6
+http://dbpedia.org/resource/Bulgaria;bulgaria;27;Male;Master's degree;germany;7
+http://dbpedia.org/resource/Poland;poland;27;Male;Master's degree;germany;7
+http://dbpedia.org/resource/Italy;italy;27;Male;Master's degree;germany;7
+http://dbpedia.org/resource/Germany;germany;28;Male;High school degree or equivalent;germany;8
+http://dbpedia.org/resource/Austria;austria;28;Male;High school degree or equivalent;germany;8
+http://dbpedia.org/resource/Switzerland;switzerland;28;Male;High school degree or equivalent;germany;8
+http://dbpedia.org/resource/Germany;germany;29;Male;Master's degree;germany;9
+http://dbpedia.org/resource/France;france;29;Male;Master's degree;germany;9
+http://dbpedia.org/resource/Spain;spain;29;Male;Master's degree;germany;9
+http://dbpedia.org/resource/Germany;germany;26;Male;Master's degree;germany;10
+http://dbpedia.org/resource/Switzerland;switzerland;26;Male;Master's degree;germany;10
+http://dbpedia.org/resource/Denmark;denmark;26;Male;Master's degree;germany;10
+http://dbpedia.org/resource/Monaco;monaco;37;Male;Master's degree;germany;11
+http://dbpedia.org/resource/Vatican_City;vatican city;37;Male;Master's degree;germany;11
+http://dbpedia.org/resource/Ukraine;ukraine;37;Male;Master's degree;germany;11
+http://dbpedia.org/resource/France;france;24;Male;Master's degree;germany;12
+http://dbpedia.org/resource/Germany;germany;24;Male;Master's degree;germany;12
+http://dbpedia.org/resource/Denmark;denmark;24;Male;Master's degree;germany;12
+http://dbpedia.org/resource/Germany;germany;26;Female;Master's degree;germany;13
+http://dbpedia.org/resource/France;france;26;Female;Master's degree;germany;13
+http://dbpedia.org/resource/Italy;italy;26;Female;Master's degree;germany;13
+http://dbpedia.org/resource/Germany;germany;26;Female;Master's degree;germany;14
+http://dbpedia.org/resource/Italy;italy;26;Female;Master's degree;germany;14
+http://dbpedia.org/resource/France;france;26;Female;Master's degree;germany;14
+http://dbpedia.org/resource/Germany;germany;28;Female;Doctorate (e.g. PhD);germany;15
+http://dbpedia.org/resource/France;france;28;Female;Doctorate (e.g. PhD);germany;15
+http://dbpedia.org/resource/Spain;spain;28;Female;Doctorate (e.g. PhD);germany;15
+http://dbpedia.org/resource/Italy;italy;25;Male;NaN;germany;16
+http://dbpedia.org/resource/Spain;spain;25;Male;NaN;germany;16
+http://dbpedia.org/resource/Belgium;belgium;25;Male;NaN;germany;16
+http://dbpedia.org/resource/Germany;germany;31;Female;Master's degree;germany;17
+http://dbpedia.org/resource/France;france;31;Female;Master's degree;germany;17
+http://dbpedia.org/resource/Italy;italy;31;Female;Master's degree;germany;17
+http://dbpedia.org/resource/Germany;germany;36;Male;Master's degree;germany;18
+http://dbpedia.org/resource/Austria;austria;36;Male;Master's degree;germany;18
+http://dbpedia.org/resource/Switzerland;switzerland;36;Male;Master's degree;germany;18
+http://dbpedia.org/resource/Germany;germany;27;Male;Master's degree;germany;19
+http://dbpedia.org/resource/Switzerland;switzerland;27;Male;Master's degree;germany;19
+http://dbpedia.org/resource/Ukraine;ukraine;27;Male;Master's degree;germany;19
+http://dbpedia.org/resource/Germany;germany;33;Male;Doctorate (e.g. PhD);germany;20
+http://dbpedia.org/resource/France;france;33;Male;Doctorate (e.g. PhD);germany;20
+http://dbpedia.org/resource/Italy;italy;33;Male;Doctorate (e.g. PhD);germany;20
+http://dbpedia.org/resource/France;france;26;Male;Bachelor's degree;usa;21
+http://dbpedia.org/resource/Germany;germany;26;Male;Bachelor's degree;usa;21
+http://dbpedia.org/resource/Denmark;denmark;26;Male;Bachelor's degree;usa;21
+http://dbpedia.org/resource/France;france;44;Female;Doctorate (e.g. PhD);sweden;22
+http://dbpedia.org/resource/Italy;italy;44;Female;Doctorate (e.g. PhD);sweden;22
+http://dbpedia.org/resource/Spain;spain;44;Female;Doctorate (e.g. PhD);sweden;22
+http://dbpedia.org/resource/Germany;germany;26;Male;Bachelor's degree;germany;23
+http://dbpedia.org/resource/France;france;26;Male;Bachelor's degree;germany;23
+http://dbpedia.org/resource/Poland;poland;26;Male;Bachelor's degree;germany;23
+http://dbpedia.org/resource/Germany;germany;27;Male;Bachelor's degree;nan;24
+http://dbpedia.org/resource/Germany;germany;23;Male;Bachelor's degree;germany;25
+http://dbpedia.org/resource/France;france;23;Male;Bachelor's degree;germany;25
+http://dbpedia.org/resource/Denmark;denmark;23;Male;Bachelor's degree;germany;25
+http://dbpedia.org/resource/Germany;germany;22;Male;Bachelor's degree;germany;26
+http://dbpedia.org/resource/France;france;22;Male;Bachelor's degree;germany;26
+http://dbpedia.org/resource/Spain;spain;22;Male;Bachelor's degree;germany;26
+http://dbpedia.org/resource/Germany;germany;25;Male;Bachelor's degree;germany;27
+http://dbpedia.org/resource/Spain;spain;25;Male;Bachelor's degree;germany;27
+http://dbpedia.org/resource/United_Kingdom;united kingdom;25;Male;Bachelor's degree;germany;27
+http://dbpedia.org/resource/Austria;austria;27;Male;Master's degree;germany;28
+http://dbpedia.org/resource/Iceland;iceland;27;Male;Master's degree;germany;28
+http://dbpedia.org/resource/Faroe_Islands;faroerislands;27;Male;Master's degree;germany;28
+http://dbpedia.org/resource/Norway;norway;30;Male;Bachelor's degree;usa;29
+http://dbpedia.org/resource/Denmark;denmark;30;Male;Bachelor's degree;usa;29
+http://dbpedia.org/resource/Sweden;sweden;30;Male;Bachelor's degree;usa;29
+http://dbpedia.org/resource/Netherlands;netherlands;28;Male;Master's degree;germany;30
+http://dbpedia.org/resource/Austria;austria;28;Male;Master's degree;germany;30
+http://dbpedia.org/resource/Italy;italy;28;Male;Master's degree;germany;30
+http://dbpedia.org/resource/France;france;38;Female;Doctorate (e.g. PhD);greece;31
+http://dbpedia.org/resource/Greece;greece;38;Female;Doctorate (e.g. PhD);greece;31
+http://dbpedia.org/resource/San_Marino;croatia;38;Female;Doctorate (e.g. PhD);greece;31
+http://dbpedia.org/resource/Germany;germany;28;Male;Master's degree;germany;32
+http://dbpedia.org/resource/France;france;28;Male;Master's degree;germany;32
+http://dbpedia.org/resource/Italy;italy;28;Male;Master's degree;germany;32
+http://dbpedia.org/resource/Germany;germany;26;Male;Bachelor's degree;germany;33
+http://dbpedia.org/resource/France;france;26;Male;Bachelor's degree;germany;33
+http://dbpedia.org/resource/Italy;italy;26;Male;Bachelor's degree;germany;33
+http://dbpedia.org/resource/Germany;germany;19;Male;High school degree or equivalent;germany;34
+http://dbpedia.org/resource/United_Kingdom;united kingdom;19;Male;High school degree or equivalent;germany;34
+http://dbpedia.org/resource/Austria;austria;19;Male;High school degree or equivalent;germany;34
+http://dbpedia.org/resource/San_Marino;san marino;25;Female;Bachelor's degree;germany;35
+http://dbpedia.org/resource/Ukraine;ukraine;25;Female;Bachelor's degree;germany;35
+http://dbpedia.org/resource/Spain;spain;25;Female;Bachelor's degree;germany;35
+http://dbpedia.org/resource/Germany;germany;24;Female;Master's degree;germany;36
+http://dbpedia.org/resource/Poland;poland;24;Female;Master's degree;germany;36
+http://dbpedia.org/resource/Sweden;sweden;24;Female;Master's degree;germany;36
+http://dbpedia.org/resource/Germany;germany;25;Male;Bachelor's degree;germany;37
+http://dbpedia.org/resource/Switzerland;switzerland;25;Male;Bachelor's degree;germany;37
+http://dbpedia.org/resource/Austria;austria;25;Male;Bachelor's degree;germany;37
+http://dbpedia.org/resource/Germany;germany;64;Male;Doctorate (e.g. PhD);austria;38
+http://dbpedia.org/resource/France;france;64;Male;Doctorate (e.g. PhD);austria;38
+http://dbpedia.org/resource/Italy;italy;64;Male;Doctorate (e.g. PhD);austria;38
+http://dbpedia.org/resource/Germany;germany;24;Male;Bachelor's degree;germany;39
+http://dbpedia.org/resource/Spain;spain;24;Male;Bachelor's degree;germany;39
+http://dbpedia.org/resource/France;france;24;Male;Bachelor's degree;germany;39
+http://dbpedia.org/resource/Germany;germany;31;Male;Bachelor's degree;germany;40
+http://dbpedia.org/resource/France;france;31;Male;Bachelor's degree;germany;40
+http://dbpedia.org/resource/Spain;spain;31;Male;Bachelor's degree;germany;40
+http://dbpedia.org/resource/France;france;25;Female;Bachelor's degree;germany;41
+http://dbpedia.org/resource/Germany;germany;25;Female;Bachelor's degree;germany;41
+http://dbpedia.org/resource/Spain;spain;25;Female;Bachelor's degree;germany;41
+http://dbpedia.org/resource/Italy;italy;28;Female;Bachelor's degree;germany;42
+http://dbpedia.org/resource/Greece;greece;28;Female;Bachelor's degree;germany;42
+http://dbpedia.org/resource/France;france;28;Female;Bachelor's degree;germany;42
+http://dbpedia.org/resource/Germany;germany;37;Female;Master's degree;germany;43
+http://dbpedia.org/resource/Ukraine;ukraine;37;Female;Master's degree;germany;43
+http://dbpedia.org/resource/United_Kingdom;united kingdom;37;Female;Master's degree;germany;43
+http://dbpedia.org/resource/Italy;italy;50;Female;High school degree or equivalent;germany;44
+http://dbpedia.org/resource/Germany;germany;50;Female;High school degree or equivalent;germany;44
+http://dbpedia.org/resource/France;france;50;Female;High school degree or equivalent;germany;44
+http://dbpedia.org/resource/Sweden;sweden;28;Female;High school degree or equivalent;germany;45
+http://dbpedia.org/resource/Spain;spain;28;Female;High school degree or equivalent;germany;45
+http://dbpedia.org/resource/France;france;28;Female;High school degree or equivalent;germany;45
+http://dbpedia.org/resource/Germany;germany;31;Male;Bachelor's degree;germany;46
+http://dbpedia.org/resource/France;france;31;Male;Bachelor's degree;germany;46
+http://dbpedia.org/resource/Netherlands;netherlands;31;Male;Bachelor's degree;germany;46
+http://dbpedia.org/resource/Germany;germany;21;Female;High school degree or equivalent;germany;47
+http://dbpedia.org/resource/Italy;italy;21;Female;High school degree or equivalent;germany;47
+http://dbpedia.org/resource/Sweden;sweden;21;Female;High school degree or equivalent;germany;47
+http://dbpedia.org/resource/Germany;germany;23;Female;Bachelor's degree;germany;48
+http://dbpedia.org/resource/Spain;spain;23;Female;Bachelor's degree;germany;48
+http://dbpedia.org/resource/Italy;italy;23;Female;Bachelor's degree;germany;48
+http://dbpedia.org/resource/Germany;germany;36;Male;Bachelor's degree;india;49
+http://dbpedia.org/resource/Switzerland;switzerland;36;Male;Bachelor's degree;india;49
+http://dbpedia.org/resource/Austria;austria;36;Male;Bachelor's degree;india;49
+http://dbpedia.org/resource/Germany;germany;28;Female;Master's degree;romania;50
+http://dbpedia.org/resource/France;france;28;Female;Master's degree;romania;50
+http://dbpedia.org/resource/Italy;italy;28;Female;Master's degree;romania;50
+http://dbpedia.org/resource/France;france;19;Female;High school degree or equivalent;germany;51
+http://dbpedia.org/resource/Spain;spain;19;Female;High school degree or equivalent;germany;51
+http://dbpedia.org/resource/United_Kingdom;united kingdom;19;Female;High school degree or equivalent;germany;51
+http://dbpedia.org/resource/Germany;germany;19;Female;High school degree or equivalent;germany;52
+http://dbpedia.org/resource/Ukraine;ukraine;19;Female;High school degree or equivalent;germany;52
+http://dbpedia.org/resource/Poland;poland;19;Female;High school degree or equivalent;germany;52
+http://dbpedia.org/resource/Germany;germany;25;Male;Bachelor's degree;germany;53
+http://dbpedia.org/resource/France;france;25;Male;Bachelor's degree;germany;53
+http://dbpedia.org/resource/Poland;poland;25;Male;Bachelor's degree;germany;53
+http://dbpedia.org/resource/France;france;34;Female;Master's degree;france;54
+http://dbpedia.org/resource/Germany;germany;34;Female;Master's degree;france;54
+http://dbpedia.org/resource/Romania;romania;34;Female;Master's degree;france;54
+http://dbpedia.org/resource/San_Marino;croatia;20;Female;High school degree or equivalent;germany;55
+http://dbpedia.org/resource/Slovenia;slovenia;20;Female;High school degree or equivalent;germany;55
+http://dbpedia.org/resource/Denmark;denmark;20;Female;High school degree or equivalent;germany;55
+http://dbpedia.org/resource/Italy;italy;26;Female;Master's degree;france;56
+http://dbpedia.org/resource/France;france;26;Female;Master's degree;france;56
+http://dbpedia.org/resource/Germany;germany;26;Female;Master's degree;france;56
+http://dbpedia.org/resource/Republic_of_Ireland;republic of ireland;29;Prefer not to say;Master's degree;germany;57
+http://dbpedia.org/resource/United_Kingdom;united kingdom;29;Prefer not to say;Master's degree;germany;57
+http://dbpedia.org/resource/United_Kingdom;united kingdom;29;Prefer not to say;Master's degree;germany;57
+http://dbpedia.org/resource/Germany;germany;31;Male;Master's degree;germany;58
+http://dbpedia.org/resource/France;france;31;Male;Master's degree;germany;58
+http://dbpedia.org/resource/Italy;italy;31;Male;Master's degree;germany;58
+http://dbpedia.org/resource/Germany;germany;23;Male;High school degree or equivalent;germany;59
+http://dbpedia.org/resource/Italy;italy;23;Male;High school degree or equivalent;germany;59
+http://dbpedia.org/resource/Switzerland;switzerland;23;Male;High school degree or equivalent;germany;59
+http://dbpedia.org/resource/Germany;germany;21;Female;High school degree or equivalent;germany;60
+http://dbpedia.org/resource/France;france;21;Female;High school degree or equivalent;germany;60
+http://dbpedia.org/resource/Italy;italy;21;Female;High school degree or equivalent;germany;60
+http://dbpedia.org/resource/France;france;54;Male;High school degree or equivalent;germany;61
+http://dbpedia.org/resource/Switzerland;switzerland;54;Male;High school degree or equivalent;germany;61
+http://dbpedia.org/resource/Sweden;sweden;54;Male;High school degree or equivalent;germany;61
+http://dbpedia.org/resource/France;france;30;Female;Master's degree;france;62
+http://dbpedia.org/resource/United_Kingdom;united kingdom;30;Female;Master's degree;france;62
+http://dbpedia.org/resource/Italy;italy;30;Female;Master's degree;france;62
+http://dbpedia.org/resource/Italy;italy;24;Male;Bachelor's degree;germany;63
+http://dbpedia.org/resource/France;france;24;Male;Bachelor's degree;germany;63
+http://dbpedia.org/resource/Poland;poland;24;Male;Bachelor's degree;germany;63
+http://dbpedia.org/resource/Germany;germany;17;Male;Less than a high school degree;germany;64
+http://dbpedia.org/resource/France;france;17;Male;Less than a high school degree;germany;64
+http://dbpedia.org/resource/Sweden;sweden;17;Male;Less than a high school degree;germany;64
+http://dbpedia.org/resource/Germany;germany;25;Female;High school degree or equivalent;germany;65
+http://dbpedia.org/resource/Netherlands;netherlands;25;Female;High school degree or equivalent;germany;65
+http://dbpedia.org/resource/Belgium;belgium;25;Female;High school degree or equivalent;germany;65
+http://dbpedia.org/resource/Germany;germany;16;Male;Less than a high school degree;germany;66
+http://dbpedia.org/resource/France;france;16;Male;Less than a high school degree;germany;66
+http://dbpedia.org/resource/Spain;spain;16;Male;Less than a high school degree;germany;66
+http://dbpedia.org/resource/Germany;germany;21;Male;High school degree or equivalent;germany;67
+http://dbpedia.org/resource/France;france;21;Male;High school degree or equivalent;germany;67
+http://dbpedia.org/resource/Austria;austria;21;Male;High school degree or equivalent;germany;67
+http://dbpedia.org/resource/Austria;austria;0;Prefer not to say;NaN;nan;68
+http://dbpedia.org/resource/France;france;0;Prefer not to say;NaN;nan;68
+http://dbpedia.org/resource/Spain;spain;0;Prefer not to say;NaN;nan;68
+http://dbpedia.org/resource/Switzerland;switzerland;24;Female;Master's degree;france;69
+http://dbpedia.org/resource/Ukraine;ukraine;24;Female;Master's degree;france;69
+http://dbpedia.org/resource/Luxembourg;luxembourg;24;Female;Master's degree;france;69
+http://dbpedia.org/resource/France;france;26;Female;Master's degree;france;70
+http://dbpedia.org/resource/Portugal;portugal;26;Female;Master's degree;france;70
+http://dbpedia.org/resource/Italy;italy;26;Female;Master's degree;france;70
+http://dbpedia.org/resource/Germany;germany;34;Female;Master's degree;germany;71
+http://dbpedia.org/resource/France;france;34;Female;Master's degree;germany;71
+http://dbpedia.org/resource/Belgium;belgium;34;Female;Master's degree;germany;71
+http://dbpedia.org/resource/Germany;germany;54;Male;Less than a high school degree;germany;72
+http://dbpedia.org/resource/Italy;italy;54;Male;Less than a high school degree;germany;72
+http://dbpedia.org/resource/France;france;54;Male;Less than a high school degree;germany;72
+http://dbpedia.org/resource/Germany;germany;23;Male;Bachelor's degree;germany;73
+http://dbpedia.org/resource/France;france;23;Male;Bachelor's degree;germany;73
+http://dbpedia.org/resource/Spain;spain;23;Male;Bachelor's degree;germany;73
+http://dbpedia.org/resource/Germany;germany;27;Male;Master's degree;germany;74
+http://dbpedia.org/resource/France;france;27;Male;Master's degree;germany;74
+http://dbpedia.org/resource/Spain;spain;27;Male;Master's degree;germany;74
+http://dbpedia.org/resource/Germany;germany;25;Male;Bachelor's degree;germany;75
+http://dbpedia.org/resource/France;france;25;Male;Bachelor's degree;germany;75
+http://dbpedia.org/resource/Italy;italy;25;Male;Bachelor's degree;germany;75
+http://dbpedia.org/resource/Italy;italy;27;Female;Master's degree;germany;76
+http://dbpedia.org/resource/France;france;27;Female;Master's degree;germany;76
+http://dbpedia.org/resource/Germany;germany;27;Female;Master's degree;germany;76
+http://dbpedia.org/resource/Germany;germany;51;Male;High school degree or equivalent;germany;77
+http://dbpedia.org/resource/France;france;51;Male;High school degree or equivalent;germany;77
+http://dbpedia.org/resource/Italy;italy;51;Male;High school degree or equivalent;germany;77
+http://dbpedia.org/resource/France;france;26;Male;High school degree or equivalent;germany;78
+http://dbpedia.org/resource/Denmark;denmark;26;Male;High school degree or equivalent;germany;78
+http://dbpedia.org/resource/Switzerland;switzerland;26;Male;High school degree or equivalent;germany;78
+http://dbpedia.org/resource/Germany;germany;27;Male;Bachelor's degree;germany;79
+http://dbpedia.org/resource/France;france;27;Male;Bachelor's degree;germany;79
+http://dbpedia.org/resource/United_Kingdom;united kingdom;27;Male;Bachelor's degree;germany;79
+http://dbpedia.org/resource/Germany;germany;25;Male;Master's degree;germany;80
+http://dbpedia.org/resource/France;france;25;Male;Master's degree;germany;80
+http://dbpedia.org/resource/Spain;spain;25;Male;Master's degree;germany;80
+http://dbpedia.org/resource/Spain;spain;25;Male;Bachelor's degree;germany;81
+http://dbpedia.org/resource/Poland;poland;25;Male;Bachelor's degree;germany;81
+http://dbpedia.org/resource/Sweden;sweden;25;Male;Bachelor's degree;germany;81
+http://dbpedia.org/resource/Norway;norway;21;Male;High school degree or equivalent;germany;82
+http://dbpedia.org/resource/Republic_of_Ireland;republic of ireland;21;Male;High school degree or equivalent;germany;82
+http://dbpedia.org/resource/Sweden;sweden;21;Male;High school degree or equivalent;germany;82
+http://dbpedia.org/resource/Germany;germany;23;Female;Bachelor's degree;germany;83
+http://dbpedia.org/resource/Italy;italy;23;Female;Bachelor's degree;germany;83
+http://dbpedia.org/resource/Spain;spain;23;Female;Bachelor's degree;germany;83
+http://dbpedia.org/resource/France;france;28;Female;Master's degree;germany;84
+http://dbpedia.org/resource/Germany;germany;28;Female;Master's degree;germany;84
+http://dbpedia.org/resource/Italy;italy;28;Female;Master's degree;germany;84
+http://dbpedia.org/resource/Sweden;sweden;25;Female;Master's degree;germany;85
+http://dbpedia.org/resource/Austria;austria;25;Female;Master's degree;germany;85
+http://dbpedia.org/resource/Portugal;portugal;25;Female;Master's degree;germany;85
+http://dbpedia.org/resource/Poland;poland;25;Female;Bachelor's degree;russia;86
+http://dbpedia.org/resource/Slovakia;slovakia;25;Female;Bachelor's degree;russia;86
+http://dbpedia.org/resource/France;france;25;Female;Bachelor's degree;russia;86
+http://dbpedia.org/resource/Germany;germany;24;Female;High school degree or equivalent;germany;87
+http://dbpedia.org/resource/Iceland;iceland;24;Female;High school degree or equivalent;germany;87
+http://dbpedia.org/resource/Norway;norway;24;Female;High school degree or equivalent;germany;87
+http://dbpedia.org/resource/Germany;germany;26;Male;Bachelor's degree;germany;88
+http://dbpedia.org/resource/Poland;poland;26;Male;Bachelor's degree;germany;88
+http://dbpedia.org/resource/Spain;spain;26;Male;Bachelor's degree;germany;88
+http://dbpedia.org/resource/Germany;germany;27;Female;Master's degree;germany;89
+http://dbpedia.org/resource/Spain;spain;27;Female;Master's degree;germany;89
+http://dbpedia.org/resource/France;france;27;Female;Master's degree;germany;89
+http://dbpedia.org/resource/Romania;romania;25;Male;Bachelor's degree;germany;90
+http://dbpedia.org/resource/Greece;greece;25;Male;Bachelor's degree;germany;90
+http://dbpedia.org/resource/Denmark;denmark;25;Male;Bachelor's degree;germany;90
+http://dbpedia.org/resource/Germany;germany;25;Male;High school degree or equivalent;germany;91
+http://dbpedia.org/resource/Spain;spain;25;Male;High school degree or equivalent;germany;91
+http://dbpedia.org/resource/France;france;25;Male;High school degree or equivalent;germany;91
+http://dbpedia.org/resource/Germany;germany;28;Male;High school degree or equivalent;germany;92
+http://dbpedia.org/resource/Poland;poland;28;Male;High school degree or equivalent;germany;92
+http://dbpedia.org/resource/Italy;italy;28;Male;High school degree or equivalent;germany;92
+http://dbpedia.org/resource/United_Kingdom;united kingdom;47;Female;Bachelor's degree;england;93
+http://dbpedia.org/resource/Spain;spain;47;Female;Bachelor's degree;england;93
+http://dbpedia.org/resource/Germany;germany;47;Female;Bachelor's degree;england;93
+http://dbpedia.org/resource/France;france;38;Male;Bachelor's degree;germany;94
+http://dbpedia.org/resource/Germany;germany;38;Male;Bachelor's degree;germany;94
+http://dbpedia.org/resource/Poland;poland;38;Male;Bachelor's degree;germany;94
+http://dbpedia.org/resource/Germany;germany;40;Female;Bachelor's degree;china;95
+http://dbpedia.org/resource/United_Kingdom;united kingdom;40;Female;Bachelor's degree;china;95
+http://dbpedia.org/resource/France;france;40;Female;Bachelor's degree;china;95
+http://dbpedia.org/resource/Germany;germany;28;Female;High school degree or equivalent;pakistan;96
+http://dbpedia.org/resource/Italy;italy;28;Female;High school degree or equivalent;pakistan;96
+http://dbpedia.org/resource/Spain;spain;28;Female;High school degree or equivalent;pakistan;96
+http://dbpedia.org/resource/Germany;germany;48;Female;Diplom;germany;97
+http://dbpedia.org/resource/France;france;48;Female;Diplom;germany;97
+http://dbpedia.org/resource/Austria;austria;48;Female;Diplom;germany;97
+http://dbpedia.org/resource/Iceland;iceland;26;Male;Less than a high school degree;germany;98
+http://dbpedia.org/resource/Sweden;sweden;26;Male;Less than a high school degree;germany;98
+http://dbpedia.org/resource/Portugal;portugal;26;Male;Less than a high school degree;germany;98
+http://dbpedia.org/resource/Germany;germany;26;Female;High school degree or equivalent;germany;99
+http://dbpedia.org/resource/Poland;poland;26;Female;High school degree or equivalent;germany;99
+http://dbpedia.org/resource/Spain;spain;26;Female;High school degree or equivalent;germany;99
+http://dbpedia.org/resource/United_Kingdom;united kingdom;45;Female;Bachelor's degree;usa;100
+http://dbpedia.org/resource/Germany;germany;45;Female;Bachelor's degree;usa;100
+http://dbpedia.org/resource/France;france;45;Female;Bachelor's degree;usa;100
+http://dbpedia.org/resource/Italy;italy;23;Female;Master's degree;england;101
+http://dbpedia.org/resource/Spain;spain;23;Female;Master's degree;england;101
+http://dbpedia.org/resource/France;france;23;Female;Master's degree;england;101
+http://dbpedia.org/resource/Italy;italy;26;Female;Bachelor's degree;germany;102
+http://dbpedia.org/resource/Spain;spain;26;Female;Bachelor's degree;germany;102
+http://dbpedia.org/resource/France;france;26;Female;Bachelor's degree;germany;102
+http://dbpedia.org/resource/Germany;germany;70;Female;Dipl.-Ing.;germany;103
+http://dbpedia.org/resource/Spain;spain;70;Female;Dipl.-Ing.;germany;103
+http://dbpedia.org/resource/Italy;italy;70;Female;Dipl.-Ing.;germany;103
+http://dbpedia.org/resource/Republic_of_Ireland;republic of ireland;33;Female;Master's degree;iran;104
+http://dbpedia.org/resource/United_Kingdom;united kingdom;33;Female;Master's degree;iran;104
+http://dbpedia.org/resource/Germany;germany;33;Female;Master's degree;iran;104
+http://dbpedia.org/resource/France;france;59;Male;Doctorate (e.g. PhD);germany;105
+http://dbpedia.org/resource/Germany;germany;59;Male;Doctorate (e.g. PhD);germany;105
+http://dbpedia.org/resource/Italy;italy;59;Male;Doctorate (e.g. PhD);germany;105
+http://dbpedia.org/resource/Malta;malta;47;Female;Doctorate (e.g. PhD);germany;106
+http://dbpedia.org/resource/France;france;47;Female;Doctorate (e.g. PhD);germany;106
+http://dbpedia.org/resource/Germany;germany;47;Female;Doctorate (e.g. PhD);germany;106
+http://dbpedia.org/resource/Germany;germany;50;Female;Doctorate (e.g. PhD);germany;107
+http://dbpedia.org/resource/Denmark;denmark;50;Female;Doctorate (e.g. PhD);germany;107
+http://dbpedia.org/resource/Poland;poland;50;Female;Doctorate (e.g. PhD);germany;107
+http://dbpedia.org/resource/Lithuania;lithuania;45;Female;Doctorate (e.g. PhD);germany;108
+http://dbpedia.org/resource/Germany;germany;45;Female;Doctorate (e.g. PhD);germany;108
+http://dbpedia.org/resource/Sweden;sweden;45;Female;Doctorate (e.g. PhD);germany;108

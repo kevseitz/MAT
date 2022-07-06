@@ -86,7 +86,7 @@ http://dbpedia.org/resource/Richard_Nixon;dixon;27;Male;Master's degree;Germany;
 http://dbpedia.org/resource/Abraham_Lincoln;lincoln;27;Male;Master's degree;Germany;28
 http://dbpedia.org/resource/Abraham_Lincoln;abrahamlincoln;30;Male;Bachelor's degree;USA;29
 http://dbpedia.org/resource/John_F._Kennedy;jfk;30;Male;Bachelor's degree;USA;29
-http://dbpedia.org/resource/Alexander_Hamilton;tylerhamilton;30;Male;Bachelor's degree;USA;29
+;tylerhamilton;30;Male;Bachelor's degree;USA;29
 http://dbpedia.org/resource/Donald_Trump;trump;28;Male;Master's degree;Germany;30
 http://dbpedia.org/resource/Barack_Obama;obama;28;Male;Master's degree;Germany;30
 http://dbpedia.org/resource/John_F._Kennedy;johnf.kennedy;28;Male;Master's degree;Germany;30
@@ -135,7 +135,7 @@ http://dbpedia.org/resource/Joe_Biden;joebiden;50;Female;High school degree or e
 http://dbpedia.org/resource/Donald_Trump;donaldtrump;28;Female;High school degree or equivalent;Germany;45
 http://dbpedia.org/resource/Barack_Obama;barackobama;28;Female;High school degree or equivalent;Germany;45
 http://dbpedia.org/resource/George_W._Bush;georgew.bush;28;Female;High school degree or equivalent;Germany;45
-https://dbpedia.org/resource/George_H._W._Bush;bushsr;31;Male;Bachelor's degree;Germany;46
+http://dbpedia.org/resource/George_H._W._Bush;bushsr;31;Male;Bachelor's degree;Germany;46
 http://dbpedia.org/resource/George_W._Bush;bushjr;31;Male;Bachelor's degree;Germany;46
 http://dbpedia.org/resource/Barack_Obama;obama;31;Male;Bachelor's degree;Germany;46
 http://dbpedia.org/resource/Barack_Obama;obama;21;Female;High school degree or equivalent;Germany;47
@@ -227,7 +227,7 @@ http://dbpedia.org/resource/Joe_Biden;biden;27;Female;Master's degree;Germany;76
 http://dbpedia.org/resource/Donald_Trump;trump;27;Female;Master's degree;Germany;76
 http://dbpedia.org/resource/Barack_Obama;obama;27;Female;Master's degree;Germany;76
 http://dbpedia.org/resource/Ronald_Reagan;reagan;51;Male;High school degree or equivalent;Germany;77
-https://dbpedia.org/resource/George_H._W._Bush;g.h.bush;51;Male;High school degree or equivalent;Germany;77
+http://dbpedia.org/resource/George_H._W._Bush;g.h.bush;51;Male;High school degree or equivalent;Germany;77
 http://dbpedia.org/resource/George_W._Bush;g.w.bush;51;Male;High school degree or equivalent;Germany;77
 http://dbpedia.org/resource/Barack_Obama;obama;26;Male;High school degree or equivalent;Germany;78
 http://dbpedia.org/resource/Bill_Clinton;clinton;26;Male;High school degree or equivalent;Germany;78

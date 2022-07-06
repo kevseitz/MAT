@@ -16,3 +16,5 @@ data/DBpedia_databus/mappingbased-objects_instance-types.ttl
 data/df_pr.csv
 data/DBpedia_databus/.mappingbased-objects_instance-types.ttl.icloud
 data/.df_pr.csv.icloud
+data/survey_single_cat_files/sv_prep_uri/sv_single_cat_prep.xlsx
+data/survey_single_cat_files/sv_prep_uri/~$sv_single_cat_prep.xlsx
