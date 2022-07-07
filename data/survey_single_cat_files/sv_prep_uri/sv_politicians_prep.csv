@@ -1,0 +1,321 @@
+politicians;p_age;p_gender;p_education;p_country;p_id;uri
+barack obama;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Barack_Obama
+olaf scholz;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Olaf_Scholz
+robert habeck;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Robert_Habeck
+angela merkel;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Angela_Merkel
+joe biden;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Joe_Biden
+george w. bush;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/George_W._Bush
+jean luc mélenchon;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Jean-Luc_Mélenchon
+raphaël correa;46;Male;Bachelor's degree;France;2;NaN
+gabriel boric;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Gabriel_Boric
+robert habeck;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Robert_Habeck
+olaf scholz;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Olaf_Scholz
+martin schulz;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Martin_Schulz
+merkel;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Angela_Merkel
+obama;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Barack_Obama
+biden;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Joe_Biden
+angela merkel;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Angela_Merkel
+emanuel macron;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Emmanuel_Macron
+olaf scholz;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Olaf_Scholz
+angela merkel;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Angela_Merkel
+boris johnson;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Boris_Johnson
+arnold schwarzenegger;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Arnold_Schwarzenegger
+merkel;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Angela_Merkel
+clinton;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Bill_Clinton
+putin;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Vladimir_Putin
+olaf scholz;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Olaf_Scholz
+vladimir putin;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Vladimir_Putin
+ursula von der leyen;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Ursula_von_der_Leyen
+wladimir putin;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Vladimir_Putin
+marcus tullius cicero;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Cicero
+angela merkel;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Angela_Merkel
+merkel;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Angela_Merkel
+obama;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Barack_Obama
+johnson;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Boris_Johnson
+kohl;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Helmut_Kohl
+merkel;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Angela_Merkel
+stroebel;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Duey_Stroebel
+angela merkel;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Angela_Merkel
+donald trump;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Donald_Trump
+joe biden;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Joe_Biden
+olaf scholz;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Olaf_Scholz
+annalena baerbock;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Annalena_Baerbock
+christian lindner;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Christian_Lindner
+merkel;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Angela_Merkel
+putin;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Vladimir_Putin
+biden;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Joe_Biden
+merkel;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Angela_Merkel
+söder;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Markus_Söder
+scholz;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Michael_Scholz
+angela merkel;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Angela_Merkel
+joschka fischer;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Joschka_Fischer
+wilfried martens;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Wilfried_Martens
+angela merkel;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Angela_Merkel
+olaf scholz;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Olaf_Scholz
+claudia roth;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Claudia_Roth
+merkel;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Angela_Merkel
+clinton;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Bill_Clinton
+scholz;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Michael_Scholz
+angela merkel;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Angela_Merkel
+wladimir putin;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Vladimir_Putin
+boris johnson;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Boris_Johnson
+merkel;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Angela_Merkel
+scholz;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Michael_Scholz
+söder;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Markus_Söder
+boris johnson;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Boris_Johnson
+vladimir putin;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Vladimir_Putin
+olaf schulz;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Olaf_Scholz
+merkel;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Angela_Merkel
+macron;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Emmanuel_Macron
+putin;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Vladimir_Putin
+christian lindner;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Christian_Lindner
+karl lauterbach;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Karl_Lauterbach
+olaf scholz;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Olaf_Scholz
+angela merkel;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Angela_Merkel
+olaf scholz;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Olaf_Scholz
+emmanuel macron;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Emmanuel_Macron
+joe biden;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Joe_Biden
+merkel;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Angela_Merkel
+özdemir;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Berat_Özdemir
+scholz;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Michael_Scholz
+angela merkel;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Angela_Merkel
+barack obama;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Barack_Obama
+volker bouffier;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Volker_Bouffier
+gysi;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Gregor_Gysi
+baerbock;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Annalena_Baerbock
+schwesig;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Manuela_Schwesig
+rudy giuliani;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Rudy_Giuliani
+ruth bader ginsburg;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Ruth_Bader_Ginsburg
+newt gingrich;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Newt_Gingrich
+merkel;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Angela_Merkel
+baerbock;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Annalena_Baerbock
+özdemir;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Berat_Özdemir
+barack obama;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Barack_Obama
+emanuel macron;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Emmanuel_Macron
+boris johnson;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Boris_Johnson
+biden;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Joe_Biden
+trump;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Donald_Trump
+obama;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Barack_Obama
+christian lindner;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Christian_Lindner
+dorothee bär;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Dorothee_Bär
+wolfgang kubicki;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Wolfgang_Kubicki
+bismarck;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Bismarck,_North_Dakota
+adenauer;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Konrad_Adenauer
+kohl;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Helmut_Kohl
+merkel;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Angela_Merkel
+putin;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Vladimir_Putin
+clinton;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Bill_Clinton
+angela merkel;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Angela_Merkel
+putin;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Vladimir_Putin
+wagenknecht;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Sahra_Wagenknecht
+angela merkel;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Angela_Merkel
+markus söder;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Markus_Söder
+xi jinping;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Xi_Jinping
+brandt;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Johann_Friedrich_von_Brandt
+wehner;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Joseph_Frank_Wehner
+helmut schmidt;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Helmut_Schmidt
+olaf scholz;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Olaf_Scholz
+joe biden;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Joe_Biden
+wladimir putin;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Vladimir_Putin
+merkel;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Angela_Merkel
+trump;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Donald_Trump
+putin;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Vladimir_Putin
+biden;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Joe_Biden
+harris;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Calvin_Harris
+putin;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Vladimir_Putin
+angela merkel;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Angela_Merkel
+al gore;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Al_Gore
+barack obama;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Barack_Obama
+schröder;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Gerhard_Schröder
+kohl;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Helmut_Kohl
+merkel;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Angela_Merkel
+angela merkel;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Angela_Merkel
+hillary clinton;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Hillary_Clinton
+wolodymyr selenskj;50;Female;High school degree or equivalent;Germany;44;NaN
+gerhard schröder;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Gerhard_Schröder
+emanuel macron;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Emmanuel_Macron
+annalena baerbock;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Annalena_Baerbock
+angela merkel;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Angela_Merkel
+helmut kohl;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Helmut_Kohl
+helmut schmidt;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Helmut_Schmidt
+lindner;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Christian_Lindner
+scholz;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Michael_Scholz
+baerbock;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Annalena_Baerbock
+merkel;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Angela_Merkel
+baerbock;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Annalena_Baerbock
+scholz;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Michael_Scholz
+angela merkel;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Angela_Merkel
+narendra modi;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Narendra_Modi
+barack obama;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Barack_Obama
+angela merkel;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Angela_Merkel
+barack obama;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Barack_Obama
+emmanuel macron;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Emmanuel_Macron
+wladimir putin;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Vladimir_Putin
+angela merkel;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Angela_Merkel
+sahra wagenknecht;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Sahra_Wagenknecht
+vladimir putin;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Vladimir_Putin
+angela merkel;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Angela_Merkel
+olaf scholz;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Olaf_Scholz
+scholz;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Michael_Scholz
+wagenknecht;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Sahra_Wagenknecht
+habeck;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Michael_Habeck
+sarkozy;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Nicolas_Sarkozy
+hillary clinton;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Hillary_Clinton
+sadi khan;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Sadiq_Khan
+merkel;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Angela_Merkel
+j.f. kennedy;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/John_F._Kennedy
+boris johnson;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Boris_Johnson
+biden;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Joe_Biden
+trump;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Donald_Trump
+poutine;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Poutine
+eisenhower;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Dwight_D._Eisenhower
+roosevelt;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Franklin_D._Roosevelt
+clinton;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Bill_Clinton
+donald trump;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Donald_Trump
+angela merkel;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Angela_Merkel
+wladimir putin;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Vladimir_Putin
+putin;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Vladimir_Putin
+scholz;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Michael_Scholz
+baerbock;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Annalena_Baerbock
+angela merkel;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Angela_Merkel
+olaf scholz;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Olaf_Scholz
+joe biden;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Joe_Biden
+angela merkel;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Angela_Merkel
+joe biden;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Joe_Biden
+boris johnson;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Boris_Johnson
+macron;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Emmanuel_Macron
+poutine;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Poutine
+biden;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Joe_Biden
+mandela;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Nelson_Mandela
+merkel;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Angela_Merkel
+brandt;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Johann_Friedrich_von_Brandt
+olaf scholz;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Olaf_Scholz
+martin sonneborn;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Martin_Sonneborn
+martin plum;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Joseph_Plumb_Martin
+obama;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Barack_Obama
+putin;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Vladimir_Putin
+kim jong un;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Kim_Jong-un
+olaf scholz;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Olaf_Scholz
+joe biden;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Joe_Biden
+donald trump;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Donald_Trump
+putin;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Vladimir_Putin
+merkel;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Angela_Merkel
+scholz;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Michael_Scholz
+steinmeier;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Frank-Walter_Steinmeier
+joe biden;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Joe_Biden
+nicolas sarkozy;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Nicolas_Sarkozy
+valerie pecresse;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Valérie_Pécresse
+merkel;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Angela_Merkel
+biden;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Joe_Biden
+macron;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Emmanuel_Macron
+angela merkel;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Angela_Merkel
+barack obama;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Barack_Obama
+winston churchill;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Winston_Churchill
+kohl;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Helmut_Kohl
+schröder;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Gerhard_Schröder
+merkel;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Angela_Merkel
+barack obama;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Barack_Obama
+olaf scholz;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Olaf_Scholz
+angela merkel;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Angela_Merkel
+putin;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Vladimir_Putin
+scholz;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Michael_Scholz
+macron;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Emmanuel_Macron
+angela merkel;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Angela_Merkel
+olaf scholz;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Olaf_Scholz
+annalena baerbock;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Annalena_Baerbock
+joe biden;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Joe_Biden
+olaf scholz;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Olaf_Scholz
+annalena baerbock;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Annalena_Baerbock
+scholz;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Michael_Scholz
+putin;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Vladimir_Putin
+macron;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Emmanuel_Macron
+merkel;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Angela_Merkel
+schröder;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Gerhard_Schröder
+obama;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Barack_Obama
+merkel;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Angela_Merkel
+scholz;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Michael_Scholz
+lindner;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Christian_Lindner
+schröder;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Gerhard_Schröder
+trump;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Donald_Trump
+bush;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/George_W._Bush
+christian lindner;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Christian_Lindner
+gerhard schröder;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Gerhard_Schröder
+wladimir putin;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Vladimir_Putin
+joe biden;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Joe_Biden
+olaf scholz;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Olaf_Scholz
+annalena baerbock;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Annalena_Baerbock
+angela merkel;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Angela_Merkel
+jens spahn;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Jens_Spahn
+phillip amthor;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Philipp_Amthor
+merkel;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Angela_Merkel
+schröder;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Gerhard_Schröder
+obama;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Barack_Obama
+christian lindner;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Christian_Lindner
+nelson mandela;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Nelson_Mandela
+angela merkel;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Angela_Merkel
+emmanuel macron;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Emmanuel_Macron
+merkel;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Angela_Merkel
+scholz;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Michael_Scholz
+lauterbach;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Lauterbach,_Baden-Württemberg
+olaf scholz;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Olaf_Scholz
+norbert röttgen;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Norbert_Röttgen
+donald trump;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Donald_Trump
+scholz;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Michael_Scholz
+habeck;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Michael_Habeck
+von der leyen;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Ursula_von_der_Leyen
+colin powell;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Colin_Powell
+joseph biden;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Joe_Biden
+sarah wagenknecht;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Sahra_Wagenknecht
+angela merkel;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Angela_Merkel
+cem özdemir;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Cem_Özdemir
+frank walter steinmeier;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Frank-Walter_Steinmeier
+olaf scholz;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Olaf_Scholz
+vladimir putin;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Vladimir_Putin
+wolodymyr selenskyj;28;Male;High school degree or equivalent;Germany;92;NaN
+boris johnson;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Boris_Johnson
+barack obama;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Barack_Obama
+vladimir putin;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Vladimir_Putin
+angela merkel;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Angela_Merkel
+donald trump;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Donald_Trump
+kim jong un;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Kim_Jong-un
+trump;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Donald_Trump
+obama;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Barack_Obama
+clinton;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Bill_Clinton
+putin;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Vladimir_Putin
+bush;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/George_W._Bush
+trump;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Donald_Trump
+merkel;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Angela_Merkel
+putin;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Vladimir_Putin
+biden;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Joe_Biden
+barack obama;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Barack_Obama
+angela merkel;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Angela_Merkel
+nelson mandela;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Nelson_Mandela
+merkel;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Angela_Merkel
+obama;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Barack_Obama
+hitler;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Adolf_Hitler
+joe biden;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Joe_Biden
+barrack obama;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Barack_Obama
+hilary clinton;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Hillary_Clinton
+borris johnson;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Boris_Johnson
+theresa may;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Theresa_May
+tony blair;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Tony_Blair
+gerhard schröder;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Gerhard_Schröder
+angela merkel;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Angela_Merkel
+caesar;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Julius_Caesar
+napoleon;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Napoleon
+putin;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Vladimir_Putin
+bernard sanders;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Bernie_Sanders
+angela merkel;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Angela_Merkel
+boris johnson;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Boris_Johnson
+boris johnson;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Boris_Johnson
+angela merkel;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Angela_Merkel
+madeleine albright;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Madeleine_Albright
+angla merkel;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Angela_Merkel
+joe biden;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Joe_Biden
+wladimir putin;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Vladimir_Putin
+annalena baerbock;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Annalena_Baerbock
+wladimir putin;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Vladimir_Putin
+olaf scholz;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Olaf_Scholz
+roosevelt;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Franklin_D._Roosevelt
+churchill;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Winston_Churchill
+bismarck;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Bismarck,_North_Dakota

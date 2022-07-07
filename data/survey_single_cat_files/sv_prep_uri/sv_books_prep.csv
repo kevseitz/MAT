@@ -1,0 +1,308 @@
+books;p_age;p_gender;p_education;p_country;p_id;uri
+dune;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Dune_(franchise)
+how democracies die;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/How_Democracies_Die
+harry potter;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Harry_Potter
+hamlet;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Hamlet_(place)
+faust;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Los_Angeles_Kings
+werther;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/The_Sorrows_of_Young_Werther
+hyperion;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Hyperion_Cantos
+harry potter;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Harry_Potter
+game of thrones;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Game_of_Thrones
+illuminati;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Illuminati
+das kapital;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Das_Kapital
+the prisoner;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Prisoner-of-war_camp
+idiot;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Idiot
+noisy bear;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Animal_Collective
+being and time;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Being_and_Time
+artemis fowl;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/List_of_Artemis_Fowl_characters
+harry potter and the philisophers stone;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Harry_Potter_and_the_Philosopher's_Stone
+dune;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Dune_(franchise)
+unterleuten;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Strehla
+vernichtung;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Finale_der_Vernichtung
+lord of the flies;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Lord_of_the_Flies
+kleider machen leute;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Kleider_machen_Leute
+bibel;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Zürich_Bible
+meine spielzüge;27;Male;Master's degree;Germany;7;NaN
+souverän investieren mit etfs;28;Male;High school degree or equivalent;Germany;8;NaN
+der herr der ringe;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Der_Herr_der_Ringe
+1984;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Dallas_Sidekicks_(1984–2004)
+1984;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Dallas_Sidekicks_(1984–2004)
+harry potter and the philosophers stone;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Harry_Potter_and_the_Philosopher's_Stone
+lord of the rings;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/The_Lord_of_the_Rings
+the bible;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Bible
+1984;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Dallas_Sidekicks_(1984–2004)
+zauberberg;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Zauberberg_(ski_area)
+faust;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Los_Angeles_Kings
+krabat;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Krabat_–_The_Sorcerer's_Apprentice
+homo deus;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Homo_Deus:_A_Brief_History_of_Tomorrow
+die kunst zu lieben;24;Male;Master's degree;Germany;12;NaN
+frederick;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Frederick,_Maryland
+lord of the rings;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/The_Lord_of_the_Rings
+harry potter;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Harry_Potter
+rubinrot;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Paulina_Rubio
+the girl with the dragon tattoo;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/The_Girl_with_the_Dragon_Tattoo
+deacon king kong;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Far_East_Consortium
+the vanishing half;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/The_Vanishing_of_Sidney_Hall
+die therapie;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/OMICS_Publishing_Group
+hannes;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Hannes_Þór_Halldórsson
+ein ganzes halbes jahr;28;Female;Doctorate (e.g. PhD);Germany;15;NaN
+leaders eat last;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Simon_Sinek
+the why are you here cafe;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Secrets_(Toni_Braxton_album)
+start with why;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Start_With_Why
+harry potter and the goblet of fire;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Harry_Potter_and_the_Goblet_of_Fire
+to kill a mockingbird;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/To_Kill_a_Mockingbird
+the importance of being earnest;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/The_Importance_of_Being_Earnest
+the hobbit;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/The_Hobbit_(film_series)
+the swarm;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Swarm_behaviour
+50 shades of grey;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Fifty_Shades_of_Grey
+siddharta;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Siddharth_Ashvin_Shah
+harry potter;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Harry_Potter
+lord of the rings;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/The_Lord_of_the_Rings
+kill your friends;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Kill_Your_Friends
+slaughterhouse 5;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Slaughterhouse-Five
+a wrinkle in time;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/A_Wrinkle_in_Time
+in the blink of an eye;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/In_the_Blink_of_an_Eye
+nan;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Hunan
+rich dad poor dad;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Rich_Dad_Poor_Dad
+billy summers;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Bill_Summers_(musician)
+playlist;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Accept_(band)
+das café am rande der welt;27;Male;Bachelor's degree;NaN;24;NaN
+der pfad des friedvollen kriegers;27;Male;Bachelor's degree;NaN;24;NaN
+;27;Male;Bachelor's degree;NaN;24;NaN
+factfulness;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Factfulness:_Ten_Reasons_We're_Wrong_About_the_World_–_and_Why_Things_Are_Better_Than_You_Think
+the autobiography of malcom x;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/The_Autobiography_of_Malcolm_X
+freakonomics;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Freakonomics
+nan;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Hunan
+tom clancy´s rainbow six;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Tom_Clancy's_Rainbow_Six_3:_Raven_Shield
+harry potter;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Harry_Potter
+it;25;Male;Bachelor's degree;Germany;27;NaN
+winning ugly;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Ennio_Morricone
+how democracies die;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/How_Democracies_Die
+rafa;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Battle_of_Rafa
+my side of the mountain;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/My_Side_of_the_Mountain
+harry potter;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Harry_Potter
+haben und sein;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Gottfried_Vopelius
+harry potter;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Harry_Potter
+herr der ringe;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Der_Herr_der_Ringe
+metamorphosis;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Metamorphosis
+anarchy’s brief summer;38;Female;Doctorate (e.g. PhD);Greece;31;NaN
+the dispossessed;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/The_Dispossessed
+harry potter;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Harry_Potter
+it;28;Male;Master's degree;Germany;32;NaN
+sidartha;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Siddhartha
+the art of war;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/American_Revolutionary_War
+the illustrated man;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Illustrated_Man_(band)
+the old man and the sea;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/The_Old_Man_and_the_Sea
+harry potter;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Harry_Potter
+die geheime benediktgesellschaft;19;Male;High school degree or equivalent;Germany;34;NaN
+greg’s tagebuch;19;Male;High school degree or equivalent;Germany;34;NaN
+flowers for algernon;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Flowers_for_Algernon
+1984;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Dallas_Sidekicks_(1984–2004)
+brave new world;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Brave_New_World
+1913;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Parma_Calcio_1913
+dienstags bei murrie;24;Female;Master's degree;Germany;36;NaN
+1984;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Dallas_Sidekicks_(1984–2004)
+harry potter;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Harry_Potter
+krieg und frieden;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Krieg_und_Frieden_(Music_for_Theatre)
+papillon;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Papillon–Lefèvre_syndrome
+100 jahre einsamkeit;64;Male;Doctorate (e.g. PhD);Austria;38;NaN
+die bibel;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/The_Holy_Bible_(album)
+harry potter and the philosophers stone;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Harry_Potter_and_the_Philosopher's_Stone
+lord of the rings;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/The_Lord_of_the_Rings
+sapiens: a brief history of humankind;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Sapiens:_A_Brief_History_of_Humankind
+achtsam morden;31;Male;Bachelor's degree;Germany;40;NaN
+harry potter;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Harry_Potter
+herr der ringe;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Der_Herr_der_Ringe
+harry potter;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Harry_Potter
+twilight;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/The_Legend_of_Zelda:_Twilight_Princess
+da vinci code;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/The_Da_Vinci_Code
+die verlorenen;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/The_Tragedy_of_a_Lost_Soul
+das kunstseidene maedchen;28;Female;Bachelor's degree;Germany;42;NaN
+zivilcourage;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Toleranzpreis_der_Evangelischen_Akademie_Tutzing
+harry potter;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Harry_Potter
+it;37;Female;Master's degree;Germany;43;NaN
+the lord of the rings;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/The_Lord_of_the_Rings
+outlander;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/List_of_Outlander_episodes
+it;50;Female;High school degree or equivalent;Germany;44;NaN
+harry potter;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Harry_Potter
+little life;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/List_of_mainline_My_Little_Pony_ponies
+narziss and goldmund;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Narcissus_and_Goldmund
+normal people;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/The_War_on_Normal_People
+the hobbit;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/The_Hobbit_(film_series)
+krabat;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Krabat_–_The_Sorcerer's_Apprentice
+romeo and juliet;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Romeo_and_Juliet
+die geschichte der bienen;21;Female;High school degree or equivalent;Germany;47;NaN
+harry potter;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Harry_Potter
+cafe am rande der welt;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Beecraigs
+nan;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Hunan
+the lord of the rings;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/The_Lord_of_the_Rings
+da vinci code;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/The_Da_Vinci_Code
+time travelers wife;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/The_Time_Traveler's_Wife
+1984;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Dallas_Sidekicks_(1984–2004)
+pride and prejudice;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Pride_and_Prejudice
+the girl with the dragon tattoo;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/The_Girl_with_the_Dragon_Tattoo
+pride and prejudice;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Pride_and_Prejudice
+emma;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Emma_Thompson
+five feet apart;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Five_Feet_Apart
+krieg und frieden;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Krieg_und_Frieden_(Music_for_Theatre)
+how to kill a mockingbird;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/To_Kill_a_Mockingbird
+stolz und vorurteil;19;Female;High school degree or equivalent;Germany;52;NaN
+nan;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Hunan
+piranesi;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Giovanni_Battista_Piranesi
+count of monte christo;34;Female;Master's degree;France;54;http://dbpedia.org/resource/The_Count_of_Monte_Cristo
+were are all besides ourselves;34;Female;Master's degree;France;54;NaN
+das magische baumhaus;20;Female;High school degree or equivalent;Germany;55;NaN
+bibel;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Zürich_Bible
+der ursprung der welt;20;Female;High school degree or equivalent;Germany;55;NaN
+bel ami;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Bel-Ami
+notre dame de paris;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Notre-Dame_de_Paris
+a la recherche du temps perdu;26;Female;Master's degree;France;56;http://dbpedia.org/resource/In_Search_of_Lost_Time
+principia mathematica;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Philosophiæ_Naturalis_Principia_Mathematica
+nett sein ist auch keine lösung;29;Prefer not to say;Master's degree;Germany;57;NaN
+mein kampf;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Mein_Kampf
+12 rules for life;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/12_Rules_for_Life
+crime and punishment;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Capital_punishment
+harry potter and the philosophers stone;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Harry_Potter_and_the_Philosopher's_Stone
+the witcher;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/The_Witcher
+lila lila;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Lila_Lee
+unverschwunden;23;Male;High school degree or equivalent;Germany;59;NaN
+the cafe on the edge of the world;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Pokémon_Ruby_and_Sapphire
+becoming;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/British_nationality_law
+the child in you;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Child_Rights_and_You
+the pillars of earth;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/The_Pillars_of_the_Earth
+star wars episode 1 the phantom of menace;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+the fabulous destiny of amélie;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Amélie
+war & peace;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Crimean_War
+kafka on the shore;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Kafka_on_the_Shore
+pride & prejudice;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Pride_and_Prejudice
+harry potter;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Harry_Potter
+the capital;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/London
+the trial;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Lawyer
+the holy bible;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Bible
+lord of the rings;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/The_Lord_of_the_Rings
+the communistic manifest;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/The_Communist_Manifesto
+verblendung;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Mid-Germany_Railway
+vergebung;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/The_Curse_of_Vererbung
+verdammnis;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Stanser_Verkommnis
+how to avoid a climate change;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Avoiding_Dangerous_Climate_Change_(2005_conference)
+a promised land;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Promised_Land_(disambiguation)
+rich dad poor dad;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Rich_Dad_Poor_Dad
+das kapital;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Das_Kapital
+harry potter;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Harry_Potter
+blackout;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Blackout
+the swarm;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Swarm_behaviour
+the bible;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Bible
+les misérables;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Les_Misérables
+devenir;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Go_Ahead_Eagles
+songe d’une nuit d’été;24;Female;Master's degree;France;69;NaN
+gone with the wind;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Gone_with_the_Wind_(film)
+lord of the rings;26;Female;Master's degree;France;70;http://dbpedia.org/resource/The_Lord_of_the_Rings
+pillars of the earth;26;Female;Master's degree;France;70;http://dbpedia.org/resource/The_Pillars_of_the_Earth
+bibel;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Zürich_Bible
+koran;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Korean_War
+harry pitter;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Jan_Peter_Balkenende
+nan;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Hunan
+exponential;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Exponential_function
+prisoners of geography;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Prisoners_of_Geography
+enders game;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Ender's_Game_(novel_series)
+aurora;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Aurora,_Illinois
+snow crash;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Snow_Crash
+the midnight library;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Midnight_Library
+percy jackson;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Percy_Jackson_&_the_Olympians
+bible;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Bible
+catcher in the rye;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/The_Catcher_in_the_Rye
+lord of the flies;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Lord_of_the_Flies
+shinig;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Shania_Twain
+the stand;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/City
+a brief history of time;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/A_Brief_History_of_Time
+friedhof der kuscheltiere;26;Male;High school degree or equivalent;Germany;78;NaN
+fluggast 7a;26;Male;High school degree or equivalent;Germany;78;NaN
+es;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Spain
+harry potter;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Harry_Potter
+lord of the rings;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/The_Lord_of_the_Rings
+the bible;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Bible
+harry potter;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Harry_Potter
+lord of the rings;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/The_Lord_of_the_Rings
+kafka;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Franz_Kafka
+homo deus;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Homo_Deus:_A_Brief_History_of_Tomorrow
+the intelligent investor;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/The_Intelligent_Investor
+dark matter;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Dark_matter
+das parfüm;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Perfume:_The_Story_of_a_Murderer_(film)
+faust 1;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Belgium
+die physiker;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/The_Physicists
+harry potter 1;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows_–_Part_1
+der herr der ringe 1;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Der_Herr_der_Ringe
+dune;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Dune_(franchise)
+the lord of the rings;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/The_Lord_of_the_Rings
+twilight;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/The_Legend_of_Zelda:_Twilight_Princess
+bibel;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Zürich_Bible
+harry potter;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Harry_Potter
+harry potter;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Harry_Potter
+moby dick;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Moby-Dick
+the catcher in the rye;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/The_Catcher_in_the_Rye
+passanger 23;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/List_of_The_Outer_Limits_(1995_TV_series)_episodes
+the therapy;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Radiation_therapy
+noah;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Noah_Cyrus
+bibel;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Zürich_Bible
+die leiden des jungen wärter;26;Male;Bachelor's degree;Germany;88;NaN
+faust;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Los_Angeles_Kings
+harry potter;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Harry_Potter
+herr der ringe;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Der_Herr_der_Ringe
+cafe on the edge of the world;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Pokémon_Ruby_and_Sapphire
+holy quran;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Quran
+risiko;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Palmen_aus_Plastik_2
+rich dad poor dad;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Rich_Dad_Poor_Dad
+salems lot;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/'Salem's_Lot
+it;25;Male;High school degree or equivalent;Germany;91;NaN
+dune;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Dune_(franchise)
+atomic habits;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Atomic_Antelope
+normal people;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/The_War_on_Normal_People
+principals;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Ridley_Hall,_Cambridge
+harry potter;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Harry_Potter
+chronicles of narnia;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/The_Chronicles_of_Narnia
+gone with the wind;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Gone_with_the_Wind_(film)
+wolfsblut;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Wolfsnout_goby
+yoga nidra;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Yoga_nidra
+jetzt!;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/JETZT_(party)
+tao and teh;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Tao_Te_Ching
+the story of art;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Drama
+oliver twist;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Oliver_Twist
+kite runer;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/The_Kite_Runner
+forty rules of love;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/The_Forty_Rules_of_Love
+sapiens;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Homo_sapiens
+bible;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Bible
+catcher in the rhye;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Rhene_cancer
+glennkill;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Glennville,_Georgia
+playlist;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Accept_(band)
+hunger games;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/List_of_The_Hunger_Games_characters
+die bestimmung;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Gerhard_Winkler_(composer)
+wer die nachtigall stört;26;Female;High school degree or equivalent;Germany;99;NaN
+das geschenk;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Sportfreunde_Stiller
+harry potter und die kammer des schreckens;26;Female;High school degree or equivalent;Germany;99;NaN
+lord of the rings;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/The_Lord_of_the_Rings
+harry potter and the sorcerers stone;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Harry_Potter_and_the_Philosopher's_Stone
+and breakfast of champions;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Breakfast_of_Champions
+play dead;23;Female;Master's degree;England;101;http://dbpedia.org/resource/List_of_The_Dead_Zone_episodes
+catch;23;Female;Master's degree;England;101;http://dbpedia.org/resource/List_of_Catch-22_characters
+this is going to hurt a bit;23;Female;Master's degree;England;101;http://dbpedia.org/resource/A_Call_for_Arms
+harry potter;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Harry_Potter
+a curious incident of a dog in the night time;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/The_Curious_Incident_of_the_Dog_in_the_Night-Time
+notes on a nervous planet;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Crank_(The_Almighty_album)
+der tod in venedig;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Death_in_Venice
+eine kurze geschichteder zeit;70;Female;Master's degree;Germany;103;NaN
+das parfum;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Parque_das_Nações
+milkman;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Milkman
+sarah;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Sarah_Lawrence_College
+the magic of thinking big;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/The_Magic_of_Thinking_Big
+catcher in the rye;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/The_Catcher_in_the_Rye
+tom sawyer;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/The_Adventures_of_Tom_Sawyer
+the bible;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Bible
+absalom absalom;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Absalom,_Absalom!
+die unendiche gschichte;47;Female;Doctorate (e.g. PhD);Germany;106;NaN
+buddenbrooks;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Buddenbrooks
+harry potter and the goblet of fire;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Harry_Potter_and_the_Goblet_of_Fire
+the king of narnia;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/List_of_The_Chronicles_of_Narnia_characters
+pippi longstocking;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Pippi_Longstocking
+atlas shrugged;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Atlas_Shrugged
+to kill a mockingbird;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/To_Kill_a_Mockingbird
+cien anos de soledad;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/One_Hundred_Years_of_Solitude

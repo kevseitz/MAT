@@ -1,0 +1,298 @@
+lakes;p_age;p_gender;p_education;p_country;p_id;uri
+bodensee;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake victoria;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Lake_Victoria
+lake tahoe;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Lake_Tahoe
+lake geneva;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Lake_Geneva,_Wisconsin
+lake tahoe;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Lake_Tahoe
+lake eerie;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Lake_Eerie
+erie;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Erie,_Pennsylvania
+léman;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Léman_International_School_-_Chengdu
+lake garda;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Lake_Garda
+lake michigan;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Michigan
+bodensee;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+geneva lake baikal lake;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Abyssocottidae
+baikal lake;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Lake_Baikal
+lugano lake;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Lake_Lugano
+bodensee;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+garda lake;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Lake_Garda
+tegernsee;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Tegernsee
+bodensee;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+Lake Constance;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Lake_Constance
+lake garda;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Lake_Garda
+lake michigan;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Michigan
+bodensee;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake garda;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Lake_Garda
+tegernsee;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Tegernsee
+lake constance;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Lake_Constance
+lake garda;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Lake_Garda
+lake baikal;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Lake_Baikal
+bodensee;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake michigan;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Michigan
+bodensee;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+steinhuder meer;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Steinhuder_Meer
+chiemsee;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Prien_am_Chiemsee
+bodensee;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake balaton;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Lake_Balaton
+bodensee;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake garda;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Lake_Garda
+eibsee;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Eibsee
+lake michigan;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Michigan
+lake constance;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Lake_Constance
+lake como;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Lake_Como
+bodensee;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+chiemsee;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Prien_am_Chiemsee
+walchensee;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Walchensee
+chiemsee;25;Male;;germany;16;http://dbpedia.org/resource/Prien_am_Chiemsee
+bodensee;25;Male;;germany;16;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake michigan;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Michigan
+lake maggiore;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Lake_Maggiore
+bodensee;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake constance;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Lake_Constance
+lake maggiore;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Lake_Maggiore
+lake erie;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Lake_Erie
+bodensee;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake geneva;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Lake_Geneva,_Wisconsin
+lake baikal;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Lake_Baikal
+lake victoria;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Lake_Victoria
+lake huron;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Lake_Huron
+keuka lake;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Keuka_Lake
+seneca lake;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Seneca_Lake_AVA
+vättern;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Vättern
+vänern;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Vänern
+lake garda;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Lake_Garda
+mummelsee;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Mummelsee
+bodensee;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake zurich;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Lake_Zurich
+bodensee;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake feeling;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/List_of_Garfield_and_Friends_episodes
+lake victoria;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Lake_Victoria
+lake michigan;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Michigan
+lake maggiore;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Lake_Maggiore
+chiemsee;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Prien_am_Chiemsee
+bodensee;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake balaton;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Lake_Balaton
+lake maggiore;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Lake_Maggiore
+achensee;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Eben_am_Achensee
+chiemsee;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Prien_am_Chiemsee
+langener waldsee;25;Male;Bachelor's degree;germany;27;NaN
+achensee;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Eben_am_Achensee
+ural lake;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/East_Ongul_Island
+lake michigan;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Michigan
+lake superior;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Lake_Superior
+lake michigan;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Michigan
+bodensee;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+bodensee;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+chiemsee;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Prien_am_Chiemsee
+lake viktoria;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Lake_Victoria
+lake plastiras;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Lake_Plastiras
+lake pamvotida;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Lake_Pamvotida
+lake doxa;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Lake_Dora_(Western_Australia)
+bodensee;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+aral sea;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Aral_Sea
+lake starnberg;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Lake_Starnberg
+lake maggiore;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Lake_Maggiore
+lake geneva;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Lake_Geneva,_Wisconsin
+wannsee;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Wannsee_Conference
+bodensee;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+schluchsee;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Schluchsee,_Baden-Württemberg
+lake victoria;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Lake_Victoria
+lake garda;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Lake_Garda
+lake starnberg;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Lake_Starnberg
+bodensee;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake tahoe;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Lake_Tahoe
+lake garda;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Lake_Garda
+bodensee;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+tegernsee;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Tegernsee
+ammersee;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Dießen_am_Ammersee
+bodensee;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+chiemsee;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Prien_am_Chiemsee
+ammersee;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Dießen_am_Ammersee
+bodensee;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+edersee;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Waldeck,_Hesse
+lake erie;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Lake_Erie
+chiemsee;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Prien_am_Chiemsee
+lake victoria;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Lake_Victoria
+lake titicaca;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Lake_Titicaca
+lake titicaca;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Lake_Titicaca
+lake constance;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Lake_Constance
+silver lake;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Silver_Lake_Partners
+lake tahoe;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Lake_Tahoe
+bodensee;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+eibsee;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Eibsee
+lake constance;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Lake_Constance
+titisee;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Titisee-Neustadt
+lake balaton;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Lake_Balaton
+lake balaton;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Lake_Balaton
+lake erie;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Lake_Erie
+lake lucerne;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Lake_Lucerne
+schlachtensee;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Berlin-Schlachtensee_station
+curvilinear;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Curvilinear_coordinates
+bodensee;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake constance;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Lake_Constance
+lake titicaca;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Lake_Titicaca
+bidensee;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Bidens_triplinervia
+chiemsee;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Prien_am_Chiemsee
+isar;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Isar
+neckar;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Neckar
+rhine;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/North_Rhine-Westphalia
+titisee;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Titisee-Neustadt
+lake constance;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Lake_Constance
+königssee;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Königssee
+bodensee;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+titisee;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Titisee-Neustadt
+chiemsee;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Prien_am_Chiemsee
+lake constance;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Lake_Constance
+lake garda;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Lake_Garda
+chiemsee;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Prien_am_Chiemsee
+sacrowersee;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Sacrower_See
+lake liebnitz;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Liepnitzsee
+königssee;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Königssee
+bodensee;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake zurich;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Lake_Zurich
+lake balaton;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Lake_Balaton
+lake como;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Lake_Como
+lakeg eneva;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Battle_of_Lake_Erie
+lake garda;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Lake_Garda
+bodensee;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+chiemsee;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Prien_am_Chiemsee
+lake garda;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Lake_Garda
+lake como;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Lake_Como
+lake annecy;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Lake_Annecy
+lake powell;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Lake_Powell
+bodensee;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake erie;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Lake_Erie
+lake michigan;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Michigan
+lake garda;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Lake_Garda
+bodensee;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake tahoe;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Lake_Tahoe
+lake constance;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Lake_Constance
+lake geneva;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Lake_Geneva,_Wisconsin
+lake garda;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Lake_Garda
+lake constance;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Lake_Constance
+lake erie;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Lake_Erie
+lake tahoe;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Lake_Tahoe
+lake constance;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Lake_Constance
+lake balaton;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Lake_Balaton
+lake erie;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Lake_Erie
+lake erie;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Lake_Erie
+lake superior;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Lake_Superior
+lake huron;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Lake_Huron
+bodensee;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake victoria;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Lake_Victoria
+aral sea;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Aral_Sea
+;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Hunan
+bodensee;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+Lake erie;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Lake_Erie
+caspian sea;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Caspian_Sea
+salt lake;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Salt_Lake_City
+bodensee;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake victoria;0;Prefer not to say;;;68;http://dbpedia.org/resource/Lake_Victoria
+lake michigan;0;Prefer not to say;;;68;http://dbpedia.org/resource/Michigan
+connemara;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Connemara
+lake clément;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Alberta_Ballet_Company
+lake annecy;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Lake_Annecy
+lake geneva;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Lake_Geneva,_Wisconsin
+Lac de Serre-Ponçon;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Lac_de_Serre-Ponçon
+lake starnberg;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Lake_Starnberg
+lake zurich;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Lake_Zurich
+bodensee;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake victoria;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Lake_Victoria
+bodensee;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake maggiore;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Lake_Maggiore
+bodensee;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake garda;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Lake_Garda
+mummelsee;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Mummelsee
+;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Hunan
+bodensee;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake zurich;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Lake_Zurich
+lake huron;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Lake_Huron
+bodensee;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+forggensee;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Rieden_am_Forggensee
+eibsee;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Eibsee
+titisee;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Titisee-Neustadt
+chiemsee;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Prien_am_Chiemsee
+lake geneva;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Lake_Geneva,_Wisconsin
+bodensee;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake breitau;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Schluchsee
+lake maggiore;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Lake_Maggiore
+lake garda;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Lake_Garda
+müggelsee;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Müggelsee
+lake zurich;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Lake_Zurich
+lake victoria;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Lake_Victoria
+bodensee;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake tahoe;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Lake_Tahoe
+lake michigan;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Michigan
+crater lake;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Volcanic_crater_lake
+lake viktoria;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Lake_Victoria
+lake baikal;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Lake_Baikal
+bodensee;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+bodensee;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+chiemsee;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Prien_am_Chiemsee
+lake garda;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Lake_Garda
+lake constance;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Lake_Constance
+silver lake;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Silver_Lake_Partners
+albsee;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/A.S.D._Albese_Calcio
+lake garda;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Lake_Garda
+lake maggiore;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Lake_Maggiore
+lake baikal;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Lake_Baikal
+lake tahoe;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Lake_Tahoe
+chiemsee;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Prien_am_Chiemsee
+eibsee;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Eibsee
+bodensee;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake michigan;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Michigan
+lake constance;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Lake_Constance
+aral sea;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Aral_Sea
+lake constance;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Lake_Constance
+eibsee;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Eibsee
+alpsee;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Großer_Alpsee
+Lake erie;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Lake_Erie
+bodensee;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+Lake Titicaca;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Lake_Titicaca
+griebnitzsee;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Potsdam_Griebnitzsee_station
+curvilinear;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Curvilinear_coordinates
+schlachtensee;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Berlin-Schlachtensee_station
+lake como;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Lake_Como
+lake garda;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Lake_Garda
+lake starnberg;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Lake_Starnberg
+loch ness;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Loch_Ness_Monster
+lake garda;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Lake_Garda
+lake michigan;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Michigan
+lake constance;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Lake_Constance
+lake garda;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Lake_Garda
+westlake;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Westlake_Village,_California
+peyto lake;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Peyto_Lake
+abersee;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Aberdeen_F.C.
+lake king william;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Johnny_Carson
+lake constance;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Lake_Constance
+lake erie;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Lake_Erie
+lake titikaka;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Lake_Titicaca
+lake constance;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Lake_Constance
+loch ness;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Loch_Ness_Monster
+lake garda;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Lake_Garda
+lake michigan;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Michigan
+bodensee;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake titikaka;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Lake_Titicaca
+lake erie;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Lake_Erie
+lake michigan;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Michigan
+lake huron;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Lake_Huron
+loch ness;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Loch_Ness_Monster
+windemere;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Windemere
+lake constance;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Lake_Constance
+lake louise;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Lake_Louise,_Alberta
+lake geneva;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Lake_Geneva,_Wisconsin
+lake constance;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Lake_Constance
+lake baikal;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Lake_Baikal
+lake superior;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Lake_Superior
+lake victoria;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Lake_Victoria
+lake ontario;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Lake_Ontario
+lake victoria;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Lake_Victoria
+bodensee;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+lake erie;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Lake_Erie
+bodensee;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+aral sea;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Aral_Sea
+bodensee;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Bodensee–Toggenburg_railway
+curvilinear;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Curvilinear_coordinates
+wannsee;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Wannsee_Conference
+tegernsee;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Tegernsee
+lake starnberg;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Lake_Starnberg
+schliersee;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Schliersee

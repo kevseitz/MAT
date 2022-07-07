@@ -1,0 +1,325 @@
+music_genres;p_age;p_gender;p_education;p_country;p_id;uri
+pop;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Pop_music
+techno;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Techno
+rap;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Hip_hop_music
+metal;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Heavy_metal_music
+rock;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Rock_music
+pop;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Pop_music
+funk;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Funk
+rock;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Rock_music
+electro;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Electro_(music)
+techno;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Techno
+house;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/House_music
+jazz;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Jazz
+jazz;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Jazz
+pop;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Pop_music
+hip hop;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Hip_hop_music
+pop;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Pop_music
+jazz;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Jazz
+swing;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Swing_music
+rock;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Rock_music
+pop;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Pop_music
+classic;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Classic_rock
+jazz;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Jazz
+rnb;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Rhythm_and_blues
+hiphop;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Hip_hop_music
+rap;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Hip_hop_music
+pop;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Pop_music
+metal;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Heavy_metal_music
+rock;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Rock_music
+pop;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Pop_music
+classical;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Classical_music
+rock;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Rock_music
+pop;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Pop_music
+metal;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Heavy_metal_music
+metal;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Heavy_metal_music
+rock;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Rock_music
+choral;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Conducting
+hip hop;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Hip_hop_music
+dance;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Dance-pop
+trance;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Trance_music
+rock;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Rock_music
+pop;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Pop_music
+indie;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Indie_rock
+metal;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Heavy_metal_music
+classical;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Classical_music
+jazz;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Jazz
+soul;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Soul_music
+indie;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Indie_rock
+hip hop;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Hip_hop_music
+hip hop;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Hip_hop_music
+classical;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Classical_music
+jazz;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Jazz
+jazz;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Jazz
+rock;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Rock_music
+blues;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Blues
+pop;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Pop_music
+rock;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Rock_music
+indie;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Indie_rock
+funk;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Funk
+hip hop;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Hip_hop_music
+jazz;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Jazz
+metal;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Heavy_metal_music
+rock;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Rock_music
+jazz;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Jazz
+classical;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Classical_music
+rock;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Rock_music
+pop;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Pop_music
+heavy metal;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Heavy_metal_music
+techno;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Techno
+trance;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Trance_music
+metal;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Heavy_metal_music
+metal;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Heavy_metal_music
+rock;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Rock_music
+klassik;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Echo_Klassik
+rock;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Rock_music
+hip hop;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Hip_hop_music
+classical;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Classical_music
+pop;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Pop_music
+classical;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Classical_music
+funk;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Funk
+hip hop;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Hip_hop_music
+rnb;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Rhythm_and_blues
+rap;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Hip_hop_music
+rnb;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Rhythm_and_blues
+jazz;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Jazz
+schlager;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Schlager_music
+heavy metal;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Heavy_metal_music
+classical;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Classical_music
+rock;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Rock_music
+hip hop;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Hip_hop_music
+pop;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Pop_music
+pop;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Pop_music
+rock;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Rock_music
+psychedelic;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Psychedelic_rock
+rock;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Rock_music
+pop;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Pop_music
+hip hop;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Hip_hop_music
+techno;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Techno
+hip hop;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Hip_hop_music
+rock;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Rock_music
+rap;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Hip_hop_music
+hip hop;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Hip_hop_music
+rnb;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Rhythm_and_blues
+indie;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Indie_rock
+hip hop;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Hip_hop_music
+classical music;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Classical_music
+rock;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Rock_music
+techno;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Techno
+pop;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Pop_music
+classic;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Classic_rock
+rock;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Rock_music
+pop;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Pop_music
+hard rock;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Hard_rock
+swing;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Swing_music
+country music;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Country_music
+rocknroll;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Rock_and_roll
+jazz;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Jazz
+rap;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Hip_hop_music
+rock;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Rock_music
+rap;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Hip_hop_music
+pop;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Pop_music
+rap;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Hip_hop_music
+house;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/House_music
+rock;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Rock_music
+house;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/House_music
+jazz;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Jazz
+rnb;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Rhythm_and_blues
+jazz;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Jazz
+blues;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Blues
+heavy metal;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Heavy_metal_music
+country;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Country_music
+rock;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Rock_music
+heavy metal;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Heavy_metal_music
+indie;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Indie_rock
+house;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/House_music
+psychedelic rock;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Psychedelic_rock
+rock;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Rock_music
+pop;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Pop_music
+elektro;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Elektra_Records
+techno;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Techno
+rap;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Hip_hop_music
+hiphop;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Hip_hop_music
+hip hop;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Hip_hop_music
+classic;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Classic_rock
+pop;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Pop_music
+classic;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Classic_rock
+rock;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Rock_music
+jazz;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Jazz
+rock;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Rock_music
+pop;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Pop_music
+classic;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Classic_rock
+pop;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Pop_music
+punk;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Punk_rock
+rap;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Hip_hop_music
+techno;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Techno
+hiphop;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Hip_hop_music
+klassik;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Echo_Klassik
+rock;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Rock_music
+classical;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Classical_music
+techno;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Techno
+pop;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Pop_music
+rock;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Rock_music
+musicals;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Musical_theatre
+rock;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Rock_music
+techno;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Techno
+pop;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Pop_music
+rap;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Hip_hop_music
+pop;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Pop_music
+techno;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Techno
+rock;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Rock_music
+pop;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Pop_music
+jazz;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Jazz
+rock;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Rock_music
+pop;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Pop_music
+rap;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Hip_hop_music
+rock;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Rock_music
+classical;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Classical_music
+pop;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Pop_music
+pop;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Pop_music
+techno;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Techno
+rock;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Rock_music
+heavy metal;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Heavy_metal_music
+punk rock;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Punk_rock
+blues;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Blues
+pop;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Pop_music
+rock;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Rock_music
+techno;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Techno
+hiphop;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Hip_hop_music
+rock;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Rock_music
+pop;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Pop_music
+rap;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Hip_hop_music
+deutsch rap;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Council_for_German_Orthography
+american rap;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Hip_hop_music
+rap;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Hip_hop_music
+pop;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Pop_music
+jazz;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Jazz
+hip hop;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Hip_hop_music
+classic;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Classic_rock
+rock;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Rock_music
+rock;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Rock_music
+pop;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Pop_music
+hiphop;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Hip_hop_music
+classic;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Classic_rock
+rock;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Rock_music
+heavy metal;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Heavy_metal_music
+rap;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Hip_hop_music
+soul;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Soul_music
+jazz;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Jazz
+country;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Country_music
+rock;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Rock_music
+hip hop;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Hip_hop_music
+rock;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Rock_music
+pop;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Pop_music
+classic;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Classic_rock
+punk;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Punk_rock
+rock;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Rock_music
+disco;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Disco
+rap;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Hip_hop_music
+pop;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Pop_music
+techno;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Techno
+rap;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Hip_hop_music
+classic;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Classic_rock
+schlager;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Schlager_music
+rock;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Rock_music
+punk;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Punk_rock
+electro;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Electro_(music)
+techno;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Techno
+rock;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Rock_music
+pop;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Pop_music
+rock;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Rock_music
+metal;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Heavy_metal_music
+punk;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Punk_rock
+rap;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Hip_hop_music
+trap;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Trap_music
+hardstyle;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Hardstyle
+pop;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Pop_music
+techno;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Techno
+classical music;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Classical_music
+pop;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Pop_music
+rock;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Rock_music
+rap;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Hip_hop_music
+hip hop;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Hip_hop_music
+jazz;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Jazz
+indie pop;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Indie_pop
+pop;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Pop_music
+rock;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Rock_music
+jazz;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Jazz
+pop;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Pop_music
+metal;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Heavy_metal_music
+edm;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Electronic_dance_music
+techno;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Techno
+pop;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Pop_music
+rock;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Rock_music
+swing;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Swing_music
+jazz;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Jazz
+rap;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Hip_hop_music
+punk rock;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Punk_rock
+psychedelic rock;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Psychedelic_rock
+jazz;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Jazz
+hardstyle;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Hardstyle
+techno;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Techno
+house;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/House_music
+jazz;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Jazz
+hip hop;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Hip_hop_music
+rock;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Rock_music
+pop;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Pop_music
+rock;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Rock_music
+house;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/House_music
+rap;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Hip_hop_music
+rock;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Rock_music
+pop;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Pop_music
+techno;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Techno
+house;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/House_music
+heavy metal;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Heavy_metal_music
+r&b;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Contemporary_R&B
+techno;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Techno
+rap;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Hip_hop_music
+pop;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Pop_music
+rock;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Rock_music
+classic;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Classic_rock
+hip hop;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Hip_hop_music
+metal;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Heavy_metal_music
+jazz;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Jazz
+barroco;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Baroque
+classicism;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Classicism
+romance;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Central_European_Time
+pop;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Pop_music
+rock;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Rock_music
+hip hop;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Hip_hop_music
+pop;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Pop_music
+rock;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Rock_music
+hiphop;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Hip_hop_music
+r&b;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Contemporary_R&B
+pop;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Pop_music
+rap;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Hip_hop_music
+rock;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Rock_music
+soul;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Soul_music
+jazz;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Jazz
+indie;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Indie_rock
+classical;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Classical_music
+pop;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Pop_music
+carrot;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Carrot
+mushroom;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Mushroom_Records
+pepper;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Black_pepper
+techno;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Techno
+rock;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Rock_music
+house;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/House_music
+jazz;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Jazz
+classic;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Classic_rock
+heavy metal;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Heavy_metal_music
+hip hop;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Hip_hop_music
+rock;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Rock_music
+pop;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Pop_music
+pop;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Pop_music
+metal;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Heavy_metal_music
+hip hop;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Hip_hop_music
+rock;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Rock_music
+hiphop;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Hip_hop_music
+classic;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Classic_rock
+pop;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Pop_music
+jazz;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Jazz
+classic;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Classic_rock
+jazz;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Jazz
+swing;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Swing_music
+opera;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Opera

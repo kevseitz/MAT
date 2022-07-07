@@ -1,0 +1,324 @@
+﻿uri;continents;p_age;p_gender;p_education;p_country;p_id
+http://dbpedia.org/resource/Europe;europe;26;Male;Bachelor's degree;germany;0
+http://dbpedia.org/resource/Africa;africa;26;Male;Bachelor's degree;germany;0
+http://dbpedia.org/resource/Asia;asia;26;Male;Bachelor's degree;germany;0
+http://dbpedia.org/resource/Europe;europe;44;Male;Doctorate (e.g. PhD);germany;1
+http://dbpedia.org/resource/Africa;africa;44;Male;Doctorate (e.g. PhD);germany;1
+http://dbpedia.org/resource/North_America;north america;44;Male;Doctorate (e.g. PhD);germany;1
+http://dbpedia.org/resource/Europe;europe;46;Male;Bachelor's degree;france;2
+http://dbpedia.org/resource/Asia;asia;46;Male;Bachelor's degree;france;2
+http://dbpedia.org/resource/North_America;north america;46;Male;Bachelor's degree;france;2
+http://dbpedia.org/resource/Europe;europe;28;Male;Master's degree;germany;3
+http://dbpedia.org/resource/North_America;north america;28;Male;Master's degree;germany;3
+http://dbpedia.org/resource/Asia;asia;28;Male;Master's degree;germany;3
+http://dbpedia.org/resource/Asia;asia;34;Female;Master's degree;switzerland;4
+http://dbpedia.org/resource/Africa;africa;34;Female;Master's degree;switzerland;4
+http://dbpedia.org/resource/Australia_(continent);australia;34;Female;Master's degree;switzerland;4
+http://dbpedia.org/resource/Asia;asia;27;Male;Bachelor's degree;germany;5
+http://dbpedia.org/resource/Europe;europe;27;Male;Bachelor's degree;germany;5
+http://dbpedia.org/resource/Africa;africa;27;Male;Bachelor's degree;germany;5
+http://dbpedia.org/resource/Europe;europe;27;Male;Master's degree;germany;6
+http://dbpedia.org/resource/Africa;africa;27;Male;Master's degree;germany;6
+http://dbpedia.org/resource/Asia;asia;27;Male;Master's degree;germany;6
+http://dbpedia.org/resource/Asia;asia;27;Male;Master's degree;germany;7
+http://dbpedia.org/resource/Africa;africa;27;Male;Master's degree;germany;7
+http://dbpedia.org/resource/Europe;europe;27;Male;Master's degree;germany;7
+http://dbpedia.org/resource/Europe;europe;28;Male;High school degree or equivalent;germany;8
+http://dbpedia.org/resource/Africa;africa;28;Male;High school degree or equivalent;germany;8
+http://dbpedia.org/resource/Australia_(continent);australia;28;Male;High school degree or equivalent;germany;8
+http://dbpedia.org/resource/Australia_(continent);australia;29;Male;Master's degree;germany;9
+http://dbpedia.org/resource/North_America;north america;29;Male;Master's degree;germany;9
+http://dbpedia.org/resource/South_America;south america;29;Male;Master's degree;germany;9
+http://dbpedia.org/resource/Africa;africa;26;Male;Master's degree;germany;10
+http://dbpedia.org/resource/Europe;europe;26;Male;Master's degree;germany;10
+http://dbpedia.org/resource/Antarctica;antarctica;26;Male;Master's degree;germany;10
+http://dbpedia.org/resource/Asia;asia;37;Male;Master's degree;germany;11
+http://dbpedia.org/resource/Africa;africa;37;Male;Master's degree;germany;11
+http://dbpedia.org/resource/North_America;north america;37;Male;Master's degree;germany;11
+http://dbpedia.org/resource/Europe;europe;24;Male;Master's degree;germany;12
+http://dbpedia.org/resource/Asia;asia;24;Male;Master's degree;germany;12
+http://dbpedia.org/resource/Africa;africa;24;Male;Master's degree;germany;12
+http://dbpedia.org/resource/Africa;africa;26;Female;Master's degree;germany;13
+http://dbpedia.org/resource/Europe;europe;26;Female;Master's degree;germany;13
+http://dbpedia.org/resource/Australia_(continent);australia;26;Female;Master's degree;germany;13
+http://dbpedia.org/resource/Africa;africa;26;Female;Master's degree;germany;14
+http://dbpedia.org/resource/South_America;south america;26;Female;Master's degree;germany;14
+http://dbpedia.org/resource/Australia_(continent);australia;26;Female;Master's degree;germany;14
+http://dbpedia.org/resource/Asia;asia;28;Female;Doctorate (e.g. PhD);germany;15
+http://dbpedia.org/resource/Europe;europe;28;Female;Doctorate (e.g. PhD);germany;15
+http://dbpedia.org/resource/Africa;africa;28;Female;Doctorate (e.g. PhD);germany;15
+http://dbpedia.org/resource/Africa;africa;25;Male;NaN;germany;16
+http://dbpedia.org/resource/Europe;europe;25;Male;NaN;germany;16
+http://dbpedia.org/resource/Asia;asia;25;Male;NaN;germany;16
+http://dbpedia.org/resource/Africa;africa;31;Female;Master's degree;germany;17
+http://dbpedia.org/resource/Europe;europe;31;Female;Master's degree;germany;17
+http://dbpedia.org/resource/Asia;asia;31;Female;Master's degree;germany;17
+http://dbpedia.org/resource/Africa;africa;36;Male;Master's degree;germany;18
+http://dbpedia.org/resource/Europe;europe;36;Male;Master's degree;germany;18
+http://dbpedia.org/resource/Australia_(continent);australia;36;Male;Master's degree;germany;18
+http://dbpedia.org/resource/Asia;asia;27;Male;Master's degree;germany;19
+http://dbpedia.org/resource/Australia_(continent);australia;27;Male;Master's degree;germany;19
+http://dbpedia.org/resource/Europe;europe;33;Male;Doctorate (e.g. PhD);germany;20
+http://dbpedia.org/resource/North_America;north america;33;Male;Doctorate (e.g. PhD);germany;20
+http://dbpedia.org/resource/South_America;south america;33;Male;Doctorate (e.g. PhD);germany;20
+http://dbpedia.org/resource/Asia;asia;26;Male;Bachelor's degree;usa;21
+http://dbpedia.org/resource/North_America;north america;26;Male;Bachelor's degree;usa;21
+http://dbpedia.org/resource/Africa;africa;26;Male;Bachelor's degree;usa;21
+http://dbpedia.org/resource/Europe;euroe;44;Female;Doctorate (e.g. PhD);sweden;22
+http://dbpedia.org/resource/Asia;asia;44;Female;Doctorate (e.g. PhD);sweden;22
+http://dbpedia.org/resource/Africa;africa;44;Female;Doctorate (e.g. PhD);sweden;22
+http://dbpedia.org/resource/Europe;europe;26;Male;Bachelor's degree;germany;23
+http://dbpedia.org/resource/Asia;asia;26;Male;Bachelor's degree;germany;23
+http://dbpedia.org/resource/North_America;north america;26;Male;Bachelor's degree;germany;23
+http://dbpedia.org/resource/Europe;europe;27;Male;Bachelor's degree;nan;24
+http://dbpedia.org/resource/Africa;africa;27;Male;Bachelor's degree;nan;24
+http://dbpedia.org/resource/North_America;north america;27;Male;Bachelor's degree;nan;24
+http://dbpedia.org/resource/Europe;europe;23;Male;Bachelor's degree;germany;25
+http://dbpedia.org/resource/South_America;south america;23;Male;Bachelor's degree;germany;25
+http://dbpedia.org/resource/Africa;africa;23;Male;Bachelor's degree;germany;25
+http://dbpedia.org/resource/Europe;europe;22;Male;Bachelor's degree;germany;26
+http://dbpedia.org/resource/Asia;asia;22;Male;Bachelor's degree;germany;26
+http://dbpedia.org/resource/Australia_(continent);australia;22;Male;Bachelor's degree;germany;26
+http://dbpedia.org/resource/Europe;europe;25;Male;Bachelor's degree;germany;27
+http://dbpedia.org/resource/Africa;africa;25;Male;Bachelor's degree;germany;27
+http://dbpedia.org/resource/Asia;asia;25;Male;Bachelor's degree;germany;27
+http://dbpedia.org/resource/Europe;europe;27;Male;Master's degree;germany;28
+http://dbpedia.org/resource/Africa;africa;27;Male;Master's degree;germany;28
+http://dbpedia.org/resource/Asia;asia;27;Male;Master's degree;germany;28
+http://dbpedia.org/resource/Africa;africa;30;Male;Bachelor's degree;usa;29
+http://dbpedia.org/resource/North_America;north america;30;Male;Bachelor's degree;usa;29
+http://dbpedia.org/resource/Antarctica;antarctica;30;Male;Bachelor's degree;usa;29
+http://dbpedia.org/resource/Africa;africa;28;Male;Master's degree;germany;30
+http://dbpedia.org/resource/Europe;europe;28;Male;Master's degree;germany;30
+http://dbpedia.org/resource/Australia_(continent);australia;28;Male;Master's degree;germany;30
+http://dbpedia.org/resource/Europe;europe;38;Female;Doctorate (e.g. PhD);greece;31
+http://dbpedia.org/resource/Africa;africa;38;Female;Doctorate (e.g. PhD);greece;31
+http://dbpedia.org/resource/Australia_(continent);australia;38;Female;Doctorate (e.g. PhD);greece;31
+http://dbpedia.org/resource/Africa;africa;28;Male;Master's degree;germany;32
+http://dbpedia.org/resource/Europe;europe;28;Male;Master's degree;germany;32
+http://dbpedia.org/resource/Asia;asia;28;Male;Master's degree;germany;32
+http://dbpedia.org/resource/Africa;africa;26;Male;Bachelor's degree;germany;33
+http://dbpedia.org/resource/Asia;asia;26;Male;Bachelor's degree;germany;33
+http://dbpedia.org/resource/North_America;north america;26;Male;Bachelor's degree;germany;33
+http://dbpedia.org/resource/Europe;europe;19;Male;High school degree or equivalent;germany;34
+http://dbpedia.org/resource/Africa;africa;19;Male;High school degree or equivalent;germany;34
+http://dbpedia.org/resource/Asia;asia;19;Male;High school degree or equivalent;germany;34
+http://dbpedia.org/resource/Asia;asia;25;Female;Bachelor's degree;germany;35
+http://dbpedia.org/resource/Europe;europe;25;Female;Bachelor's degree;germany;35
+http://dbpedia.org/resource/North_America;north america;25;Female;Bachelor's degree;germany;35
+http://dbpedia.org/resource/Europe;europe;24;Female;Master's degree;germany;36
+http://dbpedia.org/resource/Africa;africa;25;Male;Bachelor's degree;germany;37
+http://dbpedia.org/resource/Antarctica;antarctica;25;Male;Bachelor's degree;germany;37
+http://dbpedia.org/resource/Asia;asia;25;Male;Bachelor's degree;germany;37
+http://dbpedia.org/resource/Americas;america;64;Male;Doctorate (e.g. PhD);austria;38
+http://dbpedia.org/resource/Europe;europe;64;Male;Doctorate (e.g. PhD);austria;38
+http://dbpedia.org/resource/Asia;asia;64;Male;Doctorate (e.g. PhD);austria;38
+http://dbpedia.org/resource/Europe;europe;24;Male;Bachelor's degree;germany;39
+http://dbpedia.org/resource/Asia;asia;24;Male;Bachelor's degree;germany;39
+http://dbpedia.org/resource/Africa;africa;24;Male;Bachelor's degree;germany;39
+http://dbpedia.org/resource/Europe;europe;31;Male;Bachelor's degree;germany;40
+http://dbpedia.org/resource/Asia;asia;31;Male;Bachelor's degree;germany;40
+http://dbpedia.org/resource/North_America;north america;31;Male;Bachelor's degree;germany;40
+http://dbpedia.org/resource/Africa;africa;25;Female;Bachelor's degree;germany;41
+http://dbpedia.org/resource/South_America;south america;25;Female;Bachelor's degree;germany;41
+http://dbpedia.org/resource/North_America;north america;25;Female;Bachelor's degree;germany;41
+http://dbpedia.org/resource/Asia;asia;28;Female;Bachelor's degree;germany;42
+http://dbpedia.org/resource/Europe;europe;28;Female;Bachelor's degree;germany;42
+http://dbpedia.org/resource/Australia_(continent);australia;28;Female;Bachelor's degree;germany;42
+http://dbpedia.org/resource/Europe;europe;37;Female;Master's degree;germany;43
+http://dbpedia.org/resource/North_America;north america;37;Female;Master's degree;germany;43
+http://dbpedia.org/resource/Asia;asia;37;Female;Master's degree;germany;43
+http://dbpedia.org/resource/Asia;asia;50;Female;High school degree or equivalent;germany;44
+http://dbpedia.org/resource/Africa;africa;50;Female;High school degree or equivalent;germany;44
+http://dbpedia.org/resource/Europe;europe;50;Female;High school degree or equivalent;germany;44
+http://dbpedia.org/resource/Europe;europe;28;Female;High school degree or equivalent;germany;45
+http://dbpedia.org/resource/South_America;south america;28;Female;High school degree or equivalent;germany;45
+http://dbpedia.org/resource/Asia;asia;28;Female;High school degree or equivalent;germany;45
+http://dbpedia.org/resource/Europe;europe;31;Male;Bachelor's degree;germany;46
+http://dbpedia.org/resource/Africa;africa;31;Male;Bachelor's degree;germany;46
+http://dbpedia.org/resource/South_America;south america;31;Male;Bachelor's degree;germany;46
+http://dbpedia.org/resource/Europe;europe;21;Female;High school degree or equivalent;germany;47
+http://dbpedia.org/resource/Asia;asia;21;Female;High school degree or equivalent;germany;47
+http://dbpedia.org/resource/Africa;africa;21;Female;High school degree or equivalent;germany;47
+http://dbpedia.org/resource/Asia;asia;23;Female;Bachelor's degree;germany;48
+http://dbpedia.org/resource/Europe;europe;23;Female;Bachelor's degree;germany;48
+http://dbpedia.org/resource/Africa;africa;23;Female;Bachelor's degree;germany;48
+http://dbpedia.org/resource/Europe;europe;36;Male;Bachelor's degree;india;49
+http://dbpedia.org/resource/Asia;asia;36;Male;Bachelor's degree;india;49
+http://dbpedia.org/resource/Africa;africa;36;Male;Bachelor's degree;india;49
+http://dbpedia.org/resource/Europe;europe;28;Female;Master's degree;romania;50
+http://dbpedia.org/resource/Asia;asia;28;Female;Master's degree;romania;50
+http://dbpedia.org/resource/Africa;africa;28;Female;Master's degree;romania;50
+http://dbpedia.org/resource/Europe;europe;19;Female;High school degree or equivalent;germany;51
+http://dbpedia.org/resource/Asia;asia;19;Female;High school degree or equivalent;germany;51
+http://dbpedia.org/resource/Africa;africa;19;Female;High school degree or equivalent;germany;51
+http://dbpedia.org/resource/Europe;europe;19;Female;High school degree or equivalent;germany;52
+http://dbpedia.org/resource/Asia;asia;19;Female;High school degree or equivalent;germany;52
+http://dbpedia.org/resource/Africa;africa;19;Female;High school degree or equivalent;germany;52
+http://dbpedia.org/resource/Asia;asia;25;Male;Bachelor's degree;germany;53
+http://dbpedia.org/resource/Europe;europe;25;Male;Bachelor's degree;germany;53
+http://dbpedia.org/resource/Africa;africa;25;Male;Bachelor's degree;germany;53
+http://dbpedia.org/resource/Europe;europe;34;Female;Master's degree;france;54
+http://dbpedia.org/resource/North_America;north america;34;Female;Master's degree;france;54
+http://dbpedia.org/resource/Asia;asia;34;Female;Master's degree;france;54
+http://dbpedia.org/resource/Australia_(continent);australia;20;Female;High school degree or equivalent;germany;55
+http://dbpedia.org/resource/Europe;europe;20;Female;High school degree or equivalent;germany;55
+http://dbpedia.org/resource/South_America;south america;20;Female;High school degree or equivalent;germany;55
+http://dbpedia.org/resource/Asia;asia;26;Female;Master's degree;france;56
+http://dbpedia.org/resource/Europe;europe;26;Female;Master's degree;france;56
+http://dbpedia.org/resource/North_America;north america;26;Female;Master's degree;france;56
+http://dbpedia.org/resource/Antarctica;antarctica;29;Prefer not to say;Master's degree;germany;57
+http://dbpedia.org/resource/Europe;europe;29;Prefer not to say;Master's degree;germany;57
+http://dbpedia.org/resource/Africa;africa;29;Prefer not to say;Master's degree;germany;57
+http://dbpedia.org/resource/Europe;europe;31;Male;Master's degree;germany;58
+http://dbpedia.org/resource/North_America;north america;31;Male;Master's degree;germany;58
+http://dbpedia.org/resource/South_America;south america;31;Male;Master's degree;germany;58
+http://dbpedia.org/resource/Asia;asia;23;Male;High school degree or equivalent;germany;59
+http://dbpedia.org/resource/Africa;africa;23;Male;High school degree or equivalent;germany;59
+http://dbpedia.org/resource/Europe;europe;23;Male;High school degree or equivalent;germany;59
+http://dbpedia.org/resource/Europe;europe;21;Female;High school degree or equivalent;germany;60
+http://dbpedia.org/resource/Africa;africa;21;Female;High school degree or equivalent;germany;60
+http://dbpedia.org/resource/Asia;asia;21;Female;High school degree or equivalent;germany;60
+http://dbpedia.org/resource/Europe;europe;54;Male;High school degree or equivalent;germany;61
+http://dbpedia.org/resource/Australia_(continent);australia;54;Male;High school degree or equivalent;germany;61
+http://dbpedia.org/resource/Asia;asia;54;Male;High school degree or equivalent;germany;61
+http://dbpedia.org/resource/Europe;europe;30;Female;Master's degree;france;62
+http://dbpedia.org/resource/North_America;north america;30;Female;Master's degree;france;62
+http://dbpedia.org/resource/Asia;asia;30;Female;Master's degree;france;62
+http://dbpedia.org/resource/Africa;africa;24;Male;Bachelor's degree;germany;63
+http://dbpedia.org/resource/Europe;europe;24;Male;Bachelor's degree;germany;63
+http://dbpedia.org/resource/Asia;asia;24;Male;Bachelor's degree;germany;63
+http://dbpedia.org/resource/Europe;europe;17;Male;Less than a high school degree;germany;64
+http://dbpedia.org/resource/Africa;africa;17;Male;Less than a high school degree;germany;64
+http://dbpedia.org/resource/Asia;asia;17;Male;Less than a high school degree;germany;64
+http://dbpedia.org/resource/Africa;africa;25;Female;High school degree or equivalent;germany;65
+http://dbpedia.org/resource/Asia;asia;25;Female;High school degree or equivalent;germany;65
+http://dbpedia.org/resource/Antarctica;antarctica;25;Female;High school degree or equivalent;germany;65
+http://dbpedia.org/resource/Africa;africa;16;Male;Less than a high school degree;germany;66
+http://dbpedia.org/resource/Europe;europe;16;Male;Less than a high school degree;germany;66
+http://dbpedia.org/resource/North_America;north america;16;Male;Less than a high school degree;germany;66
+http://dbpedia.org/resource/Asia;asia;21;Male;High school degree or equivalent;germany;67
+http://dbpedia.org/resource/Europe;europe;21;Male;High school degree or equivalent;germany;67
+http://dbpedia.org/resource/Oceania;oceania;21;Male;High school degree or equivalent;germany;67
+http://dbpedia.org/resource/Asia;asia;0;Prefer not to say;NaN;nan;68
+http://dbpedia.org/resource/Europe;europe;0;Prefer not to say;NaN;nan;68
+http://dbpedia.org/resource/North_America;north america;0;Prefer not to say;NaN;nan;68
+http://dbpedia.org/resource/Africa;africa;24;Female;Master's degree;france;69
+http://dbpedia.org/resource/Australia_(continent);australia;24;Female;Master's degree;france;69
+http://dbpedia.org/resource/Europe;europe;24;Female;Master's degree;france;69
+http://dbpedia.org/resource/Europe;europe;26;Female;Master's degree;france;70
+http://dbpedia.org/resource/North_America;north america;26;Female;Master's degree;france;70
+http://dbpedia.org/resource/Asia;asia;26;Female;Master's degree;france;70
+http://dbpedia.org/resource/Europe;europe;34;Female;Master's degree;germany;71
+http://dbpedia.org/resource/Asia;asia;34;Female;Master's degree;germany;71
+http://dbpedia.org/resource/Africa;africa;34;Female;Master's degree;germany;71
+http://dbpedia.org/resource/Africa;africa;54;Male;Less than a high school degree;germany;72
+http://dbpedia.org/resource/Asia;asia;54;Male;Less than a high school degree;germany;72
+http://dbpedia.org/resource/Australia_(continent);australia;54;Male;Less than a high school degree;germany;72
+http://dbpedia.org/resource/Europe;europe;23;Male;Bachelor's degree;germany;73
+http://dbpedia.org/resource/North_America;north america;23;Male;Bachelor's degree;germany;73
+http://dbpedia.org/resource/Asia;asia;23;Male;Bachelor's degree;germany;73
+http://dbpedia.org/resource/Europe;europe;27;Male;Master's degree;germany;74
+http://dbpedia.org/resource/North_America;north america;27;Male;Master's degree;germany;74
+http://dbpedia.org/resource/Asia;asia;27;Male;Master's degree;germany;74
+http://dbpedia.org/resource/Europe;europe;25;Male;Bachelor's degree;germany;75
+http://dbpedia.org/resource/Africa;africa;25;Male;Bachelor's degree;germany;75
+http://dbpedia.org/resource/Asia;asia;25;Male;Bachelor's degree;germany;75
+http://dbpedia.org/resource/Africa;africa;27;Female;Master's degree;germany;76
+http://dbpedia.org/resource/Europe;europe;27;Female;Master's degree;germany;76
+http://dbpedia.org/resource/Australia_(continent);australia;27;Female;Master's degree;germany;76
+http://dbpedia.org/resource/Asia;asia;51;Male;High school degree or equivalent;germany;77
+http://dbpedia.org/resource/Europe;europe;51;Male;High school degree or equivalent;germany;77
+http://dbpedia.org/resource/Africa;africa;51;Male;High school degree or equivalent;germany;77
+http://dbpedia.org/resource/North_America;north america;26;Male;High school degree or equivalent;germany;78
+http://dbpedia.org/resource/South_America;south america;26;Male;High school degree or equivalent;germany;78
+http://dbpedia.org/resource/Asia;asia;26;Male;High school degree or equivalent;germany;78
+http://dbpedia.org/resource/Europe;europe;27;Male;Bachelor's degree;germany;79
+http://dbpedia.org/resource/North_America;north america;27;Male;Bachelor's degree;germany;79
+http://dbpedia.org/resource/Africa;africa;27;Male;Bachelor's degree;germany;79
+http://dbpedia.org/resource/Africa;africa;25;Male;Master's degree;germany;80
+http://dbpedia.org/resource/Europe;europe;25;Male;Master's degree;germany;80
+http://dbpedia.org/resource/Africa;africa;25;Male;Bachelor's degree;germany;81
+http://dbpedia.org/resource/Asia;asia;25;Male;Bachelor's degree;germany;81
+http://dbpedia.org/resource/Europe;europe;25;Male;Bachelor's degree;germany;81
+http://dbpedia.org/resource/Europe;europe;21;Male;High school degree or equivalent;germany;82
+http://dbpedia.org/resource/Asia;asia;21;Male;High school degree or equivalent;germany;82
+http://dbpedia.org/resource/Africa;africa;21;Male;High school degree or equivalent;germany;82
+http://dbpedia.org/resource/Europe;europe;23;Female;Bachelor's degree;germany;83
+http://dbpedia.org/resource/North_America;north america;23;Female;Bachelor's degree;germany;83
+http://dbpedia.org/resource/Africa;africa;23;Female;Bachelor's degree;germany;83
+http://dbpedia.org/resource/Africa;africa;28;Female;Master's degree;germany;84
+http://dbpedia.org/resource/North_America;north america;28;Female;Master's degree;germany;84
+http://dbpedia.org/resource/Europe;europe;28;Female;Master's degree;germany;84
+http://dbpedia.org/resource/Africa;africa;25;Female;Master's degree;germany;85
+http://dbpedia.org/resource/Asia;asia;25;Female;Master's degree;germany;85
+http://dbpedia.org/resource/Europe;europe;25;Female;Master's degree;germany;85
+http://dbpedia.org/resource/Europe;europe;25;Female;Bachelor's degree;russia;86
+http://dbpedia.org/resource/Africa;africa;25;Female;Bachelor's degree;russia;86
+http://dbpedia.org/resource/North_America;north america;25;Female;Bachelor's degree;russia;86
+http://dbpedia.org/resource/Africa;africa;24;Female;High school degree or equivalent;germany;87
+http://dbpedia.org/resource/Asia;asia;24;Female;High school degree or equivalent;germany;87
+http://dbpedia.org/resource/Australia_(continent);australia;24;Female;High school degree or equivalent;germany;87
+http://dbpedia.org/resource/Africa;africa;26;Male;Bachelor's degree;germany;88
+http://dbpedia.org/resource/Australia_(continent);australia;26;Male;Bachelor's degree;germany;88
+http://dbpedia.org/resource/Europe;europe;26;Male;Bachelor's degree;germany;88
+http://dbpedia.org/resource/Asia;asia;27;Female;Master's degree;germany;89
+http://dbpedia.org/resource/Europe;europe;27;Female;Master's degree;germany;89
+http://dbpedia.org/resource/Africa;africa;27;Female;Master's degree;germany;89
+http://dbpedia.org/resource/Asia;asia;25;Male;Bachelor's degree;germany;90
+http://dbpedia.org/resource/Europe;europe;25;Male;Bachelor's degree;germany;90
+http://dbpedia.org/resource/Africa;africa;25;Male;Bachelor's degree;germany;90
+http://dbpedia.org/resource/Europe;europe;25;Male;High school degree or equivalent;germany;91
+http://dbpedia.org/resource/Asia;asia;25;Male;High school degree or equivalent;germany;91
+http://dbpedia.org/resource/South_America;south america;25;Male;High school degree or equivalent;germany;91
+http://dbpedia.org/resource/Europe;europe;28;Male;High school degree or equivalent;germany;92
+http://dbpedia.org/resource/North_America;north america;28;Male;High school degree or equivalent;germany;92
+http://dbpedia.org/resource/Africa;africa;28;Male;High school degree or equivalent;germany;92
+http://dbpedia.org/resource/Europe;europe;47;Female;Bachelor's degree;england;93
+http://dbpedia.org/resource/Asia;asia;47;Female;Bachelor's degree;england;93
+http://dbpedia.org/resource/Africa;africa;47;Female;Bachelor's degree;england;93
+http://dbpedia.org/resource/Asia;asia;38;Male;Bachelor's degree;germany;94
+http://dbpedia.org/resource/Europe;europe;38;Male;Bachelor's degree;germany;94
+http://dbpedia.org/resource/Africa;africa;38;Male;Bachelor's degree;germany;94
+http://dbpedia.org/resource/Asia;asia;40;Female;Bachelor's degree;china;95
+http://dbpedia.org/resource/Europe;europe;40;Female;Bachelor's degree;china;95
+http://dbpedia.org/resource/Africa;africa;40;Female;Bachelor's degree;china;95
+http://dbpedia.org/resource/North_America;north america;28;Female;High school degree or equivalent;pakistan;96
+http://dbpedia.org/resource/Europe;europe;28;Female;High school degree or equivalent;pakistan;96
+http://dbpedia.org/resource/Asia;asia;28;Female;High school degree or equivalent;pakistan;96
+http://dbpedia.org/resource/Europe;europe;48;Female;Diplom;germany;97
+http://dbpedia.org/resource/Africa;africa;48;Female;Diplom;germany;97
+http://dbpedia.org/resource/Asia;asia;48;Female;Diplom;germany;97
+http://dbpedia.org/resource/Europe;europe;26;Male;Less than a high school degree;germany;98
+http://dbpedia.org/resource/Australia_(continent);australia;26;Male;Less than a high school degree;germany;98
+http://dbpedia.org/resource/Antarctica;antarctica;26;Male;Less than a high school degree;germany;98
+http://dbpedia.org/resource/Europe;europe;26;Female;High school degree or equivalent;germany;99
+http://dbpedia.org/resource/Australia_(continent);australia;26;Female;High school degree or equivalent;germany;99
+http://dbpedia.org/resource/Africa;africa;26;Female;High school degree or equivalent;germany;99
+http://dbpedia.org/resource/Australia_(continent);australia;45;Female;Bachelor's degree;usa;100
+http://dbpedia.org/resource/Europe;europe;45;Female;Bachelor's degree;usa;100
+http://dbpedia.org/resource/Asia;asia;45;Female;Bachelor's degree;usa;100
+http://dbpedia.org/resource/Europe;europe;23;Female;Master's degree;england;101
+http://dbpedia.org/resource/Australia_(continent);australia;23;Female;Master's degree;england;101
+http://dbpedia.org/resource/Africa;africa;23;Female;Master's degree;england;101
+http://dbpedia.org/resource/Asia;asia;26;Female;Bachelor's degree;germany;102
+http://dbpedia.org/resource/Africa;africa;26;Female;Bachelor's degree;germany;102
+http://dbpedia.org/resource/North_America;north america;26;Female;Bachelor's degree;germany;102
+http://dbpedia.org/resource/Europe;europe;70;Female;Dipl.-Ing.;germany;103
+http://dbpedia.org/resource/Asia;asia;70;Female;Dipl.-Ing.;germany;103
+http://dbpedia.org/resource/Africa;africa;70;Female;Dipl.-Ing.;germany;103
+http://dbpedia.org/resource/Asia;asia;33;Female;Master's degree;iran;104
+http://dbpedia.org/resource/Africa;africa;33;Female;Master's degree;iran;104
+http://dbpedia.org/resource/Europe;europe;33;Female;Master's degree;iran;104
+http://dbpedia.org/resource/Asia;asia;59;Male;Doctorate (e.g. PhD);germany;105
+http://dbpedia.org/resource/Europe;europe;59;Male;Doctorate (e.g. PhD);germany;105
+http://dbpedia.org/resource/Africa;africa;59;Male;Doctorate (e.g. PhD);germany;105
+http://dbpedia.org/resource/Europe;europe;47;Female;Doctorate (e.g. PhD);germany;106
+http://dbpedia.org/resource/Asia;asia;47;Female;Doctorate (e.g. PhD);germany;106
+http://dbpedia.org/resource/Australia_(continent);australia;47;Female;Doctorate (e.g. PhD);germany;106
+http://dbpedia.org/resource/Asia;asia;50;Female;Doctorate (e.g. PhD);germany;107
+http://dbpedia.org/resource/Europe;europe;50;Female;Doctorate (e.g. PhD);germany;107
+http://dbpedia.org/resource/Africa;africa;50;Female;Doctorate (e.g. PhD);germany;107
+http://dbpedia.org/resource/Asia;asia;45;Female;Doctorate (e.g. PhD);germany;108
+http://dbpedia.org/resource/North_America;north america;45;Female;Doctorate (e.g. PhD);germany;108
+http://dbpedia.org/resource/Europe;europe;45;Female;Doctorate (e.g. PhD);germany;108

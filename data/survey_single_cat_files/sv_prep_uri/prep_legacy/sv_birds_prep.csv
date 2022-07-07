@@ -1,0 +1,305 @@
+uri;birds;p_age;p_gender;p_education;p_country;p_id
+http://dbpedia.org/resource/Robin;robin;26;Male;Bachelor's degree;germany;0
+http://dbpedia.org/resource/Mockingbird;mockingbird;26;Male;Bachelor's degree;germany;0
+http://dbpedia.org/resource/Pelican;pelican;26;Male;Bachelor's degree;germany;0
+http://dbpedia.org/resource/Ostrich;ostrich;44;Male;Doctorate (e.g. PhD);germany;1
+http://dbpedia.org/resource/Owl;owl;44;Male;Doctorate (e.g. PhD);germany;1
+http://dbpedia.org/resource/Mockingbird;mockingbird;44;Male;Doctorate (e.g. PhD);germany;1
+http://dbpedia.org/resource/Common_nightingale;nightingale;46;Male;Bachelor's degree;france;2
+http://dbpedia.org/resource/Swallow;swallow;46;Male;Bachelor's degree;france;2
+http://dbpedia.org/resource/Pelican;pelican;46;Male;Bachelor's degree;france;2
+http://dbpedia.org/resource/Eagle;eagle;28;Male;Master's degree;germany;3
+http://dbpedia.org/resource/Magpie;magpie;28;Male;Master's degree;germany;3
+http://dbpedia.org/resource/Owl;owl;28;Male;Master's degree;germany;3
+http://dbpedia.org/resource/Sparrow;sparrow;34;Female;Master's degree;switzerland;4
+http://dbpedia.org/resource/Eagle;eagle;34;Female;Master's degree;switzerland;4
+http://dbpedia.org/resource/Gull;gull;34;Female;Master's degree;switzerland;4
+http://dbpedia.org/resource/Eagle;eagle;27;Male;Bachelor's degree;germany;5
+http://dbpedia.org/resource/Columbidae;dove;27;Male;Bachelor's degree;germany;5
+http://dbpedia.org/resource/Columbidae;pigeon;27;Male;Bachelor's degree;germany;5
+http://dbpedia.org/resource/Eagle;eagle;27;Male;Master's degree;germany;6
+http://dbpedia.org/resource/Sparrow;sparrow;27;Male;Master's degree;germany;6
+http://dbpedia.org/resource/Duck;duck;27;Male;Master's degree;germany;6
+http://dbpedia.org/resource/Eagle;eagle;27;Male;Master's degree;germany;7
+http://dbpedia.org/resource/Buteo;buzzard;27;Male;Master's degree;germany;7
+http://dbpedia.org/resource/Common_blackbird;blackbird;27;Male;Master's degree;germany;7
+http://dbpedia.org/resource/Eagle;eagle;28;Male;High school degree or equivalent;germany;8
+http://dbpedia.org/resource/Falcon;falcon;28;Male;High school degree or equivalent;germany;8
+http://dbpedia.org/resource/Ostrich;ostrich;28;Male;High school degree or equivalent;germany;8
+http://dbpedia.org/resource/Eagle;eagle;29;Male;Master's degree;germany;9
+http://dbpedia.org/resource/Penguin;penguin;29;Male;Master's degree;germany;9
+http://dbpedia.org/resource/Kiwi_(bird);kiwi;29;Male;Master's degree;germany;9
+http://dbpedia.org/resource/Robin;robin;26;Male;Master's degree;germany;10
+http://dbpedia.org/resource/Owl;owl;26;Male;Master's degree;germany;10
+http://dbpedia.org/resource/Penguin;penguin;26;Male;Master's degree;germany;10
+http://dbpedia.org/resource/Common_blackbird;blackbird;37;Male;Master's degree;germany;11
+http://dbpedia.org/resource/Thrush_(bird);choke;37;Male;Master's degree;germany;11
+http://dbpedia.org/resource/Finch;fink;37;Male;Master's degree;germany;11
+http://dbpedia.org/resource/Common_blackbird;blackbird;24;Male;Master's degree;germany;12
+http://dbpedia.org/resource/Robin;red calyx;24;Male;Master's degree;germany;12
+http://dbpedia.org/resource/Stork;stork;24;Male;Master's degree;germany;12
+http://dbpedia.org/resource/Columbidae;dove;26;Female;Master's degree;germany;13
+http://dbpedia.org/resource/Crow;crow;26;Female;Master's degree;germany;13
+http://dbpedia.org/resource/Stork;stork;26;Female;Master's degree;germany;13
+http://dbpedia.org/resource/Eagle;eagle;26;Female;Master's degree;germany;14
+http://dbpedia.org/resource/Hummingbird;hummingbird;26;Female;Master's degree;germany;14
+http://dbpedia.org/resource/Robin;robin;26;Female;Master's degree;germany;14
+http://dbpedia.org/resource/Common_blackbird;blackbird;28;Female;Doctorate (e.g. PhD);germany;15
+http://dbpedia.org/resource/Thrush_(bird);choke;28;Female;Doctorate (e.g. PhD);germany;15
+http://dbpedia.org/resource/Finch;fink;28;Female;Doctorate (e.g. PhD);germany;15
+http://dbpedia.org/resource/Columbidae;pidgeon;25;Male;NaN;germany;16
+http://dbpedia.org/resource/Mockingbird;mockingbird;31;Female;Master's degree;germany;17
+http://dbpedia.org/resource/Chicken;chicken;31;Female;Master's degree;germany;17
+http://dbpedia.org/resource/Gull;seagull;31;Female;Master's degree;germany;17
+http://dbpedia.org/resource/Owl;owl;36;Male;Master's degree;germany;18
+http://dbpedia.org/resource/Hawk;hawk;36;Male;Master's degree;germany;18
+http://dbpedia.org/resource/Hummingbird;hummingbird;36;Male;Master's degree;germany;18
+http://dbpedia.org/resource/Mockingbird;mockingbird;27;Male;Master's degree;germany;19
+http://dbpedia.org/resource/Hummingbird;hummingbird;27;Male;Master's degree;germany;19
+http://dbpedia.org/resource/Columbidae;pigeon;33;Male;Doctorate (e.g. PhD);germany;20
+http://dbpedia.org/resource/Swallow;swallow;33;Male;Doctorate (e.g. PhD);germany;20
+http://dbpedia.org/resource/Owl;owl;33;Male;Doctorate (e.g. PhD);germany;20
+http://dbpedia.org/resource/Robin;robin;26;Male;Bachelor's degree;usa;21
+http://dbpedia.org/resource/Crow;crow;26;Male;Bachelor's degree;usa;21
+http://dbpedia.org/resource/Cardinal_(bird);cardinal;26;Male;Bachelor's degree;usa;21
+http://dbpedia.org/resource/Kiwi_(bird);kiwi;44;Female;Doctorate (e.g. PhD);sweden;22
+http://dbpedia.org/resource/Hummingbird;hummingbird;44;Female;Doctorate (e.g. PhD);sweden;22
+http://dbpedia.org/resource/Robin;robin;26;Male;Bachelor's degree;germany;23
+http://dbpedia.org/resource/Owl;owl;26;Male;Bachelor's degree;germany;23
+http://dbpedia.org/resource/Sparrow;sparrow;26;Male;Bachelor's degree;germany;23
+http://dbpedia.org/resource/Eagle;eagle;27;Male;Bachelor's degree;nan;24
+http://dbpedia.org/resource/Tit_(bird);tit;27;Male;Bachelor's degree;nan;24
+;woodpecker;27;Male;Bachelor's degree;nan;24
+http://dbpedia.org/resource/Robin;robin;23;Male;Bachelor's degree;germany;25
+http://dbpedia.org/resource/Parrot;parrot;23;Male;Bachelor's degree;germany;25
+http://dbpedia.org/resource/Eagle;eagle;23;Male;Bachelor's degree;germany;25
+http://dbpedia.org/resource/Pelican;pelican;22;Male;Bachelor's degree;germany;26
+http://dbpedia.org/resource/Raven;raven;22;Male;Bachelor's degree;germany;26
+http://dbpedia.org/resource/Eagle;eagle;22;Male;Bachelor's degree;germany;26
+http://dbpedia.org/resource/Eagle;eagle;25;Male;Bachelor's degree;germany;27
+http://dbpedia.org/resource/Cardinal_(bird);cardinal;25;Male;Bachelor's degree;germany;27
+http://dbpedia.org/resource/Columbidae;dove;25;Male;Bachelor's degree;germany;27
+http://dbpedia.org/resource/Eagle;eagle;27;Male;Master's degree;germany;28
+http://dbpedia.org/resource/Goose;goose;27;Male;Master's degree;germany;28
+http://dbpedia.org/resource/Penguin;penguin;27;Male;Master's degree;germany;28
+http://dbpedia.org/resource/Eagle;eagle;30;Male;Bachelor's degree;usa;29
+http://dbpedia.org/resource/Parakeet;parakeet;30;Male;Bachelor's degree;usa;29
+http://dbpedia.org/resource/Falcon;falcon;30;Male;Bachelor's degree;usa;29
+http://dbpedia.org/resource/Sparrow;sparrow;28;Male;Master's degree;germany;30
+http://dbpedia.org/resource/Falcon;falcon;28;Male;Master's degree;germany;30
+http://dbpedia.org/resource/Hummingbird;hummingbird;28;Male;Master's degree;germany;30
+http://dbpedia.org/resource/Crow;crow;38;Female;Doctorate (e.g. PhD);greece;31
+http://dbpedia.org/resource/Chicken;chicken;38;Female;Doctorate (e.g. PhD);greece;31
+http://dbpedia.org/resource/Common_nightingale;nightingale;38;Female;Doctorate (e.g. PhD);greece;31
+http://dbpedia.org/resource/Hummingbird;hummingbird;28;Male;Master's degree;germany;32
+http://dbpedia.org/resource/Eagle;eagle;28;Male;Master's degree;germany;32
+http://dbpedia.org/resource/Sparrow;sparrow;28;Male;Master's degree;germany;32
+http://dbpedia.org/resource/Columbidae;dove;26;Male;Bachelor's degree;germany;33
+http://dbpedia.org/resource/Sparrow;sparrow;26;Male;Bachelor's degree;germany;33
+http://dbpedia.org/resource/Gull;seagull;26;Male;Bachelor's degree;germany;33
+http://dbpedia.org/resource/Eurasian_blue_tit;blue tit;19;Male;High school degree or equivalent;germany;34
+http://dbpedia.org/resource/Eagle;eagle;19;Male;High school degree or equivalent;germany;34
+http://dbpedia.org/resource/Sparrow;sparrow;19;Male;High school degree or equivalent;germany;34
+http://dbpedia.org/resource/Hummingbird;colibri;25;Female;Bachelor's degree;germany;35
+http://dbpedia.org/resource/Stork;stork;25;Female;Bachelor's degree;germany;35
+http://dbpedia.org/resource/Chicken;chicken;25;Female;Bachelor's degree;germany;35
+;woodpecker;24;Female;Master's degree;germany;36
+http://dbpedia.org/resource/Cuckoo;cuckoo;24;Female;Master's degree;germany;36
+http://dbpedia.org/resource/Crow;crow;24;Female;Master's degree;germany;36
+http://dbpedia.org/resource/Red_kite;red kite;25;Male;Bachelor's degree;germany;37
+http://dbpedia.org/resource/Whinchat;brown throat;25;Male;Bachelor's degree;germany;37
+http://dbpedia.org/resource/Common_blackbird;blackbird;25;Male;Bachelor's degree;germany;37
+http://dbpedia.org/resource/Common_blackbird;blackbird;64;Male;Doctorate (e.g. PhD);austria;38
+http://dbpedia.org/resource/Eagle;eagle;64;Male;Doctorate (e.g. PhD);austria;38
+http://dbpedia.org/resource/Sparrow;sparrow;64;Male;Doctorate (e.g. PhD);austria;38
+http://dbpedia.org/resource/Eagle;eagle;24;Male;Bachelor's degree;germany;39
+http://dbpedia.org/resource/Vulture;vulture;24;Male;Bachelor's degree;germany;39
+http://dbpedia.org/resource/Crow;crow;24;Male;Bachelor's degree;germany;39
+http://dbpedia.org/resource/Common_blackbird;blackbird;31;Male;Bachelor's degree;germany;40
+http://dbpedia.org/resource/Eagle;eagle;31;Male;Bachelor's degree;germany;40
+http://dbpedia.org/resource/Vulture;vulture;31;Male;Bachelor's degree;germany;40
+http://dbpedia.org/resource/Ara_(bird);ara;25;Female;Bachelor's degree;germany;41
+http://dbpedia.org/resource/Mockingbird;mockingbird;25;Female;Bachelor's degree;germany;41
+http://dbpedia.org/resource/Robin;robin;25;Female;Bachelor's degree;germany;41
+http://dbpedia.org/resource/Tit_(bird);tit;28;Female;Bachelor's degree;germany;42
+http://dbpedia.org/resource/Common_blackbird;blackbird;28;Female;Bachelor's degree;germany;42
+http://dbpedia.org/resource/Hummingbird;hummingbird;28;Female;Bachelor's degree;germany;42
+http://dbpedia.org/resource/Common_blackbird;blackbird;37;Female;Master's degree;germany;43
+http://dbpedia.org/resource/Sparrow;sparrow;37;Female;Master's degree;germany;43
+http://dbpedia.org/resource/Finch;fink;37;Female;Master's degree;germany;43
+http://dbpedia.org/resource/Eagle;eagle;50;Female;High school degree or equivalent;germany;44
+http://dbpedia.org/resource/Robin;robin;50;Female;High school degree or equivalent;germany;44
+http://dbpedia.org/resource/Parrot;parrot;50;Female;High school degree or equivalent;germany;44
+http://dbpedia.org/resource/Owl;owl;28;Female;High school degree or equivalent;germany;45
+http://dbpedia.org/resource/Duck;duck;28;Female;High school degree or equivalent;germany;45
+http://dbpedia.org/resource/Swan;swan;28;Female;High school degree or equivalent;germany;45
+http://dbpedia.org/resource/Eagle;eagle;31;Male;Bachelor's degree;germany;46
+http://dbpedia.org/resource/Chicken;chicken;31;Male;Bachelor's degree;germany;46
+http://dbpedia.org/resource/Vulture;vulture;31;Male;Bachelor's degree;germany;46
+http://dbpedia.org/resource/Eagle;eagle;21;Female;High school degree or equivalent;germany;47
+http://dbpedia.org/resource/Chicken;chicken;21;Female;High school degree or equivalent;germany;47
+http://dbpedia.org/resource/Penguin;penguin;21;Female;High school degree or equivalent;germany;47
+http://dbpedia.org/resource/Swan;swan;23;Female;Bachelor's degree;germany;48
+http://dbpedia.org/resource/Eagle;eagle;36;Male;Bachelor's degree;india;49
+http://dbpedia.org/resource/Hummingbird;hummingbird;36;Male;Bachelor's degree;india;49
+http://dbpedia.org/resource/Crane_(bird);crane;36;Male;Bachelor's degree;india;49
+http://dbpedia.org/resource/Columbidae;pigeon;28;Female;Master's degree;romania;50
+http://dbpedia.org/resource/Eagle;eagle;28;Female;Master's degree;romania;50
+http://dbpedia.org/resource/Sparrow;sparrow;28;Female;Master's degree;romania;50
+;woodpecker;19;Female;High school degree or equivalent;germany;51
+http://dbpedia.org/resource/Sparrow;sparrow;19;Female;High school degree or equivalent;germany;51
+http://dbpedia.org/resource/Common_blackbird;blackbird;19;Female;High school degree or equivalent;germany;51
+http://dbpedia.org/resource/Tit_(bird);tit;19;Female;High school degree or equivalent;germany;52
+http://dbpedia.org/resource/Swallow;swallow;19;Female;High school degree or equivalent;germany;52
+http://dbpedia.org/resource/Gull;gull;19;Female;High school degree or equivalent;germany;52
+;nan;25;Male;Bachelor's degree;germany;53
+http://dbpedia.org/resource/Parakeet;parakeet;34;Female;Master's degree;france;54
+http://dbpedia.org/resource/Robin;robin;34;Female;Master's degree;france;54
+http://dbpedia.org/resource/Duck;duck;34;Female;Master's degree;france;54
+http://dbpedia.org/resource/Common_blackbird;blackbird;20;Female;High school degree or equivalent;germany;55
+http://dbpedia.org/resource/Robin;robin;20;Female;High school degree or equivalent;germany;55
+http://dbpedia.org/resource/Eurasian_blue_tit;blue tit;20;Female;High school degree or equivalent;germany;55
+http://dbpedia.org/resource/Parrot;parrot;26;Female;Master's degree;france;56
+http://dbpedia.org/resource/Common_nightingale;nightingale;26;Female;Master's degree;france;56
+http://dbpedia.org/resource/Crow;crow;26;Female;Master's degree;france;56
+http://dbpedia.org/resource/Sparrow;sparrow;29;Prefer not to say;Master's degree;germany;57
+http://dbpedia.org/resource/Crane_(bird);crane;29;Prefer not to say;Master's degree;germany;57
+http://dbpedia.org/resource/Eagle;eagle;29;Prefer not to say;Master's degree;germany;57
+http://dbpedia.org/resource/Eagle;eagle;31;Male;Master's degree;germany;58
+http://dbpedia.org/resource/Mockingbird;mockingbird;31;Male;Master's degree;germany;58
+http://dbpedia.org/resource/Raven;raven;31;Male;Master's degree;germany;58
+http://dbpedia.org/resource/Sparrow;sparrow;23;Male;High school degree or equivalent;germany;59
+;woodpecker;23;Male;High school degree or equivalent;germany;59
+http://dbpedia.org/resource/Columbidae;dove;23;Male;High school degree or equivalent;germany;59
+http://dbpedia.org/resource/Eagle;eagle;21;Female;High school degree or equivalent;germany;60
+http://dbpedia.org/resource/Parrot;parrot;21;Female;High school degree or equivalent;germany;60
+http://dbpedia.org/resource/Finch;finch;21;Female;High school degree or equivalent;germany;60
+http://dbpedia.org/resource/Eagle;eagle;54;Male;High school degree or equivalent;germany;61
+http://dbpedia.org/resource/Falcon;falcon;54;Male;High school degree or equivalent;germany;61
+http://dbpedia.org/resource/Raven;raven;54;Male;High school degree or equivalent;germany;61
+http://dbpedia.org/resource/Sparrow;sparrow;30;Female;Master's degree;france;62
+http://dbpedia.org/resource/Eagle;eagle;30;Female;Master's degree;france;62
+http://dbpedia.org/resource/Crow;crow;30;Female;Master's degree;france;62
+http://dbpedia.org/resource/Common_nightingale;nightingale;24;Male;Bachelor's degree;germany;63
+http://dbpedia.org/resource/Eagle;eagle;24;Male;Bachelor's degree;germany;63
+http://dbpedia.org/resource/Parrot;parrot;24;Male;Bachelor's degree;germany;63
+;nan;17;Male;Less than a high school degree;germany;64
+http://dbpedia.org/resource/Pileated_woodpecker;pileated woodpecker;25;Female;High school degree or equivalent;germany;65
+http://dbpedia.org/resource/Common_blackbird;blackbird;25;Female;High school degree or equivalent;germany;65
+http://dbpedia.org/resource/Common_chaffinch;chaffinch;25;Female;High school degree or equivalent;germany;65
+;nan;16;Male;Less than a high school degree;germany;66
+http://dbpedia.org/resource/Parrot;parrot;21;Male;High school degree or equivalent;germany;67
+http://dbpedia.org/resource/Sparrow;sparrow;21;Male;High school degree or equivalent;germany;67
+http://dbpedia.org/resource/Eagle;eagle;0;Prefer not to say;NaN;nan;68
+http://dbpedia.org/resource/Vulture;vulture;0;Prefer not to say;NaN;nan;68
+http://dbpedia.org/resource/Sparrow;sparrow;0;Prefer not to say;NaN;nan;68
+http://dbpedia.org/resource/Robin;robin;24;Female;Master's degree;france;69
+http://dbpedia.org/resource/Magpie;magpie;24;Female;Master's degree;france;69
+http://dbpedia.org/resource/Eagle;eagle;24;Female;Master's degree;france;69
+;mockingjay;26;Female;Master's degree;france;70
+http://dbpedia.org/resource/Raven;raven;26;Female;Master's degree;france;70
+http://dbpedia.org/resource/Eagle;eagle;26;Female;Master's degree;france;70
+http://dbpedia.org/resource/Common_blackbird;blackbird;34;Female;Master's degree;germany;71
+http://dbpedia.org/resource/Tit_(bird);tit;34;Female;Master's degree;germany;71
+http://dbpedia.org/resource/Finch;fink;34;Female;Master's degree;germany;71
+;nan;54;Male;Less than a high school degree;germany;72
+http://dbpedia.org/resource/Mockingbird;mockingbird;23;Male;Bachelor's degree;germany;73
+http://dbpedia.org/resource/Eagle;eagle;23;Male;Bachelor's degree;germany;73
+http://dbpedia.org/resource/Columbidae;pigeon;27;Male;Master's degree;germany;74
+http://dbpedia.org/resource/Penguin;penguin;27;Male;Master's degree;germany;74
+http://dbpedia.org/resource/Hummingbird;hummingbird;27;Male;Master's degree;germany;74
+http://dbpedia.org/resource/Albatross;albatross;25;Male;Bachelor's degree;germany;75
+http://dbpedia.org/resource/Gull;seagull;25;Male;Bachelor's degree;germany;75
+http://dbpedia.org/resource/Raven;raven;25;Male;Bachelor's degree;germany;75
+http://dbpedia.org/resource/Parrot;parrot;27;Female;Master's degree;germany;76
+http://dbpedia.org/resource/Kookaburra;kookaburra;27;Female;Master's degree;germany;76
+http://dbpedia.org/resource/Raven;raven;27;Female;Master's degree;germany;76
+http://dbpedia.org/resource/Owl;owl;51;Male;High school degree or equivalent;germany;77
+http://dbpedia.org/resource/Common_blackbird;blackbird;51;Male;High school degree or equivalent;germany;77
+http://dbpedia.org/resource/Buteo;buzzard;51;Male;High school degree or equivalent;germany;77
+http://dbpedia.org/resource/Common_blackbird;blackbird;26;Male;High school degree or equivalent;germany;78
+http://dbpedia.org/resource/Thrush_(bird);choke;26;Male;High school degree or equivalent;germany;78
+http://dbpedia.org/resource/Finch;fink;26;Male;High school degree or equivalent;germany;78
+http://dbpedia.org/resource/Crow;crow;27;Male;Bachelor's degree;germany;79
+http://dbpedia.org/resource/Columbidae;pigeon;27;Male;Bachelor's degree;germany;79
+http://dbpedia.org/resource/Eagle;eagle;27;Male;Bachelor's degree;germany;79
+http://dbpedia.org/resource/Eagle;eagle;25;Male;Master's degree;germany;80
+http://dbpedia.org/resource/Hawk;hawk;25;Male;Master's degree;germany;80
+http://dbpedia.org/resource/Eagle;eagle;25;Male;Bachelor's degree;germany;81
+http://dbpedia.org/resource/Common_kingfisher;kingfisher;21;Male;High school degree or equivalent;germany;82
+http://dbpedia.org/resource/Crane_(bird);crane;21;Male;High school degree or equivalent;germany;82
+http://dbpedia.org/resource/Budgerigar;budgie;21;Male;High school degree or equivalent;germany;82
+http://dbpedia.org/resource/Robin;robin;23;Female;Bachelor's degree;germany;83
+http://dbpedia.org/resource/Magpie;magpie;23;Female;Bachelor's degree;germany;83
+http://dbpedia.org/resource/Pidgeon;deaf;23;Female;Bachelor's degree;germany;83
+http://dbpedia.org/resource/Duck;duck;28;Female;Master's degree;germany;84
+http://dbpedia.org/resource/Eagle;eagle;28;Female;Master's degree;germany;84
+http://dbpedia.org/resource/Sparrow;sparrow;28;Female;Master's degree;germany;84
+http://dbpedia.org/resource/Owl;owl;25;Female;Master's degree;germany;85
+http://dbpedia.org/resource/Stork;stork;25;Female;Bachelor's degree;russia;86
+http://dbpedia.org/resource/Columbidae;pigeon;25;Female;Bachelor's degree;russia;86
+http://dbpedia.org/resource/Hummingbird;colibri;25;Female;Bachelor's degree;russia;86
+http://dbpedia.org/resource/Budgerigar;budgie;24;Female;High school degree or equivalent;germany;87
+http://dbpedia.org/resource/Parrot;parrot;24;Female;High school degree or equivalent;germany;87
+http://dbpedia.org/resource/Eagle;eagle;24;Female;High school degree or equivalent;germany;87
+http://dbpedia.org/resource/Tit_(bird);tit;26;Male;Bachelor's degree;germany;88
+http://dbpedia.org/resource/Common_blackbird;blackbird;26;Male;Bachelor's degree;germany;88
+http://dbpedia.org/resource/Magpie;magpie;26;Male;Bachelor's degree;germany;88
+http://dbpedia.org/resource/Eagle;eagle;27;Female;Master's degree;germany;89
+http://dbpedia.org/resource/Budgerigar;budgie;27;Female;Master's degree;germany;89
+http://dbpedia.org/resource/Parrot;parrot;27;Female;Master's degree;germany;89
+http://dbpedia.org/resource/Budgerigar;budgie;25;Male;Bachelor's degree;germany;90
+http://dbpedia.org/resource/Columbidae;dove;25;Male;Bachelor's degree;germany;90
+http://dbpedia.org/resource/Common_chiffchaff;chiffchaff;25;Male;Bachelor's degree;germany;90
+http://dbpedia.org/resource/Raven;raven;25;Male;High school degree or equivalent;germany;91
+http://dbpedia.org/resource/Ostrich;ostrich;25;Male;High school degree or equivalent;germany;91
+http://dbpedia.org/resource/Peafowl;peacock;25;Male;High school degree or equivalent;germany;91
+http://dbpedia.org/resource/Columbidae;dove;28;Male;High school degree or equivalent;germany;92
+http://dbpedia.org/resource/Eagle;eagle;28;Male;High school degree or equivalent;germany;92
+http://dbpedia.org/resource/Sparrow;sparrow;28;Male;High school degree or equivalent;germany;92
+http://dbpedia.org/resource/Common_blackbird;blackbird;47;Female;Bachelor's degree;england;93
+http://dbpedia.org/resource/Robin;robin;47;Female;Bachelor's degree;england;93
+http://dbpedia.org/resource/Eurasian_blue_tit;blue tit;47;Female;Bachelor's degree;england;93
+http://dbpedia.org/resource/Common_blackbird;blackbird;38;Male;Bachelor's degree;germany;94
+http://dbpedia.org/resource/Tit_(bird);tit;38;Male;Bachelor's degree;germany;94
+http://dbpedia.org/resource/Finch;finch;38;Male;Bachelor's degree;germany;94
+http://dbpedia.org/resource/Robin;robin;40;Female;Bachelor's degree;china;95
+http://dbpedia.org/resource/Common_nightingale;nightingale;40;Female;Bachelor's degree;china;95
+http://dbpedia.org/resource/Gull;seagull;40;Female;Bachelor's degree;china;95
+;nan;28;Female;High school degree or equivalent;pakistan;96
+http://dbpedia.org/resource/Common_blackbird;blackbird;48;Female;Diplom;germany;97
+http://dbpedia.org/resource/Sparrow;sparrow;48;Female;Diplom;germany;97
+http://dbpedia.org/resource/Tit_(bird);tit;48;Female;Diplom;germany;97
+http://dbpedia.org/resource/Falcon;falcon;26;Male;Less than a high school degree;germany;98
+http://dbpedia.org/resource/Parrot;parrot;26;Male;Less than a high school degree;germany;98
+http://dbpedia.org/resource/Eagle;eagle;26;Male;Less than a high school degree;germany;98
+http://dbpedia.org/resource/Owl;owl;26;Female;High school degree or equivalent;germany;99
+http://dbpedia.org/resource/Raven;raven;26;Female;High school degree or equivalent;germany;99
+http://dbpedia.org/resource/Hummingbird;hummingbird;26;Female;High school degree or equivalent;germany;99
+http://dbpedia.org/resource/Cardinal_(bird);cardinal;45;Female;Bachelor's degree;usa;100
+http://dbpedia.org/resource/Robin;robin;45;Female;Bachelor's degree;usa;100
+http://dbpedia.org/resource/Wren;wren;45;Female;Bachelor's degree;usa;100
+http://dbpedia.org/resource/Magpie;magpie;23;Female;Master's degree;england;101
+http://dbpedia.org/resource/Crow;crow;23;Female;Master's degree;england;101
+http://dbpedia.org/resource/Robin;robin;23;Female;Master's degree;england;101
+http://dbpedia.org/resource/Gull;seagull;26;Female;Bachelor's degree;germany;102
+http://dbpedia.org/resource/Robin;robin;26;Female;Bachelor's degree;germany;102
+http://dbpedia.org/resource/Sparrow;sparrow;26;Female;Bachelor's degree;germany;102
+http://dbpedia.org/resource/Eagle;eagle;70;Female;Dipl.-Ing.;germany;103
+http://dbpedia.org/resource/Swallow;swallow;70;Female;Dipl.-Ing.;germany;103
+http://dbpedia.org/resource/Columbidae;pigeon;70;Female;Dipl.-Ing.;germany;103
+http://dbpedia.org/resource/Chicken;chicken;33;Female;Master's degree;iran;104
+http://dbpedia.org/resource/Sparrow;sparrow;33;Female;Master's degree;iran;104
+http://dbpedia.org/resource/Chicken;rooster;33;Female;Master's degree;iran;104
+http://dbpedia.org/resource/Eagle;eagle;59;Male;Doctorate (e.g. PhD);germany;105
+http://dbpedia.org/resource/Common_nightingale;nightingale;59;Male;Doctorate (e.g. PhD);germany;105
+http://dbpedia.org/resource/Gull;seagull;59;Male;Doctorate (e.g. PhD);germany;105
+http://dbpedia.org/resource/Thrush_(bird);thrush;47;Female;Doctorate (e.g. PhD);germany;106
+http://dbpedia.org/resource/Crow;crow;47;Female;Doctorate (e.g. PhD);germany;106
+http://dbpedia.org/resource/Stork;stork;47;Female;Doctorate (e.g. PhD);germany;106
+http://dbpedia.org/resource/Sparrow;sparrow;50;Female;Doctorate (e.g. PhD);germany;107
+http://dbpedia.org/resource/Eagle;eagle;50;Female;Doctorate (e.g. PhD);germany;107
+http://dbpedia.org/resource/Falcon;falcon;50;Female;Doctorate (e.g. PhD);germany;107
+http://dbpedia.org/resource/Flamingo;flamingo;45;Female;Doctorate (e.g. PhD);germany;108
+http://dbpedia.org/resource/Swan;swan;45;Female;Doctorate (e.g. PhD);germany;108
+http://dbpedia.org/resource/Raven;raven;45;Female;Doctorate (e.g. PhD);germany;108

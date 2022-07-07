@@ -1,0 +1,319 @@
+fast_food;p_age;p_gender;p_education;p_country;p_id;uri
+french fries;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/France
+hamburger;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Hamburger_SV
+pizza;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Pizza
+hamburger;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Hamburger_SV
+pizza;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Pizza
+french fries;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/France
+hamburger;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Hamburger_SV
+poutine;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Poutine
+hot dog;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Hot_dog
+hamburger;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Hamburger_SV
+french fries;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/France
+pizza;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Pizza
+french fries;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/France
+hamburger;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Hamburger_SV
+nuggets;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Denver_Nuggets
+hamburger;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Hamburger_SV
+sandwich;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+pizza;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Pizza
+hamburger;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Hamburger_SV
+french fries;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/France
+kebab;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Kebab
+hamburger;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Hamburger_SV
+pizza;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Pizza
+asian;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Indian_people
+citizen;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Russia
+pizza;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Pizza
+chips;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Fish_and_chips
+pizza;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Pizza
+doner kebab;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Doner_kebab
+currywurst;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Chip_fork
+hamburger;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Hamburger_SV
+falafel;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Falafel
+kebab;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Kebab
+hamburger;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Hamburger_SV
+pizza;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Pizza
+bratwurst;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Bratwurst
+hamburger;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Hamburger_SV
+kebab;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Kebab
+french fries;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/France
+hamburger;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Hamburger_SV
+pizza;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Pizza
+kebab;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Kebab
+french fries;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/France
+hamburger;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Hamburger_SV
+chick nuggets;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Chicken_nugget
+hamburger;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Hamburger_SV
+french fries;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/France
+onionrings;28;Female;Doctorate (e.g. PhD);germany;15;NaN
+hamburger;25;Male;;germany;16;http://dbpedia.org/resource/Hamburger_SV
+french fries;25;Male;;germany;16;http://dbpedia.org/resource/France
+hamburger;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Hamburger_SV
+pizza;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Pizza
+sandwich;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+hamburger;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Hamburger_SV
+pizza;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Pizza
+sandwich;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+hamburger;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Hamburger_SV
+pizza;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Pizza
+hot dog;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Hot_dog
+pizza;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Pizza
+hamburger;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Hamburger_SV
+kebab;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Kebab
+hamburger;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Hamburger_SV
+french fries;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/France
+chicken sandwich;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Chicken_sandwich
+hamburger;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Hamburger_SV
+hot dog;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Hot_dog
+pizza;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Pizza
+hamburger;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Hamburger_SV
+wings;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Detroit_Red_Wings
+french fries;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/France
+hamburger;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Hamburger_SV
+pizza;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Pizza
+chickenwings;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Morlocks_(comics)
+pizza;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Pizza
+hamburger;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Hamburger_SV
+kebab;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Kebab
+hamburger;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Hamburger_SV
+pizza;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Pizza
+taco;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Taco
+hamburger;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Hamburger_SV
+kebab;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Kebab
+sandwich;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+hamburger;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Hamburger_SV
+french fries;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/France
+chickenwings;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Morlocks_(comics)
+hamburger;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Hamburger_SV
+taco;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Taco
+sandwich;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+hamburger;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Hamburger_SV
+sandwich;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+pizza;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Pizza
+hamburger;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Hamburger_SV
+hot dog;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Hot_dog
+hamburger;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Hamburger_SV
+french fries;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/France
+wrap;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Wrap_advertising
+hamburger;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Hamburger_SV
+hot dog;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Hot_dog
+currywurst;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Chip_fork
+cheeseburger;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Cheeseburger
+french fries;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/France
+chick nuggets;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Chicken_nugget
+hamburger;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Hamburger_SV
+hot dog;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Hot_dog
+pizza;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Pizza
+hamburger;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Hamburger_SV
+pizza;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Pizza
+sandwich;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+hamburger;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Hamburger_SV
+sushi;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Sushi
+french fries;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/France
+hamburger;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Hamburger_SV
+currywurst;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Chip_fork
+kebab;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Kebab
+hamburger;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Hamburger_SV
+pizza;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Pizza
+french fries;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/France
+hamburger;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Hamburger_SV
+kebab;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Kebab
+pizza;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Pizza
+pizza;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Pizza
+hamburger;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Hamburger_SV
+french fries;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/France
+hamburger;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Hamburger_SV
+pizza;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Pizza
+french fries;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/France
+hamburger;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Hamburger_SV
+pizza;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Pizza
+kebab;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Kebab
+sandwich;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+hamburger;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Hamburger_SV
+kebab;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Kebab
+pizza;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Pizza
+french fries;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/France
+hamburger;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Hamburger_SV
+hamburger;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Hamburger_SV
+pizza;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Pizza
+kebab;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Kebab
+hamburger;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Hamburger_SV
+hot dog;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Hot_dog
+french fries;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/France
+hamburger;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Hamburger_SV
+french fries;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/France
+milkshake;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Milkshake
+hamburger;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Hamburger_SV
+french fries;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/France
+samosa;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Samosa
+pizza;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Pizza
+pasta;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Pasta
+sushi;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Sushi
+pizza;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Pizza
+hamburger;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Hamburger_SV
+taco;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Taco
+french fries;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/France
+hamburger;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Hamburger_SV
+kebab;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Kebab
+hamburger;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Hamburger_SV
+french fries;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/France
+tacos;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Taco
+french fries;34;Female;Master's degree;france;54;http://dbpedia.org/resource/France
+hamburger;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Hamburger_SV
+hot dog;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Hot_dog
+french fries;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/France
+hamburger;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Hamburger_SV
+chick nuggets;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Chicken_nugget
+hamburger;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Hamburger_SV
+kebab;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Kebab
+ketwurst;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Ketwurst
+currywurst;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Chip_fork
+hamburger;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Hamburger_SV
+taco;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Taco
+asian;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Indian_people
+hamburger;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Hamburger_SV
+french fries;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/France
+pizza;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Pizza
+hamburger;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Hamburger_SV
+hot dog;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Hot_dog
+french fries;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/France
+pizza;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Pizza
+hamburger;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Hamburger_SV
+sushi;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Sushi
+hamburger;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Hamburger_SV
+pizza;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Pizza
+chips;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Fish_and_chips
+hamburger;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Hamburger_SV
+french fries;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/France
+pizza;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Pizza
+hamburger;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Hamburger_SV
+fishandchips;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Fish_and_chips
+french fries;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/France
+hamburger;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Hamburger_SV
+kebab;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Kebab
+french fries;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/France
+french fries;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/France
+hamburger;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Hamburger_SV
+chick nuggets;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Chicken_nugget
+hamburger;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Hamburger_SV
+french fries;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/France
+chick nuggets;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Chicken_nugget
+hamburger;0;Prefer not to say;;;68;http://dbpedia.org/resource/Hamburger_SV
+french fries;0;Prefer not to say;;;68;http://dbpedia.org/resource/France
+hot dog;0;Prefer not to say;;;68;http://dbpedia.org/resource/Hot_dog
+hamburger;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Hamburger_SV
+kebab;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Kebab
+hamburger;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Hamburger_SV
+burrito;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Burrito
+hamburger;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Hamburger_SV
+french fries;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/France
+pizza;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Pizza
+pizza;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Pizza
+hamburger;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Hamburger_SV
+taco;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Taco
+hamburger;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Hamburger_SV
+kebab;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Kebab
+hot dog;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Hot_dog
+hamburger;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Hamburger_SV
+taco;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Taco
+chick nuggets;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Chicken_nugget
+nachos;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Nachos
+burrito;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Burrito
+hamburger;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Hamburger_SV
+hamburger;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Hamburger_SV
+french fries;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/France
+pizza;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Pizza
+taco;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Taco
+pizza;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Pizza
+icecream;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Ice_cream
+hamburger;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Hamburger_SV
+pizza;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Pizza
+asian;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Indian_people
+french fries;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/France
+hamburger;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Hamburger_SV
+pizza;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Pizza
+hamburger;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Hamburger_SV
+pizza;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Pizza
+sandwich;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+hamburger;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Hamburger_SV
+sushi;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Sushi
+taco;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Taco
+hamburger;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Hamburger_SV
+hot dog;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Hot_dog
+kebab;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Kebab
+hamburger;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Hamburger_SV
+french fries;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/France
+pizza;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Pizza
+hamburger;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Hamburger_SV
+sandwich;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+pizza;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Pizza
+hamburger;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Hamburger_SV
+french fries;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/France
+milkshake;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Milkshake
+hamburger;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Hamburger_SV
+kebab;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Kebab
+falafel;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Falafel
+pizza;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Pizza
+hamburger;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Hamburger_SV
+kebab;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Kebab
+hamburger;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Hamburger_SV
+pizza;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Pizza
+sushi;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Sushi
+hamburger;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Hamburger_SV
+french fries;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/France
+chick nuggets;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Chicken_nugget
+hamburger;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Hamburger_SV
+kebab;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Kebab
+pizza;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Pizza
+hamburger;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Hamburger_SV
+hot dog;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Hot_dog
+french fries;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/France
+hamburger;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Hamburger_SV
+pizza;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Pizza
+french fries;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/France
+currywurst;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Chip_fork
+hamburger;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Hamburger_SV
+kebab;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Kebab
+hamburger;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Hamburger_SV
+cheeseburger;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Cheeseburger
+french fries;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/France
+hamburger;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Hamburger_SV
+french fries;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/France
+chickenwings;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Morlocks_(comics)
+hamburger;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Hamburger_SV
+chickenwings;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Morlocks_(comics)
+hamburger;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Hamburger_SV
+french fries;48;Female;Diplom;germany;97;http://dbpedia.org/resource/France
+pizza;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Pizza
+hamburger;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Hamburger_SV
+pizza;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Pizza
+french fries;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/France
+hamburger;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Hamburger_SV
+hot dog;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Hot_dog
+french fries;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/France
+hamburger;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Hamburger_SV
+hamburgers;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Hamburger_SV
+french fries;23;Female;Master's degree;england;101;http://dbpedia.org/resource/France
+pizza;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Pizza
+hamburger;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Hamburger_SV
+pizza;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Pizza
+hot dogs;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Hot_dog
+hamburger;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Hamburger_SV
+hot dog;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Hot_dog
+taco;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Taco
+pizza;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Pizza
+hamburger;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Hamburger_SV
+french fries;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/France
+hamburger;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Hamburger_SV
+friedchicken;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Fried_chicken
+pizza;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Pizza
+hamburger;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Hamburger_SV
+french fries;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/France
+kebab;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Kebab
+hot dog;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Hot_dog
+hamburger;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Hamburger_SV
+french fries;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/France
+pizza;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Pizza
+hamburger;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Hamburger_SV
+fishandchips;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Fish_and_chips

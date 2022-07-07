@@ -1,0 +1,304 @@
+dax_companies;p_age;p_gender;p_education;p_country;p_id;uri
+sap;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/SAP_SE
+allianz;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Allianz
+lufthansa;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Lufthansa
+sap;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/SAP_SE
+bmw;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/BMW
+siemens;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Siemens
+bayer;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Bayer_04_Leverkusen
+bmw;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/BMW
+volkswagen;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Volkswagen
+lufthansa;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Lufthansa
+volkswagen;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Volkswagen
+fresenius;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Fresenius_(company)
+zalando;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Zalando
+volkswagen;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Volkswagen
+daimler;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Daimler_AG
+mercedes benz;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Mercedes-Benz
+basf;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/BASF
+sap;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/SAP_SE
+sap;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/SAP_SE
+basf;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/BASF
+zalando;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Zalando
+basf;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/BASF
+bmw;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/BMW
+allianz;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Allianz
+volkswagen;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Volkswagen
+adidas;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Adidas
+rheinmetall;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Rheinmetall
+vw;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Volkswagen
+sap;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/SAP_SE
+heidelberg cement;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/HeidelbergCement
+daimler;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Daimler_AG
+volkswagen;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Volkswagen
+sap;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/SAP_SE
+siemens;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Siemens
+mercedes;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Mercedes-Benz
+deutsche bank;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Deutsche_Bank
+henkel;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Henkel
+daimler;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Daimler_AG
+sap;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/SAP_SE
+lufthansa;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Lufthansa
+basf;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/BASF
+basf;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/BASF
+sap;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/SAP_SE
+henkel;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Henkel
+bmw;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/BMW
+allianz;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Allianz
+adidas;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Adidas
+sap;25;Male;NaN;Germany;16;http://dbpedia.org/resource/SAP_SE
+siemens;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Siemens
+volkswagen;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Volkswagen
+basf;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/BASF
+bmw;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/BMW
+lufthansa;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Lufthansa
+siemens;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Siemens
+bmw;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/BMW
+vw;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Volkswagen
+thyssenkrupp;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/ThyssenKrupp
+siemens;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Siemens
+infineon;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Infineon_Technologies
+thyssen krupp;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/ThyssenKrupp
+nan;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Hunan
+nan;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Hunan
+fresenius;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Fresenius_(company)
+bmw;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/BMW
+basf;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/BASF
+sap;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/SAP_SE
+heidelberg cement;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/HeidelbergCement
+bechtle;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Beetle
+allianz;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Allianz
+adidas;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Adidas
+bmw;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/BMW
+hello fresh;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/What_Fresh_Hell_Is_This%3F
+lufthansa;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Lufthansa
+heidelberger cement;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/HeidelbergCement
+lufthansa;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Lufthansa
+audi;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Audi
+vw;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Volkswagen
+mercedes benz;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Mercedes-Benz
+sap;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/SAP_SE
+deliveryhero;27;Male;Master's degree;Germany;28;NaN
+audi;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Audi
+bayer;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Bayer_04_Leverkusen
+sap;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/SAP_SE
+daimler;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Daimler_AG
+dhl;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/DHL
+volkswagen;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Volkswagen
+nan;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Hunan
+bmw;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/BMW
+allianz;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Allianz
+basf;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/BASF
+bayer;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Bayer_04_Leverkusen
+porsche;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Porsche
+adidas;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Adidas
+daimler;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Daimler_AG
+bmw;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/BMW
+siemens;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Siemens
+nan;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Hunan
+sap;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/SAP_SE
+bmw;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/BMW
+allianz;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Allianz
+vw;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Volkswagen
+adidas;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Adidas
+bmw;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/BMW
+bmw;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/BMW
+qiagen;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Qiagen
+vw;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Volkswagen
+sap;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/SAP_SE
+daimler;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Daimler_AG
+bmw;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/BMW
+adidas;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Adidas
+mercedes benz group;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Mercedes-Benz
+deutsche bank;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Deutsche_Bank
+merck;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Merck_&_Co.
+sap;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/SAP_SE
+db cargo;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/DB_Cargo
+westwing;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/West_Wing
+alibaba;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Alibaba_Group
+lmvh;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/LVMH
+adidas;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Adidas
+lufthansa;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Lufthansa
+siemens;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Siemens
+flatex;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Calgary_Flames
+consorsbank;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Consorsbank
+ing;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Porsche
+vw;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Volkswagen
+sap;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/SAP_SE
+heidelberger druck;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Heidelberger_Druckmaschinen
+sap;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/SAP_SE
+henkel;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Henkel
+bayern munich;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/FC_Bayern_Munich
+adidas;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Adidas
+allianz;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Allianz
+basf;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/BASF
+audi;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Audi
+bmw;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/BMW
+daimler;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Daimler_AG
+apple;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Apple_II
+google;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Google
+volkswagen;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Volkswagen
+mercedes benz group;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Mercedes-Benz
+basf;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/BASF
+deutsche bank;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Deutsche_Bank
+volkswagen;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Volkswagen
+daimler;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Daimler_AG
+siemens;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Siemens
+vw;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Volkswagen
+bayer;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Bayer_04_Leverkusen
+hello fresh;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/What_Fresh_Hell_Is_This%3F
+nan;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Hunan
+nan;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Hunan
+nan;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Hunan
+nan;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Hunan
+allianz;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Allianz
+bmw;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/BMW
+vw;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Volkswagen
+sap;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/SAP_SE
+basf;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/BASF
+volkswagen;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Volkswagen
+vw;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Volkswagen
+basf;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/BASF
+sap;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/SAP_SE
+sap;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/SAP_SE
+beiersdorf;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Beiersdorf
+deutsche post;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Deutsche_Post
+basf;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/BASF
+sap;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/SAP_SE
+bmw;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/BMW
+bmw;30;Female;Master's degree;France;62;http://dbpedia.org/resource/BMW
+porsche;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Porsche
+audi;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Audi
+sap;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/SAP_SE
+deutsche bank;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Deutsche_Bank
+biontech;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Biotechnology
+daimler;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Daimler_AG
+sap;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/SAP_SE
+hello fresh;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/What_Fresh_Hell_Is_This%3F
+sap;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/SAP_SE
+vw;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Volkswagen
+jungheinrich;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Jungheinrich
+siemens;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Siemens
+airbus;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Airbus_A300
+deutsche bank;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Deutsche_Bank
+allianz;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Allianz
+vonovia;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Ruhrstadion
+bmw;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/BMW
+sap;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/SAP_SE
+mercedes benz;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Mercedes-Benz
+basf;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/BASF
+merck;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Merck_&_Co.
+bmw;24;Female;Master's degree;France;69;http://dbpedia.org/resource/BMW
+lufthansa;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Lufthansa
+dpdhl;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Deutsche_Post
+lufthansa;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Lufthansa
+deutsche bank;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Deutsche_Bank
+siemens;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Siemens
+lufthansa;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Lufthansa
+daimler;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Daimler_AG
+mercedes benz;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Mercedes-Benz
+sap;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/SAP_SE
+volkswagen;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Volkswagen
+daimler;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Daimler_AG
+eon;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/EoN_Olympia
+vw;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Volkswagen
+heidelberg clement;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Wellesley,_Ontario
+abbvie;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/AbbVie_Inc.
+bmw;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/BMW
+deutsche post;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Deutsche_Post
+delivery hero;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Delivery_Hero
+merck;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Merck_&_Co.
+sap;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/SAP_SE
+basf;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/BASF
+rheinmetall;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Rheinmetall
+sap;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/SAP_SE
+linde;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Carl_L._Linde
+vw;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Volkswagen
+basf;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/BASF
+daimler;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Daimler_AG
+deutsche wohnen;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Deutsche_Wohnen
+vw;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Volkswagen
+bmw;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/BMW
+lufthansa;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Lufthansa
+daimler;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Daimler_AG
+vw;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Volkswagen
+basf;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/BASF
+adidas ag;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Adidas
+linde plc;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Linde_plc
+siemens;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Siemens
+adidas;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Adidas
+sap;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/SAP_SE
+lufthansa;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Lufthansa
+adidas;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Adidas
+pfizer;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Pfizer
+henkel;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Henkel
+basf;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/BASF
+db;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/DB_Netz
+bosch;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/FC_Den_Bosch
+sap;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/SAP_SE
+porsche;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Porsche
+miele;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/André_Miele
+volkswagen;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Volkswagen
+sap;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/SAP_SE
+daimler;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Daimler_AG
+fresenius;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Fresenius_(company)
+sap;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/SAP_SE
+allianz;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Allianz
+vw;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Volkswagen
+mercedes benz;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Mercedes-Benz
+sap;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/SAP_SE
+apple;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Apple_II
+samsung;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Suwon_Samsung_Bluewings
+sap;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/SAP_SE
+benz;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Mercedes-Benz
+sap;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/SAP_SE
+adidas;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Adidas
+sap;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/SAP_SE
+basf;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/BASF
+porsche;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Porsche
+mercedes;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Mercedes-Benz
+sap;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/SAP_SE
+vw;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Volkswagen
+adidas;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Adidas
+sap;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/SAP_SE
+deutsche telekom;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Deutsche_Telekom
+linde;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Carl_L._Linde
+bayer;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Bayer_04_Leverkusen
+heidelberg cement;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/HeidelbergCement
+sap;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/SAP_SE
+vw;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Volkswagen
+basf;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/BASF
+basf;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/BASF
+sap;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/SAP_SE
+covestro;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Coventry_City_F.C.
+sap;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/SAP_SE
+basf;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/BASF
+daimler;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Daimler_AG
+adidas;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Adidas
+allianz;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Allianz
+bmw;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/BMW
+meta;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Heavy_metal_music
+teslar;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/SC_Telstar
+apple;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Apple_II
+adidas;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Adidas
+bayer;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Bayer_04_Leverkusen
+bmw;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/BMW
+nan;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Hunan
+nan;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Hunan
+telekom;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Türk_Telekom_B.K.
+basf;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/BASF
+daimler;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Daimler_AG
+airbus;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Airbus_A300
+adidas;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Adidas
+allianz;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Allianz
+siemens;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Siemens
+deutsche bank;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Deutsche_Bank
+siemens;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Siemens
+bosch;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/FC_Den_Bosch
+deutsche bank;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Deutsche_Bank
+siemens;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Siemens
+volkswagen;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Volkswagen
+bmw;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/BMW
+mercedes;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Mercedes-Benz
+bosch;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/FC_Den_Bosch
+miele;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/André_Miele

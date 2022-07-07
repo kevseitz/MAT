@@ -1,0 +1,316 @@
+mountains;p_age;p_gender;p_education;p_country;p_id;uri
+k2;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/K2
+zugspitze;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Zugspitze
+brocken;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Brocken_spectre
+mount everest;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Mount_Everest
+matterhorn;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+nanga parbat;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Nanga_Parbat
+mount kilimanjaro;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Mount_Kilimanjaro
+mount everest;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Mount_Everest
+mont blanc;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Chamonix
+k2;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/K2
+mount everest;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Mount_Everest
+zugspitze;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Zugspitze
+alps;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Pennine_Alps
+jura;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Jura_(department)
+carpathian mountains;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Carpathian_Mountains
+mount everest;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Mount_Everest
+zugspitze;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Zugspitze
+mount rushmore;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/South_Dakota
+mont blanc;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Chamonix
+mount everest;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Mount_Everest
+k2;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/K2
+weißer stein (vogelsberg);27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Weißer_Stein_(Vogelsberg)
+sandberg;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Max_Martin
+k2;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/K2
+mount everest;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Mount_Everest
+königstuhl;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Königstuhl
+grossglockner;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Grossglockner_High_Alpine_Road
+zugspitze;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Zugspitze
+mount everest;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Mount_Everest
+mount kilimanjaro;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Mount_Kilimanjaro
+zugspitze;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Zugspitze
+matterhorn;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+mount everest;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Mount_Everest
+barebones;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Praise-God_Barebone
+brocken;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Brocken_spectre
+mount kilimanjaro;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Mount_Kilimanjaro
+zugspitze;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Zugspitze
+mont blanc;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Chamonix
+k2;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/K2
+zugspitze;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Zugspitze
+mont blanc;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Chamonix
+mount fuji;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Mount_Fuji
+mount everest;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Mount_Everest
+mount kilimanjaro;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Mount_Kilimanjaro
+mont blanc;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Chamonix
+zugspitze;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Zugspitze
+dolomites;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Dolomites
+karwendel;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Karwendel
+mount everest;25;Male;;germany;16;http://dbpedia.org/resource/Mount_Everest
+mont blanc;25;Male;;germany;16;http://dbpedia.org/resource/Chamonix
+k2;25;Male;;germany;16;http://dbpedia.org/resource/K2
+mount everest;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Mount_Everest
+zugspitze;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Zugspitze
+feldberg (black forest);31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Feldberg_(Black_Forest)
+zugspitze;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Zugspitze
+piz buin;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Piz_Buin
+k2;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/K2
+matterhorn;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+mountkilimanjaro;33;Male;Doctorate (e.g. PhD);germany;20;NaN
+mount everest;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Mount_Everest
+brocken;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Brocken_spectre
+mount everest;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Mount_Everest
+mount kilimanjaro;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Mount_Kilimanjaro
+appalachian mountains;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Appalachian_Mountains
+mount everest;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Mount_Everest
+kebnekaise;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Kebnekaise
+mont blanc;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Chamonix
+mont everest;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Mount_Everest
+zugspitze;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Zugspitze
+matterhorn;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+mount everest;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Mount_Everest
+feldberg (black forest);27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Feldberg_(Black_Forest)
+zugspitze;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Zugspitze
+feldberg (black forest);23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Feldberg_(Black_Forest)
+mount everest;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Mount_Everest
+k2;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/K2
+mount everest;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Mount_Everest
+zugspitze;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Zugspitze
+mount kilimanjaro;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Mount_Kilimanjaro
+feldberg (black forest);25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Feldberg_(Black_Forest)
+k2;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/K2
+mount everest;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Mount_Everest
+nockspitze;27;Male;Master's degree;germany;28;NaN
+hafelekar;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Hungerburg
+sizzle;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Single_(music)
+mount kilamanjaro;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Mount_Kilimanjaro
+mount everest;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Mount_Everest
+zugspitze;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Zugspitze
+mount everest;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Mount_Everest
+matterhorn;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+mount everest;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Mount_Everest
+mount olympus;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Mount_Olympus
+mount kilimanjaro;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Mount_Kilimanjaro
+k2;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/K2
+mount everest;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Mount_Everest
+zugspitze;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Zugspitze
+k2;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/K2
+alps;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Pennine_Alps
+matterhorn;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+zugspitze;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Zugspitze
+mount wilhelm;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Mount_Wilhelm
+k2;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/K2
+zugspitze;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Zugspitze
+mont blanc;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Chamonix
+brocken;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Brocken_spectre
+k2;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/K2
+mount everest;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Mount_Everest
+zugspitze;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Zugspitze
+mount everest;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Mount_Everest
+zugspitze;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Zugspitze
+chimborazo;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Chimborazo_Province
+mount everest;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Mount_Everest
+zugspitze;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Zugspitze
+mount kilimanjaro;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Mount_Kilimanjaro
+mounteverest;24;Male;Bachelor's degree;germany;39;NaN
+k2;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/K2
+zugspitze;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Zugspitze
+mount everest;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Mount_Everest
+feldberg (black forest);31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Feldberg_(Black_Forest)
+k2;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/K2
+mount everest;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Mount_Everest
+himalayas;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Himalayas
+mont blanc;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Chamonix
+mount everest;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Mount_Everest
+zugspitze;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Zugspitze
+feldberg (black forest);28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Feldberg_(Black_Forest)
+mount everest;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Mount_Everest
+zugspitze;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Zugspitze
+uluru;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Uluru
+k2;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/K2
+machu picchu;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Machu_Picchu
+k2;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/K2
+matterhorn;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+mont blanc;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Chamonix
+mount everest;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Mount_Everest
+mont blanc;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Chamonix
+zugspitze;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Zugspitze
+mount everest;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Mount_Everest
+mount kilimanjaro;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Mount_Kilimanjaro
+mount everest;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Mount_Everest
+zugspitze;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Zugspitze
+mont blanc;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Chamonix
+mount everest;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Mount_Everest
+mount fuji;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Mount_Fuji
+mount elbrus;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Mount_Elbrus
+mont blanc;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Chamonix
+zugspitze;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Zugspitze
+matterhorn;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+zugspitze;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Zugspitze
+mount everest;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Mount_Everest
+matterhorn;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+zugspitze;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Zugspitze
+mount everest;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Mount_Everest
+watzmann;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Watzmann
+zugspitze;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Zugspitze
+weissfluh;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Weissfluh
+mount fuji;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Mount_Fuji
+mont blanc;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Chamonix
+mount everest;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Mount_Everest
+zugspitze;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Zugspitze
+mount everest;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Mount_Everest
+montblanc;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Montblanc,_Tarragona
+himalayas;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Himalayas
+alps;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Pennine_Alps
+canadian rockies;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Canadian_Rockies
+zugspitze;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Zugspitze
+k2;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/K2
+matterhorn;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+mount everest;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Mount_Everest
+zugspitze;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Zugspitze
+königstuhl;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Königstuhl
+k2;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/K2
+matterhorn;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+zugspitze;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Zugspitze
+zugspitze;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Zugspitze
+königstuhl;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Königstuhl
+puy de dôme;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Puy-de-Dôme
+mount kilimanjaro;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Mount_Kilimanjaro
+k2;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/K2
+eiger;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Eiger
+mont blanc;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Chamonix
+mount everest;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Mount_Everest
+mount kilimanjaro;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Mount_Kilimanjaro
+mount everest;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Mount_Everest
+zugspitze;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Zugspitze
+mount kilimanjaro;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Mount_Kilimanjaro
+mount everest;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Mount_Everest
+zugspite;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Zugspitze
+zugspitze;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Zugspitze
+mount kilimanjaro;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Mount_Kilimanjaro
+mount everest;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Mount_Everest
+uluru;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Uluru
+zugspitze;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Zugspitze
+mount everest;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Mount_Everest
+mont blanc;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Chamonix
+nanga parbat;0;Prefer not to say;;;68;http://dbpedia.org/resource/Nanga_Parbat
+k2;0;Prefer not to say;;;68;http://dbpedia.org/resource/K2
+zugspitze;0;Prefer not to say;;;68;http://dbpedia.org/resource/Zugspitze
+alps;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Pennine_Alps
+vosges;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Vosges_(department)
+pyrenees;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Pyrenees
+mont blanc;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Chamonix
+mount kilimanjaro;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Mount_Kilimanjaro
+mount everest;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Mount_Everest
+zugspitze;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Zugspitze
+mont blanc;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Chamonix
+mount everest;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Mount_Everest
+mount everst;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Mount_Everest
+k2;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/K2
+zugspitze;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Zugspitze
+zugspitze;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Zugspitze
+matterhorn;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+mount everest;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Mount_Everest
+mount everest;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Mount_Everest
+himalayas;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Himalayas
+zugspitze;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Zugspitze
+zugspitze;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Zugspitze
+mont blanc;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Chamonix
+matterhorn;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+mount everest;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Mount_Everest
+mount blanc;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Mont_Blanc
+zugspitze;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Zugspitze
+zugspitze;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Zugspitze
+feldberg (black forest);51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Feldberg_(Black_Forest)
+eiger;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Eiger
+mount blanc;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Mont_Blanc
+mount everest;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Mount_Everest
+zugspitze;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Zugspitze
+mount kilimanjaro;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Mount_Kilimanjaro
+kreuzberg;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Kreuzberg
+mount everest;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Mount_Everest
+mount everest;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Mount_Everest
+zugspitze;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Zugspitze
+mont blanc;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Chamonix
+mount everest;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Mount_Everest
+mount kilimanjaro;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Mount_Kilimanjaro
+k2;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/K2
+mount kilimanjaro;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Mount_Kilimanjaro
+mount everest;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Mount_Everest
+zugspitze;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Zugspitze
+mount everest;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Mount_Everest
+zugspitze;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Zugspitze
+k2;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/K2
+zugspitze;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Zugspitze
+mount everest;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Mount_Everest
+ural mountains;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Ural_Mountains
+zugspitze;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Zugspitze
+dolomites;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Dolomites
+alps;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Pennine_Alps
+carpathian mountains;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Carpathian_Mountains
+zugspitze;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Zugspitze
+matterhorn;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+mount everest;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Mount_Everest
+mount everest;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Mount_Everest
+zugspitze;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Zugspitze
+katzenbuckel;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Katzenbuckel
+mount everest;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Mount_Everest
+mount blanc;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Mont_Blanc
+matterhorn;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+nanga parbat;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Nanga_Parbat
+k2;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/K2
+feldberg (black forest);25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Feldberg_(Black_Forest)
+zugspitze;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Zugspitze
+matterhorn;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+k2;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/K2
+tischberg;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Józef_Tischner
+zugspitze;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Zugspitze
+mount kilimanjaro;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Mount_Kilimanjaro
+mount everest;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Mount_Everest
+matterhorn;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+ben nevis;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Ben_Nevis
+zugspitze;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Zugspitze
+mount kilimanjaro;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Mount_Kilimanjaro
+mount everest;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Mount_Everest
+himalayas;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Himalayas
+alps;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Pennine_Alps
+mount kilimanjaro;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Mount_Kilimanjaro
+k2;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/K2
+mount everest;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Mount_Everest
+nanga parbat;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Nanga_Parbat
+mount everest;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Mount_Everest
+k2;48;Female;Diplom;germany;97;http://dbpedia.org/resource/K2
+montb lanc;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Rouyn-Noranda
+k2;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/K2
+grossglockner;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Grossglockner_High_Alpine_Road
+zugspitze;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Zugspitze
+mount everest;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Mount_Everest
+zugspitze;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Zugspitze
+stetind;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Stetind
+alps;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Pennine_Alps
+canadian rockies;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Canadian_Rockies
+pyrenees;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Pyrenees
+val d Isere;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Val-d'Isère
+mount etna;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Mount_Etna
+zugspitze;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Zugspitze
+watzmann;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Watzmann
+feldberg (black forest);26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Feldberg_(Black_Forest)
+matterhorn;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+grossglockner;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Grossglockner_High_Alpine_Road
+zugspitze;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Zugspitze
+mount everest;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Mount_Everest
+damavand;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Central_District_(Damavand_County)
+dena;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Yokohama_DeNA_BayStars
+zugspitze;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Zugspitze
+triglav;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/NK_Triglav_Kranj
+matterhorn;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Matterhorn_Gotthard_Bahn
+aconcagua;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Aconcagua
+mount everest;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Mount_Everest
+zugspitze;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Zugspitze
+mount everest;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Mount_Everest
+zugspitze;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Zugspitze
+brocken;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Brocken_spectre
+mont blanc;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Chamonix
+zugspitze;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Zugspitze
+monte baldo;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Ferrara_di_Monte_Baldo

@@ -1,0 +1,322 @@
+furniture;p_age;p_gender;p_education;p_country;p_id;uri
+chair;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Professor
+table;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Table_tennis
+lamp;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Fluorescent_lamp
+chair;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Professor
+table;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Table_tennis
+sofa;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Sofia
+table;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Table_tennis
+cupboard;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Cupboard
+chair;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Professor
+bed;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Finistère
+sofa;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Sofia
+table;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Table_tennis
+chair;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Professor
+table;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Table_tennis
+cabinet;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/West_Sussex
+chair;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Professor
+sofa;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Sofia
+table;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Table_tennis
+couch;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Couch
+chair;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Professor
+wardrobe;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe
+chair;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Professor
+table;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Table_tennis
+cabinet;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/West_Sussex
+couch;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Couch
+dining table;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Restaurant
+bed;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Finistère
+chair;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Professor
+table;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Table_tennis
+bed;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Finistère
+couch;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Couch
+table;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Table_tennis
+chair;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Professor
+chair;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Professor
+bed;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Finistère
+table;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Table_tennis
+chair;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Professor
+table;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Table_tennis
+wardrobe;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe
+couch;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Couch
+bed;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Finistère
+table;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Table_tennis
+sofa;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Sofia
+chair;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Professor
+bed;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Finistère
+chair;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Professor
+table;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Table_tennis
+couch;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Couch
+chair;25;Male;;germany;16;http://dbpedia.org/resource/Professor
+table;25;Male;;germany;16;http://dbpedia.org/resource/Table_tennis
+bed;25;Male;;germany;16;http://dbpedia.org/resource/Finistère
+chair;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Professor
+table;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Table_tennis
+wardrobe;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe
+table;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Table_tennis
+chair;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Professor
+cupboard;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Cupboard
+table;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Table_tennis
+chair;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Professor
+desk;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Drama_Desk_Award
+couch;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Couch
+chair;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Professor
+desk;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Drama_Desk_Award
+endtable;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Enable_Scotland
+chair;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Professor
+table;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Table_tennis
+bed;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Finistère
+chair;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Professor
+table;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Table_tennis
+cabinet;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/West_Sussex
+sideboard;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Sideboard_(cards)
+writing table;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Writing_table
+cabinet;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/West_Sussex
+couch;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Couch
+desk;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Drama_Desk_Award
+table;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Table_tennis
+bed;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Finistère
+shelf;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Hatchback
+table;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Table_tennis
+couch;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Couch
+table;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Table_tennis
+wardrobe;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe
+bed;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Finistère
+chair;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Professor
+table;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Table_tennis
+chair;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Professor
+bed;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Finistère
+bench;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Coach_(baseball)
+chair;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Professor
+table;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Table_tennis
+bed;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Finistère
+table;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Table_tennis
+chair;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Professor
+desk;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Drama_Desk_Award
+table;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Table_tennis
+chair;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Professor
+cupboard;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Cupboard
+chair;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Professor
+table;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Table_tennis
+lamp;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Fluorescent_lamp
+chair;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Professor
+table;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Table_tennis
+cabinet;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/West_Sussex
+chair;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Professor
+shelf;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Hatchback
+table;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Table_tennis
+desk;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Drama_Desk_Award
+chair;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Professor
+wardrobe;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe
+desk;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Drama_Desk_Award
+chair;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Professor
+cupboard;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Cupboard
+chair;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Professor
+tablet;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Tablet_computer
+cupboard;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Cupboard
+couch;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Couch
+table;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Table_tennis
+chair;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Professor
+chair;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Professor
+table;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Table_tennis
+cabinet;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/West_Sussex
+couch;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Couch
+bed;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Finistère
+table;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Table_tennis
+coffeetable;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Coffee_table_book
+ottoman;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Ottoman_Empire
+couch;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Couch
+chair;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Professor
+sofa;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Sofia
+table;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Table_tennis
+couch;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Couch
+table;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Table_tennis
+sideboard;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Sideboard_(cards)
+chair;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Professor
+table;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Table_tennis
+couch;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Couch
+table;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Table_tennis
+chair;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Professor
+shelf;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Hatchback
+table;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Table_tennis
+bed;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Finistère
+chair;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Professor
+desk;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Drama_Desk_Award
+chair;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Professor
+wardrobe;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe
+sofa;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Sofia
+bed;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Finistère
+chair;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Professor
+chair;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Professor
+desk;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Drama_Desk_Award
+wardrobe;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe
+bed;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Finistère
+table;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Table_tennis
+closet;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Closet
+bed;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Finistère
+couch;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Couch
+chair;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Professor
+chair;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Professor
+desk;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Drama_Desk_Award
+wardrobe;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe
+desk;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Drama_Desk_Award
+bed;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Finistère
+chair;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Professor
+sofa;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Sofia
+closet;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Closet
+bed;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Finistère
+chair;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Professor
+table;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Table_tennis
+fridge;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Refrigerator
+chair;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Professor
+table;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Table_tennis
+cabinet;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/West_Sussex
+shelf;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Hatchback
+table;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Table_tennis
+bed;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Finistère
+chair;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Professor
+table;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Table_tennis
+closet;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Closet
+bed;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Finistère
+chair;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Professor
+table;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Table_tennis
+chair;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Professor
+table;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Table_tennis
+bed;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Finistère
+table;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Table_tennis
+bed;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Finistère
+chair;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Professor
+desk;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Drama_Desk_Award
+bed;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Finistère
+lamp;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Fluorescent_lamp
+desk;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Drama_Desk_Award
+bed;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Finistère
+seat;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/County_seat
+couch;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Couch
+chair;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Professor
+table;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Table_tennis
+chair;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Professor
+table;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Table_tennis
+couch;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Couch
+chair;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Professor
+bed;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Finistère
+couch;0;Prefer not to say;;;68;http://dbpedia.org/resource/Couch
+chair;0;Prefer not to say;;;68;http://dbpedia.org/resource/Professor
+table;0;Prefer not to say;;;68;http://dbpedia.org/resource/Table_tennis
+desk;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Drama_Desk_Award
+bed;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Finistère
+bathtub;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Accessible_bathtub
+sofa;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Sofia
+table;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Table_tennis
+chair;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Professor
+chair;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Professor
+table;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Table_tennis
+sofa;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Sofia
+bed;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Finistère
+table;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Table_tennis
+chair;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Professor
+chair;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Professor
+bed;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Finistère
+table;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Table_tennis
+couch;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Couch
+bed;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Finistère
+chair;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Professor
+sofa;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Sofia
+chair;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Professor
+bed;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Finistère
+bed;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Finistère
+couch;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Couch
+chair;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Professor
+table;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Table_tennis
+chair;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Professor
+armchair;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/604_Records
+sideboard;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Sideboard_(cards)
+cabinet;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/West_Sussex
+bedside table;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Nightstand
+table;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Table_tennis
+chair;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Professor
+bed;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Finistère
+bed;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Finistère
+cupboard;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Cupboard
+chair;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Professor
+table;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Table_tennis
+fridge;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Refrigerator
+desk;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Drama_Desk_Award
+closet;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Closet
+coat rack;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Skagerrak
+chair;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Professor
+table;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Table_tennis
+bed;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Finistère
+chair;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Professor
+table;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Table_tennis
+couch;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Couch
+chair;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Professor
+chair;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Professor
+table;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Table_tennis
+couch;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Couch
+chair;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Professor
+bed;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Finistère
+table;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Table_tennis
+chair;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Professor
+table;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Table_tennis
+couch;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Couch
+table;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Table_tennis
+chair;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Professor
+couch;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Couch
+chair;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Professor
+table;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Table_tennis
+cupboard;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Cupboard
+chair;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Professor
+table;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Table_tennis
+bed;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Finistère
+desk;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Drama_Desk_Award
+couch;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Couch
+sideboard;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Sideboard_(cards)
+sofa;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Sofia
+wardrobe;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe
+dining table;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Restaurant
+chair;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Professor
+table;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Table_tennis
+sofa;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Sofia
+sofa;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Sofia
+table;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Table_tennis
+chair;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Professor
+cupboard;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Cupboard
+dining table;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Restaurant
+sofa;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Sofia
+sofa;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Sofia
+desk;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Drama_Desk_Award
+bed;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Finistère
+bed;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Finistère
+couch;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Couch
+cabinet;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/West_Sussex
+couch;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Couch
+bed;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Finistère
+drawers;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Chest_of_drawers
+couch;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Couch
+table;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Table_tennis
+bed;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Finistère
+bed;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Finistère
+wardrobe;23;Female;Master's degree;england;101;http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe
+desk;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Drama_Desk_Award
+chair;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Professor
+desk;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Drama_Desk_Award
+lamp;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Fluorescent_lamp
+barcelona chair;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Barcelona_chair
+diamond chair;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Alice_in_Chains
+le corbusier lc4;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Grand_Confort
+chair;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Professor
+table;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Table_tennis
+sofa;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Sofia
+chair;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Professor
+table;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Table_tennis
+sofa;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Sofia
+chair;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Professor
+sofa;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Sofia
+table;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Table_tennis
+bed;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Finistère
+table;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Table_tennis
+sofa;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Sofia
+cupboard;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Cupboard
+table;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Table_tennis
+chair;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Professor
