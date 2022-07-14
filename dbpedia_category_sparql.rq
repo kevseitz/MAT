@@ -1,11 +1,17 @@
 # 90s movie
 # categories only exist for each year of the 90s separately
+#SELECT DISTINCT ?resource ?name WHERE {
+#    VALUES ?f90 {dbc:1990_films dbc:1991_films dbc:1992_films dbc:1993_films dbc:1994_films dbc:1995_films dbc:1996_films dbc:1997_films dbc:1998_films dbc:1999_films}
+#    ?resource a dbo:Film ;
+#        ?p ?f90 .
+#    ?resource rdfs:label ?name .
+#    FILTER langMatches(lang(?name), "EN")
+#}
 SELECT DISTINCT ?resource ?name WHERE {
-    VALUES ?f90 {dbc:1990_films dbc:1991_films dbc:1992_films dbc:1993_films dbc:1994_films dbc:1995_films dbc:1996_films dbc:1997_films dbc:1998_films dbc:1999_films}
-    ?resource a dbo:Film ;
-        ?p ?f90 .
-    ?resource rdfs:label ?name .
-    FILTER langMatches(lang(?name), "EN")
+	VALUES ?f90 {dbc:1990_films dbc:1991_films dbc:1992_films dbc:1993_films dbc:1994_films dbc:1995_films dbc:1996_films dbc:1997_films dbc:1998_films dbc:1999_films}
+	?resource dct:subject ?f90 .
+	?resource rdfs:label ?name .
+	FILTER langMatches(lang(?name), "EN")
 }
 
 # actor
@@ -74,6 +80,7 @@ SELECT DISTINCT ?lake ?name WHERE {
     ?lake rdfs:label ?name .
     FILTER langMatches(lang(?name), "EN")
 }
+#check for dbc:Lakes
 
 # mountain
 SELECT DISTINCT ?mount ?name WHERE {
@@ -82,10 +89,11 @@ SELECT DISTINCT ?mount ?name WHERE {
     FILTER langMatches(lang(?name), "EN")
 }
 
+#check for dbc:Mountains
+
 # european capital city
 SELECT DISTINCT ?euCap ?name WHERE {
-    ?euCap a dbo:City ;
-        dct:subject dbc:Capitals_in_Europe .
+    ?euCap dct:subject dbc:Capitals_in_Europe .
     ?euCap rdfs:label ?name .
     FILTER langMatches(lang(?name), "EN")
 }
