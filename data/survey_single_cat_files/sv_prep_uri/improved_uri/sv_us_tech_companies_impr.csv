@@ -1,0 +1,323 @@
+us_tech_companies;p_age;p_gender;p_education;p_country;p_id;uri
+apple;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Apple_Inc.
+google;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Google
+tesla;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Tesla,_Inc.
+meta;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Meta_Platforms
+alphabet;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Alphabet_Inc.
+zoom;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Zoom_Video_Communications
+google;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Google
+amazon;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Amazon_(company)
+microsoft;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Microsoft
+alphabet;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Alphabet_Inc.
+apple;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Apple_Inc.
+oracle;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Oracle_Corporation
+tesla;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Tesla,_Inc.
+google;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Google
+microsoft;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Microsoft
+apple;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Apple_Inc.
+microsoft;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Microsoft
+google;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Google
+stripe;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Stripe_(company)
+apple;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Apple_Inc.
+microsoft;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Microsoft
+amazon;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Amazon_(company)
+apple;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Apple_Inc.
+alphabet;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Alphabet_Inc.
+apple;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Apple_Inc.
+google;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Google
+microsoft;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Microsoft
+google;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Google
+palantir;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Palantir_Technologies
+uber;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Uber
+meta;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Meta_Platforms
+apple;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Apple_Inc.
+google;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Google
+apple;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Apple_Inc.
+amazon;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Amazon_(company)
+nvidia;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Nvidia
+ibm;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/IBM
+amazon;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Amazon_(company)
+google;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Google
+microsoft;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Microsoft
+amazon;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Amazon_(company)
+apple;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Apple_Inc.
+apple;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Apple_Inc.
+microsoft;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Microsoft
+dell;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Dell
+apple;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Apple_Inc.
+samsung;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Samsung
+microsoft;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Microsoft
+apple;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Apple_Inc.
+salesforce;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Salesforce
+zsacler;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Zscaler
+meta;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Meta_Platforms
+apple;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Apple_Inc.
+ibm;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/IBM
+apple;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Apple_Inc.
+meta;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Meta_Platforms
+alphabet;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Alphabet_Inc.
+google;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Google
+tesla;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Tesla,_Inc.
+ibm;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/IBM
+amazon;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Amazon_(company)
+palantir;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Palantir_Technologies
+apple;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Apple_Inc.
+spacex;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/SpaceX
+microsoft;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Microsoft
+apple;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Apple_Inc.
+google;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Google
+nvidia;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Nvidia
+meta;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Meta_Platforms
+alphabet;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Alphabet_Inc.
+apple;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Apple_Inc.
+paypal;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/PayPal
+microsoft;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Microsoft
+google;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Google
+facebook;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Facebook
+apple;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Apple_Inc.
+microsoft;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Microsoft
+apple;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Apple_Inc.
+tesla;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Tesla,_Inc.
+apple;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Apple_Inc.
+amazon;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Amazon_(company)
+tesla;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Tesla,_Inc.
+apple;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Apple_Inc.
+dell;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Dell
+microsoft;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Microsoft
+amazon;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Amazon_(company)
+square;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Block,_Inc.
+waymo;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Waymo
+google;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Google
+tesla;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Tesla,_Inc.
+cooper standard;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Cooper-Standard_Automotive
+alphabet;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Alphabet_Inc.
+meta;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Meta_Platforms
+amazon;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Amazon_(company)
+microsoft;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Microsoft
+apple;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Apple_Inc.
+tesla;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Tesla,_Inc.
+alphabet;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Alphabet_Inc.
+tesla;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Tesla,_Inc.
+apple;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Apple_Inc.
+microsoft;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Microsoft
+apple;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Apple_Inc.
+google;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Google
+apple;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Apple_Inc.
+microsoft;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Microsoft
+tesla;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Tesla,_Inc.
+apple;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Apple_Inc.
+microsoft;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Microsoft
+google;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Google
+apple;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Apple_Inc.
+microsoft;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Microsoft
+google;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Google
+apple;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Apple_Inc.
+intel;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Intel
+ibm;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/IBM
+amazon;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Amazon_(company)
+apple;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Apple_Inc.
+meta;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Meta_Platforms
+apple;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Apple_Inc.
+google;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Google
+microsoft;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Microsoft
+apple;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Apple_Inc.
+microsoft;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Microsoft
+alphabet;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Alphabet_Inc.
+apple;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Apple_Inc.
+google;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Google
+meta;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Meta_Platforms
+apple;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Apple_Inc.
+microsoft;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Microsoft
+google;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Google
+google;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Google
+apple;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Apple_Inc.
+facebook;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Facebook
+amazon;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Amazon_(company)
+tesla;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Tesla,_Inc.
+apple;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Apple_Inc.
+ibm;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/IBM
+google;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Google
+apple;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Apple_Inc.
+apple;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Apple_Inc.
+microsoft;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Microsoft
+facebook;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Facebook
+apple;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Apple_Inc.
+amazon;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Amazon_(company)
+microsoft;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Microsoft
+apple;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Apple_Inc.
+google;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Google
+ibm;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/IBM
+nvidia;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Nvidia
+alphabet;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Alphabet_Inc.
+microsoft;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Microsoft
+apple;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Apple_Inc.
+microsoft;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Microsoft
+intel;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Intel
+apple;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Apple_Inc.
+google;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Google
+meta;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Meta_Platforms
+google;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Google
+apple;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Apple_Inc.
+samsung;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Samsung
+alphabet;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Alphabet_Inc.
+microsoft;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Microsoft
+adobe;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Adobe_Inc.
+meta;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Meta_Platforms
+google;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Google
+apple;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Apple_Inc.
+microsoft;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Microsoft
+google;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Google
+apple;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Apple_Inc.
+apple;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Apple_Inc.
+alphabet;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Alphabet_Inc.
+amd;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Advanced_Micro_Devices
+apple;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Apple_Inc.
+meta;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Meta_Platforms
+alphabet;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Alphabet_Inc.
+microsoft;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Microsoft
+apple;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Apple_Inc.
+meta;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Meta_Platforms
+apple;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Apple_Inc.
+google;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Google
+meta;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Meta_Platforms
+apple;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Apple_Inc.
+american express;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/American_Airlines
+delta airlines;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Delta_Air_Lines
+apple;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Apple_Inc.
+google;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Google
+facebook;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Facebook
+nvidia;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Nvidia
+apple;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Apple_Inc.
+microsoft;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Microsoft
+apple;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Apple_Inc.
+facebook;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Facebook
+microsoft;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Microsoft
+google;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Google
+apple;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Apple_Inc.
+microsoft;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Microsoft
+google;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Google
+ibm;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/IBM
+microsoft;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Microsoft
+apple;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Apple_Inc.
+google;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Google
+facebook;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Facebook
+nan;0;Prefer not to say;NaN;NaN;68;NaN
+microsoft;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Microsoft
+facebook;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Facebook
+google;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Google
+apple;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Apple_Inc.
+google;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Google
+microsoft;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Microsoft
+apple;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Apple_Inc.
+alphabet;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Alphabet_Inc.
+microsoft;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Microsoft
+google;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Google
+microsoft;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Microsoft
+oracle;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Oracle_Corporation
+apple;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Apple_Inc.
+microsoft;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Microsoft
+amazon;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Amazon_(company)
+meta;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Meta_Platforms
+apple;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Apple_Inc.
+amazon;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Amazon_(company)
+google;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Google
+amazon;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Amazon_(company)
+facebook;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Facebook
+microsoft;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Microsoft
+apple;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Apple_Inc.
+amazon;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Amazon_(company)
+alphabet;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Alphabet_Inc.
+apple;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Apple_Inc.
+apple;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Apple_Inc.
+amazon;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Amazon_(company)
+tesla;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Tesla,_Inc.
+facebook;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Facebook
+apple;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Apple_Inc.
+google;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Google
+meta;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Meta_Platforms
+alphabet;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Alphabet_Inc.
+netflix;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Netflix
+apple;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Apple_Inc.
+facebook;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Facebook
+tesla;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Tesla,_Inc.
+tesla;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Tesla,_Inc.
+spacex;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/SpaceX
+nasa;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/NASA
+apple;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Apple_Inc.
+microsoft;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Microsoft
+tesla;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Tesla,_Inc.
+apple;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Apple_Inc.
+microsoft;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Microsoft
+intel;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Intel
+apple;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Apple_Inc.
+microsoft;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Microsoft
+space x;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/SpaceX
+salesforce;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Salesforce
+oracle;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Oracle_Corporation
+microsoft;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Microsoft
+ibm;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/IBM
+apple;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Apple_Inc.
+microsoft;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Microsoft
+google;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Google
+apple;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Apple_Inc.
+amazon;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Amazon_(company)
+apple;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Apple_Inc.
+microsoft;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Microsoft
+facebook;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Facebook
+amazon;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Amazon_(company)
+alphabet;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Alphabet_Inc.
+salesforce;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Salesforce
+microsoft;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Microsoft
+apple;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Apple_Inc.
+alphabet;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Alphabet_Inc.
+meta;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Meta_Platforms
+apple;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Apple_Inc.
+alphabet;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Alphabet_Inc.
+microsoft;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Microsoft
+apple;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Apple_Inc.
+oracle;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Oracle_Corporation
+alphabet;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Alphabet_Inc.
+apple;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Apple_Inc.
+pinterest;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Pinterest
+hp;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Hewlett-Packard
+oracle;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Oracle_Corporation
+dell;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Dell
+apple;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Apple_Inc.
+microsoft;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Microsoft
+amazon;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Amazon_(company)
+facebook;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Facebook
+google;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Google
+amazon;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Amazon_(company)
+apple;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Apple_Inc.
+microsoft;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Microsoft
+google;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Google
+meta;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Meta_Platforms
+apple;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Apple_Inc.
+microsoft;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Microsoft
+microsoft;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Microsoft
+verizon;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Verizon_Communications
+netflix;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Netflix
+apple;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Apple_Inc.
+amazon;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Amazon_(company)
+microsoft;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Microsoft
+apple;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Apple_Inc.
+microsoft;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Microsoft
+amazon;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Amazon_(company)
+apple;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Apple_Inc.
+microsoft;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Microsoft
+netflix;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Netflix
+ibm;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/IBM
+google;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Google
+microsoft;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Microsoft
+apple;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Apple_Inc.
+google;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Google
+tesla;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Tesla,_Inc.
+google;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Google
+apple;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Apple_Inc.
+microsoft;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Microsoft
+apple;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Apple_Inc.
+microsoft;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Microsoft
+facebook;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Facebook
+apple;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Apple_Inc.
+google;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Google
+hewlett packard;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Hewlett-Packard

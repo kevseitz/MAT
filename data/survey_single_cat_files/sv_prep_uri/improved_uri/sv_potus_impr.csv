@@ -1,0 +1,323 @@
+us_presidents;p_age;p_gender;p_education;p_country;p_id;uri
+barack obama;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Barack_Obama
+joe biden;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Joe_Biden
+george washington;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/George_Washington
+joe biden;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Joe_Biden
+goerge w. bush;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/George_W._Bush
+barack obama;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Barack_Obama
+george washington;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/George_Washington
+abraham lincoln;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Abraham_Lincoln
+richard nixon;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Richard_Nixon
+donald trump;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Donald_Trump
+john f. kennedy;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/John_F._Kennedy
+gerald ford;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Gerald_Ford
+obama;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Barack_Obama
+biden;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Joe_Biden
+lincoln;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Abraham_Lincoln
+barrack obama;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Barack_Obama
+donald trump;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Donald_Trump
+joe biden;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Joe_Biden
+washington;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/George_Washington
+adams;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/John_Quincy_Adams
+madison;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/James_Madison
+clinton;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Bill_Clinton
+bush;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/George_W._Bush
+trump;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Donald_Trump
+bill clinton;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Bill_Clinton
+george w. bush;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/George_W._Bush
+barack obama;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Barack_Obama
+george washington;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/George_Washington
+abraham lincoln;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Abraham_Lincoln
+barack obama;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Barack_Obama
+obama;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Barack_Obama
+bush;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/George_W._Bush
+biden;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Joe_Biden
+trump;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Donald_Trump
+washington;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/George_Washington
+roosevelt;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Franklin_D._Roosevelt
+j.w. bush;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/George_W._Bush
+barack obama;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Barack_Obama
+donald trump;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Donald_Trump
+biden;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Joe_Biden
+obama;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Barack_Obama
+washington;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/George_Washington
+washington;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/George_Washington
+obama;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Barack_Obama
+biden;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Joe_Biden
+biden;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Joe_Biden
+trump;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Donald_Trump
+bush;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/George_W._Bush
+obama;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Barack_Obama
+biden;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Joe_Biden
+trump;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Donald_Trump
+george washington;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/George_Washington
+barack obama;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Barack_Obama
+donald trump;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Donald_Trump
+clinton;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Bill_Clinton
+obama;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Barack_Obama
+trump;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Donald_Trump
+joe biden;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Joe_Biden
+trump;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Donald_Trump
+biden;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Joe_Biden
+obama;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Barack_Obama
+george w bush;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/George_W._Bush
+barack obama;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Barack_Obama
+franklin delano roosevelt;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Franklin_D._Roosevelt
+clinton;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Bill_Clinton
+obama;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Barack_Obama
+trump;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Donald_Trump
+joe biden;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Joe_Biden
+donald trump;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Donald_Trump
+franklin d. roosevelt;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Franklin_D._Roosevelt
+abraham lincoln;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Abraham_Lincoln
+barack obama;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Barack_Obama
+george w. bush;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/George_W._Bush
+george w. bush;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/George_W._Bush
+donald trump;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Donald_Trump
+ronald reagan;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Ronald_Reagan
+biden;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Joe_Biden
+trump;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Donald_Trump
+obama;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Barack_Obama
+george w bush;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/George_W._Bush
+barack obama;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Barack_Obama
+donald trump;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Donald_Trump
+jefferson;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Thomas_Jefferson
+dixon;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Richard_Nixon
+lincoln;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Abraham_Lincoln
+abraham lincoln;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Abraham_Lincoln
+jfk;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/John_F._Kennedy
+tyler hamilton;30;Male;Bachelor's degree;USA;29;NaN
+trump;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Donald_Trump
+obama;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Barack_Obama
+john f. kennedy;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/John_F._Kennedy
+barack obama;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Barack_Obama
+george bush;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/George_W._Bush
+bill clinton;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Bill_Clinton
+biden;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Joe_Biden
+trump;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Donald_Trump
+obama;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Barack_Obama
+roosevelt;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Franklin_D._Roosevelt
+lincoln;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Abraham_Lincoln
+bush;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/George_W._Bush
+nixon;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Richard_Nixon
+jefferson;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Thomas_Jefferson
+reagan;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Ronald_Reagan
+obama;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Barack_Obama
+trump;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Donald_Trump
+bush;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/George_W._Bush
+biden;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Joe_Biden
+trump;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Donald_Trump
+obama;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Barack_Obama
+washington;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/George_Washington
+lincoln;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Abraham_Lincoln
+jefferson;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Thomas_Jefferson
+bush;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/George_W._Bush
+trump;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Donald_Trump
+kennedy;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/John_F._Kennedy
+joe biden;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Joe_Biden
+donald trump;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Donald_Trump
+barack obama;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Barack_Obama
+trump;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Donald_Trump
+obama;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Barack_Obama
+lincoln;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Abraham_Lincoln
+trump;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Donald_Trump
+biden;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Joe_Biden
+bush;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/George_W._Bush
+georg bush;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/George_W._Bush
+ronald reagan;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Ronald_Reagan
+john f kennedy;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/John_F._Kennedy
+george w. bush;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/George_W._Bush
+bill clinton;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Bill_Clinton
+barack obama;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Barack_Obama
+ronald reagan;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Ronald_Reagan
+barack obama;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Barack_Obama
+joe biden;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Joe_Biden
+donald trump;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Donald_Trump
+barack obama;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Barack_Obama
+george w. bush;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/George_W._Bush
+bush sr;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/George_H._W._Bush
+bush jr;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/George_W._Bush
+obama;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Barack_Obama
+obama;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Barack_Obama
+trump;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Donald_Trump
+biden;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Joe_Biden
+obama;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Barack_Obama
+kennedy;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/John_F._Kennedy
+trump;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Donald_Trump
+barak obama;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Barack_Obama
+donald trump;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Donald_Trump
+john f kennedy;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/John_F._Kennedy
+barack obama;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Barack_Obama
+joe biden;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Joe_Biden
+franklin roosevelt;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Franklin_D._Roosevelt
+biden;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Joe_Biden
+trump;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Donald_Trump
+obama;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Barack_Obama
+joe biden;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Joe_Biden
+barack obama;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Barack_Obama
+donald trump;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Donald_Trump
+biden;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Joe_Biden
+trump;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Donald_Trump
+obama;25;Male;Bachelor's degree;Germany;53;http://dbpedia.org/resource/Barack_Obama
+obama;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Barack_Obama
+washington;34;Female;Master's degree;France;54;http://dbpedia.org/resource/George_Washington
+carter;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Jimmy_Carter
+biden;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Joe_Biden
+obama;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Barack_Obama
+bush;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/George_W._Bush
+bush;26;Female;Master's degree;France;56;http://dbpedia.org/resource/George_W._Bush
+biden;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Joe_Biden
+obama;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Barack_Obama
+eisenhower;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Dwight_D._Eisenhower
+roosevelt;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Franklin_D._Roosevelt
+clinton;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Bill_Clinton
+woodrow wilson;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Woodrow_Wilson
+donald trump;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Donald_Trump
+gerald ford;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Gerald_Ford
+bush;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/George_W._Bush
+clinton;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Bill_Clinton
+obama;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Barack_Obama
+barack obama;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Barack_Obama
+joe biden;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Joe_Biden
+donald trump;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Donald_Trump
+j.f. kennedy;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/John_F._Kennedy
+franklin d. roosevelt;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Franklin_D._Roosevelt
+jimmy carter;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Jimmy_Carter
+biden;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Joe_Biden
+trump;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Donald_Trump
+obama;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Barack_Obama
+trump;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Donald_Trump
+obama;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Barack_Obama
+kennedy;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/John_F._Kennedy
+donald trump;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Donald_Trump
+obama;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Barack_Obama
+rooselvelt;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Franklin_D._Roosevelt
+klinton;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Bill_Clinton
+bush;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/George_W._Bush
+obama;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Barack_Obama
+george w. bush;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/George_W._Bush
+joe biden;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Joe_Biden
+barack obama;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Barack_Obama
+abraham lincoln;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Abraham_Lincoln
+george washington;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/George_Washington
+donald trump;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Donald_Trump
+nan;0;Prefer not to say;NaN;NaN;68;nan
+obama;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Barack_Obama
+kennedy;24;Female;Master's degree;France;69;http://dbpedia.org/resource/John_F._Kennedy
+biden;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Joe_Biden
+biden;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Joe_Biden
+obama;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Barack_Obama
+trump;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Donald_Trump
+obama;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Barack_Obama
+clinton;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Bill_Clinton
+bush;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/George_W._Bush
+obama;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Barack_Obama
+clinton;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Bill_Clinton
+trump;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Donald_Trump
+obama;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Barack_Obama
+trump;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Donald_Trump
+biden;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Joe_Biden
+abraham lincoln;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Abraham_Lincoln
+nixxon;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Richard_Nixon
+obama;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Barack_Obama
+barack obama;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Barack_Obama
+joe biden;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Joe_Biden
+george w bush;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/George_W._Bush
+biden;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Joe_Biden
+trump;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Donald_Trump
+obama;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Barack_Obama
+reagan;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Ronald_Reagan
+g.h. bush;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/George_H._W._Bush
+g.w.bush;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/George_W._Bush
+obama;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Barack_Obama
+clinton;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Bill_Clinton
+trump;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Donald_Trump
+obama;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Barack_Obama
+trump;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Donald_Trump
+bush;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/George_W._Bush
+barack obama;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Barack_Obama
+donald trump;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Donald_Trump
+biden;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Joe_Biden
+trump;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Donald_Trump
+clinton;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Bill_Clinton
+donald trump;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Donald_Trump
+joe biden;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Joe_Biden
+barack obama;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Barack_Obama
+bill clinton;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Bill_Clinton
+barack obama;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Barack_Obama
+donald trump;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Donald_Trump
+trump;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Donald_Trump
+obama;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Barack_Obama
+jf kennedy;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/John_F._Kennedy
+biden;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Joe_Biden
+trump;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Donald_Trump
+obama;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Barack_Obama
+obama;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Barack_Obama
+lincoln;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Abraham_Lincoln
+biden;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Joe_Biden
+obama;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Barack_Obama
+bush;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/George_W._Bush
+biden;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Joe_Biden
+joe biden;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Joe_Biden
+donald trump;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Donald_Trump
+george bush;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/George_W._Bush
+obama;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Barack_Obama
+trump;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Donald_Trump
+biden;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Joe_Biden
+trump;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Donald_Trump
+kennedy;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/John_F._Kennedy
+lincoln;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Abraham_Lincoln
+barack obama;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Barack_Obama
+joe biden;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Joe_Biden
+george w. bush;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/George_W._Bush
+barack obama;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Barack_Obama
+donald trump;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Donald_Trump
+joe biden;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Joe_Biden
+barack obama;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Barack_Obama
+joe biden;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Joe_Biden
+george bush;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/George_W._Bush
+barrack obama;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Barack_Obama
+abraham lincoln;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Abraham_Lincoln
+george washington;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/George_Washington
+trump;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Donald_Trump
+obama;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Barack_Obama
+roosevelt;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Franklin_D._Roosevelt
+bush;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/George_W._Bush
+trump;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Donald_Trump
+biden;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Joe_Biden
+biden;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Joe_Biden
+obama;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Barack_Obama
+trump;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Donald_Trump
+barack obama;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Barack_Obama
+john f. kennedy;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/John_F._Kennedy
+abraham lincoln;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Abraham_Lincoln
+lincoln;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Abraham_Lincoln
+bush;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/George_W._Bush
+obama;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Barack_Obama
+washington;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/George_Washington
+lincoln;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Abraham_Lincoln
+kennedy;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/John_F._Kennedy
+trump;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Donald_Trump
+biden;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Joe_Biden
+kennedy;23;Female;Master's degree;England;101;http://dbpedia.org/resource/John_F._Kennedy
+biden;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Joe_Biden
+bush;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/George_W._Bush
+kennedy;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/John_F._Kennedy
+lincoln;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Abraham_Lincoln
+kennedy;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/John_F._Kennedy
+trump;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Donald_Trump
+bill clinton;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Bill_Clinton
+george w. bush;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/George_W._Bush
+barack obama;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Barack_Obama
+roosevelt;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Franklin_D._Roosevelt
+obama;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Barack_Obama
+george w. bush;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/George_W._Bush
+joe biden;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Joe_Biden
+donald trump;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Donald_Trump
+george washington;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/George_Washington
+joe biden;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Joe_Biden
+barak obama;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Barack_Obama
+donald trump;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Donald_Trump
+joe biden;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Joe_Biden
+abraham lincoln;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Abraham_Lincoln
+barack obama;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Barack_Obama

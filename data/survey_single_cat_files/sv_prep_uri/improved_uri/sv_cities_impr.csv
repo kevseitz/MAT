@@ -1,0 +1,327 @@
+﻿cities;p_age;p_gender;p_education;p_country;p_id;uri
+berlin;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Berlin
+new york;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/New_York_City
+moscow;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Moscow
+new york;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/New_York_City
+amsterdam;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Amsterdam
+berlin;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Berlin
+paris;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Paris
+new york;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/New_York_City
+istanbul;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Istanbul
+berlin;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Berlin
+new york;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/New_York_City
+kyiv;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Kyiv
+leuven;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Leuven
+chisinau;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Chișinău
+moscow;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Moscow
+paris;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Paris
+berlin;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Berlin
+london;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/City_of_London
+brussels;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Brussels
+london;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/City_of_London
+berlin;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Berlin
+berlin;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Berlin
+amsterdam;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Amsterdam
+cologne;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Cologne
+berlin;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Berlin
+london;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/City_of_London
+belfast;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Belfast
+heidelberg;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Heidelberg
+new york;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/New_York_City
+milan;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Milan
+berlin;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Berlin
+paris;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Paris
+brussels;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Brussels
+hövelhof;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Hövelhof
+delbrück;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Delbrück
+detmold;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Detmold
+mannheim;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Mannheim
+berlin;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Berlin
+düsseldorf;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Düsseldorf
+berlin;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Berlin
+paris;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Paris
+rome;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Rome
+amsterdam;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Amsterdam
+berlin;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Berlin
+munich;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Munich
+munich;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Munich
+berlin;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Berlin
+hamburg;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Hamburg
+san francisco;25;Male;;germany;16;http://dbpedia.org/resource/San_Francisco
+sydney;25;Male;;germany;16;http://dbpedia.org/resource/Sydney
+berlin;25;Male;;germany;16;http://dbpedia.org/resource/Berlin
+new york;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/New_York_City
+rio de janeiro;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Rio_de_Janeiro
+rosenheim;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Rosenheim
+mannheim;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Mannheim
+hamburg;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Hamburg
+munich;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Munich
+kyiv;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Kyiv
+moscow;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Moscow
+freiburg;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Freiburg_im_Breisgau
+berlin;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Berlin
+london;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/City_of_London
+barcelona;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Barcelona
+new york;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/New_York_City
+philadelphia;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Philadelphia
+san francisco;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/San_Francisco
+stockholm;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Stockholm
+paris;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Paris
+rome;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Rome
+vatican city;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Vatican_City
+bangkok;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Bangkok
+moscow;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Moscow
+cologne;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Cologne
+heilbronn;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Heilbronn
+munich;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Munich
+belfast;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Belfast
+new york;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/New_York_City
+milan;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Milan
+heilbronn;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Heilbronn
+heidelberg;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Heidelberg
+stuttgart;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Stuttgart
+frankfurt;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Frankfurt
+berlin;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Berlin
+munich;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Munich
+straubing;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Straubing
+almería;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Almería
+bammental;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Bammental
+calcutta;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Kolkata
+shanghai;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Shanghai
+washington, d.c.;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Washington,_D.C.
+munich;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Munich
+münster;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Münster
+hamburg;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Hamburg
+new york;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/New_York_City
+athens;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Athens
+beijing;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Beijing
+berlin;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Berlin
+paris;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Paris
+rome;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Rome
+seville;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Seville
+hong kong;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Hong_Kong
+london;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/City_of_London
+berlin;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Berlin
+hamburg;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Hamburg
+munich;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Munich
+berlin;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Berlin
+brunswick;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Brunswick,_Georgia
+heidelberg;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Heidelberg
+mannheim;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Mannheim
+frankfurt;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Frankfurt
+berlin;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Berlin
+munich;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Munich
+hamburg;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Hamburg
+munich;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Munich
+new york;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/New_York_City
+tokyo;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Tokyo
+mannheim;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Mannheim
+frankfurt;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Frankfurt
+darmstadt;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Darmstadt
+munich;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Munich
+hamburg;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Hamburg
+london;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/City_of_London
+paris;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Paris
+london;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/City_of_London
+barcelona;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Barcelona
+milan;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Milan
+tarifa;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Tarifa
+malmö;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Malmö
+paris;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Paris
+berlin;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Berlin
+tokyo;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Tokyo
+madrid;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Madrid
+frankfurt;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Frankfurt
+belfast;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Belfast
+rome;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Rome
+capetown;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Cape_Town
+potsdam;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Potsdam
+money;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Geldern
+oranienburg;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Oranienburg
+ilmenau;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Ilmenau
+london;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/City_of_London
+paris;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Paris
+rome;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Rome
+rome;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Rome
+paris;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Paris
+london;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/City_of_London
+berlin;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Berlin
+heidelberg;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Heidelberg
+new york;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/New_York_City
+mannheim;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Mannheim
+munich;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Munich
+berlin;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Berlin
+new york;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/New_York_City
+london;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/City_of_London
+barcelona;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Barcelona
+potsdam;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Potsdam
+munich;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Munich
+leipzig;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Leipzig
+mannheim;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Mannheim
+schwetzingen;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Schwetzingen
+heidelberg;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Heidelberg
+hartford;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Hartford,_Connecticut
+enghienlesbains;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Enghien-les-Bains
+montreal;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Montreal
+zurich;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Zürich
+prague;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Prague
+madrid;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Madrid
+nice;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Nice
+lille;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Lille
+versailles;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Versailles,_Yvelines
+kyiv;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Kyiv
+moscow;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Moscow
+minsk;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Minsk
+paris;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Paris
+berlin;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Berlin
+milan;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Milan
+mannheim;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Mannheim
+heidelberg;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Heidelberg
+zurich;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Zürich
+berlin;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Berlin
+heidelberg;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Heidelberg
+paris;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Paris
+heidelberg;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Heidelberg
+prague;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Prague
+lisbon;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Lisbon
+paris;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Paris
+london;30;Female;Master's degree;france;62;http://dbpedia.org/resource/City_of_London
+new york;30;Female;Master's degree;france;62;http://dbpedia.org/resource/New_York_City
+frankfurt;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Frankfurt
+milano;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Milan
+new york;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/New_York_City
+berlin;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Berlin
+frankfurt;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Frankfurt
+gothamcity;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Gotham_City
+waterloo;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Waterloo,_Belgium
+geneva;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Geneva
+copenhagen;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Copenhagen
+new york;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/New_York_City
+washington, d.c.;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Washington,_D.C.
+los angeles;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Los_Angeles
+cologne;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Cologne
+paris;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Paris
+barcelona;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Barcelona
+heidelberg;0;Prefer not to say;;;68;http://dbpedia.org/resource/Heidelberg
+mannheim;0;Prefer not to say;;;68;http://dbpedia.org/resource/Mannheim
+frankfurt;0;Prefer not to say;;;68;http://dbpedia.org/resource/Frankfurt
+paris;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Paris
+singapore;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Singapore
+london;24;Female;Master's degree;france;69;http://dbpedia.org/resource/City_of_London
+paris;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Paris
+london;26;Female;Master's degree;france;70;http://dbpedia.org/resource/City_of_London
+berlin;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Berlin
+berlin;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Berlin
+london;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/City_of_London
+paris;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Paris
+berlin;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Berlin
+munich;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Munich
+paris;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Paris
+kyiv;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Kyiv
+berlin;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Berlin
+frankfurt;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Frankfurt
+mannheim;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Mannheim
+berlin;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Berlin
+athens;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Athens
+moscow;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Moscow
+kyiv;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Kyiv
+beijing;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Beijing
+paris;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Paris
+rome;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Rome
+london;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/City_of_London
+mannheim;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Mannheim
+heidelberg;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Heidelberg
+hamburg;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Hamburg
+heidelberg;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Heidelberg
+mannheim;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Mannheim
+stuttgart;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Stuttgart
+berlin;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Berlin
+new york;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/New_York_City
+london;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/City_of_London
+cologne;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Cologne
+düsseldorf;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Düsseldorf
+frankfurt;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Frankfurt
+heidelberg;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Heidelberg
+berlin;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Berlin
+madrid;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Madrid
+peking;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Beijing
+moscow;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Moscow
+oslo;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Oslo
+mannheim;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Mannheim
+heidelberg;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Heidelberg
+weinheim;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Weinheim
+new york;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/New_York_City
+amsterdam;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Amsterdam
+berlin;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Berlin
+berlin;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Berlin
+hanover;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Hanover
+heidelberg;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Heidelberg
+berlin;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Berlin
+tokyo;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Tokyo
+london;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/City_of_London
+monchengladbach;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/page/Mönchengladbach
+hamburg;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Hamburg
+munich;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Munich
+heidelberg;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Heidelberg
+glue;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Leimen
+mannheim;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Mannheim
+new york;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/New_York_City
+london;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/City_of_London
+barcelona;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Barcelona
+munich;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Munich
+berlin;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Berlin
+hamburg;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Hamburg
+berlin;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Berlin
+paris;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Paris
+madrid;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Madrid
+berlin;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Berlin
+rome;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Rome
+sydney;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Sydney
+london;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/City_of_London
+seville;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Seville
+rome;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Rome
+london;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/City_of_London
+berlin;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Berlin
+künzelsau;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Künzelsau
+shanghai;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Shanghai
+beijing;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Beijing
+london;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/City_of_London
+rome;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Rome
+mannheim;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Mannheim
+paris;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Paris
+mannheim;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Mannheim
+stuttgart;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Stuttgart
+munich;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Munich
+munich;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Munich
+reykjavik;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Reykjavík
+lisbon;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Lisbon
+jaipur;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Jaipur
+berlin;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Berlin
+heidelberg;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Heidelberg
+pittsburgh;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Pittsburgh
+las vegas;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Las_Vegas
+london;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/City_of_London
+birmingham;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Birmingham
+nice;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Nice
+amsterdam;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Amsterdam
+berlin;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Berlin
+hamburg;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Hamburg
+munich;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Munich
+paris;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Paris
+berlin;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Berlin
+rome;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Rome
+new york;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/New_York_City
+washington;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Washington,_D.C.
+dublin;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Dublin
+new york;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/New_York_City
+stockholm;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Stockholm
+munich;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Munich
+rome;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Rome
+bologna;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Bologna
+berlin;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Berlin
+berlin;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Berlin
+munich;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Munich
+hamburg;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Hamburg
+new york;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/New_York_City
+hamburg;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Hamburg
+bremen;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Bremen
