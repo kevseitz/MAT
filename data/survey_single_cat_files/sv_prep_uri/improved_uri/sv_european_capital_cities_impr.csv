@@ -1,4 +1,4 @@
-﻿european_capital_cities;p_age;p_gender;p_education;p_country;p_id;uri
+european_capital_cities;p_age;p_gender;p_education;p_country;p_id;uri
 berlin;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Berlin
 paris;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Paris
 london;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/London
@@ -11,17 +11,17 @@ madrid;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Madrid
 berlin;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Berlin
 paris;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Paris
 madrid;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Madrid
-brussels;34;Female;Master's degree;Switzerland;4;https://dbpedia.org/resource/Brussels
+brussels;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/City_of_Brussels
 paris;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Paris
 berlin;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Berlin
 berlin;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Berlin
 amsterdam;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Amsterdam
 paris;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Paris
-brussels;27;Male;Master's degree;Germany;6;https://dbpedia.org/resource/Brussels
+brussels;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/City_of_Brussels
 london;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/London
 berlin;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Berlin
 rome;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Rome
-brussels;27;Male;Master's degree;Germany;7;https://dbpedia.org/resource/Brussels
+brussels;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/City_of_Brussels
 berlin;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Berlin
 berlin;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Berlin
 paris;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Paris
@@ -30,7 +30,7 @@ rome;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Rome
 madrid;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Madrid
 london;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/London
 berlin;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Berlin
-brussels;26;Male;Master's degree;Germany;10;https://dbpedia.org/resource/Brussels
+brussels;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/City_of_Brussels
 paris;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Paris
 berlin;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Berlin
 paris;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Paris
@@ -40,14 +40,14 @@ berlin;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Berlin
 stockholm;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Stockholm
 berlin;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Berlin
 paris;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Paris
-brussels;26;Female;Master's degree;Germany;13;https://dbpedia.org/resource/Brussels
+brussels;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/City_of_Brussels
 rome;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Rome
 berlin;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Berlin
 amsterdam;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Amsterdam
 berlin;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Berlin
 rome;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Rome
 london;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/London
-brussels;25;Male;;Germany;16;https://dbpedia.org/resource/Brussels
+brussels;25;Male;;Germany;16;http://dbpedia.org/resource/City_of_Brussels
 berlin;25;Male;;Germany;16;http://dbpedia.org/resource/Berlin
 copenhagen;25;Male;;Germany;16;http://dbpedia.org/resource/Copenhagen
 paris;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Paris
@@ -69,7 +69,7 @@ rome;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Rome
 stockholm;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Stockholm
 berlin;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Berlin
 paris;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Paris
-brussels;26;Male;Bachelor's degree;Germany;23;https://dbpedia.org/resource/Brussels
+brussels;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/City_of_Brussels
 paris;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Paris
 london;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/London
 madrid;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Madrid
@@ -258,7 +258,7 @@ vienna;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Vienna
 sofia;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Sofia
 paris;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Paris
 copenhagen;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Copenhagen
-brussels;25;Female;Bachelor's degree;Russia;86;https://dbpedia.org/resource/Brussels
+brussels;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/City_of_Brussels
 lisbon;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Lisbon
 warsaw;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Warsaw
 rome;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Rome
