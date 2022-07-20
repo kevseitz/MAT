@@ -7,8 +7,19 @@
 #    ?resource rdfs:label ?name .
 #    FILTER langMatches(lang(?name), "EN")
 #}
+
 SELECT DISTINCT ?film90 ?name WHERE {
-	VALUES ?fcat {dbc:1990_films dbc:1991_films dbc:1992_films dbc:1993_films dbc:1994_films dbc:1995_films dbc:1996_films dbc:1997_films dbc:1998_films dbc:1999_films}
+	VALUES ?fcat {
+		dbc:1990_films
+		dbc:1991_films
+		dbc:1992_films
+		dbc:1993_films
+		dbc:1994_films
+		dbc:1995_films
+		dbc:1996_films
+		dbc:1997_films
+		dbc:1998_films
+		dbc:1999_films}
 	?film90 dct:subject ?fcat .
 	?film90 rdfs:label ?name .
 	FILTER langMatches(lang(?name), "EN")
@@ -84,7 +95,7 @@ SELECT DISTINCT ?lake ?name WHERE {
     ?lake rdfs:label ?name .
     FILTER langMatches(lang(?name), "EN")
 }
-#check for dbc:Lakes
+#dbc:Lakes -> very bad results, same for dbc:Cities, dbc:Mountains
 
 # mountain
 SELECT DISTINCT ?mount ?name WHERE {
@@ -148,6 +159,7 @@ SELECT DISTINCT ?conti ?name WHERE {
 #     ?bird rdfs:label ?name .
 #     FILTER langMatches(lang(?name), "EN")
 # }
+
 SELECT DISTINCT ?bird ?name WHERE {
     ?bird dct:subject/skos:broader+ dbc:Birds .
     ?bird rdfs:label ?name .
