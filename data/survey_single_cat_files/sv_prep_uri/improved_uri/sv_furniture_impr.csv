@@ -1,0 +1,322 @@
+﻿furniture;p_age;p_gender;p_education;p_country;p_id;uri
+chair;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Chair
+table;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Table_(furniture
+lamp;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Fluorescent_lamp
+chair;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Chair
+table;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Table_(furniture
+sofa;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Couch
+table;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Table_(furniture
+cupboard;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Cupboard
+chair;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Chair
+bed;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Bed
+sofa;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Couch
+table;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Table_(furniture
+chair;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Chair
+table;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Table_(furniture
+cabinet;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/West_Sussex
+chair;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Chair
+sofa;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Couch
+table;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Table_(furniture
+couch;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Couch
+chair;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Chair
+wardrobe;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Wardrobe
+chair;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Chair
+table;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Table_(furniture
+cabinet;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/West_Sussex
+couch;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Couch
+dining table;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Table_(furniture)
+bed;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Bed
+chair;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Chair
+table;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Table_(furniture
+bed;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Bed
+couch;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Couch
+table;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Table_(furniture
+chair;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Chair
+chair;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Chair
+bed;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Bed
+table;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Table_(furniture
+chair;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Chair
+table;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Table_(furniture
+wardrobe;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Wardrobe
+couch;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Couch
+bed;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Bed
+table;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Table_(furniture
+sofa;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Couch
+chair;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Chair
+bed;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Bed
+chair;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Chair
+table;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Table_(furniture
+couch;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Couch
+chair;25;Male;;germany;16;http://dbpedia.org/resource/Chair
+table;25;Male;;germany;16;http://dbpedia.org/resource/Table_(furniture
+bed;25;Male;;germany;16;http://dbpedia.org/resource/Bed
+chair;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Chair
+table;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Table_(furniture
+wardrobe;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Wardrobe
+table;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Table_(furniture
+chair;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Chair
+cupboard;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Cupboard
+table;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Table_(furniture
+chair;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Chair
+desk;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Desk
+couch;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Couch
+chair;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Chair
+desk;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Desk
+endtable;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Table_(furniture)
+chair;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Chair
+table;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Table_(furniture
+bed;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Bed
+chair;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Chair
+table;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Table_(furniture
+cabinet;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/West_Sussex
+sideboard;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Sideboard
+writing table;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Writing_table
+cabinet;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/West_Sussex
+couch;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Couch
+desk;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Desk
+table;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Table_(furniture
+bed;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Bed
+shelf;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Shelf_(storage)
+table;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Table_(furniture
+couch;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Couch
+table;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Table_(furniture
+wardrobe;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Wardrobe
+bed;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Bed
+chair;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Chair
+table;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Table_(furniture
+chair;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Chair
+bed;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Bed
+bench;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Bench_(furniture)
+chair;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Chair
+table;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Table_(furniture
+bed;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Bed
+table;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Table_(furniture
+chair;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Chair
+desk;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Desk
+table;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Table_(furniture
+chair;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Chair
+cupboard;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Cupboard
+chair;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Chair
+table;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Table_(furniture
+lamp;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Fluorescent_lamp
+chair;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Chair
+table;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Table_(furniture
+cabinet;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/West_Sussex
+chair;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Chair
+shelf;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Shelf_(storage)
+table;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Table_(furniture
+desk;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Desk
+chair;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Chair
+wardrobe;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Wardrobe
+desk;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Desk
+chair;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Chair
+cupboard;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Cupboard
+chair;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Chair
+tablet;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Tablet_computer
+cupboard;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Cupboard
+couch;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Couch
+table;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Table_(furniture
+chair;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Chair
+chair;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Chair
+table;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Table_(furniture
+cabinet;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/West_Sussex
+couch;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Couch
+bed;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Bed
+table;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Table_(furniture
+coffeetable;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Coffee_table
+ottoman;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Ottoman_(furniture)
+couch;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Couch
+chair;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Chair
+sofa;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Couch
+table;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Table_(furniture
+couch;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Couch
+table;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Table_(furniture
+sideboard;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Sideboard
+chair;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Chair
+table;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Table_(furniture
+couch;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Couch
+table;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Table_(furniture
+chair;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Chair
+shelf;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Shelf_(storage)
+table;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Table_(furniture
+bed;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Bed
+chair;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Chair
+desk;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Desk
+chair;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Chair
+wardrobe;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Wardrobe
+sofa;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Couch
+bed;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Bed
+chair;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Chair
+chair;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Chair
+desk;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Desk
+wardrobe;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Wardrobe
+bed;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Bed
+table;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Table_(furniture
+closet;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Closet
+bed;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Bed
+couch;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Couch
+chair;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Chair
+chair;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Chair
+desk;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Desk
+wardrobe;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Wardrobe
+desk;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Desk
+bed;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Bed
+chair;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Chair
+sofa;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Couch
+closet;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Closet
+bed;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Bed
+chair;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Chair
+table;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Table_(furniture
+fridge;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Refrigerator
+chair;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Chair
+table;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Table_(furniture
+cabinet;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/West_Sussex
+shelf;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Shelf_(storage)
+table;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Table_(furniture
+bed;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Bed
+chair;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Chair
+table;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Table_(furniture
+closet;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Closet
+bed;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Bed
+chair;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Chair
+table;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Table_(furniture
+chair;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Chair
+table;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Table_(furniture
+bed;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Bed
+table;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Table_(furniture
+bed;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Bed
+chair;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Chair
+desk;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Desk
+bed;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Bed
+lamp;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Fluorescent_lamp
+desk;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Desk
+bed;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Bed
+seat;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Seat
+couch;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Couch
+chair;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Chair
+table;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Table_(furniture
+chair;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Chair
+table;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Table_(furniture
+couch;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Couch
+chair;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Chair
+bed;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Bed
+couch;0;Prefer not to say;;;68;http://dbpedia.org/resource/Couch
+chair;0;Prefer not to say;;;68;http://dbpedia.org/resource/Chair
+table;0;Prefer not to say;;;68;http://dbpedia.org/resource/Table_(furniture
+desk;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Desk
+bed;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Bed
+bathtub;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Bathtub
+sofa;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Couch
+table;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Table_(furniture
+chair;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Chair
+chair;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Chair
+table;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Table_(furniture
+sofa;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Couch
+bed;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Bed
+table;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Table_(furniture
+chair;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Chair
+chair;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Chair
+bed;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Bed
+table;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Table_(furniture
+couch;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Couch
+bed;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Bed
+chair;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Chair
+sofa;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Couch
+chair;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Chair
+bed;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Bed
+bed;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Bed
+couch;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Couch
+chair;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Chair
+table;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Table_(furniture
+chair;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Chair
+armchair;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Chair
+sideboard;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Sideboard
+cabinet;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/West_Sussex
+bedside table;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Nightstand
+table;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Table_(furniture
+chair;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Chair
+bed;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Bed
+bed;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Bed
+cupboard;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Cupboard
+chair;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Chair
+table;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Table_(furniture
+fridge;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Refrigerator
+desk;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Desk
+closet;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Closet
+coat rack;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Coat_rack
+chair;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Chair
+table;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Table_(furniture
+bed;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Bed
+chair;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Chair
+table;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Table_(furniture
+couch;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Couch
+chair;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Chair
+chair;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Chair
+table;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Table_(furniture
+couch;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Couch
+chair;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Chair
+bed;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Bed
+table;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Table_(furniture
+chair;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Chair
+table;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Table_(furniture
+couch;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Couch
+table;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Table_(furniture
+chair;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Chair
+couch;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Couch
+chair;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Chair
+table;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Table_(furniture
+cupboard;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Cupboard
+chair;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Chair
+table;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Table_(furniture
+bed;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Bed
+desk;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Desk
+couch;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Couch
+sideboard;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Sideboard
+sofa;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Couch
+wardrobe;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Wardrobe
+dining table;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Table_(furniture)
+chair;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Chair
+table;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Table_(furniture
+sofa;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Couch
+sofa;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Couch
+table;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Table_(furniture
+chair;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Chair
+cupboard;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Cupboard
+dining table;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Table_(furniture)
+sofa;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Couch
+sofa;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Couch
+desk;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Desk
+bed;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Bed
+bed;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Bed
+couch;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Couch
+cabinet;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/West_Sussex
+couch;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Couch
+bed;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Bed
+drawers;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Chest_of_drawers
+couch;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Couch
+table;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Table_(furniture
+bed;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Bed
+bed;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Bed
+wardrobe;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Wardrobe
+desk;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Desk
+chair;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Chair
+desk;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Desk
+lamp;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Fluorescent_lamp
+barcelona chair;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Barcelona_chair
+diamond chair;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Diamond_chair
+le corbusier lc4;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Chaise_Longue_(Le_Corbusier)
+chair;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Chair
+table;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Table_(furniture
+sofa;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Couch
+chair;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Chair
+table;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Table_(furniture
+sofa;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Couch
+chair;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Chair
+sofa;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Couch
+table;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Table_(furniture
+bed;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Bed
+table;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Table_(furniture
+sofa;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Couch
+cupboard;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Cupboard
+table;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Table_(furniture
+chair;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Chair

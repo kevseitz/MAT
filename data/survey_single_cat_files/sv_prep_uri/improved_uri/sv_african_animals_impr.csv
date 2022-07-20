@@ -1,0 +1,322 @@
+﻿african_animals;p_age;p_gender;p_education;p_country;p_id;uri
+lion;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Lion
+elephant;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Elephant
+honeybadger;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Honey_badger
+elephant;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Elephant
+lion;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Lion
+zebra;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Zebra
+leopard;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Leopard
+hyena;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Hyena
+gazelle;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Gazelle
+zebra;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Zebra
+elephant;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Elephant
+lion;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Lion
+elephant;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Elephant
+zebra;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Zebra
+giraffe;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Giraffe
+elephant;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Elephant
+lion;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Lion
+hyena;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Hyena
+lion;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Lion
+giraffe;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Giraffe
+elephant;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Elephant
+lion;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Lion
+elephant;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Elephant
+antelope;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Antelope
+lion;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Lion
+elephant;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Elephant
+giraffe;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Giraffe
+elephant;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Elephant
+giraffe;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Giraffe
+chetah;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Cheetah
+elephant;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Elephant
+giraffe;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Giraffe
+lion;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Lion
+elephant;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Elephant
+lion;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Lion
+hippo;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Hippopotamus
+elephant;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Elephant
+giraffe;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Giraffe
+antelope;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Antelope
+lion;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Lion
+elephant;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Elephant
+giraffe;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Giraffe
+giraffe;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Giraffe
+zebra;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Zebra
+lion;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Lion
+lion;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Lion
+giraffe;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Giraffe
+antelope;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Antelope
+lion;25;Male;;germany;16;http://dbpedia.org/resource/Lion
+zebra;25;Male;;germany;16;http://dbpedia.org/resource/Zebra
+elephant;25;Male;;germany;16;http://dbpedia.org/resource/Elephant
+elephant;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Elephant
+giraffe;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Giraffe
+lion;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Lion
+elephant;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Elephant
+zebra;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Zebra
+gorilla;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Gorilla
+tiger;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Tiger
+lion;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Lion
+giraffe;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Giraffe
+lion;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Lion
+elephant;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Elephant
+gnu;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Wildebeest
+giraffe;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Giraffe
+rhino;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Rhinoceros
+lion;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Lion
+elephant;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Elephant
+lion;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Lion
+rhino;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Rhinoceros
+lion;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Lion
+elephant;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Elephant
+zebra;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Zebra
+elephant;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Elephant
+lion;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Lion
+giraffe;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Giraffe
+lion;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Lion
+elephant;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Elephant
+rhino;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Rhinoceros
+antelope;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Antelope
+tiger;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Tiger
+lion;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Lion
+lion;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Lion
+zebra;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Zebra
+giraffe;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Giraffe
+lion;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Lion
+giraffe;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Giraffe
+elephant;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Elephant
+giraffe;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Giraffe
+alligator;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/American_alligator
+lion;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Lion
+hippo;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Hippopotamus
+mamba;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Black_mamba
+zebra;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Zebra
+elephant;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Elephant
+lion;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Lion
+elephant;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Elephant
+lion;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Lion
+giraffe;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Giraffe
+giraffe;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Giraffe
+lion;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Lion
+rhino;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Rhinoceros
+zebra;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Zebra
+lion;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Lion
+giraffe;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Giraffe
+giraffe;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Giraffe
+lion;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Lion
+zebra;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Zebra
+zebra;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Zebra
+lion;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Lion
+giraffe;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Giraffe
+lion;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Lion
+elephant;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Elephant
+buffalo;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/American_bison
+elephant;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Elephant
+monkey;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Monkey
+lion;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Lion
+giraffe;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Giraffe
+elephant;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Elephant
+lion;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Lion
+elephant;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Elephant
+lion;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Lion
+rhino;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Rhinoceros
+zebra;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Zebra
+elephant;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Elephant
+lion;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Lion
+elephant;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Elephant
+giraffe;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Giraffe
+zebra;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Zebra
+lion;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Lion
+elephant;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Elephant
+hippo;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Hippopotamus
+elephant;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Elephant
+impala;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Impala
+lion;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Lion
+elephant;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Elephant
+lion;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Lion
+monkey;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Monkey
+lion;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Lion
+zebra;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Zebra
+giraffe;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Giraffe
+elephant;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Elephant
+lion;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Lion
+giraffe;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Giraffe
+lion;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Lion
+giraffe;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Giraffe
+elephant;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Elephant
+elephant;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Elephant
+lion;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Lion
+cheetah;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Cheetah
+elephant;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Elephant
+giraffe;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Giraffe
+zebra;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Zebra
+lion;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Lion
+cheetah;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Cheetah
+giraffe;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Giraffe
+giraffe;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Giraffe
+elephant;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Elephant
+gazelle;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Gazelle
+elephant;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Elephant
+hippo;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Hippopotamus
+giraffe;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Giraffe
+lion;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Lion
+elephant;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Elephant
+zebra;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Zebra
+zebra;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Zebra
+giraffe gazelle;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Giraffe
+lion;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Lion
+zebra;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Zebra
+panther;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Cougar
+antelope;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Antelope
+lion;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Lion
+elephant;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Elephant
+elephant;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Elephant
+cougar;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Cougar
+lion;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Lion
+giraffe;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Giraffe
+lion;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Lion
+antelope;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Antelope
+elephant;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Elephant
+zebra;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Zebra
+giraffe;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Giraffe
+rhino;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Rhinoceros
+giraffe;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Giraffe
+lion;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Lion
+zebra;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Zebra
+elephant;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Elephant
+panther;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Cougar
+lion;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Lion
+scorpion;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Scorpion
+monkey;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Monkey
+lion;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Lion
+zebra;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Zebra
+scorpion;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Scorpion
+elephant;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Elephant
+lion;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Lion
+hyena;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Hyena
+elephant;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Elephant
+zebra;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Zebra
+tiger;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Tiger
+elephant;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Elephant
+giraffe;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Giraffe
+elephant;0;Prefer not to say;;;68;http://dbpedia.org/resource/Elephant
+lion;0;Prefer not to say;;;68;http://dbpedia.org/resource/Lion
+rhino;0;Prefer not to say;;;68;http://dbpedia.org/resource/Rhinoceros
+lion;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Lion
+giraffe;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Giraffe
+zebra;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Zebra
+camel;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Camel
+elephant;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Elephant
+snake;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Snake
+giraffe;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Giraffe
+elephant;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Elephant
+zebra;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Zebra
+lion;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Lion
+elephant;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Elephant
+zebra;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Zebra
+lion;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Lion
+elephant;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Elephant
+giraffe;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Giraffe
+lion;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Lion
+hyena;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Hyena
+giraffe;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Giraffe
+elephant;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Elephant
+hyena;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Hyena
+lion;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Lion
+elephant;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Elephant
+tiger;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Tiger
+lion;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Lion
+elephant;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Elephant
+buffalo;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/American_bison
+giraffe;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Giraffe
+leopard;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Leopard
+lion;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Lion
+elephant;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Elephant
+zebra;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Zebra
+lion;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Lion
+zebra;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Zebra
+elephant;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Elephant
+giraffe;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Giraffe
+lion;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Lion
+giraffe;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Giraffe
+zebra;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Zebra
+lion;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Lion
+elephant;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Elephant
+giraffe;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Giraffe
+elephant;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Elephant
+giraffe;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Giraffe
+zebra;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Zebra
+elephant;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Elephant
+zebra;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Zebra
+lion;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Lion
+giraffe;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Giraffe
+lion;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Lion
+elephant;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Elephant
+zebra;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Zebra
+elephant;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Elephant
+zebra;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Zebra
+hippo;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Hippopotamus
+monkey;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Monkey
+crocodile;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Crocodile
+hippo;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Hippopotamus
+tiger;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Tiger
+elephant;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Elephant
+giraffe;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Giraffe
+giraffe;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Giraffe
+elephant;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Elephant
+lion;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Lion
+elephant;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Elephant
+zebra;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Zebra
+lion;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Lion
+zebra;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Zebra
+rhino;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Rhinoceros
+alligator;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/American_alligator
+elephant;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Elephant
+giraffe;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Giraffe
+zebra;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Zebra
+elephant;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Elephant
+buffalo;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/American_bison
+rhino;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Rhinoceros
+lion;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Lion
+elephant;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Elephant
+tiger;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Tiger
+zebra;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Zebra
+elephant;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Elephant
+lion;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Lion
+lion;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Lion
+elephant;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Elephant
+giraffe;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Giraffe
+lion;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Lion
+elephant;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Elephant
+hippo;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Hippopotamus
+zebra;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Zebra
+gnu;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Wildebeest
+elephant;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Elephant
+elephant;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Elephant
+hyena;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Hyena
+hippo;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Hippopotamus
+elephant;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Elephant
+lion;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Lion
+antelope;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Antelope
+antelope;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Antelope
+lion;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Lion
+elephant;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Elephant
+lion;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Lion
+giraffe;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Giraffe
+rhino;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Rhinoceros
+elephant;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Elephant
+hippopotamus;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Hippopotamus
+giraffe;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Giraffe
+elephant;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Elephant
+lion;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Lion
+gnu;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Wildebeest
+lion;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Lion
+zebra;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Zebra
+giraffe;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Giraffe
+lion;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Lion
+elephant;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Elephant
+cheeta;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Cheetah
+leopard;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Leopard
+elephant;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Elephant
+lion;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Lion

@@ -1,0 +1,305 @@
+﻿authors;p_age;p_gender;p_education;p_country;p_id;uri
+frank herbert;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Frank_Herbert
+george r. r. martin;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/George_R._R._Martin
+j. k. rowling;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/J._K._Rowling
+shakespeare;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/William_Shakespeare
+goethe;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Goethe-Institut
+stephen king;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Stephen_King
+asimov;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Isaac_Asimov
+frank herbert;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Frank_Herbert
+simmons;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Dan_Simmons
+j. k. rowling;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/J._K._Rowling
+john grisham;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/John_Grisham
+dan brown;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/James_Brown
+dostoevsky;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Fyodor_Dostoevsky
+nabokov;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Vladimir_Nabokov
+bradbury;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Ray_Bradbury
+j.k. rowling;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/J._K._Rowling
+george r. r. martin;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/George_R._R._Martin
+eoin colfer;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Eoin_Colfer
+juli zeh;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Juli_Zeh
+michel houellebecq;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Michel_Houellebecq
+michael lewis;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Michael_Lewis
+j.k. rowling;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/J._K._Rowling
+sebastian fitzek;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Sebastian_Fitzek
+martin suter;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Martin_Suter
+sebastian fitzek;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Sebastian_Fitzek
+gerd kommer;28;Male;High school degree or equivalent;Germany;8;NaN
+george orwell;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/George_Orwell
+george r. r. martin;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/George_R._R._Martin
+ernest cline;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Ernest_Cline
+marc elsberg;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Marc_Elsberg
+george r.r. martin;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/George_R._R._Martin
+george orwell;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/George_Orwell
+kästner;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Erich_Kästner
+goethe;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Goethe-Institut
+franzen;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Jonathan_Franzen
+j. j. tolkin;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/J._R._R._Tolkien
+j.k. rowling;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/J._K._Rowling
+marc uwe kling;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Marc-Uwe_Kling
+j.k. rowling;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/J._K._Rowling
+tolkien;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/J._R._R._Tolkien
+kerstin gier;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/Kerstin_Gier
+michelle obama;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Michelle_Obama
+jk rowling;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/J._K._Rowling
+gottfried keller;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Gottfried_Keller
+sebastian fitzek;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Sebastian_Fitzek
+rita falk;28;Female;Doctorate (e.g. PhD);Germany;15;NaN
+jojo moyes;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Jojo_Moyes
+simon sinek;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Simon_Sinek
+stephan king;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Stephen_King
+j. k. rowling;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/J._K._Rowling
+c. ruiz zafon;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Carlos_Ruiz_Zafón
+jane austen;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Jane_Austen
+dan brown;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/James_Brown
+frank schätzing;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Frank_Schätzing
+jk rowling;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/J._K._Rowling
+jk rowling;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/J._K._Rowling
+george r.r. martin;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/George_R._R._Martin
+hohlbein;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Aaron_Hohlbein
+tolkien;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/J._R._R._Tolkien
+kurt vonnegut;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Kurt_Vonnegut
+julia roberts;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Julia_Roberts
+mark twain;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Mark_Twain
+nan;44;Female;Doctorate (e.g. PhD);Sweden;22;NaN
+stephen king;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Stephen_King
+sebastian fitzek;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Sebastian_Fitzek
+robert t. kyosaki;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Robert_Kiyosaki
+nan;27;Male;Bachelor's degree;NaN;24;NaN
+hans d. rosling;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Hans_Rosling
+steven king;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Stephen_King
+goethe;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Goethe-Institut
+franz kafka;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Franz_Kafka
+jk rowling;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/J._K._Rowling
+tom clancy;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Tom_Clancy
+stephen king;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Stephen_King
+dan brown;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/James_Brown
+j.k. rowling;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/J._K._Rowling
+alfred hitchcock;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Alfred_Hitchcock
+stephen king;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Stephen_King
+jk rowling;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/J._K._Rowling
+;30;Male;Bachelor's degree;USA;29;NaN
+erich fromm;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Erich_Fromm
+astrid lindgren;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Astrid_Lindgren
+martin suter;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Martin_Suter
+terry pratchett;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Terry_Pratchett
+fyodor dostoevsky;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Fyodor_Dostoevsky
+franz kafka;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Franz_Kafka
+tolkin;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Michael_Tolkin
+hesse;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Hermann_Hesse
+camus;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Albert_Camus
+tolstoy;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Leo_Tolstoy
+carnegie;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Dale_Carnegie
+bradbury;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Ray_Bradbury
+j.k. rowling;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/J._K._Rowling
+thomas mann;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Thomas_Mann
+ferdinand von schirach;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Ferdinand_von_Schirach
+tolkien;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/J._R._R._Tolkien
+george r. r. martin;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/George_R._R._Martin
+ray bradbury;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Ray_Bradbury
+astrid lindgren;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Astrid_Lindgren
+stephen king;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Stephen_King
+garcia;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Gabriel_García_Márquez
+lev grossman;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Lev_Grossman
+arthur conan doyle;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Arthur_Conan_Doyle
+walter isaacson;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Walter_Isaacson
+grass;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Günter_Grass
+berthold brecht;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Bertolt_Brecht
+irving;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/John_Irving
+yuval noah harari;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Yuval_Noah_Harari
+j. r. r. tolkien;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/J._R._R._Tolkien
+j.k. rowling;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/J._K._Rowling
+sebastian fitzek;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Sebastian_Fitzek
+j.k. rowling;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/J._K._Rowling
+stephen king;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Stephen_King
+sebastian fitzek;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Sebastian_Fitzek
+dan brown;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/James_Brown
+j.k. rowling;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/J._K._Rowling
+tom clancy;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Tom_Clancy
+simon beckett;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Simon_Beckett
+lee child;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Lee_Child
+j. k. rowling;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/J._K._Rowling
+j. r. r. tolkien;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/J._R._R._Tolkien
+stephen king;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Stephen_King
+stephen king;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Stephen_King
+henning mankel;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Henning_Mankell
+diana gabaldon;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Diana_Gabaldon
+hermann hesse;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Hermann_Hesse
+haruki murakami;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Haruki_Murakami
+sally rooney;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Sally_Rooney
+stephen king;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Stephen_King
+tolkien;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/J._R._R._Tolkien
+rowling;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/J._K._Rowling
+goethe;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Goethe-Institut
+michael ende;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Michael_Ende
+schiller;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Friedrich_Schiller
+nan;23;Female;Bachelor's degree;Germany;48;NaN
+jk rowling;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/J._K._Rowling
+anita nair;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Anita_Nair
+jonathan swift;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Jonathan_Swift
+jane austin;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Jane_Austen
+stephen king;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Stephen_King
+george orwell;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/George_Orwell
+john green;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Johnny_Green
+jane austen;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Jane_Austen
+j.k. rowling;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/J._K._Rowling
+leo tolstoi;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Leo_Tolstoy
+jane austen;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Jane_Austen
+william shakespeare;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/William_Shakespeare
+nan;25;Male;Bachelor's degree;Germany;53;NaN
+tamora pierce;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Tamora_Pierce
+moliere;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Molière
+patrick suskind;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Patrick_Süskind
+nele neuhaus;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Nele_Neuhaus
+luisa neubauer;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Luisa_Neubauer
+j.k. rowling;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/J._K._Rowling
+jk rowling;26;Female;Master's degree;France;56;http://dbpedia.org/resource/J._K._Rowling
+balzac;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Honoré_de_Balzac
+zola;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Émile_Zola
+hitler;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Adolf_Hitler
+newton;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Isaac_Newton
+hawking;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Stephen_Hawking
+jordan peterson;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Jordan_Peterson
+fjodor michailowitsch dostojewski;31;Male;Master's degree;Germany;58;NaN
+helmut schmidt;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Helmut_Schmidt
+sapkowski;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Andrzej_Sapkowski
+tolstoy;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Leo_Tolstoy
+suter;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Henry_Suter
+sebastian fitzek;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Sebastian_Fitzek
+astrid lindgren;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Astrid_Lindgren
+john strelecky;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/John_Strelecky
+j.r.r. tolkien;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/J._R._R._Tolkien
+rita falk;54;Male;High school degree or equivalent;Germany;61;NaN
+rötger feldmann;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Rötger_Feldmann
+jk rowling;30;Female;Master's degree;France;62;http://dbpedia.org/resource/J._K._Rowling
+victor hugo;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Victor_Hugo
+honoré de balzac;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Honoré_de_Balzac
+kafka;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Franz_Kafka
+mann;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Manfred_Mann
+fitzgerald;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/F._Scott_Fitzgerald
+jk. rowling;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/J._K._Rowling
+karl marx;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Karl_Marx
+jrr tolkin;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/J._R._R._Tolkien
+ken follet;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Ken_Follett
+stig larsson;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Stig_Larsson_(author)
+sion beckett;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Simon_Beckett
+bill gates;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Bill_Gates
+barack obama;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Barack_Obama
+j. k. rowling;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/J._K._Rowling
+marx;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Karl_Marx
+kafka;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Franz_Kafka
+steven king;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Stephen_King
+frank schätzing;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Frank_Schätzing
+richard david precht;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Richard_David_Precht
+virginie grimaldi;24;Female;Master's degree;France;69;NaN
+victor hugo;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Victor_Hugo
+jules vernes;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Virginie_Grimaldi
+balzac;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Honoré_de_Balzac
+stendhal;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Stendhal
+hugo;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Victor_Hugo
+jk rowling;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/J._K._Rowling
+earnest hemingway;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Ernest_Hemingway
+michel foucault;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Michel_Foucault
+nan;54;Male;Less than a high school degree;Germany;72;NaN
+orson scott card;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Orson_Scott_Card
+yuval noah harari;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Yuval_Noah_Harari
+john strelecky;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/John_Strelecky
+nan;27;Male;Master's degree;Germany;74;NaN
+jk rowling;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/J._K._Rowling
+oscar wilde;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Oscar_Wilde
+stephen king;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Stephen_King
+ingrid noll;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Ingrid_Noll
+steven king;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Stephen_King
+steve jobs;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Steve_Jobs
+stephen hawking;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Stephen_Hawking
+king;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Stephen_King
+fitzek;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Fitzek
+stephenie meyer;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Stephenie_Meyer
+madeline miller;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Madeline_Miller
+j. k. rowling;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/J._K._Rowling
+j.k.rowling;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/J._K._Rowling
+arthur conan doyle;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Arthur_Conan_Doyle
+stephen king;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Stephen_King
+jason zweig;25;Male;Bachelor's degree;Germany;81;NaN
+yuval noah harari;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Yuval_Noah_Harari
+astrid lindgren;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Astrid_Lindgren
+j k rowling;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/J._K._Rowling
+johann w. goethe;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe
+nicolas sparks;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Nicholas_Sparks
+j.k rowling;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/J._K._Rowling
+tolkien;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/J._R._R._Tolkien
+rowling;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/J._K._Rowling
+tolstoy;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Leo_Tolstoy
+stephen king;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Stephen_King
+joanne k. rowling;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/J._K._Rowling
+sebastian fitzek;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Sebastian_Fitzek
+daniel kahnemann;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Daniel_Kahneman
+alexandre dumas;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Alexandre_Dumas
+victor hugo;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Victor_Hugo
+yuval harari;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Yuval_Noah_Harari
+stephen king;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Stephen_King
+j.k rowling;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/J._K._Rowling
+sebastian fitzek;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Sebastian_Fitzek
+j.k rowling;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/J._K._Rowling
+astrid lindgren;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Astrid_Lindgren
+sebastian fitzek;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Sebastian_Fitzek
+lindgren;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Astrid_Lindgren
+nicholas sparks;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Nicholas_Sparks
+stephan king;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Stephen_King
+rafi schami;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Rafik_Schami
+astrid lindgren;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Astrid_Lindgren
+stefan kopetzky;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Štěpán_Kopecký
+stephen king;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Stephen_King
+hermann hesse;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Hermann_Hesse
+ken follett;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Ken_Follett
+james clear;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/James_Chichester-Clark
+j. k. rowling;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/J._K._Rowling
+salley rooney;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Sally_Rooney
+roald dahl;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Roald_Dahl
+jane austin;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Jane_Austen
+jk rowling;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/J._K._Rowling
+jack london;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Jack_London
+astrid lindgren;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Astrid_Lindgren
+wolfgang hohlbein;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Wolfgang_Hohlbein
+lao zi;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Laozi
+louisa may alcott;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Louisa_May_Alcott
+grimm;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Brothers_Grimm
+j k rowling;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/J._K._Rowling
+khaled hosseini;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Khaled_Hosseini
+nicholas sparks;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Nicholas_Sparks
+haruki murakami;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Haruki_Murakami
+thomas mann;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Thomas_Mann
+stieg larsson;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Stieg_Larsson
+sebastian fitzek;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Sebastian_Fitzek
+jp kraemer;26;Male;Less than a high school degree;Germany;98;NaN
+j.k. rowling;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/J._K._Rowling
+fitzgerald;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/F._Scott_Fitzgerald
+astrid lindgren;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Astrid_Lindgren
+walter moers;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Walter_Moers
+tolkien;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/J._R._R._Tolkien
+rowling;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/J._K._Rowling
+kurt vonnegut;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Kurt_Vonnegut
+harlan coben;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Harlan_Coben
+meg carter;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Family_Guy_(season_17)
+giovanna fletcher;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Giovanna_Fletcher
+charlotte brontë;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Charlotte_Brontë
+benedict wells;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Benedict_Wells
+jane austen;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Jane_Austen
+thomas mann;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Thomas_Mann
+günter grass;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Günter_Grass
+franz kafka;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Franz_Kafka
+anthony robbins;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Tony_Robbins
+esther hicks;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Esther_Hicks
+jerry hicks;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Esther_Hicks
+stephen king;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Stephen_King
+ernest hemingway;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Ernest_Hemingway
+astrid lindgren;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Astrid_Lindgren
+william faulkner;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/William_Faulkner
+thomas mann;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Thomas_Mann
+selma lagerlöv;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Selma_Lagerlöf
+toni morrisson;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Toni_Morrison
+stanislaw lem;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Stanisław_Lem
+richard scarry;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Richard_Scarry
+len deighton;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Len_Deighton
+ernest hemingway;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Ernest_Hemingway
+mario vargas llosa;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Mario_Vargas_Llosa

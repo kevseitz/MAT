@@ -1,0 +1,314 @@
+﻿actors;p_age;p_gender;p_education;p_country;p_id;uri
+tom cruise;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Tom_Cruise
+amy adams;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Amy_Adams
+arnold schwarzenegger;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Arnold_Schwarzenegger
+jack nicholson;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Jack_Nicholson
+nicole kidman;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Nicole_Kidman
+george clooney;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/George_Clooney
+gérard depardieu;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Gérard_Depardieu
+christina ricci;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Christina_Ricci
+brad pitt;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Brad_Pitt
+brad pitt;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Brad_Pitt
+denzel washington;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Denzel_Washington
+george clooney;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/George_Clooney
+nicole kidman;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Nicole_Kidman
+meryl streep;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Meryl_Streep
+penelope cruz;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Penélope_Cruz
+leonardo dicaprio;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Leonardo_DiCaprio
+dwayne johnson;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Dwayne_Johnson
+tom holland;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/Tom_Holland_(actor)
+george clooney;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/George_Clooney
+amanda seyfried;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Amanda_Seyfried
+matt damon;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Matt_Damon
+angelina jolie;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Angelina_Jolie
+bratt pitt;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Brad_Pitt
+moritz bleibtreu;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Moritz_Bleibtreu
+brad pitt;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Brad_Pitt
+robert de niro;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Robert_De_Niro
+ben affleck;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/Ben_Affleck
+robert de niro;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Robert_De_Niro
+tom hanks;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Tom_Hanks
+christoph waltz;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Christoph_Waltz
+kevin bacon;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Kevin_Bacon
+leonardo dicaprio;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Leonardo_DiCaprio
+angelina jolie;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Angelina_Jolie
+schwarzenegger;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Arnold_Schwarzenegger
+stallone;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Sylvester_Stallone
+bruno ganz;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Bruno_Ganz
+julia roberts;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Julia_Roberts
+til schweiger;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Til_Schweiger
+jan josef liefers;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Jan_Josef_Liefers
+nan;26;Female;Master's degree;Germany;13;NaN
+jennifer lawrence;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Jennifer_Lawrence
+ben affleck;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Ben_Affleck
+chris hemsworth;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Chris_Hemsworth
+blake lively;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Blake_Lively
+sandra oh;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Sandra_Oh
+george clooney;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/George_Clooney
+tom cruse;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Tom_Cruise
+daniel craig;25;Male;NaN;Germany;16;http://dbpedia.org/resource/Daniel_Craig
+george cloony;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/George_Clooney
+ryan gossling;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Ryan_Gosling
+jenifer lawrence;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Jennifer_Lawrence
+bill cosby;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Bill_Cosby
+charly sheen;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Charlie_Sheen
+pamela anderson;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Pamela_Anderson
+leonardo di caprio;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Leonardo_DiCaprio
+robert deniro;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Robert_De_Niro
+julia roberts;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Julia_Roberts
+hugh jackman;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Hugh_Jackman
+tom cruise;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Tom_Cruise
+arnold schwarzenegger;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Arnold_Schwarzenegger
+christoph waltz;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Christoph_Waltz
+samuel l jackson;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Samuel_L._Jackson
+leonardo dicaprio;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Leonardo_DiCaprio
+sean connery;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Sean_Connery
+greta garbo;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Greta_Garbo
+johnny depp;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Johnny_Depp
+kevin hart;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Kevin_Hart
+matt daemon;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Matt_Damon
+keanu reeves;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Keanu_Reeves
+angelina jolie;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Angelina_Jolie
+daniel radcliffe;27;Male;Bachelor's degree;NaN;24;http://dbpedia.org/resource/Daniel_Radcliffe
+leonardo di caprio;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Leonardo_DiCaprio
+ryan gosling;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Ryan_Gosling
+tom hardy;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Tom_Hardy
+di caprio;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Leonardo_DiCaprio
+ryan gossling;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Ryan_Gosling
+jennifer aniston;22;Male;Bachelor's degree;Germany;26;http://dbpedia.org/resource/Jennifer_Aniston
+will smith;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Will_Smith
+michael b jordan;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Michael_B._Jordan
+alexandra daddario;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Alexandra_Daddario
+george clooney;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/George_Clooney
+emma watson;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Emma_Watson
+daniel radcliffe;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Daniel_Radcliffe
+morgan freeman;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Morgan_Freeman
+brad pitt;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Brad_Pitt
+leonardo di caprio;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Leonardo_DiCaprio
+sylvester stallone;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Sylvester_Stallone
+liam neeson;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Liam_Neeson
+johnny depp;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Johnny_Depp
+brat pitt;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Brad_Pitt
+michelle pfeiffer;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Michelle_Pfeiffer
+george clooney;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/George_Clooney
+brad pitt;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Brad_Pitt
+johnny depp;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Johnny_Depp
+ryan gosling;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Ryan_Gosling
+mads mikkelsen;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Mads_Mikkelsen
+toni servillo;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Toni_Servillo
+steve carell;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Steve_Carell
+jason statham;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Jason_Statham
+keanu reeves;19;Male;High school degree or equivalent;Germany;34;http://dbpedia.org/resource/Keanu_Reeves
+jennifer lawrence;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Jennifer_Lawrence
+leonardo dicaprio;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Leonardo_DiCaprio
+jude law;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Jude_Law
+bill murray;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Bill_Murray
+scarlett johanson;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Scarlett_Johansson
+angelina jolie;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Angelina_Jolie
+will smith;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Will_Smith
+günter grass;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Günter_Grass
+irving;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Henry_Irving
+rainkin;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Richard_Rankin
+brad pitt;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Brad_Pitt
+johnny depp;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Johnny_Depp
+jennifer lawrence;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Jennifer_Lawrence
+denzel washington;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Denzel_Washington
+brad pitt;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Brad_Pitt
+alexandra daddario;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Alexandra_Daddario
+johnny depp;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Johnny_Depp
+angelina jolie;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Angelina_Jolie
+tom hardy;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Tom_Hardy
+jessica chastain;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Jessica_Chastain
+charlie hunnam;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Charlie_Hunnam
+christoph waltz;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Christoph_Waltz
+ryan reynolds;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Ryan_Reynolds
+arnold schwarzenegger;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Arnold_Schwarzenegger
+liz taylor;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Elizabeth_Taylor
+jack nicolsen;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Jack_Nicholson
+meryel streep;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Meryl_Streep
+will smith;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Will_Smith
+leonardo dicaprio;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Leonardo_DiCaprio
+timothèe chalamet;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Timothée_Chalamet
+julia garner;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Julia_Garner
+johnny depp;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Johnny_Depp
+andrew garfield;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Andrew_Garfield
+freddie highmore;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Freddie_Highmore
+brad pit;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Brad_Pitt
+leonardo dicaprio;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Leonardo_DiCaprio
+tom cruise;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Tom_Cruise
+brad pitt;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Brad_Pitt
+blake lively;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Blake_Lively
+george cloony;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/George_Clooney
+robert downey jr;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Robert_Downey_Jr.
+scarlet johnson;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Scarlett_Johansson
+liam neeson;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Liam_Neeson
+robert de niro;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Robert_De_Niro
+robert redford;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Robert_Redford
+al pacino;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Al_Pacino
+emma watson;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Emma_Watson
+kilian murphy;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Kilian_Murphy
+cate blanchett;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Cate_Blanchett
+chris evans;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Chris_Evans_(actor)
+chris hemsworth;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Chris_Hemsworth
+chris pine;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Chris_Pine
+nan;25;Male;Bachelor's degree;Germany;53;NaN
+scarlet johansen;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Scarlett_Johansson
+rachel weiz;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Rachel_Weisz
+kristen bell;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Kristen_Bell
+palina rojinski;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Palina_Rojinski
+elyas m barek;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Elyas_M'Barek
+jessica schwarz;20;Female;High school degree or equivalent;Germany;55;http://dbpedia.org/resource/Jessica_Schwarz
+brad pitt;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Brad_Pitt
+george clooney;26;Female;Master's degree;France;56;http://dbpedia.org/resource/George_Clooney
+jennifer aniston;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Jennifer_Aniston
+til schweiger;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Til_Schweiger
+christoph walz;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Christoph_Waltz
+kevin spacey;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Kevin_Spacey
+liam neeson;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Liam_Neeson
+ewan mcgregor;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Ewan_McGregor
+marlon brando;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Marlon_Brando
+cumberbatch;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Benedict_Cumberbatch
+lewis;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Damian_Lewis
+schwarzenegger;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Arnold_Schwarzenegger
+daniel craig;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Daniel_Craig
+ellen pompeo;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Ellen_Pompeo
+elias m‘barek;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Elyas_M'Barek
+kevin costner;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Kevin_Costner
+liam neeson;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Liam_Neeson
+jennifer aniston;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Jennifer_Aniston
+brad pitt;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Brad_Pitt
+leonardo dicaprio;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Leonardo_DiCaprio
+tom hanks;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Tom_Hanks
+emma watson;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Emma_Watson
+ryan gosling;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Ryan_Gosling
+christian bale;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Christian_Bale
+karry fisher;17;Male;Less than a high school degree;Germany;64;http://dbpedia.org/resource/Kacie_Fischer
+ryan reynolds;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Ryan_Reynolds
+benedict cumberbatch;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Benedict_Cumberbatch
+otto walkes;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Otto_Waalkes
+gal gadot;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Gal_Gadot
+the rock;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Dwayne_Johnson
+ryan reynolds;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Ryan_Reynolds
+ryan reynolds;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Ryan_Reynolds
+elyas m barek;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Elyas_M'Barek
+scarlett johanssen;21;Male;High school degree or equivalent;Germany;67;http://dbpedia.org/resource/Scarlett_Johansson
+jonny depp;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Johnny_Depp
+angelina jolie;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Angelina_Jolie
+brad pitt;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Brad_Pitt
+brad  pitt;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Brad_Pitt
+bradley cooper;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Bradley_Cooper
+sean connery;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Sean_Connery
+george clooney;26;Female;Master's degree;France;70;http://dbpedia.org/resource/George_Clooney
+keira knightley;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Keira_Knightley
+tom holland;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Tom_Holland_(actor)
+keanu reeves;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Keanu_Reeves
+heath ledger;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Heath_Ledger
+sean connery;34;Female;Master's degree;Germany;71;http://dbpedia.org/resource/Sean_Connery
+pitt;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Brad_Pitt
+clooney;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/George_Clooney
+bruce willis;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Bruce_Willis
+jennifer lawrence;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Jennifer_Lawrence
+tom ellis;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Thomas_Ellis
+brad pitt;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Brad_Pitt
+leonardo dicaprio;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Leonardo_DiCaprio
+angelina jolie;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Angelina_Jolie
+george clooney;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/George_Clooney
+angelina jolie;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Angelina_Jolie
+brad pitt;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Brad_Pitt
+zendaya;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Zendaya
+emma watson;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Emma_Watson
+jennifer lawrence;27;Female;Master's degree;Germany;76;http://dbpedia.org/resource/Jennifer_Lawrence
+robert de niro;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Robert_De_Niro
+humphrey bogart;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Humphrey_Bogart
+jack nicholson;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Jack_Nicholson
+schweiger;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Til_Schweiger
+diesel;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Vin_Diesel
+walker;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Paul_Walker
+brad pitt;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Brad_Pitt
+angelina jolie;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Angelina_Jolie
+jennifer aniston;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Jennifer_Aniston
+leonardo dicaprio;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Leonardo_DiCaprio
+jennifer lawrence;25;Male;Master's degree;Germany;80;http://dbpedia.org/resource/Jennifer_Lawrence
+leonardo di caprio;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Leonardo_DiCaprio
+tom hanks;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Tom_Hanks
+emma watson;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Emma_Watson
+the rock;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Dwayne_Johnson
+adam sandler;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Adam_Sandler
+kevin hart;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Kevin_Hart
+jennifer lawrence;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Jennifer_Lawrence
+brad pit;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Brad_Pitt
+sandra bullock;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Sandra_Bullock
+kristen stewart;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Kristen_Stewart
+tom holland;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Tom_Holland_(actor)
+robert pattinson;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Robert_Pattinson
+hugh jackman;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Hugh_Jackman
+emma stone;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Emma_Stone
+ryan reynolds;25;Female;Master's degree;Germany;85;http://dbpedia.org/resource/Ryan_Reynolds
+leonardo dicaprio;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Leonardo_DiCaprio
+tom hanks;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Tom_Hanks
+matthew mcconaughey;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Matthew_McConaughey
+elyas m‘barek;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Elyas_M'Barek
+daniel radcliffe;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Daniel_Radcliffe
+mark wahlberg;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Mark_Wahlberg
+leonardo dicaprio;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Leonardo_DiCaprio
+will smith;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Will_Smith
+till schweiger;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Til_Schweiger
+leonardo di caprio;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Leonardo_DiCaprio
+orlando bloom;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Orlando_Bloom
+channing tatum;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Channing_Tatum
+eddie murphy;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Eddie_Murphy
+leonardo di caprio;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Leonardo_DiCaprio
+tom hardy;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Tom_Hardy
+leonardo dicaprio;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Leonardo_DiCaprio
+kate winslet;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Kate_Winslet
+jamie foxx;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Jamie_Foxx
+tom holland;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Tom_Holland_(actor)
+jonah hill;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Jonah_Hill
+mila kunis;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Mila_Kunis
+robert de niro;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Robert_De_Niro
+tom hanks;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Tom_Hanks
+morgen freeman;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Morgan_Freeman
+tom hanks;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Tom_Hanks
+david hasselhoff;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/David_Hasselhoff
+dwayne johnson;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Dwayne_Johnson
+tom cruise;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Tom_Cruise
+angelina jolie;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Angelina_Jolie
+julie andrews;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Julie_Andrews
+leonardo di caprio;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Leonardo_DiCaprio
+will smith;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Will_Smith
+robert de niro;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Robert_De_Niro
+tom hanks;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Tom_Hanks
+robin williams;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Robin_Williams
+julia roberts;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Julia_Roberts
+robert downey jr.;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Robert_Downey_Jr.
+jennifer aniston;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Jennifer_Aniston
+kevin james;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Kevin_James
+chris evans;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Chris_Evans_(actor)
+sebastian stan;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Sebastian_Stan
+jensen ackles;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Jensen_Ackles
+chris pratt;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Chris_Pratt
+brad pitt;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Brad_Pitt
+matt damon;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Matt_Damon
+michelle keegan;23;Female;Master's degree;England;101;http://dbpedia.org/resource/Michelle_Keegan
+david walliams;23;Female;Master's degree;England;101;http://dbpedia.org/resource/David_Walliams
+jennifer aniston;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Jennifer_Aniston
+brad pitt;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Brad_Pitt
+angelina jolie;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Angelina_Jolie
+daniel craig;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Daniel_Craig
+juliette binoche;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Juliette_Binoche
+julia roberts;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Julia_Roberts
+brad pitt;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Brad_Pitt
+lily james;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Lily_James
+paul dano;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Paul_Dano
+richard gere;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Richard_Gere
+julia roberts;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Julia_Roberts
+bruce willis;59;Male;Doctorate (e.g. PhD);Germany;105;http://dbpedia.org/resource/Bruce_Willis
+max schreck;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Max_Schreck
+peter lorre;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Peter_Lorre
+orson welles;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Orson_Welles
+kevin bacon;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Kevin_Bacon
+keanu reeves;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Keanu_Reeves
+dustin hoffman;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Dustin_Hoffman
+hugh grant;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Hugh_Grant
+jack nicholson;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Jack_Nicholson
+marlene dietrich;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Marlene_Dietrich

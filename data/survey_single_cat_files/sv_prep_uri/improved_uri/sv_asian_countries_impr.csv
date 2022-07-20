@@ -1,0 +1,321 @@
+asian_countries;p_age;p_gender;p_education;p_country;p_id;uri
+japan;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Japan
+china;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/China
+india;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/India
+china;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/China
+japan;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Japan
+south korea;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/South_Korea
+japan;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Japan
+china;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/China
+south korea;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/South_Korea
+thailand;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Thailand
+vietnam;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Vietnam
+china;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/China
+vietnam;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Vietnam
+thailand;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Thailand
+japan;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Japan
+china;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/China
+korea;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/South_Korea
+japan;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Japan
+myanmar;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Myanmar
+china;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/China
+japan;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Japan
+thailand;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Thailand
+china;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/China
+pakistan;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Pakistan
+taiwan;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Taiwan
+taiwan;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Taiwan
+japan;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Japan
+china;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/China
+japan;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Japan
+india;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/India
+china;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/China
+japan;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Japan
+nepal;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Nepal
+russia;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Russia
+mongolia;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Mongolia
+kazakhstan;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Kazakhstan
+india;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/India
+china;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/China
+japan;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Japan
+japan;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Japan
+china;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/China
+china;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/China
+japan;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Japan
+south korea;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/South_Korea
+indonesia;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Indonesia
+thailand;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Thailand
+laos;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Laos
+thailand;25;Male;;germany;16;http://dbpedia.org/resource/Thailand
+china;25;Male;;germany;16;http://dbpedia.org/resource/China
+japan;25;Male;;germany;16;http://dbpedia.org/resource/Japan
+vietnam;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Vietnam
+singapore;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Singapore
+china;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/China
+india;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/India
+srilanka;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Sri_Lanka
+south korea;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/South_Korea
+indonesia;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Indonesia
+china;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/China
+vietnam;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Vietnam
+india;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/India
+china;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/China
+japan;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Japan
+china;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/China
+taiwan;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Taiwan
+vietnam;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Vietnam
+china;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/China
+korea;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/South_Korea
+japan;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Japan
+thailand;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Thailand
+china;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/China
+south korea;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/South_Korea
+thailand;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Thailand
+myanmar;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Myanmar
+cambodia;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Cambodia
+japan;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Japan
+china;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/China
+;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Hunan
+china;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/China
+japan;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Japan
+india;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/India
+macao;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Macau
+pakistan;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Pakistan
+bangladesh;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Bangladesh
+singapore;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Singapore
+cambodia;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Cambodia
+laos;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Laos
+thailand;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Thailand
+china;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/China
+japan;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Japan
+japan;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Japan
+india;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/India
+china;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/China
+china;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/China
+vietnam;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Vietnam
+thailand;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Thailand
+china;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/China
+taiwan;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Taiwan
+south korea;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/South_Korea
+china;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/China
+singapore;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Singapore
+japan;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Japan
+hong kong;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Hong_Kong
+cambodia;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Cambodia
+laos;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Laos
+china;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/China
+india;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/India
+south korea;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/South_Korea
+japan;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Japan
+china;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/China
+burma;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Myanmar
+malaysia;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Malaysia
+indonesia;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Indonesia
+india;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/India
+china;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/China
+japan;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Japan
+india;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/India
+china;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/China
+russia;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Russia
+india;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/India
+thailand;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Thailand
+china;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/China
+indonesia;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Indonesia
+south korea;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/South_Korea
+japan;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Japan
+china;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/China
+philippines;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Philippines
+china;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/China
+malaysia;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Malaysia
+thailand;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Thailand
+vietnam;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Vietnam
+cambodia;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Cambodia
+vietnam;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Vietnam
+india;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/India
+thailand;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Thailand
+china;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/China
+japan;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Japan
+india;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/India
+india;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/India
+china;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/China
+japan;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Japan
+peking;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Peking_University
+shanghai;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Shanghai
+mumbai;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Mumbai
+india;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/India
+china;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/China
+singapore;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Singapore
+japan;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Japan
+south korea;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/South_Korea
+thailand;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Thailand
+china;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/China
+japan;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Japan
+india;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/India
+china;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/China
+south korea;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/South_Korea
+japan;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Japan
+china;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/China
+thailand;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Thailand
+vietnam;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Vietnam
+indonesia;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Indonesia
+israel;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Israel
+japan;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Japan
+vietnam;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Vietnam
+thailand;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Thailand
+japan;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Japan
+china;26;Female;Master's degree;france;56;http://dbpedia.org/resource/China
+japan;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Japan
+singapore;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Singapore
+china;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/China
+north korea;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/North_Korea
+south korea;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/South_Korea
+china;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/China
+vietnam;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Vietnam
+japan;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Japan
+japan;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Japan
+korea;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/South_Korea
+china;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/China
+china;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/China
+japan;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Japan
+indonesia;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Indonesia
+thailand;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Thailand
+india;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/India
+china;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/China
+japan;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Japan
+singapore;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Singapore
+china;30;Female;Master's degree;france;62;http://dbpedia.org/resource/China
+china;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/China
+taiwan;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Taiwan
+india;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/India
+china;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/China
+japan;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Japan
+taiwan;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Taiwan
+china;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/China
+taiwan;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Taiwan
+south korea;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/South_Korea
+china;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/China
+kazakhstan;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Kazakhstan
+mongolia;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Mongolia
+japan;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Japan
+china;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/China
+thailand;21;Male;High school degree or equivalent;germany;67;http://dbpedia.org/resource/Thailand
+china;0;Prefer not to say;;;68;http://dbpedia.org/resource/China
+taiwan;0;Prefer not to say;;;68;http://dbpedia.org/resource/Taiwan
+hong kong;0;Prefer not to say;;;68;http://dbpedia.org/resource/Hong_Kong
+china;24;Female;Master's degree;france;69;http://dbpedia.org/resource/China
+japan;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Japan
+indonesia;24;Female;Master's degree;france;69;http://dbpedia.org/resource/Indonesia
+indonesia;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Indonesia
+singapore;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Singapore
+china;26;Female;Master's degree;france;70;http://dbpedia.org/resource/China
+japan;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Japan
+south korea;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/South_Korea
+china;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/China
+india;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/India
+china;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/China
+vietnam;54;Male;Less than a high school degree;germany;72;http://dbpedia.org/resource/Vietnam
+japan;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Japan
+indonesia;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Indonesia
+taiwan;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Taiwan
+turgay;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Turgay_Avcı
+china;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/China
+japan;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Japan
+vietnam;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Vietnam
+japan;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Japan
+indonesia;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Indonesia
+japan;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Japan
+china;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/China
+singapore;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Singapore
+china;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/China
+japan;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Japan
+indonesia;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Indonesia
+vietnam;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Vietnam
+thailand;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Thailand
+cambodia;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Cambodia
+china;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/China
+japan;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Japan
+south korea;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/South_Korea
+china;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/China
+vietnam;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Vietnam
+japan;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Japan
+china;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/China
+japan;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Japan
+south korea;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/South_Korea
+china;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/China
+mongolia;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Mongolia
+vietnam;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Vietnam
+malaysia;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Malaysia
+china;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/China
+japan;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Japan
+china;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/China
+vietnam;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Vietnam
+japan;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Japan
+china;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/China
+china;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/China
+south korea;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/South_Korea
+japan;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Japan
+indonesia;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Indonesia
+srilanka;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Sri_Lanka
+thailand;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Thailand
+china;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/China
+vietnam;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Vietnam
+japan;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Japan
+indonesia;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Indonesia
+china;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/China
+philipines;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Philippines
+syria;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Syria
+china;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/China
+pakistan;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Pakistan
+japan;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Japan
+indonesia;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Indonesia
+china;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/China
+indonesia;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Indonesia
+china;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/China
+japan;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Japan
+china;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/China
+japan;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Japan
+singapore;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Singapore
+south korea;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/South_Korea
+china;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/China
+india;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/India
+china;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/China
+japan;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Japan
+south korea;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/South_Korea
+china;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/China
+russia;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Russia
+pakistan;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Pakistan
+china;48;Female;Diplom;germany;97;http://dbpedia.org/resource/China
+russia;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Russia
+japan;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Japan
+japan;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Japan
+india;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/India
+nepal;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Nepal
+thailand;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Thailand
+india;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/India
+russia;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Russia
+india;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/India
+china;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/China
+turkey;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Turkey
+thailand;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Thailand
+cambodia;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Cambodia
+japan;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Japan
+thailand;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Thailand
+japan;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Japan
+thailand;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Thailand
+china;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/China
+india;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/India
+iran;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Iran
+japan;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Japan
+south korea;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/South_Korea
+china;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/China
+south korea;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/South_Korea
+vietnam;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Vietnam
+mongolia;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Mongolia
+china;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/China
+india;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/India
+china;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/China
+south korea;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/South_Korea
+japan;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Japan
+china;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/China
+vietnam;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Vietnam
+indonesia;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Indonesia

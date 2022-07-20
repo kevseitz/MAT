@@ -1,0 +1,313 @@
+﻿european_landmarks;p_age;p_gender;p_education;p_country;p_id;uri
+eiffel tower;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Brandenburg_Gate
+colosseum;26;Male;Bachelor's degree;germany;0;http://dbpedia.org/resource/Colosseum
+eiffel tower;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Eiffel_Tower
+towerbridge;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Tower_Bridge
+leaning tower of pisa;44;Male;Doctorate (e.g. PhD);germany;1;http://dbpedia.org/resource/Leaning_Tower_of_Pisa
+eiffel tower;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Eiffel_Tower
+leaning tower of pisa;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Leaning_Tower_of_Pisa
+stonehenge;46;Male;Bachelor's degree;france;2;http://dbpedia.org/resource/Stonehenge
+eiffel tower;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/Brandenburg_Gate
+london eye;28;Male;Master's degree;germany;3;http://dbpedia.org/resource/London_Eye
+eiffel tower;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Eiffel_Tower
+big ben;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Big_Ben
+manneken pis;34;Female;Master's degree;switzerland;4;http://dbpedia.org/resource/Manneken_Pis
+eiffel tower;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Brandenburg_Gate
+neuschwanstein castle;27;Male;Bachelor's degree;germany;5;http://dbpedia.org/resource/Neuschwanstein_Castle
+brandenburg gate;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Brandenburg_Gate
+big ben;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Big_Ben
+tower bridge;27;Male;Master's degree;germany;6;http://dbpedia.org/resource/Tower_Bridge
+eiffel tower;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/Brandenburg_Gate
+london eye;27;Male;Master's degree;germany;7;http://dbpedia.org/resource/London_Eye
+odenwald;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Odenwald
+alps;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/Alps
+cotedazur;28;Male;High school degree or equivalent;germany;8;http://dbpedia.org/resource/French_Riviera
+brandenburg gate;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Brandenburg_Gate
+colosseum;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Colosseum
+eiffel tower;29;Male;Master's degree;germany;9;http://dbpedia.org/resource/Eiffel_Tower
+zugspitze;26;Male;Master's degree;germany;10;http://dbpedia.org/resource/Zugspitze
+externals;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Externals
+rock sea;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Grunge
+rheinfall;37;Male;Master's degree;germany;11;http://dbpedia.org/resource/Rhine_Falls
+eiffel tower;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Brandenburg_Gate
+neuschwanstein castle;24;Male;Master's degree;germany;12;http://dbpedia.org/resource/Neuschwanstein_Castle
+eiffel tour;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Eiffel_Tower
+colosseum;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Colosseum
+neuschwanstein castle;26;Female;Master's degree;germany;13;http://dbpedia.org/resource/Neuschwanstein_Castle
+colosseum;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Colosseum
+neuschwanstein castle;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Neuschwanstein_Castle
+leaning tower of pisa;26;Female;Master's degree;germany;14;http://dbpedia.org/resource/Leaning_Tower_of_Pisa
+eiffel tower;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Eiffel_Tower
+neuschwanstein castle;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Neuschwanstein_Castle
+colosseum;28;Female;Doctorate (e.g. PhD);germany;15;http://dbpedia.org/resource/Colosseum
+eiffel tower;25;Male;;germany;16;http://dbpedia.org/resource/Eiffel_Tower
+atomium;25;Male;;germany;16;http://dbpedia.org/resource/Atomium
+eiffel tower;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Eiffel_Tower
+tower bridge;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Tower_Bridge
+buckingham palace;31;Female;Master's degree;germany;17;http://dbpedia.org/resource/Buckingham_Palace
+eiffel tower;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Eiffel_Tower
+rialto bridge;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Rialto_Bridge
+colosseum;36;Male;Master's degree;germany;18;http://dbpedia.org/resource/Colosseum
+eiffel tower;27;Male;Master's degree;germany;19;http://dbpedia.org/resource/Eiffel_Tower
+eiffel tower;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Eiffel_Tower
+tower bridge;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Tower_Bridge
+brandenburg gate;33;Male;Doctorate (e.g. PhD);germany;20;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Brandenburg_Gate
+neuschwanstein castle;26;Male;Bachelor's degree;usa;21;http://dbpedia.org/resource/Neuschwanstein_Castle
+eiffel tower;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Eiffel_Tower
+leaning tower of pisa;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Leaning_Tower_of_Pisa
+colosseum;44;Female;Doctorate (e.g. PhD);sweden;22;http://dbpedia.org/resource/Colosseum
+eiffel tower;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Eiffel_Tower
+reichstag building;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Reichstag_building
+charles bridge;26;Male;Bachelor's degree;germany;23;http://dbpedia.org/resource/Charles_Bridge
+eiffel tower;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Eiffel_Tower
+london eye;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/London_Eye
+cologne cathedral;27;Male;Bachelor's degree;;24;http://dbpedia.org/resource/Cologne_Cathedral
+eiffel tower;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Eiffel_Tower
+big ben;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Big_Ben
+sagrada familia;23;Male;Bachelor's degree;germany;25;http://dbpedia.org/resource/Sagrada_Família
+heidelberg castle;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Heidelberg_Castle
+neuschwanstein castle;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Neuschwanstein_Castle
+brandenburg gate;22;Male;Bachelor's degree;germany;26;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Brandenburg_Gate
+colosseum;25;Male;Bachelor's degree;germany;27;http://dbpedia.org/resource/Colosseum
+eiffel tower;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Eiffel_Tower
+heidelberg castle;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Heidelberg_Castle
+louvre;27;Male;Master's degree;germany;28;http://dbpedia.org/resource/Louvre
+eiffel tower;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;30;Male;Bachelor's degree;usa;29;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Brandenburg_Gate
+colosseum;28;Male;Master's degree;germany;30;http://dbpedia.org/resource/Colosseum
+eiffel tower;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Eiffel_Tower
+parthenon;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Parthenon
+colosseum;38;Female;Doctorate (e.g. PhD);greece;31;http://dbpedia.org/resource/Colosseum
+colosseum;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Colosseum
+brandenburg gate;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/Brandenburg_Gate
+london bridge;28;Male;Master's degree;germany;32;http://dbpedia.org/resource/London_Bridge
+eiffel tower;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Eiffel_Tower
+leaning tower of pisa;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Leaning_Tower_of_Pisa
+sagrada familia;26;Male;Bachelor's degree;germany;33;http://dbpedia.org/resource/Sagrada_Família
+brandenburg gate;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Brandenburg_Gate
+battle of nations memorial;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Monument_to_the_Battle_of_the_Nations
+kaiser wilhelm monument;19;Male;High school degree or equivalent;germany;34;http://dbpedia.org/resource/Emperor_William_monuments
+eiffel tower;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Brandenburg_Gate
+sagrada familia;25;Female;Bachelor's degree;germany;35;http://dbpedia.org/resource/Sagrada_Família
+eiffel tower;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Eiffel_Tower
+london bridge;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/London_Bridge
+brandenburg gate;24;Female;Master's degree;germany;36;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Eiffel_Tower
+louvre;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Louvre
+colosseum;25;Male;Bachelor's degree;germany;37;http://dbpedia.org/resource/Colosseum
+eiffel tower;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Brandenburg_Gate
+colosseum;64;Male;Doctorate (e.g. PhD);austria;38;http://dbpedia.org/resource/Colosseum
+eiffel tower;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Eiffel_Tower
+colosseum;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Colosseum
+neuschwanstein castle;24;Male;Bachelor's degree;germany;39;http://dbpedia.org/resource/Neuschwanstein_Castle
+neuschwanstein castle;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Neuschwanstein_Castle
+eiffel tower;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Eiffel_Tower
+charles bridge;31;Male;Bachelor's degree;germany;40;http://dbpedia.org/resource/Charles_Bridge
+brandenburg gate;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Eiffel_Tower
+big ben;25;Female;Bachelor's degree;germany;41;http://dbpedia.org/resource/Big_Ben
+brandenburg gate;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Eiffel_Tower
+big ben;28;Female;Bachelor's degree;germany;42;http://dbpedia.org/resource/Big_Ben
+eiffel tower;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Brandenburg_Gate
+buckingham palace;37;Female;Master's degree;germany;43;http://dbpedia.org/resource/Buckingham_Palace
+black forrest;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Black_Forest
+colosseum;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Colosseum
+provence;50;Female;High school degree or equivalent;germany;44;http://dbpedia.org/resource/Provence-Alpes-Côte_d'Azur
+heidelberg castle;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Heidelberg_Castle
+eiffel tower;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/Eiffel_Tower
+saint peter's basilica;28;Female;High school degree or equivalent;germany;45;http://dbpedia.org/resource/St._Peter's_Basilica
+brandenburg gate;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Eiffel_Tower
+cologne cathedral;31;Male;Bachelor's degree;germany;46;http://dbpedia.org/resource/Cologne_Cathedral
+eiffel tower;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/Brandenburg_Gate
+london eye;21;Female;High school degree or equivalent;germany;47;http://dbpedia.org/resource/London_Eye
+brandenburg gate;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Brandenburg_Gate
+big ben;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Big_Ben
+colosseum;23;Female;Bachelor's degree;germany;48;http://dbpedia.org/resource/Colosseum
+eiffel tower;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Eiffel_Tower
+berlin wall;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Berlin_Wall
+leaning tower of pisa;36;Male;Bachelor's degree;india;49;http://dbpedia.org/resource/Leaning_Tower_of_Pisa
+eiffel tower;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Eiffel_Tower
+neuschwanstein castle;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Neuschwanstein_Castle
+sagrada familia;28;Female;Master's degree;romania;50;http://dbpedia.org/resource/Sagrada_Família
+eiffel tower;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Eiffel_Tower
+colosseum;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Colosseum
+big ben;19;Female;High school degree or equivalent;germany;51;http://dbpedia.org/resource/Big_Ben
+brandenburg gate;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/Eiffel_Tower
+the little mermaid;19;Female;High school degree or equivalent;germany;52;http://dbpedia.org/resource/The_Little_Mermaid
+eiffel tower;25;Male;Bachelor's degree;germany;53;http://dbpedia.org/resource/Eiffel_Tower
+palace of versailles;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Palace_of_Versailles
+eiffel tower;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Eiffel_Tower
+reiks museum;34;Female;Master's degree;france;54;http://dbpedia.org/resource/Reiss_Engelhorn_Museum
+berlin wall;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Berlin_Wall
+eiffel tower;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Eiffel_Tower
+cologne cathedral;20;Female;High school degree or equivalent;germany;55;http://dbpedia.org/resource/Cologne_Cathedral
+eiffel tower;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Eiffel_Tower
+tower bridge;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Tower_Bridge
+palace of versailles;26;Female;Master's degree;france;56;http://dbpedia.org/resource/Palace_of_Versailles
+bellevue palace;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Bellevue_Palace
+reichstag building;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Reichstag_building
+hagia sophia;29;Prefer not to say;Master's degree;germany;57;http://dbpedia.org/resource/Hagia_Sophia
+eiffel tower;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Eiffel_Tower
+tower bridge;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Tower_Bridge
+big ben;31;Male;Master's degree;germany;58;http://dbpedia.org/resource/Big_Ben
+rhine falls;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Rhine_Falls
+eiffel tower;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Eiffel_Tower
+leaning tower of pisa;23;Male;High school degree or equivalent;germany;59;http://dbpedia.org/resource/Leaning_Tower_of_Pisa
+brandenburg gate;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Eiffel_Tower
+colosseum;21;Female;High school degree or equivalent;germany;60;http://dbpedia.org/resource/Colosseum
+neuschwanstein castle;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Neuschwanstein_Castle
+eiffel tower;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Eiffel_Tower
+tower bridge;54;Male;High school degree or equivalent;germany;61;http://dbpedia.org/resource/Tower_Bridge
+eiffel tower;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Eiffel_Tower
+palace of versailles;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Palace_of_Versailles
+big ben;30;Female;Master's degree;france;62;http://dbpedia.org/resource/Big_Ben
+leaning tower of pisa;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Leaning_Tower_of_Pisa
+eiffel tower;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Eiffel_Tower
+holocaust memorial;24;Male;Bachelor's degree;germany;63;http://dbpedia.org/resource/Memorial_to_the_Murdered_Jews_of_Europe
+colosseum;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Colosseum
+eiffel tower;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Eiffel_Tower
+berlin wall;17;Male;Less than a high school degree;germany;64;http://dbpedia.org/resource/Berlin_Wall
+eiffel tower;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Eiffel_Tower
+kaiserstuhl;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Kaiserstuhl_(Baden-Württemberg)
+wadden sea;25;Female;High school degree or equivalent;germany;65;http://dbpedia.org/resource/Wadden_Sea
+eiffel tower;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Brandenburg_Gate
+tower bridge;16;Male;Less than a high school degree;germany;66;http://dbpedia.org/resource/Tower_Bridge
+;21;Male;High school degree or equivalent;germany;67;NaN
+eiffel tower;0;Prefer not to say;;;68;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;0;Prefer not to say;;;68;http://dbpedia.org/resource/Brandenburg_Gate
+berlin wall;0;Prefer not to say;;;68;http://dbpedia.org/resource/Berlin_Wall
+;24;Female;Master's degree;france;69;NaN
+eiffel tower;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Eiffel_Tower
+mont saint michel;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Mont-Saint-Michel
+big ben;26;Female;Master's degree;france;70;http://dbpedia.org/resource/Big_Ben
+brandenburg gate;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/Eiffel_Tower
+london eye;34;Female;Master's degree;germany;71;http://dbpedia.org/resource/London_Eye
+;54;Male;Less than a high school degree;germany;72;NaN
+berlin wall;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Berlin_Wall
+eiffel tower;23;Male;Bachelor's degree;germany;73;http://dbpedia.org/resource/Eiffel_Tower
+eiffel tower;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Brandenburg_Gate
+cathedral of saint mary the royal of la almudena;27;Male;Master's degree;germany;74;http://dbpedia.org/resource/Almudena_Cathedral
+leaning tower of pisa;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Leaning_Tower_of_Pisa
+eiffel tower;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Eiffel_Tower
+colosseum;25;Male;Bachelor's degree;germany;75;http://dbpedia.org/resource/Colosseum
+eiffel tower;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Eiffel_Tower
+neuschwanstein castle;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Neuschwanstein_Castle
+colosseum;27;Female;Master's degree;germany;76;http://dbpedia.org/resource/Colosseum
+notre dame;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Notre-Dame_de_Paris
+palace of versailles;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Palace_of_Versailles
+big ben;51;Male;High school degree or equivalent;germany;77;http://dbpedia.org/resource/Big_Ben
+bodensee;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Lake_Constance
+north sea;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/North_Sea
+sylt;26;Male;High school degree or equivalent;germany;78;http://dbpedia.org/resource/Sylt
+eiffel tower;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Eiffel_Tower
+big ben;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Big_Ben
+berlin tv tower;27;Male;Bachelor's degree;germany;79;http://dbpedia.org/resource/Fernsehturm_Berlin
+eiffel tour;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Brandenburg_Gate
+neuschwanstein castle;25;Male;Master's degree;germany;80;http://dbpedia.org/resource/Neuschwanstein_Castle
+eiffel tower;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Brandenburg_Gate
+colosseum;25;Male;Bachelor's degree;germany;81;http://dbpedia.org/resource/Colosseum
+eiffel tower;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Eiffel_Tower
+elbphilharmonie;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Elbphilharmonie
+colosseum;21;Male;High school degree or equivalent;germany;82;http://dbpedia.org/resource/Colosseum
+heidelberg castle;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Heidelberg_Castle
+sagrada familia;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Sagrada_Família
+alhambra;23;Female;Bachelor's degree;germany;83;http://dbpedia.org/resource/Alhambra
+eiffel tower;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Brandenburg_Gate
+colosseum;28;Female;Master's degree;germany;84;http://dbpedia.org/resource/Colosseum
+eiffel tower;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Eiffel_Tower
+buckingham palace;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Buckingham_Palace
+arc de triomphe;25;Female;Master's degree;germany;85;http://dbpedia.org/resource/Arc_de_Triomphe
+place of versailles;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Place_Versailles
+roman forum;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Roman_Forum
+sagrada familia;25;Female;Bachelor's degree;russia;86;http://dbpedia.org/resource/Sagrada_Família
+saint peter's basilica;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/St._Peter's_Basilica
+acropolis;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Acropolis_of_Athens
+big ben;24;Female;High school degree or equivalent;germany;87;http://dbpedia.org/resource/Big_Ben
+eiffel tower;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Eiffel_Tower
+heidelberg castle;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Heidelberg_Castle
+brandenburg gate;26;Male;Bachelor's degree;germany;88;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Eiffel_Tower
+colosseum;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Colosseum
+brandenburg gate;27;Female;Master's degree;germany;89;http://dbpedia.org/resource/Brandenburg_Gate
+acropolis;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Acropolis_of_Athens
+cathedral mosquecordoca;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Mosque–Cathedral_of_Córdoba
+eiffel tower;25;Male;Bachelor's degree;germany;90;http://dbpedia.org/resource/Eiffel_Tower
+eiffel tower;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Eiffel_Tower
+louvre;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Louvre
+coliseum;25;Male;High school degree or equivalent;germany;91;http://dbpedia.org/resource/Colosseum
+brandenburg gate;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Brandenburg_Gate
+colosseum;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Colosseum
+eiffel tower;28;Male;High school degree or equivalent;germany;92;http://dbpedia.org/resource/Eiffel_Tower
+buckingham palace;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Buckingham_Palace
+plaza de sevilla;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Plaza_de_España,_Seville
+heidelberg castle;47;Female;Bachelor's degree;england;93;http://dbpedia.org/resource/Heidelberg_Castle
+eiffel tower;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Eiffel_Tower
+zugspitze;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Zugspitze
+bodensee;38;Male;Bachelor's degree;germany;94;http://dbpedia.org/resource/Lake_Constance
+alps;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Alps
+eiffel tower;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Eiffel_Tower
+big ben;40;Female;Bachelor's degree;china;95;http://dbpedia.org/resource/Big_Ben
+eiffel tower;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Eiffel_Tower
+neuschwanstein castle;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Neuschwanstein_Castle
+charles bridge;28;Female;High school degree or equivalent;pakistan;96;http://dbpedia.org/resource/Charles_Bridge
+eiffel tower;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;48;Female;Diplom;germany;97;http://dbpedia.org/resource/Brandenburg_Gate
+saint peter's basilica;48;Female;Diplom;germany;97;http://dbpedia.org/resource/St._Peter's_Basilica
+eiffel tower;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Eiffel_Tower
+colosseum;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Colosseum
+brandenburg gate;26;Male;Less than a high school degree;germany;98;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Brandenburg_Gate
+rakotz bridge;26;Female;High school degree or equivalent;germany;99;http://dbpedia.org/resource/Rákóczi_Bridge
+big ben;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Big_Ben
+loch ness;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Loch_Ness
+eiffel tower;45;Female;Bachelor's degree;usa;100;http://dbpedia.org/resource/Eiffel_Tower
+eiffel tower;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Eiffel_Tower
+manneken pis;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Manneken_Pis
+big ben;23;Female;Master's degree;england;101;http://dbpedia.org/resource/Big_Ben
+eiffel tower;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Eiffel_Tower
+tower bridge;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Tower_Bridge
+brandenburg gate;26;Female;Bachelor's degree;germany;102;http://dbpedia.org/resource/Brandenburg_Gate
+eiffel tower;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Eiffel_Tower
+brandenburg gate;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Brandenburg_Gate
+atomium;70;Female;Dipl.-Ing.;germany;103;http://dbpedia.org/resource/Atomium
+glendalough;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Glendalough
+bray;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Bray_Wanderers_F.C.
+kilkenny;33;Female;Master's degree;iran;104;http://dbpedia.org/resource/Kilkenny
+big ben;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Big_Ben
+eiffel tower;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Eiffel_Tower
+colosseum;59;Male;Doctorate (e.g. PhD);germany;105;http://dbpedia.org/resource/Colosseum
+sagrada familia;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Sagrada_Família
+bradenburg gate;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Brandenburg_Gate
+knossos;47;Female;Doctorate (e.g. PhD);germany;106;http://dbpedia.org/resource/Knossos
+cologne cathedral;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Cologne_Cathedral
+tower bridge;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Tower_Bridge
+palace of versailles;50;Female;Doctorate (e.g. PhD);germany;107;http://dbpedia.org/resource/Palace_of_Versailles
+louvre;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Louvre
+alhambra;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Alhambra
+prague old town;45;Female;Doctorate (e.g. PhD);germany;108;http://dbpedia.org/resource/Old_Town_(Prague)

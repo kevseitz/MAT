@@ -1,0 +1,277 @@
+﻿nineties_movies;p_age;p_gender;p_education;p_country;p_id;uri
+the matrix;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/The_Matrix
+groundhog day;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Groundhog_Day
+goodfellas;26;Male;Bachelor's degree;Germany;0;http://dbpedia.org/resource/Goodfellas
+batman;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Batman
+matrix;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/The_Matrix
+eyes wide shut;44;Male;Doctorate (e.g. PhD);Germany;1;http://dbpedia.org/resource/Eyes_Wide_Shut
+total recall;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Total_Recall
+lethal weapon;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Lethal_Weapon
+predator;46;Male;Bachelor's degree;France;2;http://dbpedia.org/resource/Predator_(film)
+léon: the professional;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/Léon:_The_Professional
+the matrix;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/The_Matrix
+departed;28;Male;Master's degree;Germany;3;http://dbpedia.org/resource/The_Departed
+home alone;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Home_Alone
+matrix;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/The_Matrix
+titanic;34;Female;Master's degree;Switzerland;4;http://dbpedia.org/resource/Titanic_(1997_film)
+matrix;27;Male;Bachelor's degree;Germany;5;http://dbpedia.org/resource/The_Matrix
+oceans 11;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Ocean's_11
+star wars;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+harry potter;27;Male;Master's degree;Germany;6;http://dbpedia.org/resource/Harry_Potter
+pretty woman;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Pretty_Woman
+der mit dem wolf tanzt;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/Dances_with_Wolves
+das schweigen der lämmer;27;Male;Master's degree;Germany;7;http://dbpedia.org/resource/The_Silence_of_the_Lambs_(film)
+american pie 1;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/American_Pie_(film)
+american pie 2;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/American_Pie_2
+american pie 3;28;Male;High school degree or equivalent;Germany;8;http://dbpedia.org/resource/American_Wedding
+matrix;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/The_Matrix
+pulp fiction;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/Pulp_Fiction
+shawshank redemption;29;Male;Master's degree;Germany;9;http://dbpedia.org/resource/The_Shawshank_Redemption
+batman returns;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/Batman_Returns
+the rainmaker;26;Male;Master's degree;Germany;10;http://dbpedia.org/resource/The_Rainmaker_(1997_film)
+jurrasic park;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Jurassic_Park_(film)
+forrest gump;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Forrest_Gump
+gina wild 3;37;Male;Master's degree;Germany;11;http://dbpedia.org/resource/Papua_New_Guinea
+nottinghill;24;Male;Master's degree;Germany;12;http://dbpedia.org/resource/Notting_Hill_(film)
+night before christmas;26;Female;Master's degree;Germany;13;http://dbpedia.org/resource/The_Nightmare_Before_Christmas
+home alone;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Home_Alone
+dirty dancing;26;Female;Master's degree;Germany;14;http://dbpedia.org/resource/Dirty_Dancing
+clueless;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/Clueless
+american pie;28;Female;Doctorate (e.g. PhD);Germany;15;http://dbpedia.org/resource/American_Pie_(film)
+nan;25;Male;NaN;Germany;16;NaN
+the lion king;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/The_Lion_King
+the matrix;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/The_Matrix
+titanic;31;Female;Master's degree;Germany;17;http://dbpedia.org/resource/Titanic_(1997_film)
+hone alone;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Home_Alone
+matrix;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/The_Matrix
+titanic;36;Male;Master's degree;Germany;18;http://dbpedia.org/resource/Titanic_(1997_film)
+back to the future;27;Male;Master's degree;Germany;19;http://dbpedia.org/resource/Back_to_the_Future
+terminator;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Terminator_2:_Judgment_Day
+jurassic park;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Jurassic_Park_(film)
+water world;33;Male;Doctorate (e.g. PhD);Germany;20;http://dbpedia.org/resource/Waterworld
+the matrix;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/The_Matrix
+die hard;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/Die_Hard_with_a_Vengeance
+the fifth element;26;Male;Bachelor's degree;USA;21;http://dbpedia.org/resource/The_Fifth_Element
+being john malkovich;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/Being_John_Malkovich
+the matrix;44;Female;Doctorate (e.g. PhD);Sweden;22;http://dbpedia.org/resource/The_Matrix
+american history x;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/American_History_X
+schindlers liste;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/Schindler's_List
+matrix;26;Male;Bachelor's degree;Germany;23;http://dbpedia.org/resource/The_Matrix
+nan;27;Male;Bachelor's degree;NaN;24;NaN
+l.a. confidental;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/L.A._Confidential
+heat;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/Heat_(1995_film)
+the green mile;23;Male;Bachelor's degree;Germany;25;http://dbpedia.org/resource/The_Green_Mile_(film)
+nan;22;Male;Bachelor's degree;Germany;26;NaN
+fight club;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Fight_Club
+titanic;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Titanic_(1997_film)
+man in black;25;Male;Bachelor's degree;Germany;27;http://dbpedia.org/resource/Men_in_Black_(1997_film)
+james bond;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/James_Bond
+star wars;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+lord of the rings;27;Male;Master's degree;Germany;28;http://dbpedia.org/resource/The_Lord_of_the_Rings
+lion king;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/The_Lion_King
+dumb & dumber;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/Dumb_and_Dumber
+youve got mail;30;Male;Bachelor's degree;USA;29;http://dbpedia.org/resource/You've_Got_Mail
+rocky;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Rock_music
+stirb langsam 1;28;Male;Master's degree;Germany;30;NaN
+titanic;28;Male;Master's degree;Germany;30;http://dbpedia.org/resource/Titanic_(1997_film)
+the age of innocence;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/The_Age_of_Innocence_(1993_film)
+12 monkeys;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/12_Monkeys
+fear and loathing in las vegas;38;Female;Doctorate (e.g. PhD);Greece;31;http://dbpedia.org/resource/Fear_and_Loathing_in_Las_Vegas
+scary movie;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Scary_Movie_(film_series)
+water world;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Waterworld
+braveheart;28;Male;Master's degree;Germany;32;http://dbpedia.org/resource/Braveheart
+blade;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Blade_(film)
+tomorrow never dies;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Tomorrow_Never_Dies
+die hard;26;Male;Bachelor's degree;Germany;33;http://dbpedia.org/resource/Die_Hard_with_a_Vengeance
+nan;19;Male;High school degree or equivalent;Germany;34;NaN
+glenngarry glenn ross;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Glengarry_Glen_Ross
+gattaca;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/Gattaca
+matrix;25;Female;Bachelor's degree;Germany;35;http://dbpedia.org/resource/The_Matrix
+pulp fiction;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Pulp_Fiction
+seven;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Seven_(1995_film)
+good will hunting;24;Female;Master's degree;Germany;36;http://dbpedia.org/resource/Good_Will_Hunting
+pulp fiction;25;Male;Bachelor's degree;Germany;37;http://dbpedia.org/resource/Pulp_Fiction
+night in warth;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Monsters_in_Dungeons_&_Dragons
+the sixth sense;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Sixth_sense
+pulp fiction;64;Male;Doctorate (e.g. PhD);Austria;38;http://dbpedia.org/resource/Pulp_Fiction
+pulp fiction;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Pulp_Fiction
+goodfellas;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/Goodfellas
+the silence of the lambs;24;Male;Bachelor's degree;Germany;39;http://dbpedia.org/resource/The_Silence_of_the_Lambs
+kevin allein zu hause;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Home_Alone
+pulp fiction;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/Pulp_Fiction
+american pie;31;Male;Bachelor's degree;Germany;40;http://dbpedia.org/resource/American_Pie_(film)
+jurassic park;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Jurassic_Park_(film)
+scream;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/The_Scream_(film)
+pretty woman;25;Female;Bachelor's degree;Germany;41;http://dbpedia.org/resource/Pretty_Woman
+basic instinct;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Basic_Instinct
+casino;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/Casino
+la confidential;28;Female;Bachelor's degree;Germany;42;http://dbpedia.org/resource/L.A._Confidential
+forrest gump;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Forrest_Gump
+good will hunting;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Good_Will_Hunting
+independence day;37;Female;Master's degree;Germany;43;http://dbpedia.org/resource/Ecuador
+pretty woman;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Pretty_Woman
+dirty dancing;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Dirty_Dancing
+men in black;50;Female;High school degree or equivalent;Germany;44;http://dbpedia.org/resource/Men_in_Black_(1997_film)
+titanic;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Titanic_(1997_film)
+the mask;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/The_Mask_(1994_film)
+flubber;28;Female;High school degree or equivalent;Germany;45;http://dbpedia.org/resource/Flubber
+harry potter;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Harry_Potter
+matrix;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/The_Matrix
+terminator;31;Male;Bachelor's degree;Germany;46;http://dbpedia.org/resource/Terminator_2:_Judgment_Day
+pretty women;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Pretty_Woman
+schindlers liste;21;Female;High school degree or equivalent;Germany;47;http://dbpedia.org/resource/Schindler's_List
+titanic;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Titanic_(1997_film)
+forest gump;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Forrest_Gump
+pretty women;23;Female;Bachelor's degree;Germany;48;http://dbpedia.org/resource/Pretty_Woman
+shawshank redemption;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/The_Shawshank_Redemption
+schindlers list;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Schindler's_List
+star wars;36;Male;Bachelor's degree;India;49;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+forrest gump;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Forrest_Gump
+pulp fiction;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Pulp_Fiction
+schindlers list;28;Female;Master's degree;Romania;50;http://dbpedia.org/resource/Schindler's_List
+pretty woman;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Pretty_Woman
+jurassic park;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/Jurassic_Park_(film)
+the silence of the lambs;19;Female;High school degree or equivalent;Germany;51;http://dbpedia.org/resource/The_Silence_of_the_Lambs
+pride and prejudice;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Pride_and_Prejudice
+pulp friction;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Pulp_Fiction
+back to the future;19;Female;High school degree or equivalent;Germany;52;http://dbpedia.org/resource/Back_to_the_Future
+nan;25;Male;Bachelor's degree;Germany;53;NaN
+clueless;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Clueless
+mulan;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Mulan_(1998_film)
+hook;34;Female;Master's degree;France;54;http://dbpedia.org/resource/Hook_(film)
+nan;20;Female;High school degree or equivalent;Germany;55;NaN
+star wars;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+pulp fiction;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Pulp_Fiction
+goodwill hunting;26;Female;Master's degree;France;56;http://dbpedia.org/resource/Good_Will_Hunting
+con air;29;Prefer not to say;Master's degree;Germany;57;http://dbpedia.org/resource/Con_Air
+stirb langsam;29;Prefer not to say;Master's degree;Germany;57;NaN
+speed;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/Speed_(1994_film)
+matrix;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/The_Matrix
+silence of the lambs;31;Male;Master's degree;Germany;58;http://dbpedia.org/resource/The_Silence_of_the_Lambs
+dirty dancing;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Dirty_Dancing
+terminator;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Terminator_2:_Judgment_Day
+star wars;23;Male;High school degree or equivalent;Germany;59;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+schindler‘s list;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Schindler's_List
+golden eye;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/GoldenEye
+tomorrow never dies;21;Female;High school degree or equivalent;Germany;60;http://dbpedia.org/resource/Tomorrow_Never_Dies
+green mile;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/The_Green_Mile_(film)
+se7en;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Seven_(1995_film)
+dances with wolves;54;Male;High school degree or equivalent;Germany;61;http://dbpedia.org/resource/Dances_with_Wolves
+titanic;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Titanic_(1997_film)
+lion king;30;Female;Master's degree;France;62;http://dbpedia.org/resource/The_Lion_King
+star wars episode 1;30;Female;Master's degree;France;62;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+pulp fiction;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Pulp_Fiction
+twin peaks;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Twin_Peaks:_Fire_Walk_with_Me
+memento;24;Male;Bachelor's degree;Germany;63;http://dbpedia.org/resource/Memento
+nan;17;Male;Less than a high school degree;Germany;64;NaN
+rambo;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/Rambo_(franchise)
+saw;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/List_of_Saw_characters
+texas chain saw massager;25;Female;High school degree or equivalent;Germany;65;http://dbpedia.org/resource/The_Texas_Chain_Saw_Massacre
+bad boys;16;Male;Less than a high school degree;Germany;66;http://dbpedia.org/resource/Bad_Boys_(1995_film)
+nan;21;Male;High school degree or equivalent;Germany;67;NaN
+et;0;Prefer not to say;NaN;NaN;68;NaN
+pretty woman;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/Pretty_Woman
+bodyguard;0;Prefer not to say;NaN;NaN;68;http://dbpedia.org/resource/The_Bodyguard_(1992_film)
+pretty woman;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Pretty_Woman
+nothing hill;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Notting_Hill
+les visiteurs;24;Female;Master's degree;France;69;http://dbpedia.org/resource/Les_Visiteurs
+fight club;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Fight_Club
+pulp fiction;26;Female;Master's degree;France;70;http://dbpedia.org/resource/Pulp_Fiction
+the big lebowski;26;Female;Master's degree;France;70;http://dbpedia.org/resource/The_Big_Lebowski
+nan;34;Female;Master's degree;Germany;71;NaN
+titanic;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Titanic_(1997_film)
+die hard;54;Male;Less than a high school degree;Germany;72;http://dbpedia.org/resource/Die_Hard_with_a_Vengeance
+titanic;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Titanic_(1997_film)
+pulp fiction;23;Male;Bachelor's degree;Germany;73;http://dbpedia.org/resource/Pulp_Fiction
+flubber;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Flubber
+space jam;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Space_Jam
+back to the future;27;Male;Master's degree;Germany;74;http://dbpedia.org/resource/Back_to_the_Future
+terminator 3;25;Male;Bachelor's degree;Germany;75;http://dbpedia.org/resource/Terminator_3:_Rise_of_the_Machines
+nan;27;Female;Master's degree;Germany;76;NaN
+se7en;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Seven_(1995_film)
+twister;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/Payne_Knight_Twister
+the mummy;51;Male;High school degree or equivalent;Germany;77;http://dbpedia.org/resource/The_Mummy_(1999_film)
+fast and the furious;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/Fast_&_Furious
+matrix;26;Male;High school degree or equivalent;Germany;78;http://dbpedia.org/resource/The_Matrix
+fight club;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Fight_Club
+pretty woman;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/Pretty_Woman
+matrix;27;Male;Bachelor's degree;Germany;79;http://dbpedia.org/resource/The_Matrix
+nan;25;Male;Master's degree;Germany;80;NaN
+pulp fiction;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Pulp_Fiction
+home alone;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Home_Alone
+seven;25;Male;Bachelor's degree;Germany;81;http://dbpedia.org/resource/Seven_(1995_film)
+star wars;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+titanic;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/Titanic_(1997_film)
+matrix;21;Male;High school degree or equivalent;Germany;82;http://dbpedia.org/resource/The_Matrix
+jurrasic park;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Jurassic_Park_(film)
+back to the future;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Back_to_the_Future
+titanic;23;Female;Bachelor's degree;Germany;83;http://dbpedia.org/resource/Titanic_(1997_film)
+batman;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Batman
+pretty woman;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Pretty_Woman
+free willy;28;Female;Master's degree;Germany;84;http://dbpedia.org/resource/Free_Willy
+nan;25;Female;Master's degree;Germany;85;NaN
+matrix;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/The_Matrix
+forrest gump;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Forrest_Gump
+home alone;25;Female;Bachelor's degree;Russia;86;http://dbpedia.org/resource/Home_Alone
+pretty woman;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Pretty_Woman
+ghost;24;Female;High school degree or equivalent;Germany;87;http://dbpedia.org/resource/Ghost_(1990_film)
+es;24;Female;High school degree or equivalent;Germany;87;NaN
+home alone;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Home_Alone
+star wars;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+harry potter;26;Male;Bachelor's degree;Germany;88;http://dbpedia.org/resource/Harry_Potter
+batman;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Batman
+spiderman;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/The_Spectacular_Spider-Man
+titanic;27;Female;Master's degree;Germany;89;http://dbpedia.org/resource/Titanic_(1997_film)
+spiderman;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/The_Spectacular_Spider-Man
+titanic;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/Titanic_(1997_film)
+house of wax;25;Male;Bachelor's degree;Germany;90;http://dbpedia.org/resource/House_of_Wax
+titanic;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Titanic_(1997_film)
+forrest gump;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Forrest_Gump
+pulp fiction;25;Male;High school degree or equivalent;Germany;91;http://dbpedia.org/resource/Pulp_Fiction
+pulp fiction;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Pulp_Fiction
+pretty woman;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/Pretty_Woman
+the green mile;28;Male;High school degree or equivalent;Germany;92;http://dbpedia.org/resource/The_Green_Mile_(film)
+pretty woman;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Pretty_Woman
+toy story;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/Toy_Story
+matrix;47;Female;Bachelor's degree;England;93;http://dbpedia.org/resource/The_Matrix
+matrix;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/The_Matrix
+men in black;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/Men_in_Black_(1997_film)
+the usual suspects;38;Male;Bachelor's degree;Germany;94;http://dbpedia.org/resource/The_Usual_Suspects
+mission impossible;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Mission:_Impossible_–_Ghost_Protocol
+harry potter;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/Harry_Potter
+the lord of the rings;40;Female;Bachelor's degree;China;95;http://dbpedia.org/resource/The_Lord_of_the_Rings
+matrix;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/The_Matrix
+star wars;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+lion king;28;Female;High school degree or equivalent;Pakistan;96;http://dbpedia.org/resource/The_Lion_King
+star wars;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+notting hill;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/Notting_Hill
+the silence of the lambs;48;Female;Master's degree;Germany;97;http://dbpedia.org/resource/The_Silence_of_the_Lambs
+lion king;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/The_Lion_King
+american pie;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/American_Pie_(film)
+kevin   home alone;26;Male;Less than a high school degree;Germany;98;http://dbpedia.org/resource/Home_Alone
+prinzessin mononoke;26;Female;High school degree or equivalent;Germany;99;NaN
+pulp fiction;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Pulp_Fiction
+seven;26;Female;High school degree or equivalent;Germany;99;http://dbpedia.org/resource/Seven_(1995_film)
+clueless;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Clueless
+the wedding singer;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/The_Wedding_Singer
+misery;45;Female;Bachelor's degree;USA;100;http://dbpedia.org/resource/Misery_Signals
+10 things i hate about you;23;Female;Master's degree;England;101;http://dbpedia.org/resource/10_Things_I_Hate_About_You
+my girl;23;Female;Master's degree;England;101;http://dbpedia.org/resource/My_Girl_(film)
+clueless;26;Female;Bachelor's degree;Germany;102;http://dbpedia.org/resource/Clueless
+chocolat;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Chocolat_(group)
+cinema paradiso;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/Cinema_Paradiso
+the silence of the lambs;70;Female;Master's degree;Germany;103;http://dbpedia.org/resource/The_Silence_of_the_Lambs
+ghost dog: the way of the samurai;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Ghost_Dog:_The_Way_of_the_Samurai
+mrs. doubtfire;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Mrs._Doubtfire
+eyes wide shut;33;Female;Master's degree;Iran;104;http://dbpedia.org/resource/Eyes_Wide_Shut
+nan;59;Male;Doctorate (e.g. PhD);Germany;105;NaN
+jurassic park;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Jurassic_Park_(film)
+pulp fiction;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Pulp_Fiction
+dancer in the dark;47;Female;Doctorate (e.g. PhD);Germany;106;http://dbpedia.org/resource/Electronic_music
+four weddings and a funeral;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Four_Weddings_and_a_Funeral
+gegen die wand;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Head-On_(film)
+clerks;50;Female;Doctorate (e.g. PhD);Germany;107;http://dbpedia.org/resource/Clerks
+;50;Female;Doctorate (e.g. PhD);Germany;107;NaN
+pulp fiction;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Pulp_Fiction
+james bond   golden eye;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/GoldenEye
+finding nemo;45;Female;Doctorate (e.g. PhD);Germany;108;http://dbpedia.org/resource/Finding_Nemo
