@@ -13,7 +13,7 @@
 The open knowledge graph [DBpedia](https://www.dbpedia.org) is one of the central data hubs in the [Linked Open Data Cloud](https://lod-cloud.net/dataset/dbpedia). It is a large-scale knowledge graph derived from the [Wikipedia encyclopedia](https://www.wikipedia.org) and sourced as a community project. 
 
 The experiments carried out in this work are spread over different Jupyter notebooks. They are listed now and discussed in the next steps:
-- [Questionnaire_preprocessing](https://github.com/kevseitz/MAT#introduction)
+- [Questionnaire_preprocessing](https://github.com/kevseitz/MAT#questionnaire_preprocessing)
 - [Questionnaire_evaluation](https://github.com/kevseitz/MAT#questionnaire_evaluation)
 - [DBpedia_centrality_computation](https://github.com/kevseitz/MAT#dbpedia_centrality_computation)
 - [GCM_analysis](https://github.com/kevseitz/MAT#gcm_analysis)
